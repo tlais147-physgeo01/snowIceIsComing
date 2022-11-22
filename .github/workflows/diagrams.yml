@@ -32,6 +32,8 @@ jobs:
 #          ref: main
       - name: cd /cre/python/
         run: (cd /cre/python/)
+      - name: Install nltk
+        run: (pip3 install nltk scikit-learn)
       - name: Run diagrams
         run: (python3 diagrams.py)
       - name: Submit changes       

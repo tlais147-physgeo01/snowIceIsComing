@@ -14,7 +14,8 @@ import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 import matplotlib.gridspec as gridspec
-from mpl_toolkits.mplot3d import Axes3D
+#from mpl_toolkits.mplot3d import Axes3D
+from mpl_toolkits.mplot3d import axes3d, Axes3D
 import matplotlib.cm as cm
 
 from nltk.corpus import stopwords
@@ -473,8 +474,10 @@ for idx, column in germanTopicsDate.iterrows():
         ca.append(column2['topicColor'])
         p += 1
 fig = plt.figure(figsize=(30, 20))
-ax = fig.gca(projection='3d')
-fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
+## ax = Axes3D(fig)
+## ax = fig.gca(projection='3d')
+ax = fig.add_subplot(projection='3d')
+#fig.subplots_adjust(left=0, right=1, bottom=0, top=1.5)
 ticksx = germanTopicsDate.index.values.tolist()
 plt.xticks(ticksx, germanTopicsDate['Unnamed: 0'],rotation=63, fontsize=18)
 ticksy = np.arange(1, len(topicsColorsDF)+1, 1)
