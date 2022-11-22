@@ -84,5 +84,17 @@ Attention: You can adapt the keywords later, but for now you should not remove a
 
 ### 7. Remove existing news_20yy_mm.csv files
 
+Inside your repository, goto code, then inside csv folder, select news_2022_mm.csv file (one after the other) and delete it.
+After each deletion,a commit must be done. 
+
+![goto csv](images/gh_csv_folder.png)
+
+![select csv](images/gh_select_news_csv.png)
+
+![delete csv](images/gh_delete_news_csv.png)
+
+![submit csv](images/gh_submit_delete.png)
+
+
 ### 8.) Add the newsapi API-key to your organization
 
