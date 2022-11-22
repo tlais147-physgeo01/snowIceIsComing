@@ -21,10 +21,10 @@ import datetime
 from dateutil import parser
 import re
 
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 
-from deep_translator import GoogleTranslator
-from deep_translator import single_detection
+#from deep_translator import GoogleTranslator
+#from deep_translator import single_detection
 
 DATA_PATH = Path.cwd()
 
