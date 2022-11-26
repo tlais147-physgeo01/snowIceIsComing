@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#9e3215,#802d16,3,0.593093092181818
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.5638416950198863
-'Winter',de,Winter,#4287f5,#315fa8,5,0.4949002504848863
+'Winter',de,Winter,#4287f5,#315fa8,1,0.49490025048488623
 'Frühling',de,Frühling,#679e2c,#679e2c,1,0.4794875
 'Sommer',de,Sommer,#a89216,#a89216,1,0.4786575
 'Dürre',de,Sommer,#a89216,#bfba22,1,0.4703845937499998
