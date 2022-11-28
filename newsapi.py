@@ -300,31 +300,51 @@ def extractData(article, language, keyWord):
             'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord}
     return data  
 
+def checkKeywordInQuote(keyword, quote, case=True):
+    keywords = keyword.strip("'").split(" ")
+    if(not case):
+        keywords = keyword.strip("'").lower().split(" ")
+        quote = quote.lower()
+    allFound = True
+    for keyw in keywords:
+        allFound = allFound and (keyw in quote)    
+    return allFound
+
 def checkArticlesForKeywords(articles, keywordsDF, seldomDF, language, keyWord):
     keywordsLangDF = keywordsDF[keywordsDF['language']==language]
     foundArticles = []
     for article in articles:
       data = extractData(article, language, keyWord)
       searchQuote = str(data['title']) + " " + str(data['description'])
+      fullQuote = str(data['content'])
       foundKeywords = []
       found = False
       for index2, column2 in keywordsLangDF.iterrows(): 
          keyword = column2['keyword']
-         allFound = True
-         keywords = keyword.strip("'").split(" ")
-         for keyw in keywords:
-            allFound = allFound and (keyw in searchQuote)
+         if(keyword.strip("'") in searchQuote):
+             foundKeywords.append(keyword) 
+             found = True
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=True)
+         if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+             
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=False)
          if(allFound):
              foundKeywords.append(keyword) 
              found = True
       # add seldom keywords twice if
-      for index2, column2 in seldomDF.iterrows(): 
+      keywordsSeldomLangDF = seldomDF[seldomDF['language']==language]
+      for index2, column2 in keywordsSeldomLangDF.iterrows(): 
          keyword = column2['keyword']
-         allFound = True
-         keywords = keyword.strip("'").split(" ")
-         for keyw in keywords:
-            allFound = allFound and (keyw in searchQuote)
+         allFound = checkKeywordInQuote(keyword, searchQuote, case=True) 
          if(allFound):
+             foundKeywords.append(keyword) 
+             found = True
+      if(not found):
+        for index2, column2 in keywordsLangDF.iterrows(): 
+           allFound = checkKeywordInQuote(keyword, fullQuote, case=True)
+           if(allFound):
              foundKeywords.append(keyword) 
              found = True
       if(found):
