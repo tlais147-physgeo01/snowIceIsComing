@@ -56,6 +56,7 @@ def getNewsDF():
 
 keywordsColorsDF = pd.read_csv(DATA_PATH / 'keywords.csv', delimiter=',')
 topicsColorsDF = keywordsColorsDF.drop_duplicates(subset=['topic'])
+print(topicsColorsDF)
 
 newsDf = getNewsDF()
 newsDf['title'] = newsDf['title'].fillna('')
@@ -81,7 +82,8 @@ plot = topicsDF.plot.pie(y='index', ax=axTopics, colors=topicsDF['topicColor'], 
 
 # Keywords
 keywordsDF = newsDf.groupby('keyword').count()
-keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='left', left_on=['keyword'], right_on=['keyword'])
+keywordsDF = keywordsDF.dropna()
+keywordsDF = pd.merge(keywordsDF, keywordsColorsDF, how='inner', left_on=['keyword'], right_on=['keyword'])
 keywordsDF = keywordsDF.sort_values('index', ascending=False)
 axKeywords = plt.subplot(gs[0,1])
 axKeywords.set_title("Keywords", fontsize=24)
@@ -125,14 +127,15 @@ if(not bayesDF2.empty):
   topic_idx = -1
   ##for topic in reversed(colorsTopics.keys()):
 
-  for index2, column2 in topicsColorsDF.iterrows():
+  for index2, column2 in topicsColorsDF.head(n_components).iterrows():
     topic = column2['topic']
     topic_idx += 1
     topicWords = {}  
     topicColor = column2['topicColor']
     topicColors = []
-    bayesDF2 = bayesDF2.sort_values(by=[topic], ascending=False)
-    for index, column in bayesDF2.iterrows():    
+    if(topic in bayesDF2.columns):
+      bayesDF2 = bayesDF2.sort_values(by=[topic], ascending=False)
+      for index, column in bayesDF2.iterrows():    
         if(len(topicWords) < n_top_words):
             if(index and (type(index) == str) and (column[topic]<100)):    
               #don't use 2grams  
@@ -181,7 +184,8 @@ def extractColors(words):
             bayes = bayesDict[word]
             #for topic in colorsTopics:  
             for index2, column2 in topicsColorsDF.iterrows():
-                topic = column2['topic']
+              topic = column2['topic']
+              if(topic in bayes):
                 if(bayes[topic] > wordValue):
                     wordValue = bayes[topic]
                     wordColor = column2['topicColor']
