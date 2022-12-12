@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#4287f5,#315fa8,3,0.5208946252874033
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.4327958310015424
-'Sommer',de,Sommer,#a89216,#a89216,3,0.3946774377154629
+'Sommer',de,Sommer,#a89216,#a89216,3,0.37689915342177976
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.3433683475379788
 'Gewitter',de,Sommer,#a89216,#c4b03b,1,0.342424254725124
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.328141044223085
