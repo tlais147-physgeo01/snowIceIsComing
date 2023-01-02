@@ -1,5 +1,5 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Joe Biden,Joe Biden,PER,0.0825,0.025,de,20
+Joe Biden,Joe Biden,PER,0.07500000000000001,0.022727272727272728,de,22
 Roger Lewentz,Roger Lewentz,PER,0.08157894736842106,0.0,de,19
 Malu Dreyer,Malu Dreyer,PER,0.04375,0.0625,de,16
 Olaf Scholz,Olaf Scholz,PER,0.325,0.0,de,14
@@ -7,333 +7,389 @@ Wladimir Putin,Wladimir Putin,PER,0.02307692307692308,0.07692307692307693,de,13
 Axel Vogel,Axel Vogel,PER,-0.38461538461538464,0.0,de,13
 Thomas Reis,Thomas Reis,PER,0.14444444444444446,0.3333333333333333,de,9
 Ann-Kathrin Götze,Ann-Kathrin Götze,PER,0.0,0.0,de,8
+Yann Sommer,Yann Sommer,PER,0.38571428571428573,0.0,de,7
 Frank-Walter Steinmeier,Frank-Walter Steinmeier,PER,-0.2857142857142857,0.2857142857142857,de,7
 Gesundheitsminister Lauterbach,Gesundheitsminister Lauterbach,PER,0.2857142857142857,0.0,de,7
-Xi Jinping,Xi Jinping,PER,-0.11666666666666665,0.0,de,6
-Annalena Baerbock,Annalena Baerbock,PER,-0.2833333333333333,0.0,de,6
-Yann Sommer,Yann Sommer,PER,0.3333333333333333,0.0,de,6
-Robert Habeck,Robert Habeck,PER,0.11666666666666665,0.0,de,6
 Elon Musk,Elon Musk,PER,0.05000000000000001,0.0,de,6
+Hal Faber,Hal Faber,PER,0.25,0.0,de,6
 Jan Böhmermann,Jan Böhmermann,PER,-0.16666666666666666,0.0,de,6
-Karl Geiger,Karl Geiger,PER,0.3333333333333333,0.0,de,6
+Sarah Connor,Sarah Connor,PER,-0.03333333333333336,0.0,de,6
+Xi Jinping,Xi Jinping,PER,-0.11666666666666665,0.0,de,6
 Karl Lauterbach,Karl Lauterbach,PER,0.2833333333333333,0.0,de,6
 Marco Reus,Marco Reus,PER,0.0,0.0,de,6
-Hal Faber,Hal Faber,PER,0.25,0.0,de,6
-Luca Waldschmidt,Luca Waldschmidt,PER,-0.13999999999999999,0.0,de,5
+Annalena Baerbock,Annalena Baerbock,PER,-0.2833333333333333,0.0,de,6
+Karl Geiger,Karl Geiger,PER,0.3333333333333333,0.0,de,6
+Robert Habeck,Robert Habeck,PER,0.11666666666666665,0.0,de,6
 Max Verstappen,Max Verstappen,PER,0.0,0.0,de,5
-Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,-0.13999999999999999,0.0,de,5
+Donald Trump,Donald Trump,PER,0.5,0.1,de,5
+Ron DeSantis,Ron DeSantis,PER,0.0,0.2,de,5
 Christian Lindner,Christian Lindner,PER,0.6,0.2,de,5
 Marcus Thuram,Marcus Thuram,PER,0.54,0.0,de,5
-Donald Trump,Donald Trump,PER,0.5,0.1,de,5
+Stefan Kraft,Stefan Kraft,PER,0.0,0.0,de,5
+Luca Waldschmidt,Luca Waldschmidt,PER,-0.13999999999999999,0.0,de,5
 Klaus Müller,Klaus Müller,PER,-0.35,0.0,de,5
-Ron DeSantis,Ron DeSantis,PER,0.0,0.2,de,5
-Eugen Block,Eugen Block,PER,0.0,0.0,de,4
-Grad Celsius,Grad Celsius,PER,-0.0875,0.0,de,4
+Wolodymyr Selenskyj,Wolodymyr Selenskyj,PER,-0.13999999999999999,0.0,de,5
+Felix Agu,Felix Agu,PER,-0.375,0.0,de,4
 Volker Wissing,Volker Wissing,PER,-0.575,0.0,de,4
-Andreas Wellinger,Andreas Wellinger,PER,-0.25,0.0,de,4
 Andreas Bovenschulte,Andreas Bovenschulte,PER,0.35,0.0,de,4
 Alexander Stöckl,Alexander Stöckl,PER,0.35,0.0,de,4
-Felix Agu,Felix Agu,PER,-0.375,0.0,de,4
+Grad Celsius,Grad Celsius,PER,-0.0875,0.0,de,4
 Elon Musks,Elon Musks,PER,0.0,0.0,de,4
+Eugen Block,Eugen Block,PER,0.0,0.0,de,4
 Tesla-Chef Elon Musk,Tesla-Chef Elon Musk,PER,0.0,0.0,de,4
-Thomas Silberberger,Thomas Silberberger,PER,0.0,0.0,de,3
-Barbara Schöneberger,Barbara Schöneberger,PER,0.0,0.0,de,3
-Axel Hellmann,Axel Hellmann,PER,0.0,0.0,de,3
-Paul Wesley,Paul Wesley,PER,0.0,0.0,de,3
-Peter Rohn,Peter Rohn,PER,0.0,0.0,de,3
-Bjarne Mädel,Bjarne Mädel,PER,0.2333333333333333,0.0,de,3
-Emmanuel Macron,Emmanuel Macron,PER,-0.3333333333333333,0.0,de,3
-Oliver Leki,Oliver Leki,PER,0.0,0.0,de,3
-Leslie Jordan,Leslie Jordan,PER,0.0,0.0,de,3
-Steffen Baumgart,Steffen Baumgart,PER,0.0,0.0,de,3
-Michael Ebling,Michael Ebling,PER,0.0,0.0,de,3
-Lina Johnsen,Lina Johnsen,PER,0.4666666666666666,0.0,de,3
-Cathy Hummels,Cathy Hummels,PER,-0.14666666666666667,0.13333333333333333,de,3
+Andreas Wellinger,Andreas Wellinger,PER,-0.25,0.0,de,4
 Christine Eixenberger,Christine Eixenberger,PER,0.6666666666666666,0.0,de,3
 Roger Schmidt,Roger Schmidt,PER,0.6666666666666666,0.0,de,3
-Alexander Dugin,Alexander Dugin,PER,-0.2333333333333333,0.0,de,3
-Alena Gerber,Alena Gerber,PER,0.0,0.0,de,3
-Taylor Swift,Taylor Swift,PER,0.0,0.0,de,3
-Johan Eliasch,Johan Eliasch,PER,-0.3333333333333333,0.0,de,3
-Stefan Kraft,Stefan Kraft,PER,0.0,0.0,de,3
-Lisa Wahlandt,Lisa Wahlandt,PER,0.0,0.0,de,3
-Liz Truss,Liz Truss,PER,0.2333333333333333,0.0,de,3
-Tanja Laub,Tanja Laub,PER,0.2333333333333333,0.0,de,3
-Wolf Schneider,Wolf Schneider,PER,-1.0,0.0,de,3
-Schnee-Skibrille Markt,Schnee-Skibrille Markt,PER,0.0,0.0,de,3
-Marco Ventre,Marco Ventre,PER,0.2333333333333333,0.0,de,3
-Boris Johnson,Boris Johnson,PER,0.0,0.0,de,3
-Franziska Giffey,Franziska Giffey,PER,0.6999999999999998,0.0,de,3
-Jack Wolfskin,Jack Wolfskin,PER,-0.2333333333333333,0.0,de,3
-Björn Alexander,Björn Alexander,PER,0.7999999999999999,0.0,de,3
-Arthur Melo,Arthur Melo,PER,0.0,0.0,de,3
-Timon Weiner,Timon Weiner,PER,0.0,0.0,de,3
 Jay Khan,Jay Khan,PER,0.5166666666666666,0.0,de,3
-Alfons Schuhbeck,Alfons Schuhbeck,PER,-0.3333333333333333,0.0,de,3
+Schnee-Skibrille Markt,Schnee-Skibrille Markt,PER,0.0,0.0,de,3
+Cathy Hummels,Cathy Hummels,PER,-0.14666666666666667,0.13333333333333333,de,3
+Oliver Leki,Oliver Leki,PER,0.0,0.0,de,3
+Lisa Wahlandt,Lisa Wahlandt,PER,0.0,0.0,de,3
 Nancy Faeser,Nancy Faeser,PER,0.0,0.0,de,3
-Jeremy Hunt,Jeremy Hunt,PER,0.0,0.0,de,3
-Tang Xianzu,Tang Xianzu,PER,0.0,0.0,de,3
+Tanja Laub,Tanja Laub,PER,0.2333333333333333,0.0,de,3
+Bjarne Mädel,Bjarne Mädel,PER,0.2333333333333333,0.0,de,3
+Liz Truss,Liz Truss,PER,0.2333333333333333,0.0,de,3
+Emmanuel Macron,Emmanuel Macron,PER,-0.3333333333333333,0.0,de,3
+Johan Eliasch,Johan Eliasch,PER,-0.3333333333333333,0.0,de,3
+Leslie Jordan,Leslie Jordan,PER,0.0,0.0,de,3
+Jan Hörl,Jan Hörl,PER,0.0,0.0,de,3
+Manuel Fettner,Manuel Fettner,PER,0.0,0.0,de,3
+Alfons Schuhbeck,Alfons Schuhbeck,PER,-0.3333333333333333,0.0,de,3
+Björn Alexander,Björn Alexander,PER,0.7999999999999999,0.0,de,3
+Alena Gerber,Alena Gerber,PER,0.0,0.0,de,3
+Axel Hellmann,Axel Hellmann,PER,0.0,0.0,de,3
 Margaret Atwood,Margaret Atwood,PER,0.0,0.0,de,3
-Harrison Ford,Harrison Ford,PER,0.0,0.0,de,2
-Bruce Springsteen,Bruce Springsteen,PER,0.175,0.75,de,2
-Rainer Maria Rilke,Rainer Maria Rilke,PER,0.75,0.25,de,2
-Jamal Musiala,Jamal Musiala,PER,0.0,0.0,de,2
-Sven Mislintat,Sven Mislintat,PER,0.0,0.0,de,2
-Alex Frei,Alex Frei,PER,0.7,0.0,de,2
-Franz Julen,Franz Julen,PER,-0.5,0.0,de,2
-Ömer Beyaz,Ömer Beyaz,PER,0.0,0.0,de,2
-Grabungsleiterin Ladstätter,Grabungsleiterin Ladstätter,PER,0.0,0.0,de,2
-Herbert Nauderer,Herbert Nauderer,PER,0.5,0.0,de,2
-Harry Styles,Harry Styles,PER,0.175,0.75,de,2
-Hannsjörg Voth,Hannsjörg Voth,PER,0.7,0.0,de,2
-Hubert von Goisern,Hubert von Goisern,PER,0.175,0.75,de,2
-Hermann Hesse,Hermann Hesse,PER,0.75,0.25,de,2
-Peter Molnar,Peter Molnar,PER,0.5,0.0,de,2
-Lior Tavoris,Lior Tavoris,PER,0.0,0.0,de,2
-Tobias Fahlberg,Tobias Fahlberg,PER,0.5,0.0,de,2
-Jan Wagner,Jan Wagner,PER,0.0,0.0,de,2
-Günter Staudter,Günter Staudter,PER,0.0,0.0,de,2
-Harald Nottmeyer,Harald Nottmeyer,PER,0.0,0.0,de,2
-Julian Khol,Julian Khol,PER,0.0,0.0,de,2
-Florian Graedler,Florian Graedler,PER,0.0,0.0,de,2
-Marie-Luise Wolff,Marie-Luise Wolff,PER,0.5,0.0,de,2
-Angela Merkel,Angela Merkel,PER,0.7,0.0,de,2
-Alexej Nawalny,Alexej Nawalny,PER,0.0,0.0,de,2
-Ex-Hurrikan Nicole,Ex-Hurrikan Nicole,PER,0.0,0.0,de,2
-Nazan Eckes,Nazan Eckes,PER,0.0,0.0,de,2
-Michael N,Michael N,PER,0.7,0.0,de,2
-Christopher Antwi-Adjei,Christopher Antwi-Adjei,PER,-0.7,0.0,de,2
-Anze Lanisek,Anze Lanisek,PER,0.0,0.0,de,2
-Piotr Zyla,Piotr Zyla,PER,0.0,0.0,de,2
-Sabrina Setlur,Sabrina Setlur,PER,0.16666666666666666,0.0,de,2
-Khaled Pirmus,Khaled Pirmus,PER,0.0,0.0,de,2
-Tomislav Stipic,Tomislav Stipic,PER,0.0,0.0,de,2
-Mateo Klimowicz,Mateo Klimowicz,PER,0.0,0.0,de,2
-Ralph Tiesler,Ralph Tiesler,PER,0.35,0.0,de,2
-Julia Scharf,Julia Scharf,PER,0.0,0.0,de,2
-Alphonso Davies,Alphonso Davies,PER,0.0,0.0,de,2
-Sven Brummerloh,Sven Brummerloh,PER,0.0,0.0,de,2
-Alaa Awad,Alaa Awad,PER,0.0,0.0,de,2
+Jack Wolfskin,Jack Wolfskin,PER,-0.2333333333333333,0.0,de,3
+Franziska Giffey,Franziska Giffey,PER,0.6999999999999998,0.0,de,3
+Jeremy Hunt,Jeremy Hunt,PER,0.0,0.0,de,3
+Michael Ebling,Michael Ebling,PER,0.0,0.0,de,3
+Arthur Melo,Arthur Melo,PER,0.0,0.0,de,3
+Taylor Swift,Taylor Swift,PER,0.0,0.0,de,3
+Thomas Silberberger,Thomas Silberberger,PER,0.0,0.0,de,3
+Alexander Dugin,Alexander Dugin,PER,-0.2333333333333333,0.0,de,3
+Timon Weiner,Timon Weiner,PER,0.0,0.0,de,3
+Michelle Hunziker,Michelle Hunziker,PER,0.0,0.0,de,3
+Paul Wesley,Paul Wesley,PER,0.0,0.0,de,3
+Lina Johnsen,Lina Johnsen,PER,0.4666666666666666,0.0,de,3
+Steffen Baumgart,Steffen Baumgart,PER,0.0,0.0,de,3
+Michael Rohde,Michael Rohde,PER,0.5666666666666667,0.0,de,3
+Boris Johnson,Boris Johnson,PER,0.0,0.0,de,3
+Marco Ventre,Marco Ventre,PER,0.2333333333333333,0.0,de,3
+Tang Xianzu,Tang Xianzu,PER,0.0,0.0,de,3
+Barbara Schöneberger,Barbara Schöneberger,PER,0.0,0.0,de,3
+Peter Rohn,Peter Rohn,PER,0.0,0.0,de,3
+Wolf Schneider,Wolf Schneider,PER,-1.0,0.0,de,3
 Niklas Kouparanis,Niklas Kouparanis,PER,-0.5,0.0,de,2
-Hany Mukhtar,Hany Mukhtar,PER,0.0,0.0,de,2
-Walter Hamada,Walter Hamada,PER,0.0,0.0,de,2
-Kanye West,Kanye West,PER,0.0,0.5,de,2
-Sebastian Stolze,Sebastian Stolze,PER,0.0,0.0,de,2
-Dennis Smarsch,Dennis Smarsch,PER,0.0,0.0,de,2
-Attila Hildmann,Attila Hildmann,PER,-0.35,0.0,de,2
-Martin Brudermüller,Martin Brudermüller,PER,0.0,0.0,de,2
-Rouven Schröder,Rouven Schröder,PER,0.0,0.0,de,2
-Tobias Pecher,Tobias Pecher,PER,0.0,0.0,de,2
-Schalkes Transferpläne,Schalkes Transferpläne,PER,0.0,1.0,de,2
-Bosch-Chef Hartung,Bosch-Chef Hartung,PER,0.8500000000000001,0.0,de,2
-Bernd Neuendorf,Bernd Neuendorf,PER,0.0,0.0,de,2
-Michael Thalheimer,Michael Thalheimer,PER,0.35,0.0,de,2
-Robert Koch-Institut,Robert Koch-Institut,PER,0.0,0.0,de,2
-Kristina Herbst,Kristina Herbst,PER,0.0,0.0,de,2
-Costa Rica,Costa Rica,PER,1.0,0.0,de,2
-Andreas Jung,Andreas Jung,PER,-1.0,0.0,de,2
-Roberto D,Roberto D,PER,0.0,0.0,de,2
-Gerrit Holtmann,Gerrit Holtmann,PER,0.0,0.0,de,2
-Aurelia de S,Aurelia de S,PER,0.0,0.0,de,2
-Mette Frederiksen,Mette Frederiksen,PER,-0.15000000000000002,0.0,de,2
-Jonathan Landgrebe,Jonathan Landgrebe,PER,0.5,0.0,de,2
-Sebastian Vettel,Sebastian Vettel,PER,0.0,0.0,de,2
-Loris Karius,Loris Karius,PER,0.35,0.0,de,2
-Vitali Klitschko,Vitali Klitschko,PER,0.0,0.0,de,2
-Sabine Rossbach,Sabine Rossbach,PER,0.0,0.0,de,2
-Toni Kroos,Toni Kroos,PER,1.0,0.0,de,2
-Irmi Salzer,Irmi Salzer,PER,0.0,0.0,de,2
-PSG-Profi Presnel Kimpembe,PSG-Profi Presnel Kimpembe,PER,0.0,0.0,de,2
-Thomas Gottschalk,Thomas Gottschalk,PER,0.0,0.5,de,2
-Liverpool-Trainer Jürgen Klopp,Liverpool-Trainer Jürgen Klopp,PER,0.0,0.0,de,2
-Johannes Frankenfeld,Johannes Frankenfeld,PER,0.0,0.0,de,2
-Filip Good,Filip Good,PER,0.0,0.0,de,2
-Anne Imhof,Anne Imhof,PER,0.0,0.0,de,2
-Dieter Reiter,Dieter Reiter,PER,0.0,0.0,de,2
-Markus Weinzierl,Markus Weinzierl,PER,0.0,0.0,de,2
-Christopher Spering,Christopher Spering,PER,0.35,0.0,de,2
-Michael Kramer“,Michael Kramer“,PER,-0.5,0.0,de,2
-Wolfgang Krause,Wolfgang Krause,PER,0.0,0.0,de,2
-Helma Dietz,Helma Dietz,PER,0.0,0.0,de,2
-Lukas Ruetz,Lukas Ruetz,PER,0.0,0.0,de,2
-Anna Veit,Anna Veit,PER,0.0,0.0,de,2
-Andrea Hermenau,Andrea Hermenau,PER,0.0,0.0,de,2
-Steffi Lemke,Steffi Lemke,PER,0.0,0.0,de,2
-Sandra Maischberger,Sandra Maischberger,PER,0.0,0.0,de,2
-Charles Aránguiz,Charles Aránguiz,PER,0.35,0.0,de,2
-Pia Lamberty,Pia Lamberty,PER,0.35,0.0,de,2
-Christian Keller,Christian Keller,PER,0.7,0.0,de,2
-Kerry Hoppe,Kerry Hoppe,PER,0.0,0.0,de,2
-Mats Hummels,Mats Hummels,PER,0.35,0.0,de,2
-Steffen Henssler,Steffen Henssler,PER,0.7,0.0,de,2
-Anthony Albanese,Anthony Albanese,PER,0.0,0.0,de,2
-Hans-Jochen Wagner),Hans-Jochen Wagner),PER,-1.0,0.0,de,2
-Donata Hopfen,Donata Hopfen,PER,0.0,0.0,de,2
-Friedemann Berg,Friedemann Berg,PER,-1.0,0.0,de,2
-Eva Löbau,Eva Löbau,PER,-1.0,0.0,de,2
-Ernst von Siemens Kunststiftung,Ernst von Siemens Kunststiftung,PER,0.0,0.0,de,2
-Zuzanna Skiba,Zuzanna Skiba,PER,0.0,0.0,de,2
-Hildegard Windholz,Hildegard Windholz,PER,-0.7,0.0,de,2
-Ylva Johansson,Ylva Johansson,PER,-0.5,0.5,de,2
-Fabian Kunze,Fabian Kunze,PER,0.0,0.0,de,2
-Dietmar Woidke,Dietmar Woidke,PER,0.0,0.0,de,2
-Doris Fenske,Doris Fenske,PER,0.0,0.0,de,2
-Nancy Pelosi,Nancy Pelosi,PER,0.0,0.0,de,2
-Jewgen Gamij,Jewgen Gamij,PER,0.0,0.0,de,2
-Adrien Rabiot vergangene,Adrien Rabiot vergangene,PER,0.0,0.0,de,2
-Izabel Goulart,Izabel Goulart,PER,0.0,0.0,de,2
-Kevin Trapp,Kevin Trapp,PER,0.0,0.0,de,2
-Jane Birkin,Jane Birkin,PER,1.0,0.0,de,2
-"Dalli Dalli"" aus","Dalli Dalli"" aus",PER,1.0,0.0,de,2
-Nora Tschirner,Nora Tschirner,PER,1.0,0.0,de,2
-Mikel Arteta,Mikel Arteta,PER,0.7,0.0,de,2
-Katy Perry,Katy Perry,PER,0.0,0.0,de,2
-Klaus Merker,Klaus Merker,PER,0.0,0.0,de,2
-Sam Bankman-Fried,Sam Bankman-Fried,PER,0.425,0.0,de,2
-Rabiye Kurnaz,Rabiye Kurnaz,PER,0.0,0.0,de,2
-António Guterres,António Guterres,PER,-0.5,0.0,de,2
-scho glei,scho glei,PER,0.0,0.0,de,2
-Frauke Thies,Frauke Thies,PER,0.7,0.0,de,2
-Andreas Dresens,Andreas Dresens,PER,0.0,0.0,de,2
-Claudia Sommer,Claudia Sommer,PER,0.0,0.5,de,2
-Fabienne Karmann,Fabienne Karmann,PER,1.0,0.0,de,2
-Franz Wittenbrink,Franz Wittenbrink,PER,1.0,0.0,de,2
-Vincent van Goghs,Vincent van Goghs,PER,0.0,0.0,de,2
-Andreas Nemetz,Andreas Nemetz,PER,0.175,0.25,de,2
-Warme Mittelmeerluft,Warme Mittelmeerluft,PER,0.0,0.0,de,2
-Valentino Müller,Valentino Müller,PER,0.0,0.0,de,2
-Agni Thalgott,Agni Thalgott,PER,0.0,0.0,de,2
-Marc Schneider,Marc Schneider,PER,0.0,0.0,de,2
-Sanna Marin,Sanna Marin,PER,0.0,0.0,de,2
-Dawid Kubacki,Dawid Kubacki,PER,0.0,0.0,de,2
 Rainer Pariasek,Rainer Pariasek,PER,-0.5,0.0,de,2
-Elisabeth Carr,Elisabeth Carr,PER,0.35,0.0,de,2
-Alpecin Baumshampoo,Alpecin Baumshampoo,PER,-0.5,0.0,de,2
-Jordan Bardella,Jordan Bardella,PER,0.0,0.0,de,2
-Taron Egerton,Taron Egerton,PER,0.0,0.0,de,2
-Landon Ferraro,Landon Ferraro,PER,0.0,0.0,de,2
-Gerd Holzheimer,Gerd Holzheimer,PER,0.35,0.0,de,2
-Katharina Althaus,Katharina Althaus,PER,0.0,0.0,de,2
-"Sprach-Kitas"" will","Sprach-Kitas"" will",PER,0.0,0.0,de,2
-Raynor Winn,Raynor Winn,PER,0.0,0.0,de,2
+Vitali Klitschko,Vitali Klitschko,PER,0.0,0.0,de,2
+Valentino Müller,Valentino Müller,PER,0.0,0.0,de,2
+Julia Scharf,Julia Scharf,PER,0.0,0.0,de,2
+Nancy Pelosi,Nancy Pelosi,PER,0.0,0.0,de,2
+Peter Molnar,Peter Molnar,PER,0.5,0.0,de,2
+Sabine Rossbach,Sabine Rossbach,PER,0.0,0.0,de,2
 Nik Prelec,Nik Prelec,PER,0.0,0.0,de,2
-Golden Rice,Golden Rice,PER,0.175,0.25,de,2
+Robert Koch-Institut,Robert Koch-Institut,PER,0.0,0.0,de,2
+Sven Brummerloh,Sven Brummerloh,PER,0.0,0.0,de,2
+Johannes Frankenfeld,Johannes Frankenfeld,PER,0.0,0.0,de,2
+Tobias Fahlberg,Tobias Fahlberg,PER,0.5,0.0,de,2
+Grabungsleiterin Ladstätter,Grabungsleiterin Ladstätter,PER,0.0,0.0,de,2
+Tomislav Stipic,Tomislav Stipic,PER,0.0,0.0,de,2
+Tobias Pecher,Tobias Pecher,PER,0.0,0.0,de,2
+Ralph Tiesler,Ralph Tiesler,PER,0.35,0.0,de,2
+Herbert Nauderer,Herbert Nauderer,PER,0.5,0.0,de,2
+Dennis Smarsch,Dennis Smarsch,PER,0.0,0.0,de,2
+Kanye West,Kanye West,PER,0.0,0.5,de,2
+Rouven Schröder,Rouven Schröder,PER,0.0,0.0,de,2
+Martin Brudermüller,Martin Brudermüller,PER,0.0,0.0,de,2
+Marie-Luise Wolff,Marie-Luise Wolff,PER,0.5,0.0,de,2
+Zuzanna Skiba,Zuzanna Skiba,PER,0.0,0.0,de,2
+Alaa Awad,Alaa Awad,PER,0.0,0.0,de,2
+Katy Perry,Katy Perry,PER,0.0,0.0,de,2
+Hubert von Goisern,Hubert von Goisern,PER,0.175,0.75,de,2
+Sam Bankman-Fried,Sam Bankman-Fried,PER,0.425,0.0,de,2
+Mats Hummels,Mats Hummels,PER,0.35,0.0,de,2
+Klaus Merker,Klaus Merker,PER,0.0,0.0,de,2
+Harry Styles,Harry Styles,PER,0.175,0.75,de,2
+Bruce Springsteen,Bruce Springsteen,PER,0.175,0.75,de,2
+Lior Tavoris,Lior Tavoris,PER,0.0,0.0,de,2
+Angela Merkel,Angela Merkel,PER,0.7,0.0,de,2
+Jonathan Landgrebe,Jonathan Landgrebe,PER,0.5,0.0,de,2
+Piotr Zyla,Piotr Zyla,PER,0.0,0.0,de,2
+Anze Lanisek,Anze Lanisek,PER,0.0,0.0,de,2
+Michael Thalheimer,Michael Thalheimer,PER,0.35,0.0,de,2
+Jewgen Gamij,Jewgen Gamij,PER,0.0,0.0,de,2
+Doris Fenske,Doris Fenske,PER,0.0,0.0,de,2
+Costa Rica,Costa Rica,PER,1.0,0.0,de,2
+Andreas Dresens,Andreas Dresens,PER,0.0,0.0,de,2
+Attila Hildmann,Attila Hildmann,PER,-0.35,0.0,de,2
+Rabiye Kurnaz,Rabiye Kurnaz,PER,0.0,0.0,de,2
+Franz Wittenbrink,Franz Wittenbrink,PER,1.0,0.0,de,2
+Khaled Pirmus,Khaled Pirmus,PER,0.0,0.0,de,2
+Toni Kroos,Toni Kroos,PER,1.0,0.0,de,2
+Thomas Gottschalk,Thomas Gottschalk,PER,0.0,0.5,de,2
+Hany Mukhtar,Hany Mukhtar,PER,0.0,0.0,de,2
+Liverpool-Trainer Jürgen Klopp,Liverpool-Trainer Jürgen Klopp,PER,0.0,0.0,de,2
+Alexej Nawalny,Alexej Nawalny,PER,0.0,0.0,de,2
+Jordan Bardella,Jordan Bardella,PER,0.0,0.0,de,2
+Sebastian Stolze,Sebastian Stolze,PER,0.0,0.0,de,2
+Franz Julen,Franz Julen,PER,-0.5,0.0,de,2
+Sabrina Setlur,Sabrina Setlur,PER,0.16666666666666666,0.0,de,2
+Andreas Nemetz,Andreas Nemetz,PER,0.175,0.25,de,2
+PSG-Profi Presnel Kimpembe,PSG-Profi Presnel Kimpembe,PER,0.0,0.0,de,2
+Mette Frederiksen,Mette Frederiksen,PER,-0.15000000000000002,0.0,de,2
+Kristina Herbst,Kristina Herbst,PER,0.0,0.0,de,2
+Aurelia de S,Aurelia de S,PER,0.0,0.0,de,2
+Roberto D,Roberto D,PER,0.0,0.0,de,2
+Andreas Jung,Andreas Jung,PER,-1.0,0.0,de,2
+Ex-Hurrikan Nicole,Ex-Hurrikan Nicole,PER,0.0,0.0,de,2
+Hannsjörg Voth,Hannsjörg Voth,PER,0.7,0.0,de,2
+Filip Good,Filip Good,PER,0.0,0.0,de,2
+Gerrit Holtmann,Gerrit Holtmann,PER,0.0,0.0,de,2
+Agni Thalgott,Agni Thalgott,PER,0.0,0.0,de,2
+Schalkes Transferpläne,Schalkes Transferpläne,PER,0.0,1.0,de,2
+Alphonso Davies,Alphonso Davies,PER,0.0,0.0,de,2
+Dawid Kubacki,Dawid Kubacki,PER,0.0,0.0,de,2
 Amira Pocher,Amira Pocher,PER,0.0,0.0,de,2
-Harald Krichel,Harald Krichel,PER,0.0,0.0,de,2
-Harry Kane,Harry Kane,PER,-1.0,0.0,de,2
-Oliver Krischer,Oliver Krischer,PER,0.0,0.0,de,2
-Daniel Überall,Daniel Überall,PER,0.0,0.0,de,2
-Sophia Thiel,Sophia Thiel,PER,0.27999999999999997,0.2,de,2
-Juergen Boos,Juergen Boos,PER,0.0,0.4,de,2
-Wahlsiegerin Meloni,Wahlsiegerin Meloni,PER,0.0,0.0,de,2
-Omid Nouripour,Omid Nouripour,PER,-1.0,0.0,de,2
-Ismail Jakobs,Ismail Jakobs,PER,0.0,0.0,de,2
+Walter Hamada,Walter Hamada,PER,0.0,0.0,de,2
+Sven Mislintat,Sven Mislintat,PER,0.0,0.0,de,2
+Florian Graedler,Florian Graedler,PER,0.0,0.0,de,2
+Alex Frei,Alex Frei,PER,0.7,0.0,de,2
+Christopher Antwi-Adjei,Christopher Antwi-Adjei,PER,-0.7,0.0,de,2
+Loris Karius,Loris Karius,PER,0.35,0.0,de,2
+Jan Wagner,Jan Wagner,PER,0.0,0.0,de,2
+Irmi Salzer,Irmi Salzer,PER,0.0,0.0,de,2
+Sebastian Vettel,Sebastian Vettel,PER,0.0,0.0,de,2
+Michael Kramer“,Michael Kramer“,PER,-0.5,0.0,de,2
+Jamal Musiala,Jamal Musiala,PER,0.0,0.0,de,2
+Kerry Hoppe,Kerry Hoppe,PER,0.0,0.0,de,2
+Hermann Hesse,Hermann Hesse,PER,0.75,0.25,de,2
+Taron Egerton,Taron Egerton,PER,0.0,0.0,de,2
+Ömer Beyaz,Ömer Beyaz,PER,0.0,0.0,de,2
+Rainer Maria Rilke,Rainer Maria Rilke,PER,0.75,0.25,de,2
+Mateo Klimowicz,Mateo Klimowicz,PER,0.0,0.0,de,2
+Hans-Jochen Wagner),Hans-Jochen Wagner),PER,-1.0,0.0,de,2
+Friedemann Berg,Friedemann Berg,PER,-1.0,0.0,de,2
+Bernd Neuendorf,Bernd Neuendorf,PER,0.0,0.0,de,2
+Eva Löbau,Eva Löbau,PER,-1.0,0.0,de,2
+Günter Staudter,Günter Staudter,PER,0.0,0.0,de,2
+Bosch-Chef Hartung,Bosch-Chef Hartung,PER,0.8500000000000001,0.0,de,2
+Harald Nottmeyer,Harald Nottmeyer,PER,0.0,0.0,de,2
+Sanna Marin,Sanna Marin,PER,0.0,0.0,de,2
+Pia Lamberty,Pia Lamberty,PER,0.35,0.0,de,2
+Anna Veit,Anna Veit,PER,0.0,0.0,de,2
+Donata Hopfen,Donata Hopfen,PER,0.0,0.0,de,2
+Bep plup,Bep plup,PER,0.0,0.0,de,2
+Horst Lichter,Horst Lichter,PER,0.0,0.0,de,2
+Klaas im Kräftemessen,Klaas im Kräftemessen,PER,0.0,0.0,de,2
+Marc Schneider,Marc Schneider,PER,0.0,0.0,de,2
+Wolfgang Krause,Wolfgang Krause,PER,0.0,0.0,de,2
 Marie-Agnes Strack-Zimmermann,Marie-Agnes Strack-Zimmermann,PER,0.0,0.0,de,2
-Yanar Dag,Yanar Dag,PER,-0.35,0.0,de,2
+Nell peatelle lek uelOekll,Nell peatelle lek uelOekll,PER,0.0,0.0,de,2
+Warme Mittelmeerluft,Warme Mittelmeerluft,PER,0.0,0.0,de,2
+Omid Nouripour,Omid Nouripour,PER,-1.0,0.0,de,2
+Markus Weinzierl,Markus Weinzierl,PER,0.0,0.0,de,2
+Oliver Krischer,Oliver Krischer,PER,0.0,0.0,de,2
 Dominic Raab,Dominic Raab,PER,0.0,0.0,de,2
 Ghislaine Maxwell,Ghislaine Maxwell,PER,0.0,0.0,de,2
+Mikel Arteta,Mikel Arteta,PER,0.7,0.0,de,2
+Fabian Kunze,Fabian Kunze,PER,0.0,0.0,de,2
+Nora Tschirner,Nora Tschirner,PER,1.0,0.0,de,2
+"Dalli Dalli"" aus","Dalli Dalli"" aus",PER,1.0,0.0,de,2
+Jane Birkin,Jane Birkin,PER,1.0,0.0,de,2
+Kevin Trapp,Kevin Trapp,PER,0.0,0.0,de,2
+Izabel Goulart,Izabel Goulart,PER,0.0,0.0,de,2
+Juergen Boos,Juergen Boos,PER,0.0,0.4,de,2
+scho glei,scho glei,PER,0.0,0.0,de,2
+Sandra Maischberger,Sandra Maischberger,PER,0.0,0.0,de,2
+Adrien Rabiot vergangene,Adrien Rabiot vergangene,PER,0.0,0.0,de,2
+Claudia Sommer,Claudia Sommer,PER,0.0,0.5,de,2
+Vincent van Goghs,Vincent van Goghs,PER,0.0,0.0,de,2
+Ylva Johansson,Ylva Johansson,PER,-0.5,0.5,de,2
+Daniel Überall,Daniel Überall,PER,0.0,0.0,de,2
+Hildegard Windholz,Hildegard Windholz,PER,-0.7,0.0,de,2
+Sophia Thiel,Sophia Thiel,PER,0.27999999999999997,0.2,de,2
+Wahlsiegerin Meloni,Wahlsiegerin Meloni,PER,0.0,0.0,de,2
+Christopher Spering,Christopher Spering,PER,0.35,0.0,de,2
 Andreas Otti,Andreas Otti,PER,-1.0,0.0,de,2
-Petra V,Petra V,PER,0.0,0.0,de,1
-Janik Pohl,Janik Pohl,PER,0.0,0.0,de,1
-Alfons Walde,Alfons Walde,PER,0.0,0.0,de,1
-John Kerry,John Kerry,PER,0.0,0.0,de,1
-Alfons Waldes,Alfons Waldes,PER,0.0,1.0,de,1
-Mbougar Sarr Mohamed,Mbougar Sarr Mohamed,PER,-0.7,0.0,de,1
-Heilige Martin,Heilige Martin,PER,0.7,0.0,de,1
-Karine Tuil,Karine Tuil,PER,0.0,0.0,de,1
-Daniel Günther,Daniel Günther,PER,-0.7,0.0,de,1
-Herbert Grafl,Herbert Grafl,PER,0.0,0.0,de,1
-Olaf Gersemann,Olaf Gersemann,PER,0.0,0.0,de,1
-Ramona Pop,Ramona Pop,PER,-0.7,0.0,de,1
-Christian Heinle,Christian Heinle,PER,0.0,0.0,de,1
-Jördis Mahanta,Jördis Mahanta,PER,0.0,0.0,de,1
-Journalistenpapst Wolf Schneider,Journalistenpapst Wolf Schneider,PER,0.0,0.0,de,1
-Novak Djokovic,Novak Djokovic,PER,1.0,0.0,de,1
-Anna Meier,Anna Meier,PER,0.0,0.0,de,1
-Serge Gnabry,Serge Gnabry,PER,0.0,0.0,de,1
-Oleksandr Wilkul,Oleksandr Wilkul,PER,0.0,0.0,de,1
-Telefónica star­tete,Telefónica star­tete,PER,1.0,0.0,de,1
-Gerd Scheewel Schalke,Gerd Scheewel Schalke,PER,-0.15000000000000002,0.0,de,1
-Bernhard Zimmermann,Bernhard Zimmermann,PER,0.15000000000000002,0.0,de,1
-Klaus Schmidts Kredit,Klaus Schmidts Kredit,PER,0.0,0.0,de,1
-Peter Pumplers Gh,Peter Pumplers Gh,PER,0.0,0.0,de,1
-Wilfried Kanga,Wilfried Kanga,PER,0.0,0.0,de,1
-Maren Jasper-Winter,Maren Jasper-Winter,PER,1.0,0.0,de,1
-Marco Richter,Marco Richter,PER,0.0,0.0,de,1
-Mario Gomez,Mario Gomez,PER,0.0,0.0,de,1
-Christian Streichs,Christian Streichs,PER,0.0,0.0,de,1
-Katie Kitamura,Katie Kitamura,PER,-0.7,0.0,de,1
-Catherine Cortez,Catherine Cortez,PER,0.7,0.0,de,1
-Radovan Vitek,Radovan Vitek,PER,0.0,0.0,de,1
-Radovan Vitek Kopfschmerzen,Radovan Vitek Kopfschmerzen,PER,0.0,0.0,de,1
-"nan ""Wetten","nan ""Wetten",PER,0.0,0.0,de,1
-Heike Ladurner-Strolz,Heike Ladurner-Strolz,PER,0.7,0.0,de,1
-Gia Borghini,Gia Borghini,PER,1.0,0.0,de,1
-Warmes Wetter,Warmes Wetter,PER,-0.7,0.0,de,1
-Roger Federer,Roger Federer,PER,1.0,0.0,de,1
-M2 Max,M2 Max,PER,0.0,0.0,de,1
-Braxton Bragg,Braxton Bragg,PER,0.0,0.0,de,1
-Bundesverkehrsminister Volker Wissing,Bundesverkehrsminister Volker Wissing,PER,0.0,0.0,de,1
-Hansi Hansmann,Hansi Hansmann,PER,0.0,0.0,de,1
-Bep plup,Bep plup,PER,0.0,0.0,de,1
-Nell peatelle lek uelOekll,Nell peatelle lek uelOekll,PER,0.0,0.0,de,1
-Wolfgang Bergmann,Wolfgang Bergmann,PER,0.0,0.0,de,1
-Wirtin Susanne,Wirtin Susanne,PER,0.0,0.0,de,1
-lu plepel,lu plepel,PER,0.0,0.0,de,1
-Donald Miles,Donald Miles,PER,-0.15000000000000002,0.0,de,1
-Raymond Huey,Raymond Huey,PER,-0.15000000000000002,0.0,de,1
-Adolf Hitler,Adolf Hitler,PER,0.0,0.0,de,1
-Christopher Clark,Christopher Clark,PER,0.0,0.0,de,1
-UNHCR-Chef Filippo Grandi,UNHCR-Chef Filippo Grandi,PER,1.0,0.0,de,1
-Filippo Grandi,Filippo Grandi,PER,0.0,1.0,de,1
-Freiluft-Event Winter,Freiluft-Event Winter,PER,0.0,0.0,de,1
-Familie Donzow,Familie Donzow,PER,0.0,0.0,de,1
-Sönke Neitzel,Sönke Neitzel,PER,-0.15000000000000002,0.0,de,1
-Vitamin A,Vitamin A,PER,0.0,0.0,de,1
-Jens Stoltenberg,Jens Stoltenberg,PER,0.0,0.0,de,1
-Amy Gutmann,Amy Gutmann,PER,0.0,1.0,de,1
-Gerd Mischler,Gerd Mischler,PER,0.7,0.0,de,1
-Neil Young,Neil Young,PER,0.7,0.0,de,1
-Neil Youngs „Harvest“,Neil Youngs „Harvest“,PER,0.0,0.0,de,1
-Peter Hoffmann,Peter Hoffmann,PER,0.0,0.0,de,1
-Franzosen-Star Marcus Thuram,Franzosen-Star Marcus Thuram,PER,0.0,0.0,de,1
-Dating-Trend „Winter Coating“,Dating-Trend „Winter Coating“,PER,0.7,0.0,de,1
-Alice Schwarzer,Alice Schwarzer,PER,0.0,0.0,de,1
-Peter Gabriel,Peter Gabriel,PER,0.0,1.0,de,1
-Hans-Joachim Watzke,Hans-Joachim Watzke,PER,0.0,0.0,de,1
-Erich Pipa,Erich Pipa,PER,0.0,0.0,de,1
-Nato-Chef Stoltenberg,Nato-Chef Stoltenberg,PER,0.0,0.0,de,1
-Teodor Currentzis,Teodor Currentzis,PER,1.0,0.0,de,1
-"Wintersturm ""Elliott","Wintersturm ""Elliott",PER,-0.7,0.0,de,1
-Monika Schnitzer,Monika Schnitzer,PER,0.0,0.0,de,1
-Peter Tschentscher,Peter Tschentscher,PER,0.0,0.0,de,1
-Joachim Hahne,Joachim Hahne,PER,1.0,0.0,de,1
-Caspar Felix Hoffmann,Caspar Felix Hoffmann,PER,0.0,1.0,de,1
-Adrien Rabiot,Adrien Rabiot,PER,1.0,0.0,de,1
-General Frost,General Frost,PER,0.7,0.0,de,1
-Maros Se,Maros Se,PER,0.0,0.0,de,1
-Daniel Hautmann,Daniel Hautmann,PER,0.7,0.0,de,1
-Last Minute Strandurlaub,Last Minute Strandurlaub,PER,0.7,0.0,de,1
-Jahres» Kaul,Jahres» Kaul,PER,0.0,0.0,de,1
-Igor Pastierovic,Igor Pastierovic,PER,0.0,1.0,de,1
-Fjodor Michailowitsch Dostojewski 186,Fjodor Michailowitsch Dostojewski 186,PER,0.0,0.0,de,1
+Helma Dietz,Helma Dietz,PER,0.0,0.0,de,2
+Lukas Ruetz,Lukas Ruetz,PER,0.0,0.0,de,2
+Harry Kane,Harry Kane,PER,-1.0,0.0,de,2
+Andrea Hermenau,Andrea Hermenau,PER,0.0,0.0,de,2
+Steffi Lemke,Steffi Lemke,PER,0.0,0.0,de,2
+Anne Imhof,Anne Imhof,PER,0.0,0.0,de,2
+Harald Krichel,Harald Krichel,PER,0.0,0.0,de,2
+Steffen Henssler,Steffen Henssler,PER,0.7,0.0,de,2
+Dieter Reiter,Dieter Reiter,PER,0.0,0.0,de,2
+Charles Aránguiz,Charles Aránguiz,PER,0.35,0.0,de,2
+Christian Keller,Christian Keller,PER,0.7,0.0,de,2
+Alpecin Baumshampoo,Alpecin Baumshampoo,PER,-0.5,0.0,de,2
+Fabienne Karmann,Fabienne Karmann,PER,1.0,0.0,de,2
+Anthony Albanese,Anthony Albanese,PER,0.0,0.0,de,2
+Yanar Dag,Yanar Dag,PER,-0.35,0.0,de,2
+Ernst von Siemens Kunststiftung,Ernst von Siemens Kunststiftung,PER,0.0,0.0,de,2
+Julian Khol,Julian Khol,PER,0.0,0.0,de,2
+Golden Rice,Golden Rice,PER,0.175,0.25,de,2
+Karl Geißinger,Karl Geißinger,PER,0.0,0.0,de,2
+Rechtsaußen Yira Sor,Rechtsaußen Yira Sor,PER,0.0,0.0,de,2
+"Sprach-Kitas"" will","Sprach-Kitas"" will",PER,0.0,0.0,de,2
+Gerd Holzheimer,Gerd Holzheimer,PER,0.35,0.0,de,2
+Elisabeth Carr,Elisabeth Carr,PER,0.35,0.0,de,2
+Torsten Kracht,Torsten Kracht,PER,-0.35,0.0,de,2
+Michael N,Michael N,PER,0.7,0.0,de,2
+Raynor Winn,Raynor Winn,PER,0.0,0.0,de,2
+Landon Ferraro,Landon Ferraro,PER,0.0,0.0,de,2
+Nazan Eckes,Nazan Eckes,PER,0.0,0.0,de,2
+Katharina Althaus,Katharina Althaus,PER,0.0,0.0,de,2
+Harrison Ford,Harrison Ford,PER,0.0,0.0,de,2
+Ismail Jakobs,Ismail Jakobs,PER,0.0,0.0,de,2
+António Guterres,António Guterres,PER,-0.5,0.0,de,2
+Frauke Thies,Frauke Thies,PER,0.7,0.0,de,2
+Dietmar Woidke,Dietmar Woidke,PER,0.0,0.0,de,2
+Circus Mignon,Circus Mignon,PER,0.0,0.0,de,2
+Steffen Schellhorn,Steffen Schellhorn,PER,0.0,0.0,de,1
+Saskia Diez,Saskia Diez,PER,0.0,1.0,de,1
+Multi Gigabit Up,Multi Gigabit Up,PER,-0.7,0.0,de,1
 Leonhard SimonPünktlich,Leonhard SimonPünktlich,PER,0.0,0.0,de,1
 Leonhard Simon,Leonhard Simon,PER,0.0,1.0,de,1
-Daniel Breuer,Daniel Breuer,PER,-0.85,0.0,de,1
+Anna Meier,Anna Meier,PER,0.0,0.0,de,1
+Wilfried Kanga,Wilfried Kanga,PER,0.0,0.0,de,1
+Marco Richter,Marco Richter,PER,0.0,0.0,de,1
+Christian Streichs,Christian Streichs,PER,0.0,0.0,de,1
+Fjodor Michailowitsch Dostojewski 186,Fjodor Michailowitsch Dostojewski 186,PER,0.0,0.0,de,1
+Telefónica star­tete,Telefónica star­tete,PER,1.0,0.0,de,1
 Michael Streck,Michael Streck,PER,0.0,0.0,de,1
-Handelsblatt-Aktienanalyst Ulf Sommer,Handelsblatt-Aktienanalyst Ulf Sommer,PER,0.0,0.0,de,1
+Daniel Breuer,Daniel Breuer,PER,-0.85,0.0,de,1
+Janik Pohl,Janik Pohl,PER,0.0,0.0,de,1
+Tomaso Trussardi,Tomaso Trussardi,PER,0.0,0.0,de,1
+Daniel Günther,Daniel Günther,PER,-0.7,0.0,de,1
+Peter Pumplers Gh,Peter Pumplers Gh,PER,0.0,0.0,de,1
+Herbert Grafl,Herbert Grafl,PER,0.0,0.0,de,1
+Maren Jasper-Winter,Maren Jasper-Winter,PER,1.0,0.0,de,1
 Christoph Busenhart,Christoph Busenhart,PER,0.0,0.0,de,1
-Saskia Diez,Saskia Diez,PER,0.0,1.0,de,1
+Handelsblatt-Aktienanalyst Ulf Sommer,Handelsblatt-Aktienanalyst Ulf Sommer,PER,0.0,0.0,de,1
+Ramona Pop,Ramona Pop,PER,-0.7,0.0,de,1
+Sarah Connor be,Sarah Connor be,PER,0.0,0.0,de,1
+Olaf Gersemann,Olaf Gersemann,PER,0.0,0.0,de,1
+Sarah Connor b,Sarah Connor b,PER,0.0,0.0,de,1
+Jahrhundert-Sturm Elliott,Jahrhundert-Sturm Elliott,PER,-1.0,0.0,de,1
+Gia Borghini,Gia Borghini,PER,1.0,0.0,de,1
+Igor Pastierovic,Igor Pastierovic,PER,0.0,1.0,de,1
+Peter Tschentscher,Peter Tschentscher,PER,0.0,0.0,de,1
+Maros Se,Maros Se,PER,0.0,0.0,de,1
+Monika Schnitzer,Monika Schnitzer,PER,0.0,0.0,de,1
+Alfons Walde,Alfons Walde,PER,0.0,0.0,de,1
+Bernhard Zimmermann,Bernhard Zimmermann,PER,0.15000000000000002,0.0,de,1
+Maximilian Witti,Maximilian Witti,PER,0.0,0.0,de,1
+General Frost,General Frost,PER,0.7,0.0,de,1
+Klaus Schmidts Kredit,Klaus Schmidts Kredit,PER,0.0,0.0,de,1
+Joachim Hahne,Joachim Hahne,PER,1.0,0.0,de,1
+Gerd Scheewel Schalke,Gerd Scheewel Schalke,PER,-0.15000000000000002,0.0,de,1
+Rekordhoher Schneefall,Rekordhoher Schneefall,PER,0.0,0.0,de,1
+Caspar Felix Hoffmann,Caspar Felix Hoffmann,PER,0.0,1.0,de,1
+Karine Tuil,Karine Tuil,PER,0.0,0.0,de,1
+Mbougar Sarr Mohamed,Mbougar Sarr Mohamed,PER,-0.7,0.0,de,1
+Adrien Rabiot,Adrien Rabiot,PER,1.0,0.0,de,1
+Heike Ladurner-Strolz,Heike Ladurner-Strolz,PER,0.7,0.0,de,1
+Novak Djokovic,Novak Djokovic,PER,1.0,0.0,de,1
+"Wintersturm ""Elliott","Wintersturm ""Elliott",PER,-0.7,0.0,de,1
+Charles III,Charles III,PER,0.0,0.0,de,1
+M2 Max,M2 Max,PER,0.0,0.0,de,1
+"nan ""Wetten","nan ""Wetten",PER,0.0,0.0,de,1
+Roger Federer,Roger Federer,PER,1.0,0.0,de,1
+Nadja Zinsmeister,Nadja Zinsmeister,PER,0.35,0.5,de,1
+Jahres» Kaul,Jahres» Kaul,PER,0.0,0.0,de,1
+Oleksandr Wilkul,Oleksandr Wilkul,PER,0.0,0.0,de,1
+Katie Kitamura,Katie Kitamura,PER,-0.7,0.0,de,1
+Last Minute Strandurlaub,Last Minute Strandurlaub,PER,0.7,0.0,de,1
+Serge Gnabry,Serge Gnabry,PER,0.0,0.0,de,1
+Überfrierende Nässe,Überfrierende Nässe,PER,0.0,0.0,de,1
+Kathy Hochul,Kathy Hochul,PER,0.0,0.0,de,1
+Christian Wieser,Christian Wieser,PER,1.0,0.0,de,1
+Hermann Fe,Hermann Fe,PER,1.0,0.0,de,1
+Überlastete Rettungsdienste,Überlastete Rettungsdienste,PER,-0.7,0.0,de,1
+Daniel Hautmann,Daniel Hautmann,PER,0.7,0.0,de,1
+Christian Heinle,Christian Heinle,PER,0.0,0.0,de,1
+Jördis Mahanta,Jördis Mahanta,PER,0.0,0.0,de,1
+Mario Gomez,Mario Gomez,PER,0.0,0.0,de,1
+Dating-Trend „Winter Coating“,Dating-Trend „Winter Coating“,PER,0.7,0.0,de,1
+Alfons Waldes,Alfons Waldes,PER,0.0,1.0,de,1
+Geraten wi,Geraten wi,PER,0.0,0.0,de,1
+Christian Pulisic,Christian Pulisic,PER,0.85,0.0,de,1
+Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1
+Familie Donzow,Familie Donzow,PER,0.0,0.0,de,1
+Freiluft-Event Winter,Freiluft-Event Winter,PER,0.0,0.0,de,1
+Filippo Grandi,Filippo Grandi,PER,0.0,1.0,de,1
+Johannes Hiltscher,Johannes Hiltscher,PER,0.7,0.0,de,1
+UNHCR-Chef Filippo Grandi,UNHCR-Chef Filippo Grandi,PER,1.0,0.0,de,1
+Christopher Clark,Christopher Clark,PER,0.0,0.0,de,1
+Wintertransfer von Gladbachs,Wintertransfer von Gladbachs,PER,0.0,0.0,de,1
+Albert Uderzo,Albert Uderzo,PER,0.0,0.0,de,1
 aktuell d,aktuell d,PER,0.7,0.0,de,1
-Cabernet Mitos,Cabernet Mitos,PER,0.0,0.0,de,1
-Irmgard Koch,Irmgard Koch,PER,0.0,0.0,de,1
-James Irwin,James Irwin,PER,0.0,0.0,de,1
-Philipp Theisohn,Philipp Theisohn,PER,0.0,0.0,de,1
+Adolf Hitler,Adolf Hitler,PER,0.0,0.0,de,1
+René Goscinny,René Goscinny,PER,0.0,0.0,de,1
+Braxton Bragg,Braxton Bragg,PER,0.0,0.0,de,1
+Kiew-Bürgermeister Klitschko,Kiew-Bürgermeister Klitschko,PER,0.0,0.0,de,1
+Stella Sommer,Stella Sommer,PER,0.0,0.0,de,1
+Anastasia Pyroschenko,Anastasia Pyroschenko,PER,0.0,0.0,de,1
+Raymond Huey,Raymond Huey,PER,-0.15000000000000002,0.0,de,1
+Michel Quermann,Michel Quermann,PER,0.0,0.0,de,1
+Corona-Experte Lars Kaderali,Corona-Experte Lars Kaderali,PER,0.0,0.0,de,1
+Sönke Neitzel,Sönke Neitzel,PER,-0.15000000000000002,0.0,de,1
+Vitamin A,Vitamin A,PER,0.0,0.0,de,1
+Daniel Tschofenig,Daniel Tschofenig,PER,0.0,0.0,de,1
+Michael Hayböck,Michael Hayböck,PER,0.0,0.0,de,1
+Alice Schwarzer,Alice Schwarzer,PER,0.0,0.0,de,1
+Peter Hoffmann,Peter Hoffmann,PER,0.0,0.0,de,1
+Neil Youngs „Harvest“,Neil Youngs „Harvest“,PER,0.0,0.0,de,1
+Neil Young,Neil Young,PER,0.7,0.0,de,1
+Peter Gabriel,Peter Gabriel,PER,0.0,1.0,de,1
+Gerd Mischler,Gerd Mischler,PER,0.7,0.0,de,1
+Amy Gutmann,Amy Gutmann,PER,0.0,1.0,de,1
 Analystin Aura,Analystin Aura,PER,0.0,0.0,de,1
+Nato-Chef Stoltenberg,Nato-Chef Stoltenberg,PER,0.0,0.0,de,1
+Jens Stoltenberg,Jens Stoltenberg,PER,0.0,0.0,de,1
 Schanzenrekordler Lanisek,Schanzenrekordler Lanisek,PER,0.0,0.0,de,1
+nan Österreich,nan Österreich,PER,0.0,0.0,de,1
+Maksym Timtschenko,Maksym Timtschenko,PER,0.7,0.0,de,1
+Maksym Tymchenko,Maksym Tymchenko,PER,0.0,0.0,de,1
+QualitÃ¤t â€¦,QualitÃ¤t â€¦,PER,0.0,0.0,de,1
+Catherine Cortez,Catherine Cortez,PER,0.7,0.0,de,1
+Heinz Hermann Thiele,Heinz Hermann Thiele,PER,-1.0,0.0,de,1
+Francisco Mörth,Francisco Mörth,PER,0.0,0.0,de,1
+Philipp Aschenwald,Philipp Aschenwald,PER,0.0,0.0,de,1
+Topmanager-Trainer Jürn-F,Topmanager-Trainer Jürn-F,PER,0.7,0.0,de,1
+Donald Miles,Donald Miles,PER,-0.15000000000000002,0.0,de,1
+Gefrierender Regen,Gefrierender Regen,PER,0.7,0.0,de,1
+Erich Pipa,Erich Pipa,PER,0.0,0.0,de,1
+Wett-Kandidat Samuel Koch,Wett-Kandidat Samuel Koch,PER,-1.0,0.0,de,1
+Robert Biedron,Robert Biedron,PER,0.0,0.0,de,1
+Lieferinger Karim Konaté,Lieferinger Karim Konaté,PER,0.0,0.0,de,1
+Philipp Theisohn,Philipp Theisohn,PER,0.0,0.0,de,1
+James Irwin,James Irwin,PER,0.0,0.0,de,1
+Lars Dücker,Lars Dücker,PER,0.0,0.0,de,1
+Hans Ric,Hans Ric,PER,0.0,0.0,de,1
+Hans Richner,Hans Richner,PER,0.0,0.0,de,1
+Bucher K,Bucher K,PER,0.0,0.0,de,1
+Franzosen-Star Marcus Thuram,Franzosen-Star Marcus Thuram,PER,0.0,0.0,de,1
+Frank van Griensven,Frank van Griensven,PER,0.0,0.0,de,1
+Irmgard Koch,Irmgard Koch,PER,0.0,0.0,de,1
+Agnieszka cigaj,Agnieszka cigaj,PER,0.0,0.0,de,1
+Cabernet Mitos,Cabernet Mitos,PER,0.0,0.0,de,1
+Joko Widodo,Joko Widodo,PER,0.0,0.0,de,1
+ntv Service,ntv Service,PER,0.0,0.0,de,1
+vincenzo mancuso,vincenzo mancuso,PER,0.3333333333333333,0.0,de,1
 Boris Becker,Boris Becker,PER,0.0,0.0,de,1
+Bundesverkehrsminister Volker Wissing,Bundesverkehrsminister Volker Wissing,PER,0.0,0.0,de,1
+Teodor Currentzis,Teodor Currentzis,PER,1.0,0.0,de,1
+Dominik Huber,Dominik Huber,PER,0.0,0.0,de,1
+lu plepel,lu plepel,PER,0.0,0.0,de,1
+Hansi Hansmann,Hansi Hansmann,PER,0.0,0.0,de,1
+Friedrich August von Finck,Friedrich August von Finck,PER,0.0,0.0,de,1
+Wirtin Susanne,Wirtin Susanne,PER,0.0,0.0,de,1
 Friedrich der Große,Friedrich der Große,PER,0.0,0.0,de,1
+Friedrichs des Großen,Friedrichs des Großen,PER,0.0,0.0,de,1
 Gerd Altmann,Gerd Altmann,PER,0.0,0.0,de,1
+Wolfgang Bergmann,Wolfgang Bergmann,PER,0.0,0.0,de,1
 Cannabis-Unternehmer Niklas Kouparanis,Cannabis-Unternehmer Niklas Kouparanis,PER,-0.7,0.0,de,1
 Carlo Masala,Carlo Masala,PER,1.0,0.0,de,1
 Gabby Petito,Gabby Petito,PER,0.0,0.0,de,1
@@ -346,67 +402,30 @@ lhdoenRi otsJ,lhdoenRi otsJ,PER,0.35,0.5,de,1
 Horror-Hit „Smile“,Horror-Hit „Smile“,PER,1.0,0.0,de,1
 FOCUS-online-Korrespondent Ulrich Reitz,FOCUS-online-Korrespondent Ulrich Reitz,PER,0.0,0.0,de,1
 Ulrich Reitz,Ulrich Reitz,PER,1.0,0.0,de,1
-Dominik Huber,Dominik Huber,PER,0.0,0.0,de,1
-Wett-Kandidat Samuel Koch,Wett-Kandidat Samuel Koch,PER,-1.0,0.0,de,1
-Robert Biedron,Robert Biedron,PER,0.0,0.0,de,1
-Lieferinger Karim Konaté,Lieferinger Karim Konaté,PER,0.0,0.0,de,1
-Lars Dücker,Lars Dücker,PER,0.0,0.0,de,1
-Hans Ric,Hans Ric,PER,0.0,0.0,de,1
-Hans Richner,Hans Richner,PER,0.0,0.0,de,1
-Bucher K,Bucher K,PER,0.0,0.0,de,1
-Agnieszka cigaj,Agnieszka cigaj,PER,0.0,0.0,de,1
-Joko Widodo,Joko Widodo,PER,0.0,0.0,de,1
-ntv Service,ntv Service,PER,0.0,0.0,de,1
-vincenzo mancuso,vincenzo mancuso,PER,0.3333333333333333,0.0,de,1
-Friedrichs des Großen,Friedrichs des Großen,PER,0.0,0.0,de,1
-Friedrich August von Finck,Friedrich August von Finck,PER,0.0,0.0,de,1
-nan Österreich,nan Österreich,PER,0.0,0.0,de,1
-Gefrierender Regen,Gefrierender Regen,PER,0.7,0.0,de,1
-Maksym Timtschenko,Maksym Timtschenko,PER,0.7,0.0,de,1
-Maksym Tymchenko,Maksym Tymchenko,PER,0.0,0.0,de,1
-QualitÃ¤t â€¦,QualitÃ¤t â€¦,PER,0.0,0.0,de,1
+Hans-Joachim Watzke,Hans-Joachim Watzke,PER,0.0,0.0,de,1
 Nadia Thiele,Nadia Thiele,PER,0.0,0.0,de,1
-Heinz Hermann Thiele,Heinz Hermann Thiele,PER,-1.0,0.0,de,1
-Francisco Mörth,Francisco Mörth,PER,0.0,0.0,de,1
-Philipp Aschenwald,Philipp Aschenwald,PER,0.0,0.0,de,1
-Michael Hayböck,Michael Hayböck,PER,0.0,0.0,de,1
-Daniel Tschofenig,Daniel Tschofenig,PER,0.0,0.0,de,1
-Jan Hörl,Jan Hörl,PER,0.0,0.0,de,1
-Manuel Fettner,Manuel Fettner,PER,0.0,0.0,de,1
-Christian Pulisic,Christian Pulisic,PER,0.85,0.0,de,1
-Friedrich Merz,Friedrich Merz,PER,0.0,0.0,de,1
-Johannes Hiltscher,Johannes Hiltscher,PER,0.7,0.0,de,1
-Wintertransfer von Gladbachs,Wintertransfer von Gladbachs,PER,0.0,0.0,de,1
-Geraten wi,Geraten wi,PER,0.0,0.0,de,1
-Albert Uderzo,Albert Uderzo,PER,0.0,0.0,de,1
-René Goscinny,René Goscinny,PER,0.0,0.0,de,1
-Marie-Luise Vollbrecht,Marie-Luise Vollbrecht,PER,0.7,0.0,de,1
-Kiew-Bürgermeister Klitschko,Kiew-Bürgermeister Klitschko,PER,0.0,0.0,de,1
-Stella Sommer,Stella Sommer,PER,0.0,0.0,de,1
-Anastasia Pyroschenko,Anastasia Pyroschenko,PER,0.0,0.0,de,1
-Michel Quermann,Michel Quermann,PER,0.0,0.0,de,1
-Corona-Experte Lars Kaderali,Corona-Experte Lars Kaderali,PER,0.0,0.0,de,1
-Topmanager-Trainer Jürn-F,Topmanager-Trainer Jürn-F,PER,0.7,0.0,de,1
-Regina Giovanna«,Regina Giovanna«,PER,0.0,0.0,de,1
 "Supertaifun ""Noru","Supertaifun ""Noru",PER,0.0,0.0,de,1
-Oskar Belton,Oskar Belton,PER,0.0,0.0,de,1
-Karl Kalli Kusel,Karl Kalli Kusel,PER,0.0,0.0,de,1
-Bundespräsident Steinmeier,Bundespräsident Steinmeier,PER,0.0,0.0,de,1
-Matthias Huss,Matthias Huss,PER,0.0,0.0,de,1
-Vupel el tepl petpel,Vupel el tepl petpel,PER,0.0,0.0,de,1
-Blen ettelkeup,Blen ettelkeup,PER,0.0,0.0,de,1
+Radovan Vitek,Radovan Vitek,PER,0.0,0.0,de,1
 pollual unu etpupetp,pollual unu etpupetp,PER,0.0,0.0,de,1
-Edward VI,Edward VI,PER,0.0,0.0,de,1
-Jeffrey Epstein,Jeffrey Epstein,PER,0.0,0.0,de,1
-Prince Andrew,Prince Andrew,PER,0.0,0.0,de,1
-Prinz Andrew,Prinz Andrew,PER,0.0,0.0,de,1
-Bllh Zeupeu,Bllh Zeupeu,PER,0.0,0.0,de,1
 Pu plepeO,Pu plepeO,PER,0.0,0.0,de,1
+Bllh Zeupeu,Bllh Zeupeu,PER,0.0,0.0,de,1
+Prinz Andrew,Prinz Andrew,PER,0.0,0.0,de,1
+Prince Andrew,Prince Andrew,PER,0.0,0.0,de,1
+Jeffrey Epstein,Jeffrey Epstein,PER,0.0,0.0,de,1
+Edward VI,Edward VI,PER,0.0,0.0,de,1
+Blen ettelkeup,Blen ettelkeup,PER,0.0,0.0,de,1
+Kommt Trump,Kommt Trump,PER,0.0,0.0,de,1
+Vupel el tepl petpel,Vupel el tepl petpel,PER,0.0,0.0,de,1
+Matthias Huss,Matthias Huss,PER,0.0,0.0,de,1
+Bundespräsident Steinmeier,Bundespräsident Steinmeier,PER,0.0,0.0,de,1
+Johann Grassl,Johann Grassl,PER,0.0,0.0,de,1
+Ronya Othmann,Ronya Othmann,PER,0.0,0.0,de,1
+Bruce Willis,Bruce Willis,PER,0.0,0.0,de,1
 Nell eO,Nell eO,PER,0.0,0.0,de,1
 Velt el enl tetpekeu,Velt el enl tetpekeu,PER,0.0,0.0,de,1
 Peter Füss,Peter Füss,PER,1.0,0.0,de,1
+Karl Kalli Kusel,Karl Kalli Kusel,PER,0.0,0.0,de,1
 Karl „Kalli“ Kusel,Karl „Kalli“ Kusel,PER,0.0,0.0,de,1
-Ronya Othmann,Ronya Othmann,PER,0.0,0.0,de,1
 Lothar Kühne,Lothar Kühne,PER,0.05000000000000001,0.3333333333333333,de,1
 regenreicher Nacht,regenreicher Nacht,PER,0.0,0.0,de,1
 © Claire Arni,© Claire Arni,PER,0.0,0.0,de,1
@@ -419,28 +438,30 @@ Wahl-Linzer Karl Hauk,Wahl-Linzer Karl Hauk,PER,-1.0,0.0,de,1
 Karl Hauk,Karl Hauk,PER,0.0,0.0,de,1
 Martin Adams,Martin Adams,PER,0.0,0.0,de,1
 Wolfgang Kubicki,Wolfgang Kubicki,PER,0.0,0.0,de,1
-Wirtschaftsminister Habeck,Wirtschaftsminister Habeck,PER,-1.0,0.0,de,1
-Hubertus Heil,Hubertus Heil,PER,1.0,0.0,de,1
-Johann Grassl,Johann Grassl,PER,0.0,0.0,de,1
-Bruce Willis,Bruce Willis,PER,0.0,0.0,de,1
-nix Einfacheres,nix Einfacheres,PER,0.0,0.0,de,1
-Matthias Jahnke,Matthias Jahnke,PER,0.0,0.0,de,1
-Anke Hahn ü,Anke Hahn ü,PER,0.0,0.0,de,1
-Tina von Löhneysen,Tina von Löhneysen,PER,0.0,0.0,de,1
-Benito Weise,Benito Weise,PER,1.0,0.0,de,1
+Jan Böhmermanns,Jan Böhmermanns,PER,0.0,0.0,de,1
+Peter Feldmann,Peter Feldmann,PER,0.7,0.0,de,1
+Igor Kobsew,Igor Kobsew,PER,0.0,0.0,de,1
 Marco Odermatt,Marco Odermatt,PER,0.0,0.0,de,1
-Mikaela Shiffrin,Mikaela Shiffrin,PER,0.0,0.0,de,1
-Wolodimir Selenski,Wolodimir Selenski,PER,0.0,0.0,de,1
-Michaela Strassmair,Michaela Strassmair,PER,0.8800000000000001,0.0,de,1
-Barbe-Nicole Clicquot-Ponsardin,Barbe-Nicole Clicquot-Ponsardin,PER,1.0,0.0,de,1
-Ina Scharrenbach,Ina Scharrenbach,PER,0.0,0.0,de,1
 Christian Hönicke,Christian Hönicke,PER,0.0,0.0,de,1
+Ina Scharrenbach,Ina Scharrenbach,PER,0.0,0.0,de,1
+Barbe-Nicole Clicquot-Ponsardin,Barbe-Nicole Clicquot-Ponsardin,PER,1.0,0.0,de,1
+Michaela Strassmair,Michaela Strassmair,PER,0.8800000000000001,0.0,de,1
+Wolodimir Selenski,Wolodimir Selenski,PER,0.0,0.0,de,1
+Mikaela Shiffrin,Mikaela Shiffrin,PER,0.0,0.0,de,1
+Benito Weise,Benito Weise,PER,1.0,0.0,de,1
+Olena Selenska,Olena Selenska,PER,-1.0,0.0,de,1
+Tina von Löhneysen,Tina von Löhneysen,PER,0.0,0.0,de,1
+Anke Hahn ü,Anke Hahn ü,PER,0.0,0.0,de,1
+Jude Bellingham,Jude Bellingham,PER,0.0,0.0,de,1
+Herr Landgrebe,Herr Landgrebe,PER,0.0,0.0,de,1
+Andreas Eschbach,Andreas Eschbach,PER,0.0,0.0,de,1
+Serhij Zhadan,Serhij Zhadan,PER,0.0,0.0,de,1
 Herman Haluschtschenko,Herman Haluschtschenko,PER,0.0,0.0,de,1
 Wladimir Puti,Wladimir Puti,PER,0.0,0.0,de,1
 Michaela Lawrenz und Mario Schlöricke,Michaela Lawrenz und Mario Schlöricke,PER,0.0,0.0,de,1
 Wladimir P,Wladimir P,PER,0.0,0.0,de,1
+Matthias Jahnke,Matthias Jahnke,PER,0.0,0.0,de,1
 Isaac Rosa,Isaac Rosa,PER,0.0,0.0,de,1
-Jan Böhmermanns,Jan Böhmermanns,PER,0.0,0.0,de,1
 Sönke Wörtmann,Sönke Wörtmann,PER,0.0,0.0,de,1
 Mama Berben,Mama Berben,PER,0.7,0.0,de,1
 Gabor Steingart,Gabor Steingart,PER,-0.7,0.0,de,1
@@ -452,29 +473,27 @@ Ed Yong,Ed Yong,PER,0.7,0.0,de,1
 Lukas Bärfuss beugt,Lukas Bärfuss beugt,PER,-1.0,0.0,de,1
 Lukas Bärfuss,Lukas Bärfuss,PER,1.0,0.0,de,1
 Annie Leibovitz,Annie Leibovitz,PER,0.0,0.0,de,1
-Olena Selenska,Olena Selenska,PER,-1.0,0.0,de,1
-Peter Feldmann,Peter Feldmann,PER,0.7,0.0,de,1
-Kommt Trump,Kommt Trump,PER,0.0,0.0,de,1
+Wirtschaftsminister Habeck,Wirtschaftsminister Habeck,PER,-1.0,0.0,de,1
+Hubertus Heil,Hubertus Heil,PER,1.0,0.0,de,1
 Tottenhams Harry Kane,Tottenhams Harry Kane,PER,0.0,0.0,de,1
-Jason Weingart,Jason Weingart,PER,0.0,0.0,de,1
-Larry June,Larry June,PER,0.0,0.0,de,1
-Helene Fischers,Helene Fischers,PER,0.10000000000000002,0.3333333333333333,de,1
-Marie Hoffmann,Marie Hoffmann,PER,0.0,0.0,de,1
-Agrar-Influencerin Marie,Agrar-Influencerin Marie,PER,1.0,0.0,de,1
-Fatma Aydemir,Fatma Aydemir,PER,0.7,0.0,de,1
-Mohamed Amjahid,Mohamed Amjahid,PER,0.7,0.0,de,1
-Enissa Amani,Enissa Amani,PER,0.7,0.0,de,1
-Iris Berben,Iris Berben,PER,0.7,0.0,de,1
 Starker Cannabisgeruch,Starker Cannabisgeruch,PER,0.7,0.0,de,1
-Marco Verratt,Marco Verratt,PER,0.0,0.0,de,1
-Garri Kasparow,Garri Kasparow,PER,-0.7,0.0,de,1
-Antonio Guterres,Antonio Guterres,PER,0.0,0.0,de,1
-Smart-Home-Standard Matter,Smart-Home-Standard Matter,PER,0.0,0.0,de,1
-Slalomläufe mi,Slalomläufe mi,PER,0.0,0.0,de,1
 Catherine Cal,Catherine Cal,PER,1.0,0.0,de,1
+Slalomläufe mi,Slalomläufe mi,PER,0.0,0.0,de,1
+Smart-Home-Standard Matter,Smart-Home-Standard Matter,PER,0.0,0.0,de,1
+Antonio Guterres,Antonio Guterres,PER,0.0,0.0,de,1
+Garri Kasparow,Garri Kasparow,PER,-0.7,0.0,de,1
+Marco Verratt,Marco Verratt,PER,0.0,0.0,de,1
+Iris Berben,Iris Berben,PER,0.7,0.0,de,1
+Jason Weingart,Jason Weingart,PER,0.0,0.0,de,1
+Enissa Amani,Enissa Amani,PER,0.7,0.0,de,1
+Mohamed Amjahid,Mohamed Amjahid,PER,0.7,0.0,de,1
+Fatma Aydemir,Fatma Aydemir,PER,0.7,0.0,de,1
+Agrar-Influencerin Marie,Agrar-Influencerin Marie,PER,1.0,0.0,de,1
+Marie Hoffmann,Marie Hoffmann,PER,0.0,0.0,de,1
+Christian Baldauf,Christian Baldauf,PER,-0.15000000000000002,0.0,de,1
 Catherine Called Birdy,Catherine Called Birdy,PER,0.5,0.5,de,1
+Helene Fischers,Helene Fischers,PER,0.10000000000000002,0.3333333333333333,de,1
 Helene Fischer-Show,Helene Fischer-Show,PER,0.10000000000000002,0.3333333333333333,de,1
-Sebastian Lohr,Sebastian Lohr,PER,0.0,0.0,de,1
 Ralf Rothmann,Ralf Rothmann,PER,0.0,0.0,de,1
 Ralf Rothmanns,Ralf Rothmanns,PER,-1.0,0.0,de,1
 Michael Tautenhahn,Michael Tautenhahn,PER,0.0,0.0,de,1
@@ -489,10 +508,12 @@ Knapp andert­halb,Knapp andert­halb,PER,0.0,0.0,de,1
 Udo Bausch,Udo Bausch,PER,0.85,0.0,de,1
 Christine Lambrecht,Christine Lambrecht,PER,0.0,0.0,de,1
 Territoriales Führungskommando der Bundeswehr,Territoriales Führungskommando der Bundeswehr,PER,0.0,0.0,de,1
-Christian Baldauf,Christian Baldauf,PER,-0.15000000000000002,0.0,de,1
 Subaru Outback,Subaru Outback,PER,1.0,0.0,de,1
 Louis Vuitton,Louis Vuitton,PER,0.0,0.0,de,1
 Louis Vu,Louis Vu,PER,0.0,0.0,de,1
+Steffen Hensslers,Steffen Hensslers,PER,0.0,0.0,de,1
+Larry June,Larry June,PER,0.0,0.0,de,1
+Sebastian Lohr,Sebastian Lohr,PER,0.0,0.0,de,1
 Rasmus Andresen,Rasmus Andresen,PER,-1.0,0.0,de,1
 Famoser Umbruch,Famoser Umbruch,PER,0.0,0.0,de,1
 Christoph de Vries,Christoph de Vries,PER,-1.0,0.0,de,1
@@ -505,8 +526,8 @@ Frau“-Stars Antonia,Frau“-Stars Antonia,PER,0.0,0.0,de,1
 Frauke Ludowig,Frauke Ludowig,PER,0.0,0.0,de,1
 Anne Imhofs,Anne Imhofs,PER,0.0,1.0,de,1
 Staffelauftakt von „Grill,Staffelauftakt von „Grill,PER,0.7,0.0,de,1
-Steffen Hensslers,Steffen Hensslers,PER,0.0,0.0,de,1
 TV-Kolumne „Grill,TV-Kolumne „Grill,PER,0.0,0.0,de,1
+Volker Bouffier,Volker Bouffier,PER,0.0,0.0,de,1
 Tatort-Ermittlerin Charlotte Lindholm,Tatort-Ermittlerin Charlotte Lindholm,PER,0.15000000000000002,0.0,de,1
 Charlotte Lindholm,Charlotte Lindholm,PER,-0.7,0.0,de,1
 Simon van Boxtel,Simon van Boxtel,PER,1.0,0.0,de,1
@@ -521,18 +542,24 @@ Thomas Somboll,Thomas Somboll,PER,0.0,0.0,de,1
 brachialem Gitarrenlärm,brachialem Gitarrenlärm,PER,0.0,0.0,de,1
 Michael Zobel,Michael Zobel,PER,0.0,0.0,de,1
 Tony Smith,Tony Smith,PER,0.0,0.0,de,1
-Volker Bouffier,Volker Bouffier,PER,0.0,0.0,de,1
-Jude Bellingham,Jude Bellingham,PER,0.0,0.0,de,1
-Herr Landgrebe,Herr Landgrebe,PER,0.0,0.0,de,1
-Andreas Eschbach,Andreas Eschbach,PER,0.0,0.0,de,1
-Hulusi Akar,Hulusi Akar,PER,1.0,0.0,de,1
-© Mara Monetti,© Mara Monetti,PER,0.0,0.0,de,1
-João Mário,João Mário,PER,0.0,0.0,de,1
-Alejandro Grimaldo,Alejandro Grimaldo,PER,0.0,0.0,de,1
-"Supertaifun ""Noru"" auf den Philippinen","Supertaifun ""Noru"" auf den Philippinen",PER,0.0,0.0,de,1
-Christoph Niessen,Christoph Niessen,PER,0.0,0.0,de,1
-elluuele plepeu,elluuele plepeu,PER,0.0,0.0,de,1
+Ralf Kellerma,Ralf Kellerma,PER,0.0,0.0,de,1
+Dominik Kahun,Dominik Kahun,PER,0.0,0.0,de,1
+Radovan Vitek Kopfschmerzen,Radovan Vitek Kopfschmerzen,PER,0.0,0.0,de,1
+Bernhard Aregger,Bernhard Aregger,PER,0.0,0.0,de,1
 Potsdamer „Gründungsherbst“,Potsdamer „Gründungsherbst“,PER,0.0,0.0,de,1
+elluuele plepeu,elluuele plepeu,PER,0.0,0.0,de,1
+Christoph Niessen,Christoph Niessen,PER,0.0,0.0,de,1
+Alejandro Grimaldo,Alejandro Grimaldo,PER,0.0,0.0,de,1
+João Mário,João Mário,PER,0.0,0.0,de,1
+© Mara Monetti,© Mara Monetti,PER,0.0,0.0,de,1
+Timo Werner,Timo Werner,PER,0.0,0.0,de,1
+James Gray,James Gray,PER,0.0,0.0,de,1
+Karl Geiger (29,Karl Geiger (29,PER,0.7,0.0,de,1
+Matthias Themeßl,Matthias Themeßl,PER,0.0,0.0,de,1
+"Supertaifun ""Noru"" auf den Philippinen","Supertaifun ""Noru"" auf den Philippinen",PER,0.0,0.0,de,1
+Triste Bonussaison,Triste Bonussaison,PER,-0.5,0.5,de,1
+Anne Paq,Anne Paq,PER,-1.0,0.0,de,1
+Hollywoodstar Anne Hathaway,Hollywoodstar Anne Hathaway,PER,0.0,0.0,de,1
 Herabfallendes Laub,Herabfallendes Laub,PER,0.0,0.0,de,1
 Giftiger Smog,Giftiger Smog,PER,0.0,0.0,de,1
 Peter Giesel,Peter Giesel,PER,0.0,0.0,de,1
@@ -540,8 +567,8 @@ Ingrid AmslingerEin,Ingrid AmslingerEin,PER,0.7,0.0,de,1
 Ingrid Amslinger,Ingrid Amslinger,PER,0.7,0.0,de,1
 CDU-Parteivize Jung,CDU-Parteivize Jung,PER,-0.7,0.0,de,1
 Christoph Maria Herbst,Christoph Maria Herbst,PER,0.0,0.0,de,1
+Hulusi Akar,Hulusi Akar,PER,1.0,0.0,de,1
 Lee White,Lee White,PER,0.0,0.0,de,1
-Stephen Fry,Stephen Fry,PER,0.0,0.0,de,1
 Muss Kimpembe,Muss Kimpembe,PER,0.0,0.0,de,1
 Sebastian Ernst,Sebastian Ernst,PER,0.0,0.0,de,1
 Jan Zimmermann,Jan Zimmermann,PER,0.0,0.0,de,1
@@ -550,21 +577,24 @@ Sebastian Kerk,Sebastian Kerk,PER,0.0,0.0,de,1
 Christian Meyer,Christian Meyer,PER,0.0,0.0,de,1
 Warum Flick,Warum Flick,PER,0.0,0.0,de,1
 Hany Mukthar,Hany Mukthar,PER,0.0,0.0,de,1
-Robert Lewandowskis,Robert Lewandowskis,PER,0.0,0.0,de,1
-️ Wintertermine,️ Wintertermine,PER,0.7,0.0,de,1
-Paul Pogba,Paul Pogba,PER,-1.0,0.0,de,1
-Bosch-Chef Stefan Hartung,Bosch-Chef Stefan Hartung,PER,0.0,0.0,de,1
-Stefan Beier,Stefan Beier,PER,0.7,0.0,de,1
-Sergej Schoigu,Sergej Schoigu,PER,0.7,0.0,de,1
-Bernhard Aregger,Bernhard Aregger,PER,0.0,0.0,de,1
-Timo Werner,Timo Werner,PER,0.0,0.0,de,1
-Karl Geiger (29,Karl Geiger (29,PER,0.7,0.0,de,1
-Matthias Themeßl,Matthias Themeßl,PER,0.0,0.0,de,1
-N‘Golo Kanté,N‘Golo Kanté,PER,-0.7,0.0,de,1
-Burkhard Lohr,Burkhard Lohr,PER,0.0,0.0,de,1
-Johann Wolfgang von Goethe,Johann Wolfgang von Goethe,PER,0.0,0.0,de,1
-Peter Hacks,Peter Hacks,PER,0.0,0.0,de,1
+Anne Hathaway,Anne Hathaway,PER,1.0,0.0,de,1
+Silje Opseth,Silje Opseth,PER,0.0,0.0,de,1
+Diablo Immortal,Diablo Immortal,PER,0.0,0.0,de,1
+Oskar Belton,Oskar Belton,PER,0.0,0.0,de,1
 Tobias Kratzer,Tobias Kratzer,PER,0.0,0.0,de,1
+Peter Hacks,Peter Hacks,PER,0.0,0.0,de,1
+Johann Wolfgang von Goethe,Johann Wolfgang von Goethe,PER,0.0,0.0,de,1
+Burkhard Lohr,Burkhard Lohr,PER,0.0,0.0,de,1
+N‘Golo Kanté,N‘Golo Kanté,PER,-0.7,0.0,de,1
+nix Einfacheres,nix Einfacheres,PER,0.0,0.0,de,1
+Marie-Luise Vollbrecht,Marie-Luise Vollbrecht,PER,0.7,0.0,de,1
+Maximilian Mechler,Maximilian Mechler,PER,0.0,0.0,de,1
+Regina Giovanna«,Regina Giovanna«,PER,0.0,0.0,de,1
+Petra V,Petra V,PER,0.0,0.0,de,1
+Heilige Martin,Heilige Martin,PER,0.7,0.0,de,1
+John Kerry,John Kerry,PER,0.0,0.0,de,1
+Warmes Wetter,Warmes Wetter,PER,-0.7,0.0,de,1
+Journalistenpapst Wolf Schneider,Journalistenpapst Wolf Schneider,PER,0.0,0.0,de,1
 Antje Diekhan,Antje Diekhan,PER,0.2333333333333333,0.6666666666666666,de,1
 Stefanie Hertel,Stefanie Hertel,PER,0.7,0.0,de,1
 Marie Kreutzer,Marie Kreutzer,PER,0.0,0.0,de,1
@@ -582,33 +612,31 @@ Nellie Padulas,Nellie Padulas,PER,0.0,0.0,de,1
 Abdirahman Abdishakur,Abdirahman Abdishakur,PER,0.0,0.0,de,1
 Franziska Tobler,Franziska Tobler,PER,-1.0,0.0,de,1
 Robin Hood,Robin Hood,PER,0.0,0.0,de,1
-Maximilian Mechler,Maximilian Mechler,PER,0.0,0.0,de,1
-Silje Opseth,Silje Opseth,PER,0.0,0.0,de,1
-James Gray,James Gray,PER,0.0,0.0,de,1
-Anne Hathaway,Anne Hathaway,PER,1.0,0.0,de,1
-Hollywoodstar Anne Hathaway,Hollywoodstar Anne Hathaway,PER,0.0,0.0,de,1
-Anne Paq,Anne Paq,PER,-1.0,0.0,de,1
-Triste Bonussaison,Triste Bonussaison,PER,-0.5,0.5,de,1
-nan Russlands,nan Russlands,PER,0.7,0.0,de,1
-Andreas Mundt,Andreas Mundt,PER,-1.0,0.0,de,1
-Serhij Zhadan,Serhij Zhadan,PER,0.0,0.0,de,1
-Sebastian Rießland,Sebastian Rießland,PER,0.6666666666666666,0.3333333333333333,de,1
-Alain Berset,Alain Berset,PER,-0.7,0.0,de,1
-Serge Aubin,Serge Aubin,PER,0.0,0.0,de,1
+Robert Lewandowskis,Robert Lewandowskis,PER,0.0,0.0,de,1
+️ Wintertermine,️ Wintertermine,PER,0.7,0.0,de,1
+Paul Pogba,Paul Pogba,PER,-1.0,0.0,de,1
 Julia S,Julia S,PER,0.0,0.0,de,1
-Anna Woltz,Anna Woltz,PER,0.0,0.0,de,1
-Lisa-Maria Kellermayr,Lisa-Maria Kellermayr,PER,-0.5,0.5,de,1
-Frank Kramer,Frank Kramer,PER,0.0,0.0,de,1
-Fatih Birol,Fatih Birol,PER,0.0,0.0,de,1
-Gretas K,Gretas K,PER,0.0,0.0,de,1
 Greta Thunbergs,Greta Thunbergs,PER,0.0,0.0,de,1
+Gretas K,Gretas K,PER,0.0,0.0,de,1
+Fatih Birol,Fatih Birol,PER,0.0,0.0,de,1
+Frank Kramer,Frank Kramer,PER,0.0,0.0,de,1
+Lisa-Maria Kellermayr,Lisa-Maria Kellermayr,PER,-0.5,0.5,de,1
+Anna Woltz,Anna Woltz,PER,0.0,0.0,de,1
+Serge Aubin,Serge Aubin,PER,0.0,0.0,de,1
+Bosch-Chef Stefan Hartung,Bosch-Chef Stefan Hartung,PER,0.0,0.0,de,1
+Alain Berset,Alain Berset,PER,-0.7,0.0,de,1
+Christine Lagarde,Christine Lagarde,PER,0.0,0.0,de,1
+Lilith Wittmann,Lilith Wittmann,PER,0.0,0.0,de,1
+Floristin Michaela Grandits,Floristin Michaela Grandits,PER,0.7,0.0,de,1
+Lang ists,Lang ists,PER,0.0,0.0,de,1
+Cornelia Kerth,Cornelia Kerth,PER,0.0,0.0,de,1
 Sergej Sobjanin,Sergej Sobjanin,PER,0.0,0.0,de,1
 Rainer Munz,Rainer Munz,PER,0.0,0.0,de,1
 Jens Spahn,Jens Spahn,PER,0.35,0.0,de,1
 Ulrich Eberl,Ulrich Eberl,PER,1.0,0.0,de,1
 Bernd Schröder,Bernd Schröder,PER,0.0,0.0,de,1
+Sebastian Rießland,Sebastian Rießland,PER,0.6666666666666666,0.3333333333333333,de,1
 Herunterfallendes Laub,Herunterfallendes Laub,PER,0.0,0.0,de,1
-Abdirahman Ahmed,Abdirahman Ahmed,PER,0.0,0.0,de,1
 Facebook-Chef Mark Zuckerberg,Facebook-Chef Mark Zuckerberg,PER,0.7,0.0,de,1
 Antoine de Saint-Exupéry,Antoine de Saint-Exupéry,PER,0.0,0.0,de,1
 Dietrich Mateschitz,Dietrich Mateschitz,PER,0.0,0.0,de,1
@@ -619,14 +647,16 @@ Tatjana Gürbaca,Tatjana Gürbaca,PER,1.0,0.0,de,1
 Leoš Janáčeks,Leoš Janáčeks,PER,1.0,0.0,de,1
 Fliegenden Holländer,Fliegenden Holländer,PER,0.7,0.0,de,1
 Wieland Wagner,Wieland Wagner,PER,0.0,0.0,de,1
-Diablo Immortal,Diablo Immortal,PER,0.0,0.0,de,1
-Dominik Kahun,Dominik Kahun,PER,0.0,0.0,de,1
-Igor Kobsew,Igor Kobsew,PER,0.0,0.0,de,1
-Ralf Kellerma,Ralf Kellerma,PER,0.0,0.0,de,1
-Christine Lagarde,Christine Lagarde,PER,0.0,0.0,de,1
-Lilith Wittmann,Lilith Wittmann,PER,0.0,0.0,de,1
-Floristin Michaela Grandits,Floristin Michaela Grandits,PER,0.7,0.0,de,1
-Lang ists,Lang ists,PER,0.0,0.0,de,1
+Nathalie Steinert,Nathalie Steinert,PER,0.0,0.0,de,1
+Ex-Aue-Trainer Stipic,Ex-Aue-Trainer Stipic,PER,-1.0,0.0,de,1
+Herbert Diess,Herbert Diess,PER,0.0,0.0,de,1
+Ottmar Edenhofer,Ottmar Edenhofer,PER,0.0,0.0,de,1
+Stefan Beier,Stefan Beier,PER,0.7,0.0,de,1
+Sergej Schoigu,Sergej Schoigu,PER,0.7,0.0,de,1
+nan Russlands,nan Russlands,PER,0.7,0.0,de,1
+Stephen Fry,Stephen Fry,PER,0.0,0.0,de,1
+Andreas Mundt,Andreas Mundt,PER,-1.0,0.0,de,1
+Abdirahman Ahmed,Abdirahman Ahmed,PER,0.0,0.0,de,1
 Lilja Rupprecht,Lilja Rupprecht,PER,0.0,0.0,de,1
 Kerstin Köppen,Kerstin Köppen,PER,1.0,0.0,de,1
 Mareike Dudwiesus,Mareike Dudwiesus,PER,-0.7,0.0,de,1
@@ -635,8 +665,8 @@ Sadiq Khan,Sadiq Khan,PER,-1.0,0.0,de,1
 Luiz Inácio Lula da Silvas,Luiz Inácio Lula da Silvas,PER,0.0,0.0,de,1
 Lula da Silva,Lula da Silva,PER,1.0,0.0,de,1
 Naomi Klein,Naomi Klein,PER,1.0,0.0,de,1
-Ottmar Edenhofer,Ottmar Edenhofer,PER,0.0,0.0,de,1
 Margaret Atwoods,Margaret Atwoods,PER,0.0,1.0,de,1
+Jim Hackett,Jim Hackett,PER,0.0,0.0,de,1
 Jean Cocteau,Jean Cocteau,PER,0.0,0.0,de,1
 Wirds mo,Wirds mo,PER,0.0,0.0,de,1
 nan Lange,nan Lange,PER,0.0,0.0,de,1
@@ -651,9 +681,4 @@ Gemäde von Monet,Gemäde von Monet,PER,0.0,0.0,de,1
 Jose Luis Gonzalez,Jose Luis Gonzalez,PER,0.0,0.0,de,1
 Sonja Wedmann,Sonja Wedmann,PER,-1.0,0.0,de,1
 Nikolaus Authried,Nikolaus Authried,PER,0.7,0.0,de,1
-Jim Hackett,Jim Hackett,PER,0.0,0.0,de,1
-Herbert Diess,Herbert Diess,PER,0.0,0.0,de,1
-Ex-Aue-Trainer Stipic,Ex-Aue-Trainer Stipic,PER,-1.0,0.0,de,1
-Nathalie Steinert,Nathalie Steinert,PER,0.0,0.0,de,1
-Cornelia Kerth,Cornelia Kerth,PER,0.0,0.0,de,1
 nan nan,nan nan,PER,0.0,0.0,,1
