@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1742859139184008
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1736563981867205
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1649953386081561
+'Herbst',de,Herbst,#9e3215,#9e3215,3,0.16075390988404598
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1560275049308022
 'Laub',de,Herbst,#9e3215,#802d16,3,0.15146022416418
-'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1458051565480755
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1427151666678796
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.086530883477964
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0739706724737316
