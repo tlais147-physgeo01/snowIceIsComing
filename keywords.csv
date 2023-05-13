@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spätfrost',de,Frühling,#679e2c,#477515,2,0.3279950361474784
+'Frühling',de,Frühling,#679e2c,#679e2c,3,0.28041621879487766
 'Gewitter',de,Sommer,#a89216,#c4b03b,2,0.2702105056990758
-'Sommer',de,Sommer,#a89216,#a89216,3,0.24925323962470475
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.2491960295982518
+'Sommer',de,Sommer,#a89216,#a89216,3,0.2492532396247047
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1882476372346601
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1770635076866715
 'Winter',de,Winter,#4287f5,#315fa8,2,0.175521995616066
