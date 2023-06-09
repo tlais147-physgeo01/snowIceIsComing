@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommer',de,Sommer,#a89216,#a89216,1,0.2959178667168661
+'Dürre',de,Sommer,#a89216,#bfba22,2,0.2787695635866295
 'Gewitter',de,Sommer,#a89216,#c4b03b,1,0.2729900445542153
-'Dürre',de,Sommer,#a89216,#bfba22,1,0.252614693524377
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.2353032389941454
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1941606863652427
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1840735923147718
