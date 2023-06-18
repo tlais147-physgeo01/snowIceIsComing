@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.153390246997281
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1479962333126016
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.1030867491781487
+'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.06889549071598913
 'Laub',de,Herbst,#9e3215,#802d16,2,0.0686353905542441
-'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0616415773129284
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0566126013403694
 'Laubfall',de,Herbst,#9e3215,#802d16,1,3.8633839781888297e-05
