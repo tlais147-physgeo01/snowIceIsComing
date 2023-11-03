@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1911745320757686
 'Dürre',de,Sommer,#a89216,#bfba22,3,0.1909171247452426
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1841859087190393
-'Weinlese',de,Herbst,#9e3215,#b55035,2,0.1502944846604088
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1371927355619828
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1343639841797441
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.1305556136227094
+'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1277507169613475
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0850680557361072
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0447117184385719
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0363324535594949
