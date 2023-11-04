@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.3246392144152029
 'Winter',de,Winter,#4287f5,#315fa8,3,0.281348854932076
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.21353460493749835
+'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.2135346049374983
 'Sommer',de,Sommer,#a89216,#a89216,3,0.200474876325774
 'Frühling',de,Frühling,#679e2c,#679e2c,2,0.1947849604483627
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.193737867497405
@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1371927355619828
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1343639841797441
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.1305556136227094
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1277507169613475
+'Weinlese',de,Herbst,#9e3215,#b55035,2,0.12374962552825647
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0850680557361072
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.0420553656727861
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0363324535594949
