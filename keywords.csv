@@ -12,7 +12,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1525609352646349
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1231393824829398
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1193139628383662
-'Spätfrost',de,Frühling,#679e2c,#477515,2,0.105015060061767
+'Spätfrost',de,Frühling,#679e2c,#477515,2,0.08956283105250196
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0662016831516384
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.04461595077978896
+'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0446159507797889
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0146749927797888
