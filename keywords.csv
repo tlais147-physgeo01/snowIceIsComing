@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.2798737146709457
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2423109558226192
+'Winter',de,Winter,#4287f5,#315fa8,3,0.23753361346762084
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2305630390561963
-'Winter',de,Winter,#4287f5,#315fa8,3,0.2254360853629764
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1766165102691129
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1748344818269819
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1732510567454043
