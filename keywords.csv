@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.1716222345494731
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1560587049317965
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1476289728542217
-'Laub',de,Herbst,#9e3215,#802d16,3,0.1221866441321121
+'Laub',de,Herbst,#9e3215,#802d16,3,0.10550930751229527
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.0999722721568661
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.0821930576616086
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0592087417495218
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0129162713384208
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.00092618903124459
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0009261890312445
