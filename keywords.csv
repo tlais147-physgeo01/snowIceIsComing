@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Sommer,#a89216,#bfba22,3,0.1665104250625152
 'Gewitter',de,Sommer,#a89216,#c4b03b,2,0.1664953265234788
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1503237109843135
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.14943220604324087
+'Ernte',de,Herbst,#9e3215,#d64118,3,0.1494322060432408
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1081566477008352
 'Laub',de,Herbst,#9e3215,#802d16,3,0.0905834963854509
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0771658629161099
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.0769402585262081
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0213714702679609
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0079322051357075
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0003493117445108
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.00029691498283418
