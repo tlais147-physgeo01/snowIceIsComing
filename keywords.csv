@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Dürre',de,Sommer,#a89216,#bfba22,3,0.1527748632792792
 'Sommer',de,Sommer,#a89216,#a89216,2,0.1484182358907119
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1219475689316993
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.0988087821463839
 'Laub',de,Herbst,#9e3215,#802d16,3,0.0964217891989028
+'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.08668773482442632
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0714097512584647
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0392759026019355
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0085614413643317
