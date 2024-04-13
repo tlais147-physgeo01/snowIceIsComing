@@ -14,5 +14,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.0866877348244263
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0794448823003562
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.0562535699258915
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0299132339731862
-'Laubfall',de,Herbst,#9e3215,#802d16,1,2.2046259995137892e-05
+'Spätfrost',de,Frühling,#679e2c,#477515,1,0.02602630887720827
+'Laubfall',de,Herbst,#9e3215,#802d16,1,2.204625999513789e-05
