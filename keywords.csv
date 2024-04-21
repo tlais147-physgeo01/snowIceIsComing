@@ -15,4 +15,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.0866877348244263
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.063259986443958
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0609231140356751
-'Laubfall',de,Herbst,#9e3215,#802d16,1,1.8739320995867204e-05
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.00016594342284648712
