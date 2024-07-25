@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.4633080296519832
-'Sommer',de,Sommer,#a89216,#a89216,3,0.27428409147502486
+'Sommer',de,Sommer,#a89216,#a89216,3,0.2742840914750248
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2347150706690074
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1959925219126342
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1600304920541662
@@ -14,5 +14,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.071473814816212
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0599747224678749
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0581072580676109
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0309451049076286
+'Spätfrost',de,Frühling,#679e2c,#477515,1,0.027203429171484307
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0001594749111461
