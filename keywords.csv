@@ -14,5 +14,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese',de,Herbst,#9e3215,#b55035,2,0.1074409151038241
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.106185607415577
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.0889284248224067
+'Laubfall',de,Herbst,#9e3215,#802d16,2,0.07606372423741889
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0554877819538488
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0008984638087281
