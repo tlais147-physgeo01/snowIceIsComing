@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Laubfall',de,Herbst,#9e3215,#802d16,2,0.2752945438961186
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2443074316952765
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.23400039231170083
 'Laub',de,Herbst,#9e3215,#802d16,3,0.198332918746047
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1834589416967255
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1805925698056231
