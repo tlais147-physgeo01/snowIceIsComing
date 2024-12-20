@@ -38,11 +38,17 @@ def checkGithubOrganization():
     print(['Org',gitOrg,'Repo',gitRepo])
     if(gitOrg):
       test1 = inqUrl('https://api.github.com/users/'+gitOrg)
-      print(test1)
+      print(test1)    # check for 'type': 'Organization', 'user_view_type': 'public'
       test2 = inqUrl('https://api.github.com/orgs/'+gitOrg+'/members')
       print(test2)
     else:
       print('Running locally?') 
+    htmlReq = requests.get('https://github.com/orgs/'+gitOrg+'/people')
+    if(htmlReq.text):
+      print(htmlReq.text)
+    else:
+      print('people list failed')
+
 
 checkGithubOrganization()
 
