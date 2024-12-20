@@ -19,6 +19,7 @@ import de_core_news_md
 from textblob_de import TextBlobDE
 
 nlp = de_core_news_md.load()
+nltk.download('punkt_tab')
 nltk.download('punkt')
 
 
