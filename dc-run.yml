@@ -1,0 +1,27 @@
+version: '2'
+services:
+ 
+  cre-glue:
+    image: credocker/creglue:2024.0
+    container_name: creglue
+    volumes:
+     - /var/run/docker.sock:/tmp/docker.sock:ro
+
+
+  cre-ml:
+   image: credocker/creml:2024.0
+   container_name: creml
+ #  network_mode: host
+   volumes:
+    - ./volumes/python:/cre/python
+
+
+  
+# docker stop $(docker ps -a -q)
+# docker rm $(docker ps -a -q)
+# docker system prune -f
+# docker-compose  --file dc-ml.yml up -d
+# sudo /home/kmicha/anaconda3/bin/docker-compose  --file dc-ml.yml up -d
+# (sudo) docker exec creml python3 code/main.py
+# sudo docker container run --volume ./:/cre/code credocker/crecoding:2024.0 /cre/code/diagrams.py
+# sudo docker exec creml python3 /cre/python/cnn.py

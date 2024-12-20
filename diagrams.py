@@ -268,9 +268,9 @@ model = NMF(
     solver="mu",
     max_iter=1000,
     #alpha=0.1,
-    alpha_W=0.6,
-    alpha_H=0.7,
-    l1_ratio=0.5,
+    alpha_W=0.07,
+    alpha_H=0.05,
+    l1_ratio=0.4,
 )
 W = model.fit_transform(tfidf)
 plot_top_words(
