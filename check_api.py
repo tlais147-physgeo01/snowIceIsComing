@@ -33,8 +33,8 @@ def checkNewsApi():
 #  'https://api.github.com/orgs/ORG/members'    -> type,url
 
 def checkGithubOrganization():
-    gitOrg = os.getenv('github.repository_owner')
-    gitRepo = os.getenv('github.repository')
+    gitOrg = os.getenv('GITHUB_OWNER')
+    gitRepo = os.getenv('GITHUB_REPO')
     print(['Org',gitOrg,'Repo',gitRepo])
     if(gitOrg):
       test1 = inqUrl('https://api.github.com/users/'+gitOrg)

@@ -30,7 +30,10 @@ jobs:
         run: (cp mysecrets.orig.py mysecrets.py)
       - name: Run check_api
         env:
-            NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+            GITHUB_OWNER: ${{ github.repository_owner }}
+            GITHUB_REPO:  ${{ github.repository }}
+            NEWSAPI_KEY:  ${{ secrets.NEWSAPI_KEY }}
+            
         run: (python3 check_api.py)
       - name: Submit changes       
         uses: EndBug/add-and-commit@v9
