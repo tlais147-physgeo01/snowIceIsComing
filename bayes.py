@@ -58,6 +58,7 @@ newsDf = getNewsDF()
 print(newsDf)   
 
 language = 'ger'
+nltk.download('punkt_tab')
 nltk.download('punkt')
 nltk.download('stopwords')
 tagger = ht.HanoverTagger('morphmodel_'+language+'.pgz')
