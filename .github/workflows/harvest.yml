@@ -20,7 +20,8 @@ jobs:
   docker-run-action:
     runs-on: ubuntu-latest
     container:
-      image: tamboraorg/crecoding:2020.0
+#      image: tamboraorg/crecoding:2020.0
+      image: credocker/crecoding:2024.0
       env:
         NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
       volumes:
