@@ -43,7 +43,7 @@ def checkGithubOrganization():
       print(test2)
     else:
       print('Running locally?') 
-    htmlReq = requests.get('https://github.com/'+gitOrg+)
+    htmlReq = requests.get('https://github.com/'+gitOrg)
     if(htmlReq.text):
       print(htmlReq.text)
     else:
