@@ -102,7 +102,7 @@ def checkGithubOrganization(results=[]):
         results.append("1. Please")
         results.append("2. Logt")
         results.append("3. Assifgn")
-        return (True False) 
+        return (True, False) 
       else:
         results.append(":white_check_mark: Github Organization exists") 
         orgAssigned = False
@@ -113,17 +113,17 @@ def checkGithubOrganization(results=[]):
             orgAssigned = True
         if(orgAssigned):
           results.append(":white_check_mark: Github Organization assigned") 
-          return (True True)  
+          return (True, True)  
         else:
           results.append(":no_entry: Github Organization **not** assigned (or not public):")
           results.append("1. Please")
           results.append("2. Logt")
           results.append("3. Assifgn KMicha")  
-          return (True True)
+          return (True, True)
     else:
       results.append("No check possible: maybe running locally?") 
-      return (False False)
-    return (True True) 
+      return (False, False)
+    return (True, True) 
 
 results=[]
 (runOnGithub, runInOrganization) = checkGithubOrganization(results)
