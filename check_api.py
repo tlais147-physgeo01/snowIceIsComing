@@ -92,7 +92,7 @@ def checkGithubOrganization(results=[]):
           results.append("2. Logt")
           results.append("3. Assifgn")      
     else:
-      print('No check possible: maybe running locally?') 
+      results.append("No check possible: maybe running locally?") 
 
 results=[]
 checkGithubOrganization(results)
@@ -103,7 +103,7 @@ print(results)
 
 f = open("CHECK.md", "w")
 for res in results:
-  f.write(res."  \n")
+  f.write(res+"  \n")
 f.close()
 
 
