@@ -13,6 +13,22 @@ def inqUrl(url):
        jsonData = json.loads(response.text)
    return jsonData
 
+def addSubscribeMessageToResults(results=[], name='', url='', full=False):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    results.append("Subscribe to "+name+" API:")
+    results.append("1. Login and 'Subscribe to Test' at "+url)
+    results.append("2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!") 
+    results.append(" ")
+    if(full):
+        results.append("If it doesn't help, **recheck** the registration and the key entry:") 
+        results.append("1. Please register at https://rapidapi.com/auth/sign-up")
+        results.append("2. Copy your API key from (**X-RapidAPI-Key**) from the [same site]("+url+")")
+        results.append("3. Assign the API key as (new?) organization secret or edit it at https://github.com/organizations/"+gitOrg+"/settings/secrets/actions")       
+        results.append("   * Name:  **RAPIDAPI_KEY** ")
+        results.append("   * Value: **Your key here** ") 
+    return True
+
+## NOT WORKING ANY MORE -> TIMEOUT, 0% Service Level!!
 def inqRapidFreeNews(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
@@ -37,16 +53,7 @@ def inqRapidFreeNews(results=[]):
         if('message' in jsonData):
           if('You are not subscribed to this API.'==jsonData['message']):
             results.append(":no_entry: **Not** subscribed to Free-News")
-            results.append("Subscribe to Free-News API:")
-            results.append("1. Login and 'Subscribe to Test' at https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/playground/apiendpoint_ed63df2b-a536-4f55-b749-564f7716ed69")
-            results.append("2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!") 
-            results.append(" ")
-            results.append("If it doesn't help, **recheck** the registration and the key entry:") 
-            results.append("1. Please register at https://rapidapi.com/auth/sign-up")
-            results.append("2. Copy your API key from (**X-RapidAPI-Key**) from the same site")
-            results.append("3. Assign the API key as new organization secret at https://github.com/organizations/"+gitOrg+"/settings/secrets/actions/new")       
-            results.append("   * Name:  **RAPIDAPI_KEY** ")
-            results.append("   * Value: **Your key here** ") 
+            addSubscribeMessageToResults(results, "Free-News", "https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news")
             return False
         if (('status' in jsonData) and ('ok'==jsonData['status'])):
           results.append(":white_check_mark: Free-News status fine")
@@ -55,15 +62,60 @@ def inqRapidFreeNews(results=[]):
             return True
           else: 
             results.append(":no_entry: Free-News results **not** found")
-
+            results.append("Maybe retry later...?") #?
             return False
         else:
           results.append(":no_entry:  Free-News status **failed**:")
-
+          addSubscribeMessageToResults(results, "Free-News", "https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news")
           return False
     else:
       results.append(":no_entry: Free-News respone **failed**") 
+      results.append("Maybe retry later...?") #?
+      return False
+    return False
 
+def inqRapidGoogleNews22(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    apiKey = os.getenv('RAPIDAPI_KEY')
+    results.append("### RapidAPI: Google-News-22")
+    url = "https://free-news.p.rapidapi.com/v1/search"
+    querystring = {"q":"Klimawandel","language":"de","country":"de"}
+    headers = {
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': "google-news22.p.rapidapi.com"
+        }
+    response = requests.request("GET", url, headers=headers, params=querystring)
+    response.encoding = response.apparent_encoding
+    print(response.text)
+    print(response.status_code)     #400
+    #504 : The request to the API has timed out
+    if((response.text) and (not response.status_code in [204, 500, 504])):
+        results.append(":white_check_mark: Google-News-22 respone fine")
+        text = response.text
+        if(not isinstance(text,str)):
+            text = text.decode("utf-8")
+        jsonData = json.loads(text)
+        if('message' in jsonData):
+          if('You are not subscribed to this API.'==jsonData['message']):
+            results.append(":no_entry: **Not** subscribed to Google-News-22")
+            addSubscribeMessageToResults(results, "Google-News-22", "https://rapidapi.com/bonaipowered/api/google-news22", True)
+            return False
+        if (('status' in jsonData) and ('ok'==jsonData['status'])):
+          results.append(":white_check_mark: Google-News-22 status fine")
+          if (jsonData['total_hits']>0):
+            results.append(":white_check_mark: Google-News-22 results found")
+            return True
+          else: 
+            results.append(":no_entry: Google-News-22 results **not** found")
+            results.append("Maybe retry later...?") #?
+            return False
+        else:
+          results.append(":no_entry:  Google-News-22 status **failed**:")
+          addSubscribeMessageToResults(results, "Google-News-22", "https://rapidapi.com/bonaipowered/api/google-news22", True)
+          return False
+    else:
+      results.append(":no_entry: Google-News-22 respone **failed**") 
+      addSubscribeMessageToResults(results, "Google-News-22", "https://rapidapi.com/bonaipowered/api/google-news22", True)
       return False
     return False
 
@@ -81,7 +133,7 @@ def checkRapidAPI(results=[]):
     if(not apiKeyExists): 
         results.append(":no_entry: RapidAPI key **missing**:")
         results.append("1. Please register at https://rapidapi.com/auth/sign-up")
-        results.append("2. Login and 'Subscribe to Test' at https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/playground/apiendpoint_ed63df2b-a536-4f55-b749-564f7716ed69")
+        results.append("2. Login and 'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/google-news22")
         results.append("3. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!")
         results.append("2. Copy your API key from (**X-RapidAPI-Key**) from the same site")
         results.append("3. Assign the API key as new organization secret at https://github.com/organizations/"+gitOrg+"/settings/secrets/actions/new")       
@@ -199,7 +251,8 @@ if(runInOrganization):
   rapidAPIExists = checkRapidAPI(results)
   results.append("\n---\n")
   if(rapidAPIExists):
-    inqRapidFreeNews(results)
+    inqRapidGoogleNews22(results)
+    #inqRapidFreeNews(results)
     results.append("\n---\n")
     
 #print(results)
