@@ -27,13 +27,27 @@ def inqRapidFreeNews(results=[]):
     response.encoding = response.apparent_encoding
     print(response.text)
     print(response.status_code)     #200
+    #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
         results.append(":white_check_mark: Free-News respone fine")
         text = response.text
         if(not isinstance(text,str)):
             text = text.decode("utf-8")
         jsonData = json.loads(text)
-        if ('ok'==jsonData['status']):
+        if('message' in jsonData):
+          if('You are not subscribed to this API.'==jsonData['message'])
+            results.append(":no_entry: **Not** subscribed to Free-News")
+            results.append("Subscribe to Free-News API:")
+            results.append("1. Login and 'Subscribe to Test' at https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/playground/apiendpoint_ed63df2b-a536-4f55-b749-564f7716ed69")
+            results.append("2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!")      
+            results.append("If it doesn't hlp, recheck registration and key entry:") 
+            results.append("1. Please register at https://rapidapi.com/auth/sign-up")
+            results.append("2. Copy your API key from (**X-RapidAPI-Key**) from the same site")
+            results.append("3. Assign the API key as new organization secret at https://github.com/organizations/"+gitOrg+"/settings/secrets/actions/new")       
+        results.append("   * Name:  **RAPIDAPI_KEY** ")
+        results.append("   * Value: **Your key here** ") 
+            return False
+        if (('status' in jsonData) and ('ok'==jsonData['status'])):
           results.append(":white_check_mark: Free-News status fine")
           if (jsonData['total_hits']>0):
             results.append(":white_check_mark: Free-News results found")
@@ -180,10 +194,14 @@ results=[]
 results.append("\n---\n")
 if(runInOrganization):
   checkNewsApi(results)
+  results.append("\n---\n")
   rapidAPIExists = checkRapidAPI(results)
+  results.append("\n---\n")
   if(rapidAPIExists):
     inqRapidFreeNews(results)
-print(results)
+    results.append("\n---\n")
+    
+#print(results)
 
 if(runOnGithub):
   f = open("CHECK.md", "w")
