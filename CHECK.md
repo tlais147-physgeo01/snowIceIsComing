@@ -6,7 +6,10 @@
   
 ### NewsAPI  
 :white_check_mark: NewsAPI key exists  
+:white_check_mark: NewsAPI respone fine  
 :white_check_mark: NewsAPI status fine  
 :white_check_mark: NewsAPI results found  
 ### RapidAPI  
 :white_check_mark: RapidAPI key exists  
+### RapidAPI: Free-News  
+:no_entry: Free-News respone **failed**  
