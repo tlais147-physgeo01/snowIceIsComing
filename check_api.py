@@ -29,15 +29,21 @@ def inqNewsApi(results=[]):
     else:
       results.append("NewsAPI status failed:")
       results.append("Please recheck the API key and its assignment:")
-        results.append("1. Please register at https://newsapi.org/register")
-        results.append("2. Login and get your API key at https://newsapi.org/account")
-        results.append("3. Assign the API key as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new")         
+      results.append("1. Please register at https://newsapi.org/register")
+      results.append("2. Login and get your API key at https://newsapi.org/account")
+      results.append("3. Assign the API key as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new")         
 
 
 def checkNewsApi(results=[]):
     apiKey = os.getenv('NEWSAPI_KEY')
     results.append("### NewsAPI")
-    if(apiKey == '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'): 
+    apiKeyExists = True
+    if(apiKey):
+      if(apiKey == '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'):
+        apiKeyExists = False
+    else:
+        apiKeyExists = False      
+    if(not apiKeyExists): 
         results.append("NewsAPI key missing:")
         results.append("1. Please register at https://newsapi.org/register")
         results.append("2. Login and get your API key at https://newsapi.org/account")
