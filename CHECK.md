@@ -1,10 +1,11 @@
 ### Github Organization  
-No check possible: maybe running locally?  
+:white_check_mark: Github Organization exists  
+:no_entry: Github Organization **not** assigned (or not public):  
+1. Please  
+2. Logt  
+3. Assifgn  
 ---  
 ### NewsAPI  
-:no_entry: NewsAPI key **missing**:  
-1. Please register at https://newsapi.org/register  
-2. Login and get your API key at https://newsapi.org/account  
-3. Assign the API key as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new  
-   * Name:  NEWSAPI_KEY   
-   * Value: <Your key here>   
+:white_check_mark: NewsAPI key exists  
+NewsAPI status fine  
+:white_check_mark: NewsAPI results found  
