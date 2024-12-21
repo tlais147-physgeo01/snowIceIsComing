@@ -14,6 +14,6 @@
 2. Login and 'Subscribe to Test' at https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/playground/apiendpoint_ed63df2b-a536-4f55-b749-564f7716ed69  
 3. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
 2. Copy your API key from (**X-RapidAPI-Key**) from the same site  
-3. Assign the API key as new organization secret at https://github.com/organizations/'+gitOrg+'/settings/secrets/actions/new  
+3. Assign the API key as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new  
    * Name:  **RAPIDAPI_KEY**   
    * Value: **Your key here**   
