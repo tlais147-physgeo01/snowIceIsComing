@@ -13,6 +13,46 @@ def inqUrl(url):
        jsonData = json.loads(response.text)
    return jsonData
 
+def inqRapidFreeNews(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    apiKey = os.getenv('RAPIDAPI_KEY')
+    results.append("### RapidAPI: Free-News")
+    url = "https://free-news.p.rapidapi.com/v1/search"
+    querystring = {"q":"Klimawandel","lang":"de","page":1,"page_size":"20"}
+    headers = {
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': "free-news.p.rapidapi.com"
+        }
+    response = requests.request("GET", url, headers=headers, params=querystring)
+    response.encoding = response.apparent_encoding
+    print(response.text)
+    print(response.status_code)     #200
+    if((response.text) and (not response.status_code in [204, 500, 504])):
+        results.append(":white_check_mark: Free-News respone fine")
+        text = response.text
+        if(not isinstance(text,str)):
+            text = text.decode("utf-8")
+        jsonData = json.loads(text)
+        if ('ok'==jsonData['status']):
+          results.append(":white_check_mark: Free-News status fine")
+          if (jsonData['total_hits']>0):
+            results.append(":white_check_mark: Free-News results found")
+            return True
+          else: 
+            results.append(":no_entry: Free-News results **not** found")
+
+            return False
+        else:
+          results.append(":no_entry:  Free-News status **failed**:")
+
+          return False
+    else:
+      results.append(":no_entry: Free-News respone **failed**") 
+
+      return False
+    return False
+
+
 def checkRapidAPI(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
@@ -44,6 +84,7 @@ def inqNewsApi(results=[]):
   response = requests.get(url)
   response.encoding = response.apparent_encoding
   if(response.text):
+    results.append(":white_check_mark: NewsAPI respone fine") 
     jsonData = json.loads(response.text)
     if ('ok'==jsonData['status']):
       results.append(":white_check_mark: NewsAPI status fine")
@@ -62,6 +103,15 @@ def inqNewsApi(results=[]):
       results.append("   * Name:  **NEWSAPI_KEY** ")
       results.append("   * Value: **Your key here** ")          
       return False
+  else:
+    results.append(":no_entry: NewsAPI respone failed") 
+    results.append("Please recheck the API key and its assignment:")
+    results.append("1. Please register at https://newsapi.org/register")
+    results.append("2. Login and get your API key at https://newsapi.org/account")
+    results.append("3. Assign the API key as new organization secret at https://github.com/organizations/"+gitOrg+"/settings/secrets/actions/new") 
+    results.append("   * Name:  **NEWSAPI_KEY** ")
+    results.append("   * Value: **Your key here** ")          
+    return False
   return False
 
 def checkNewsApi(results=[]):
@@ -131,6 +181,8 @@ results.append("\n---\n")
 if(runInOrganization):
   checkNewsApi(results)
   rapidAPIExists = checkRapidAPI(results)
+  if(rapidAPIExists):
+    inqRapidFreeNews(results)
 print(results)
 
 if(runOnGithub):
