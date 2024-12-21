@@ -35,7 +35,7 @@ def inqRapidFreeNews(results=[]):
             text = text.decode("utf-8")
         jsonData = json.loads(text)
         if('message' in jsonData):
-          if('You are not subscribed to this API.'==jsonData['message'])
+          if('You are not subscribed to this API.'==jsonData['message']):
             results.append(":no_entry: **Not** subscribed to Free-News")
             results.append("Subscribe to Free-News API:")
             results.append("1. Login and 'Subscribe to Test' at https://rapidapi.com/newscatcher-api-newscatcher-api-default/api/free-news/playground/apiendpoint_ed63df2b-a536-4f55-b749-564f7716ed69")
@@ -44,8 +44,8 @@ def inqRapidFreeNews(results=[]):
             results.append("1. Please register at https://rapidapi.com/auth/sign-up")
             results.append("2. Copy your API key from (**X-RapidAPI-Key**) from the same site")
             results.append("3. Assign the API key as new organization secret at https://github.com/organizations/"+gitOrg+"/settings/secrets/actions/new")       
-        results.append("   * Name:  **RAPIDAPI_KEY** ")
-        results.append("   * Value: **Your key here** ") 
+            results.append("   * Name:  **RAPIDAPI_KEY** ")
+            results.append("   * Value: **Your key here** ") 
             return False
         if (('status' in jsonData) and ('ok'==jsonData['status'])):
           results.append(":white_check_mark: Free-News status fine")
