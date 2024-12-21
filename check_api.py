@@ -23,11 +23,11 @@ def inqNewsApi(results=[]):
     if ('ok'==jsonData['status']):
       results.append("NewsAPI status fine")
       if(jsonData['totalResults']>0):
-         results.append("NewsAPI results found")
+         results.append(":white_check_mark: NewsAPI results found")
       else:
-         results.append("NewsAPI results not found")
+         results.append(":no_entry: NewsAPI results **not** found")
     else:
-      results.append("NewsAPI status failed:")
+      results.append(":no_entry: NewsAPI status **failed**:")
       results.append("Please recheck the API key and its assignment:")
       results.append("1. Please register at https://newsapi.org/register")
       results.append("2. Login and get your API key at https://newsapi.org/account")
@@ -44,14 +44,14 @@ def checkNewsApi(results=[]):
     else:
         apiKeyExists = False      
     if(not apiKeyExists): 
-        results.append("NewsAPI key missing:")
+        results.append(":no_entry: NewsAPI key **missing**:")
         results.append("1. Please register at https://newsapi.org/register")
         results.append("2. Login and get your API key at https://newsapi.org/account")
         results.append("3. Assign the API key as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new")       
         results.append("   * Name:  NEWSAPI_KEY ")
         results.append("   * Value: <Your key here> ")   
     else:
-        results.append("NewsAPI key exists")
+        results.append(":white_check_mark: NewsAPI key exists")
         inqNewsApi(results)  
     return results
 
@@ -71,13 +71,13 @@ def checkGithubOrganization(results=[]):
       orgData = inqUrl('https://api.github.com/users/'+gitOrg)
       #print(orgData)    # check for 'type': 'Organization', 'user_view_type': 'public'
       if(not 'Organization'==orgData['type']):
-        results.append("Github Organization missing:")   
+        results.append(":no_entry: Github Organization **missing**:")   
 
         results.append("1. Please")
         results.append("2. Logt")
         results.append("3. Assifgn") 
       else:
-        results.append("Github Organization exists") 
+        results.append(":white_check_mark: Github Organization exists") 
         orgAssigned = False
         myOrgs = inqUrl('https://api.github.com/users/KMicha/orgs')
         #print(myOrgs) 
@@ -85,9 +85,9 @@ def checkGithubOrganization(results=[]):
           if(org['id']==orgData['id']):
             orgAssigned = True
         if(orgAssigned):
-          results.append("Github Organization assigned")   
+          results.append(":white_check_mark: Github Organization assigned")   
         else:
-          results.append("Github Organization not assigned (or not public):")
+          results.append(":no_entry: Github Organization **not** assigned (or not public):")
           results.append("1. Please")
           results.append("2. Logt")
           results.append("3. Assifgn")      
@@ -103,7 +103,7 @@ print(results)
 
 f = open("CHECK.md", "w")
 for res in results:
-  f.write(res)
+  f.write(res."  \n")
 f.close()
 
 
