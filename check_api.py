@@ -13,17 +13,40 @@ def inqUrl(url):
        jsonData = json.loads(response.text)
    return jsonData
 
+def inqNewsApi(results=[]):
+  apiKey = os.getenv('NEWSAPI_KEY')
+  url = ('https://newsapi.org/v2/everything?q=Klimawandel&language=de&apiKey='+apiKey)
+  response = requests.get(url)
+  response.encoding = response.apparent_encoding
+  if(response.text):
+    jsonData = json.loads(response.text)
+    if ('ok'==jsonData['status']):
+      results.append("NewsAPI status fine")
+      if(jsonData['totalResults']>0):
+         results.append("NewsAPI results found")
+      else:
+         results.append("NewsAPI results not found")
+    else:
+      results.append("NewsAPI status failed:")
+      results.append("Please recheck the API key and its assignment:")
+        results.append("1. Please register at https://newsapi.org/register")
+        results.append("2. Login and get your API key at https://newsapi.org/account")
+        results.append("3. Assign the API key as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new")         
+
 
 def checkNewsApi(results=[]):
     apiKey = os.getenv('NEWSAPI_KEY')
     results.append("### NewsAPI")
     if(apiKey == '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'): 
-        results.append("NewsAPI missing:")
+        results.append("NewsAPI key missing:")
         results.append("1. Please register at https://newsapi.org/register")
         results.append("2. Login and get your API key at https://newsapi.org/account")
         results.append("3. Assign the API key as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new")       
         results.append("   * Name:  NEWSAPI_KEY ")
         results.append("   * Value: <Your key here> ")   
+    else:
+        results.append("NewsAPI key exists")
+        inqNewsApi(results)  
     return results
 
 
@@ -36,11 +59,11 @@ def checkNewsApi(results=[]):
 def checkGithubOrganization(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     gitRepo = os.getenv('GITHUB_REPO')
-    print(['Org',gitOrg,'Repo',gitRepo])
+    #print(['Org',gitOrg,'Repo',gitRepo])
     results.append("### Github Organization")
     if(gitOrg):
       orgData = inqUrl('https://api.github.com/users/'+gitOrg)
-      print(orgData)    # check for 'type': 'Organization', 'user_view_type': 'public'
+      #print(orgData)    # check for 'type': 'Organization', 'user_view_type': 'public'
       if(not 'Organization'==orgData['type']):
         results.append("Github Organization missing:")   
 
@@ -49,11 +72,9 @@ def checkGithubOrganization(results=[]):
         results.append("3. Assifgn") 
       else:
         results.append("Github Organization exists") 
-        #orgMembers = inqUrl('https://api.github.com/orgs/'+gitOrg+'/members')
-        #print(orgMembers)
         orgAssigned = False
         myOrgs = inqUrl('https://api.github.com/users/KMicha/orgs')
-        print(myOrgs) 
+        #print(myOrgs) 
         for org in myOrgs:
           if(org['id']==orgData['id']):
             orgAssigned = True
@@ -69,6 +90,14 @@ def checkGithubOrganization(results=[]):
 
 results=[]
 checkGithubOrganization(results)
+results.append("---")
+checkNewsApi(results)
 print(results)
+
+
+f = open("CHECK.md", "w")
+for res in results:
+  f.write(res)
+f.close()
 
 
