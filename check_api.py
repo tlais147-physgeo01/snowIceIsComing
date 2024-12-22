@@ -88,6 +88,7 @@ def inqRapidDeepTranslate1(results=[]):
         'Content-Type': 'application/json'
         }
     response = requests.post(url, headers=headers, json=querystring)
+    #response = requests.request('POST', url, headers=headers, json=querystring)
     response.encoding = response.apparent_encoding
     print(response.text)
     print(response.status_code)     #200
@@ -105,7 +106,7 @@ def inqRapidDeepTranslate1(results=[]):
             return False
         if ('data' in jsonData):
           results.append(":white_check_mark: Deep-Translate-1 status fine")
-          if ('translations' in jsonData['data']>0):
+          if ('translations' in jsonData['data']):
             results.append(":white_check_mark: Deep-Translate-1 results found")
             return True
           else: 
