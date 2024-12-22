@@ -84,9 +84,10 @@ def inqRapidDeepTranslate1(results=[]):
     querystring = {"q":"Klimawandel","source":"de","target":"en"}
     headers = {
         'x-rapidapi-key': apiKey,
-        'x-rapidapi-host': "deep-translate1.p.rapidapi.com"
+        'x-rapidapi-host': "deep-translate1.p.rapidapi.com",
+        'Content-Type': 'application/json'
         }
-    response = requests.request("POST", url, headers=headers, json=querystring)
+    response = requests.post(url, headers=headers, json=querystring)
     response.encoding = response.apparent_encoding
     print(response.text)
     print(response.status_code)     #200
@@ -465,10 +466,12 @@ def checkGithubOrganization(results=[]):
       #print(orgData)    # check for 'type': 'Organization', 'user_view_type': 'public'
       if(not 'Organization'==orgData['type']):
         results.append(":no_entry: Github Organization **missing**:")   
-
-        results.append("1. Please")
-        results.append("2. Logt")
-        results.append("3. Assifgn")
+        results.append("1. Create new organization at https://github.com/account/organizations/new?plan=free")
+        results.append("2. Organization name could be i.e.: "+gitOrg+"Org")
+        results.append("3. Organization belongs to 'My personal account'")
+        results.append("4. No add-ons")
+        results.append("5. Accept Terms")
+        results.append("6. Fork again - in your new organization!")
         ## REFORK
         return (True, False) 
       else:
@@ -484,9 +487,9 @@ def checkGithubOrganization(results=[]):
           return (True, True)  
         else:
           results.append(":no_entry: Github Organization **not** assigned (or not public):")
-          results.append("1. Please")
-          results.append("2. Logt")
-          results.append("3. Assifgn KMicha")  
+          results.append("1. Goto https://github.com/orgs/"+gitOrg+"/people")
+          results.append("2. Check if KMicha is listed as Members")
+          results.append("3. Else: 'Invite member' KMicha")  
           return (True, True)
     else:
       results.append("No check possible: maybe running locally?") 
