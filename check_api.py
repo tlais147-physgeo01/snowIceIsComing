@@ -74,6 +74,54 @@ def inqRapidFreeNews(results=[]):
       return False
     return False
 
+def inqRapidDeeplTranslator4(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    apiKey = os.getenv('RAPIDAPI_KEY')
+    results.append("### RapidAPI: Deepl-Translator-4")
+    url = "https://deepl-translator4.p.rapidapi.com/api/v1/translate"
+    payload = {"text":"Klimawandel","from":"de","to":"en"}
+    headers = {
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': "deepl-translator4.p.rapidapi.com",
+        'Content-Type': 'application/json'
+        }
+    response = requests.post(url, headers=headers, json=payload)
+    #response = requests.request('POST', url, headers=headers, json=payload)
+    response.encoding = response.apparent_encoding
+    #print(response.text)
+    print(['Deepl-Translator-4', response.status_code])     #200
+    #504 : The request to the API has timed out
+    if((response.text) and (not response.status_code in [204, 500, 504])):
+        results.append(":white_check_mark: Deepl-Translator-4 respone fine")
+        text = response.text
+        if(not isinstance(text,str)):
+            text = text.decode("utf-8")
+        jsonData = json.loads(text)
+        if('message' in jsonData):
+          if('You are not subscribed to this API.'==jsonData['message']):
+            results.append(":no_entry: **Not** subscribed to Deepl-Translator-4")
+            addSubscribeMessageToResults(results, "Deepl-Translator-4", "https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction")
+            return False
+        if ('text' in jsonData):
+          results.append(":white_check_mark: Deepl-Translator-4 status fine")
+          if (jsonData['text']):
+            results.append(":white_check_mark: Deepl-Translator-4 results found")
+            return True
+          else: 
+            results.append(":no_entry: Deepl-Translator-4 results **not** found")
+            results.append("Maybe retry later...?") #?
+            return False
+        else:
+          results.append(":no_entry: Deepl-Translator-4 status **failed**:")
+          addSubscribeMessageToResults(results, "Deepl-Translator-4", "https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction")
+          return False
+    else:
+      results.append(":no_entry: Deepl-Translator-4 respone **failed**") 
+      results.append("Maybe retry later...?") #?
+      return False
+    return False
+
+
 def inqRapidMultiTraductionTranslate(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
@@ -721,6 +769,8 @@ if(runInOrganization):
     inqRapidFreeGoogleTranslator(results)
     results.append("\n---\n") 
     inqRapidMultiTraductionTranslate(results)
+    results.append("\n---\n") 
+    inqRapidDeeplTranslator4(results)
     
 #print(results)
 
