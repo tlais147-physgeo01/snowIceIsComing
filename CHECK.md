@@ -1,3 +1,4 @@
+# BASICS  
 ### Github Organization  
 :white_check_mark: Github Organization exists  
 :white_check_mark: Github Organization assigned  
@@ -25,7 +26,6 @@
 
 ---
   
-### NEWS  
 # NEWS  
 
 ---
@@ -58,14 +58,11 @@
 
 ---
   
-## TRANSLATE  
+# TRANSLATE  
 
 ---
   
 ### RapidAPI: Deep-Translate-1  
 :white_check_mark: Deep-Translate-1 respone fine  
-:no_entry: Deep-Translate-1 status **failed**:  
-Subscribe to Deep-Translate-1 API:  
-1. Login and 'Subscribe to Test' at https://rapidapi.com/gatzuma/api/deep-translate1  
-2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
-   
+:white_check_mark: Deep-Translate-1 status fine  
+:white_check_mark: Deep-Translate-1 results found  
