@@ -41,7 +41,7 @@ def inqRapidFreeNews(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    print(response.text)
+    # print(response.text)
     print(response.status_code)     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -86,7 +86,7 @@ def inqRapidNewsApi14(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    print(response.text)
+    # print(response.text)
     print(response.status_code)     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -131,7 +131,7 @@ def inqRapidGoogleNews22(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    print(response.text)
+    # print(response.text)
     print(response.status_code)     #400
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -176,7 +176,7 @@ def inqRapidGoogleNews25(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    print(response.text)
+    # print(response.text)
     print(response.status_code)     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -221,7 +221,7 @@ def inqRapidRealTimeNews(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    print(response.text)
+    # print(response.text)
     print(response.status_code)     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -392,10 +392,11 @@ def checkGeonamesApi(results=[]):
     if(apiKey):
       if(apiKey == 'demo_demo_123'):
         apiKeyExists = False
+        print('123')
     else:
-        apiKeyExists = False      
+        apiKeyExists = False     
+        print('no key') 
     if(not apiKeyExists): 
-        newGitOrg = gitOrg.replace("-","_")
         results.append(":no_entry: Geonames key **missing**:")
         addRegisterGeonamesToResults(results)
         return False    
