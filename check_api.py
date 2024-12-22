@@ -233,7 +233,7 @@ def inqRapidRealTimeNews(results=[]):
         if('message' in jsonData):
           if('You are not subscribed to this API.'==jsonData['message']):
             results.append(":no_entry: **Not** subscribed to Real-Time-News-Data")
-            addSubscribeMessageToResults(results, "Real-Time-News-Data", "https://rapidapi.com/things4u-api4upro/api/google-news25")
+            addSubscribeMessageToResults(results, "Real-Time-News-Data", "https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-news-data")
             return False
         if (('status' in jsonData) and ('OK'==jsonData['status'])):
           results.append(":white_check_mark: Real-Time-News-Data status fine")
@@ -246,7 +246,7 @@ def inqRapidRealTimeNews(results=[]):
             return False
         else:
           results.append(":no_entry: Real-Time-News-Data status **failed**:")
-          addSubscribeMessageToResults(results, "Real-Time-News-Data", "https://rapidapi.com/things4u-api4upro/api/google-news25")
+          addSubscribeMessageToResults(results, "Real-Time-News-Data", "https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-news-data")
           return False
     else:
       results.append(":no_entry: Real-Time-News-Data respone **failed**") 

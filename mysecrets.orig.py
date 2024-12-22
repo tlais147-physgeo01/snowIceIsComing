@@ -16,8 +16,11 @@ if(not os.getenv('RAPIDAPI_KEY')):
     os.environ['RAPIDAPI_KEY'] = '1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y'
 else:
     print("RAPIDAPI_KEY already set.")
-#
-
+#'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/news-api14
+#'Subscribe to Test' at https://rapidapi.com/bonaipowered/api/google-news22
+#'Subscribe to Test' at https://rapidapi.com/things4u-api4upro/api/google-news25
+#'Subscribe to Test' at https://rapidapi.com/letscrape-6bRBa3QguO5/api/real-time-news-data
+#'Subscribe to Test' at 
 
 ## Get API key: https://rapidapi.com/auth/sign-up
 if(not os.getenv('GEONAMES_KEY')):
