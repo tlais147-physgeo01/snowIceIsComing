@@ -341,6 +341,71 @@ def checkNewsApi(results=[]):
         return True 
     return False
 
+def addRegisterGeonamesToResults(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    newGitOrg = gitOrg.replace("-","_")
+    results.append("1. Please register with username (i.e.: "+newGitOrg+") at https://www.geonames.org/login")
+    results.append("2. Assign the choosen username as new organization secret at https://github.com/organizations/"+gitOrg+"/settings/secrets/actions/new")       
+    results.append("   * Name:  **GEONAMES_KEY** ")
+    results.append("   * Value: **Your username here** ") 
+    return False
+
+def inqGeonamesApi(results=[]):
+  apiKey = os.getenv('GEONAMES_KEY')
+  url = ('http://api.geonames.org/searchJSON?name=Freiburg&country=DE&maxRows=10&username='+apiKey)
+  response = requests.get(url)
+  response.encoding = response.apparent_encoding
+  if(response.text):
+    results.append(":white_check_mark: Geonames respone fine") 
+    jsonData = json.loads(response.text)
+    if('message' in jsonData):
+      if(('credits for demo has been exceeded' in jsonData['message']) or ('user does not exist' in jsonData['message'])):
+        results.append(":no_entry: **Not** registered at Geonames")
+        addRegisterGeonamesToResults(results)
+        return False
+    if ('totalResultsCount' in jsonData):
+      results.append(":white_check_mark: Geonames result fine")
+      if(jsonData['totalResultsCount']>0):
+         results.append(":white_check_mark: Geonames results found")
+         return True
+      else:
+         results.append(":no_entry: Geonames results **not** found")
+         return False
+    else:
+      results.append(":no_entry: Geonames status **failed**:")
+      results.append("Please recheck the API key and its assignment:")
+      addRegisterGeonamesToResults(results)         
+      return False
+  else:
+    results.append(":no_entry: Geonames respone failed") 
+    results.append("Please recheck the API key and its assignment:")
+    addRegisterGeonamesToResults(results)       
+    return False
+  return False
+
+
+def checkGeonamesApi(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    apiKey = os.getenv('GEONAMES_KEY')
+    results.append("### GeonamesAPI")
+    apiKeyExists = True
+    if(apiKey):
+      if(apiKey == 'demo_demo_123'):
+        apiKeyExists = False
+    else:
+        apiKeyExists = False      
+    if(not apiKeyExists): 
+        newGitOrg = gitOrg.replace("-","_")
+        results.append(":no_entry: Geonames key **missing**:")
+        addRegisterGeonamesToResults(results)
+        return False    
+    else:
+        results.append(":white_check_mark: Geonames key exists")
+        inqGeonamesApi(results) 
+        return True 
+    return False
+
+
 def checkGithubOrganization(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     gitRepo = os.getenv('GITHUB_REPO')
@@ -355,6 +420,7 @@ def checkGithubOrganization(results=[]):
         results.append("1. Please")
         results.append("2. Logt")
         results.append("3. Assifgn")
+        ## REFORK
         return (True, False) 
       else:
         results.append(":white_check_mark: Github Organization exists") 
@@ -383,6 +449,8 @@ results=[]
 results.append("\n---\n")
 if(runInOrganization):
   checkNewsApi(results)
+  results.append("\n---\n")
+  checkGeonamesApi(results)
   results.append("\n---\n")
   rapidAPIExists = checkRapidAPI(results)
   results.append("\n---\n")
