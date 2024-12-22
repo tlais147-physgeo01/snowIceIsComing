@@ -74,6 +74,53 @@ def inqRapidFreeNews(results=[]):
       return False
     return False
 
+def inqRapidTextTranslator2(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    apiKey = os.getenv('RAPIDAPI_KEY')
+    results.append("### RapidAPI: Text-Translator-2")
+    url = "https://text-translator2.p.rapidapi.com/translate"
+    payload = {"text":"Klimawandel","source_language":"de","target_language":"en"}
+    headers = {
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': "text-translator2.p.rapidapi.com",
+        'Content-Type': 'application/json'
+        }
+    response = requests.post(url, headers=headers, json=payload)
+    #response = requests.request('POST', url, headers=headers, json=payload)
+    response.encoding = response.apparent_encoding
+    #print(response.text)
+    print(['Text-Translator-2', response.status_code])     #200
+    #504 : The request to the API has timed out
+    if((response.text) and (not response.status_code in [204, 500, 504])):
+        results.append(":white_check_mark: Text-Translator-2 respone fine")
+        text = response.text
+        if(not isinstance(text,str)):
+            text = text.decode("utf-8")
+        jsonData = json.loads(text)
+        if('message' in jsonData):
+          if('You are not subscribed to this API.'==jsonData['message']):
+            results.append(":no_entry: **Not** subscribed to Text-Translator-2")
+            addSubscribeMessageToResults(results, "Text-Translator-2", "https://rapidapi.com/dickyagustin/api/text-translator2")
+            return False
+        if ('data' in jsonData):
+          results.append(":white_check_mark: Text-Translator-2 status fine")
+          if ('translatedText' in jsonData['data']):
+            results.append(":white_check_mark: Text-Translator-2 results found")
+            return True
+          else: 
+            results.append(":no_entry: Text-Translator-2 results **not** found")
+            results.append("Maybe retry later...?") #?
+            return False
+        else:
+          results.append(":no_entry: Text-Translator-2 status **failed**:")
+          addSubscribeMessageToResults(results, "Text-Translator-2", "https://rapidapi.com/dickyagustin/api/text-translator2")
+          return False
+    else:
+      results.append(":no_entry: Text-Translator-2 respone **failed**") 
+      results.append("Maybe retry later...?") #?
+      return False
+    return False
+
 def inqRapidMicroTranslate3(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
@@ -571,7 +618,9 @@ if(runInOrganization):
     results.append("\n---\n") 
     inqRapidDeepTranslate1(results)
     results.append("\n---\n") 
-    inqRapidMicroTranslate3
+    inqRapidMicroTranslate3(results)
+    results.append("\n---\n") 
+    inqRapidTextTranslator2(results)
     
 #print(results)
 
