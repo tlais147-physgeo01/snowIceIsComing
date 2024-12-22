@@ -74,6 +74,54 @@ def inqRapidFreeNews(results=[]):
       return False
     return False
 
+def inqRapidFreeGoogleTranslator(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    apiKey = os.getenv('RAPIDAPI_KEY')
+    results.append("### RapidAPI: Free-Google-Translator")
+    url = "https://free-google-translator.p.rapidapi.com/external-api/free-google-translator"
+    querystring = {"query":"Klimawandel","from":"de","to":"en"}
+    payload = {"translate":"rapidapi"}
+    headers = {
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': "free-google-translator.p.rapidapi.com",
+        'Content-Type': 'application/json'
+        }
+    response = requests.post(url, headers=headers, json=payload, params=querystring)
+    #response = requests.request('POST', url, headers=headers, json=querystring)
+    response.encoding = response.apparent_encoding
+    print(response.text)
+    print(['Free-Google-Translator', response.status_code])     #200
+    #504 : The request to the API has timed out
+    if((response.text) and (not response.status_code in [204, 500, 504])):
+        results.append(":white_check_mark: Free-Google-Translator respone fine")
+        text = response.text
+        if(not isinstance(text,str)):
+            text = text.decode("utf-8")
+        jsonData = json.loads(text)
+        if('message' in jsonData):
+          if('You are not subscribed to this API.'==jsonData['message']):
+            results.append(":no_entry: **Not** subscribed to Free-Google-Translator")
+            addSubscribeMessageToResults(results, "Free-Google-Translator", "https://rapidapi.com/joshimuddin8212/api/free-google-translator")
+            return False
+        if ('translateTo' in jsonData):
+          results.append(":white_check_mark: Free-Google-Translator status fine")
+          if ('translation' in jsonData):
+            results.append(":white_check_mark: Free-Google-Translator results found")
+            return True
+          else: 
+            results.append(":no_entry: Free-Google-Translator results **not** found")
+            results.append("Maybe retry later...?") #?
+            return False
+        else:
+          results.append(":no_entry: Free-Google-Translator status **failed**:")
+          addSubscribeMessageToResults(results, "Free-Google-Translator", "https://rapidapi.com/joshimuddin8212/api/free-google-translator")
+          return False
+    else:
+      results.append(":no_entry: Free-Google-Translator respone **failed**") 
+      results.append("Maybe retry later...?") #?
+      return False
+    return False
+
 def inqRapidTextTranslator2(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
@@ -83,9 +131,9 @@ def inqRapidTextTranslator2(results=[]):
     headers = {
         'x-rapidapi-key': apiKey,
         'x-rapidapi-host': "text-translator2.p.rapidapi.com",
-        'Content-Type': 'application/json'
+        'Content-Type': 'application/x-www-form-urlencoded'
         }
-    response = requests.post(url, headers=headers, json=payload)
+    response = requests.post(url, headers=headers, data=payload)
     #response = requests.request('POST', url, headers=headers, json=payload)
     response.encoding = response.apparent_encoding
     #print(response.text)
@@ -621,6 +669,8 @@ if(runInOrganization):
     inqRapidMicroTranslate3(results)
     results.append("\n---\n") 
     inqRapidTextTranslator2(results)
+    results.append("\n---\n") 
+    inqRapidFreeGoogleTranslator
     
 #print(results)
 
