@@ -12,6 +12,15 @@
 
 ---
   
+### GeonamesAPI  
+:no_entry: Geonames key **missing**:  
+1. Please register with username (i.e.: newsWhisperer) at https://www.geonames.org/login  
+2. Assign the choosen username as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new  
+   * Name:  **GEONAMES_KEY**   
+   * Value: **Your username here**   
+
+---
+  
 ### RapidAPI  
 :white_check_mark: RapidAPI key exists  
 
