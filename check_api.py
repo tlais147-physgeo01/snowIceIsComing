@@ -74,6 +74,54 @@ def inqRapidFreeNews(results=[]):
       return False
     return False
 
+
+
+def inqRapidDeepTranslate1(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    apiKey = os.getenv('RAPIDAPI_KEY')
+    results.append("### RapidAPI: Deep-Translate-1")
+    url = "https://free-news.p.rapidapi.com/language/translate/v2"
+    querystring = {"q":"Klimawandel","source":"de","target":"en"}
+    headers = {
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': "deep-translate1.p.rapidapi.com"
+        }
+    response = requests.request("POST", url, headers=headers, data=querystring)
+    response.encoding = response.apparent_encoding
+    print(response.text)
+    print(response.status_code)     #200
+    #504 : The request to the API has timed out
+    if((response.text) and (not response.status_code in [204, 500, 504])):
+        results.append(":white_check_mark: Deep-Translate-1 respone fine")
+        text = response.text
+        if(not isinstance(text,str)):
+            text = text.decode("utf-8")
+        jsonData = json.loads(text)
+        if('message' in jsonData):
+          if('You are not subscribed to this API.'==jsonData['message']):
+            results.append(":no_entry: **Not** subscribed to Deep-Translate-1")
+            addSubscribeMessageToResults(results, "Deep-Translate-1", "https://rapidapi.com/gatzuma/api/deep-translate1")
+            return False
+        if ('data' in jsonData):
+          results.append(":white_check_mark: Deep-Translate-1 status fine")
+          if ('translations' in jsonData['data']>0):
+            results.append(":white_check_mark: Deep-Translate-1 results found")
+            return True
+          else: 
+            results.append(":no_entry: Deep-Translate-1 results **not** found")
+            results.append("Maybe retry later...?") #?
+            return False
+        else:
+          results.append(":no_entry: Deep-Translate-1 status **failed**:")
+          addSubscribeMessageToResults(results, "Deep-Translate-1", "https://rapidapi.com/gatzuma/api/deep-translate1")
+          return False
+    else:
+      results.append(":no_entry: Deep-Translate-1 respone **failed**") 
+      results.append("Maybe retry later...?") #?
+      return False
+    return False
+
+
 def inqRapidNewsApi14(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
@@ -457,6 +505,9 @@ if(runInOrganization):
   results.append("\n---\n")
   if(rapidAPIExists):
     ## NEWS:
+    results.append("### NEWS")
+    results.append("# NEWS")
+    results.append("\n---\n") 
     inqRapidGoogleNews22(results)
     results.append("\n---\n")
     #inqRapidFreeNews(results)
@@ -466,6 +517,9 @@ if(runInOrganization):
     results.append("\n---\n")
     inqRapidRealTimeNews(results)
     results.append("\n---\n")
+    results.append("## TRANSLATE")
+    results.append("\n---\n") 
+    inqRapidDeepTranslate1(results)
     
 #print(results)
 
