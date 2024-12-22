@@ -133,7 +133,7 @@ def inqRapidMicroTranslate3(results=[]):
         'x-rapidapi-host': "microsoft-translator-text-api3.p.rapidapi.com",
         'Content-Type': 'application/json'
         }
-    response = requests.post(url, headers=headers, json=querystring)
+    response = requests.post(url, headers=headers, json=payload, params=querystring)
     #response = requests.request('POST', url, headers=headers, json=querystring)
     response.encoding = response.apparent_encoding
     print(response.text)
