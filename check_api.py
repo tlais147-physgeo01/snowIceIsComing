@@ -74,24 +74,70 @@ def inqRapidFreeNews(results=[]):
       return False
     return False
 
-
-
-def inqRapidDeepTranslate1(results=[]):
+def inqRapidMicroTranslate3(results=[]):
     gitOrg = os.getenv('GITHUB_OWNER')
     apiKey = os.getenv('RAPIDAPI_KEY')
-    results.append("### RapidAPI: Deep-Translate-1")
-    url = "https://free-news.p.rapidapi.com/language/translate/v2"
-    querystring = {"q":"Klimawandel","source":"de","target":"en"}
+    results.append("### RapidAPI: Microsoft-Translator-3")
+    url = "https://microsoft-translator-text-api3.p.rapidapi.com/translate"
+    querystring = {"textType":"plain","from":"de","to":"en"}
+    payload = [{"text":"Klimawandel"}]
     headers = {
         'x-rapidapi-key': apiKey,
-        'x-rapidapi-host': "deep-translate1.p.rapidapi.com",
+        'x-rapidapi-host': "microsoft-translator-text-api3.p.rapidapi.com",
         'Content-Type': 'application/json'
         }
     response = requests.post(url, headers=headers, json=querystring)
     #response = requests.request('POST', url, headers=headers, json=querystring)
     response.encoding = response.apparent_encoding
     print(response.text)
-    print(response.status_code)     #200
+    print(['Microsoft-Translator-3', response.status_code])     #200
+    #504 : The request to the API has timed out
+    if((response.text) and (not response.status_code in [204, 500, 504])):
+        results.append(":white_check_mark: Microsoft-Translator-3 respone fine")
+        text = response.text
+        if(not isinstance(text,str)):
+            text = text.decode("utf-8")
+        jsonData = json.loads(text)
+        if('message' in jsonData):
+          if('You are not subscribed to this API.'==jsonData['message']):
+            results.append(":no_entry: **Not** subscribed to Microsoft-Translator-3")
+            addSubscribeMessageToResults(results, "Microsoft-Translator-3", "https://rapidapi.com/apiship-apiship-default/api/microsoft-translator-text-api3")
+            return False
+        if (len(jsonData)>0):
+          results.append(":white_check_mark: Microsoft-Translator-3 status fine")
+          if ('translations' in jsonData[0]):
+            results.append(":white_check_mark: Microsoft-Translator-3 results found")
+            return True
+          else: 
+            results.append(":no_entry: Microsoft-Translator-3 results **not** found")
+            results.append("Maybe retry later...?") #?
+            return False
+        else:
+          results.append(":no_entry: Microsoft-Translator-3 status **failed**:")
+          addSubscribeMessageToResults(results, "Deep-Translate-1", "https://rapidapi.com/apiship-apiship-default/api/microsoft-translator-text-api3")
+          return False
+    else:
+      results.append(":no_entry: Microsoft-Translator-3 respone **failed**") 
+      results.append("Maybe retry later...?") #?
+      return False
+    return False
+
+def inqRapidDeepTranslate1(results=[]):
+    gitOrg = os.getenv('GITHUB_OWNER')
+    apiKey = os.getenv('RAPIDAPI_KEY')
+    results.append("### RapidAPI: Deep-Translate-1")
+    url = "https://free-news.p.rapidapi.com/language/translate/v2"
+    payload = {"q":"Klimawandel","source":"de","target":"en"}
+    headers = {
+        'x-rapidapi-key': apiKey,
+        'x-rapidapi-host': "deep-translate1.p.rapidapi.com",
+        'Content-Type': 'application/json'
+        }
+    response = requests.post(url, headers=headers, json=payload)
+    #response = requests.request('POST', url, headers=headers, json=payload)
+    response.encoding = response.apparent_encoding
+    #print(response.text)
+    print(['Deep-Translate-1', response.status_code])     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
         results.append(":white_check_mark: Deep-Translate-1 respone fine")
@@ -524,6 +570,8 @@ if(runInOrganization):
     results.append("# TRANSLATE")
     results.append("\n---\n") 
     inqRapidDeepTranslate1(results)
+    results.append("\n---\n") 
+    inqRapidMicroTranslate3
     
 #print(results)
 
