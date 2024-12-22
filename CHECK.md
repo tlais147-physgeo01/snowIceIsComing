@@ -66,3 +66,6 @@
 :white_check_mark: Deep-Translate-1 respone fine  
 :white_check_mark: Deep-Translate-1 status fine  
 :white_check_mark: Deep-Translate-1 results found  
+
+---
+  
