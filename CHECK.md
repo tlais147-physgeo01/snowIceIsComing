@@ -13,11 +13,10 @@
 ---
   
 ### GeonamesAPI  
-:no_entry: Geonames key **missing**:  
-1. Please register with username (i.e.: newsWhisperer) at https://www.geonames.org/login  
-2. Assign the choosen username as new organization secret at https://github.com/organizations/newsWhisperer/settings/secrets/actions/new  
-   * Name:  **GEONAMES_KEY**   
-   * Value: **Your username here**   
+:white_check_mark: Geonames key exists  
+:white_check_mark: Geonames respone fine  
+:white_check_mark: Geonames result fine  
+:white_check_mark: Geonames results found  
 
 ---
   
