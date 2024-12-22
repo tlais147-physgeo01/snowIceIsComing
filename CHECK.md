@@ -83,3 +83,14 @@
 
 ---
   
+### RapidAPI: Free-Google-Translator  
+:white_check_mark: Free-Google-Translator respone fine  
+:white_check_mark: Free-Google-Translator status fine  
+:white_check_mark: Free-Google-Translator results found  
+
+---
+  
+### RapidAPI: Multi-Traduction-Translate  
+:white_check_mark: Multi-Traduction-Translate respone fine  
+:white_check_mark: Multi-Traduction-Translate status fine  
+:white_check_mark: Multi-Traduction-Translate results found  
