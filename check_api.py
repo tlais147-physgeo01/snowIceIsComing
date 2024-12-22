@@ -86,7 +86,7 @@ def inqRapidDeepTranslate1(results=[]):
         'x-rapidapi-key': apiKey,
         'x-rapidapi-host': "deep-translate1.p.rapidapi.com"
         }
-    response = requests.request("POST", url, headers=headers, data=querystring)
+    response = requests.request("POST", url, headers=headers, json=querystring)
     response.encoding = response.apparent_encoding
     print(response.text)
     print(response.status_code)     #200
@@ -494,6 +494,7 @@ def checkGithubOrganization(results=[]):
     return (True, True) 
 
 results=[]
+results.append("# BASICS")
 (runOnGithub, runInOrganization) = checkGithubOrganization(results)
 results.append("\n---\n")
 if(runInOrganization):
@@ -505,7 +506,6 @@ if(runInOrganization):
   results.append("\n---\n")
   if(rapidAPIExists):
     ## NEWS:
-    results.append("### NEWS")
     results.append("# NEWS")
     results.append("\n---\n") 
     inqRapidGoogleNews22(results)
@@ -517,7 +517,7 @@ if(runInOrganization):
     results.append("\n---\n")
     inqRapidRealTimeNews(results)
     results.append("\n---\n")
-    results.append("## TRANSLATE")
+    results.append("# TRANSLATE")
     results.append("\n---\n") 
     inqRapidDeepTranslate1(results)
     
