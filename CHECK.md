@@ -69,3 +69,17 @@
 
 ---
   
+### RapidAPI: Microsoft-Translator-3  
+:white_check_mark: Microsoft-Translator-3 respone fine  
+:white_check_mark: Microsoft-Translator-3 status fine  
+:white_check_mark: Microsoft-Translator-3 results found  
+
+---
+  
+### RapidAPI: Text-Translator-2  
+:white_check_mark: Text-Translator-2 respone fine  
+:no_entry: Text-Translator-2 status **failed**:  
+Subscribe to Text-Translator-2 API:  
+1. Login and 'Subscribe to Test' at https://rapidapi.com/dickyagustin/api/text-translator2  
+2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
+   
