@@ -94,3 +94,10 @@
 :white_check_mark: Multi-Traduction-Translate respone fine  
 :white_check_mark: Multi-Traduction-Translate status fine  
 :white_check_mark: Multi-Traduction-Translate results found  
+
+---
+  
+### RapidAPI: Deepl-Translator-4  
+:white_check_mark: Deepl-Translator-4 respone fine  
+:white_check_mark: Deepl-Translator-4 status fine  
+:white_check_mark: Deepl-Translator-4 results found  
