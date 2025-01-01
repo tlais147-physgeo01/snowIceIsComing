@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.36206710740145637
+'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.3620671074014563
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2419355300102501
-'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.1936050387214809
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1897138849162657
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.186897218589287
+'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.16891570791325877
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1562395933129798
 'Dürre',de,Sommer,#a89216,#bfba22,3,0.1542301245946092
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1527178610269955
