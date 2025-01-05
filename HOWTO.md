@@ -40,15 +40,13 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 ![image of organisations](images/gh_org_action_1.png)
 * pressed *SAVE* ?
 
-
-
 * Choose 'Allow all actions and reusable workflows' at the very top - press SAVE
-![image of organisations](images/gh_org_action_3.png)
+![image of organisations](images/gh_org_action_2.png)
 * pressed *SAVE* ?
 
 
 * Choose below 'Workflow permissions' (at the very bottom) the 'Read and write permissions' - press SAVE
-![image of organisations](images/gh_org_action_2.png)
+![image of organisations](images/gh_org_action_4.png)
 * pressed *SAVE* ?
 
  
