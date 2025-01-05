@@ -2,7 +2,36 @@
 
 The harvester works best with about 20 search-terms (called keyword here) organized below 4-6 topics.
 
-### 1) Register at [newsapi.org](https://newsapi.org/)
+### 1) Register at [github.com](https://github.com/signup)
+
+* Some instructions can be found [here](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
+* Register at  [github.com](https://github.com/signup) with email & password & username  (mine is kmicha)
+* Make sure to register for a free version; well simply don"t enter credit card infos
+* Maybe solve captcha
+* Check eMail and enter verification code
+* Sign in
+
+### 2) Create an organisation at github.com
+
+* Sign in and go to your organization page.
+
+![image of organisations](images/gh_organisation.png)
+
+* Create a new organization with unique name - i.e. choose your username and append '-news', like 'kmicha-news'
+
+![image of organizations](images/gh_new_org.png)
+ 
+* Choose free plan
+* Enter same eMail as for account
+* Choose 'My personal account'
+* Verify Captcha
+* No addons
+* Accept Terms
+* Add me (KMicha) to the organization
+* Customize members permission from 'read' to 'admin'
+
+
+### 2) Register at [newsapi.org](https://newsapi.org/)
 
 * Register at [newsapi.org]([https://newsapi.org](https://newsapi.org/register) with email & password
 
@@ -15,22 +44,8 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 * Verify your email
 * Get your API key from your [account](https://newsapi.org/account) and copy it. Should look something like '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'.
 
-### 2) Register at [github.com]()
 
-* Some instructions can be found [here](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
-* Get your free [account](https://github.com/join) with username (mine is 'kmicha'), email & password
-* Make sure to register for a free version; well simply don"t enter credit card infos
-* Verify your email
 
-### 3) Create an organisation at github.com
-
-* Sign in and go to your organization page.
-
-![image of organisations](images/gh_organisation.png)
-
-* Create a new organization with unique name - i.e. choose your username and append '-news', like 'kmicha-news'
-
-![image of organizations](images/gh_new_org.png)
 
 ### 4) Fork the [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing) repository to your new organization
 
