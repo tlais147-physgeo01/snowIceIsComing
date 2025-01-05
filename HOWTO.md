@@ -30,6 +30,29 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 * Add me (KMicha) to the organization
 * Customize members permission from 'read' to 'admin'
 
+### 2) Change settings of organisation for actions at github.com
+
+* Go to settings
+
+![image of organisations](images/gh_org_settings.png)
+
+* Open below 'Code, Planning, and automation' the 'Action' section and press 'General' - press SAVE
+![image of organisations](images/gh_org_action_1.png)
+* pressed *SAVE* ?
+
+
+
+* Choose 'Allow all actions and reusable workflows' at the very top - press SAVE
+![image of organisations](images/gh_org_action_3.png)
+* pressed *SAVE* ?
+
+
+* Choose below 'Workflow permissions' (at the very bottom) the 'Read and write permissions' - press SAVE
+![image of organisations](images/gh_org_action_2.png)
+* pressed *SAVE* ?
+
+ 
+
 ### 3) Fork the [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing) repository to your new organization
 
 * Goto [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing), select 'fork' and 'Create a new fork'
