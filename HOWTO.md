@@ -30,8 +30,30 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 * Add me (KMicha) to the organization
 * Customize members permission from 'read' to 'admin'
 
+### 3) Fork the [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing) repository to your new organization
 
-### 2) Register at [newsapi.org](https://newsapi.org/)
+* Goto [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing), select 'fork' and 'Create a new fork'
+
+![image of fork](images/gh_create_fork.png)
+
+* Choose your new organisation (with ending '-news') as owner (NOT THE USER NAME!)
+
+![owner of fork](images/gh_destinaton_fork.png)
+
+* Press the green button
+
+### 4) Add me to repository team with admin access
+
+* Goto the settings page and select the 'Collaborators and Teams'
+ 
+![add people](images/gh_add_team.png) 
+
+* Add me (KMicha) with admin access
+
+![add kmicha](images/gh_add_kmicha.png)
+
+
+### 5) Register at [newsapi.org](https://newsapi.org/)
 
 * Register at [newsapi.org]([https://newsapi.org](https://newsapi.org/register) with email & password
 
@@ -46,28 +68,6 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 
 
 
-
-### 4) Fork the [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing) repository to your new organization
-
-* Goto [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing), select 'fork' and 'Create a new fork'
-
-![image of fork](images/gh_create_fork.png)
-
-* Choose your new organisation as owner
-
-![owner of fork](images/gh_destinaton_fork.png)
-
-* Press the green button
-
-### 5) Add me to repository team with write access
-
-* Goto the settings page and select the 'Collaborators and Teams'
- 
-![add people](images/gh_add_team.png) 
-
-* Add me (KMicha) with write access
-
-![add kmicha](images/gh_add_kmicha.png)
   
 ### 6) Adapt the keywords and topics
 
