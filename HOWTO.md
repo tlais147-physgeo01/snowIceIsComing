@@ -2,6 +2,8 @@
 
 The harvester works best with about 20 search-terms (called keyword here) organized below 4-6 topics.
 
+---
+
 ### 1) Register at [github.com](https://github.com/signup)
 
 * Some instructions can be found [here](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)
@@ -10,6 +12,8 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 * Maybe solve captcha
 * Check eMail and enter verification code
 * Sign in
+
+---
 
 ### 2) Create an organisation at github.com
 
@@ -30,7 +34,9 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 * Add me (KMicha) to the organization
 * Customize members permission from 'read' to 'admin'
 
-### 2) Change settings of organisation for actions at github.com
+---
+
+### 3) Change settings of organisation for actions at github.com
 
 * Go to settings
 
@@ -49,9 +55,9 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 ![image of organisations](images/gh_org_action_4.png)
 * pressed *SAVE* ?
 
- 
+--- 
 
-### 3) Fork the [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing) repository to your new organization
+### 4) Fork the [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing) repository to your new organization
 
 * Goto [newsWhisperer/winterIsComing](https://github.com/newsWhisperer/winterIsComing), select 'fork' and 'Create a new fork'
 
@@ -63,7 +69,9 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 
 * Press the green button
 
-### 4) Add me to repository team with admin access
+---
+
+### 5) Add me to repository team with admin access
 
 * Goto the settings page and select the 'Collaborators and Teams'
  
@@ -73,23 +81,8 @@ The harvester works best with about 20 search-terms (called keyword here) organi
 
 ![add kmicha](images/gh_add_kmicha.png)
 
-
-### 5) Register at [newsapi.org](https://newsapi.org/)
-
-* Register at [newsapi.org]([https://newsapi.org](https://newsapi.org/register) with email & password
-
-![newsapi register](images/newsapi_register.png)
-
-* Make sure to choose the free developer version - see [pricing](https://newsapi.org/pricing); well simply don"t enter credit card infos
+---
  
-![newsapi api](images/newsapi_api.png)
-
-* Verify your email
-* Get your API key from your [account](https://newsapi.org/account) and copy it. Should look something like '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'.
-
-
-
-  
 ### 6) Adapt the keywords and topics
 
 The harvester works best with about 20 search-terms (called keyword here) organized below 4-6 topics.
@@ -118,7 +111,9 @@ Attention: You can adapt the keywords later, but for now you should not remove a
 
 ![edit keywords.csv](images/gh_keywords_commit.png)
 
-### 7. Remove existing news_20yy_mm.csv files
+---
+
+### 7) Remove existing news_21yy_mm.csv files
 
 Inside your repository, goto code, then inside csv folder, select news_2022_mm.csv file (one after the other) and delete it.
 After each deletion,a commit must be done. 
@@ -131,14 +126,13 @@ After each deletion,a commit must be done.
 
 ![submit csv](images/gh_submit_delete.png)
 
+---
 
-### 8.) Add the newsapi API-key to your organization
+### 8) Run Action : check:0.0
 
-Switch to your organization (the one ending with "-news") and goto the settings tab.
-Scroll down  untill you find the Security section at the left side panel; there open the Secrets-Range and click on Actions.
+---
 
-![new secret](images/gh_secrets_new.png)
+### 9) Check CHECK.md
 
-Press the "New organization secret" button and add the newsapi-key inside the Value field. For the name use "NEWSAPI_KEY".
 
-![add secret](images/gh_secrets_add.png)
+
