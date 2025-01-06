@@ -156,7 +156,7 @@ After each deletion,a commit must be done.
 
 * Goto action tab
 
-![image of fork](images/gh_actions_enable.png)
+![image of fork](images/gh_enable_actions.png)
 
 * Enable all actions: bayes/diagrams/entities/harvest
 
