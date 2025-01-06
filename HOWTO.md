@@ -150,3 +150,13 @@ After each deletion,a commit must be done.
 * Follow the instructions for red errors
 * Repeat step 8) & 9) until all fields are green
 
+---
+
+### 10) Enable other actions
+
+* Goto action tab
+
+![image of fork](images/gh_actions_enable.png)
+
+* Enable all actions: bayes/diagrams/entities/harvest
+
