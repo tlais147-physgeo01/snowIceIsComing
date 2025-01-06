@@ -130,9 +130,23 @@ After each deletion,a commit must be done.
 
 ### 8) Run Action : check:0.0
 
+* Go to the Action tab 
+
+![image of fork](images/gh_action_run.png)
+
+* Select the check:0.0 workflow on the left panel
+* Run workflow on the right side
+* Wait for about 2-3 minutes for completion
+
 ---
 
 ### 9) Check CHECK.md
 
+* Go to the Code tab
 
+![image of fork](images/gh_check.png)
+
+* Click on the CHECK.md file
+* Follow the instructions for red errors
+* Repeat step 8) & 9) until all fields are green
 
