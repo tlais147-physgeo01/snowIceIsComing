@@ -99,5 +99,8 @@
   
 ### RapidAPI: Deepl-Translator-4  
 :white_check_mark: Deepl-Translator-4 respone fine  
-:white_check_mark: Deepl-Translator-4 status fine  
-:white_check_mark: Deepl-Translator-4 results found  
+:no_entry: Deepl-Translator-4 status **failed**:  
+Subscribe to Deepl-Translator-4 API:  
+1. Login and 'Subscribe to Test' at https://rapidapi.com/sibaridev/api/rapid-translate-multi-traduction  
+2. Make sure to enter 'Start Free Plan' and press 'Subscribe' - **don't** enter credit card data!  
+   
