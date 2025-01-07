@@ -1,9 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.3415528529196835
+'Erdbeben Tote',de,Opfer,#4287f5,#638ed4,3,0.3415528529196835
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.3343298137668479
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.24483856543020022
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2385735240104122
-'Dürre',de,Sommer,#a89216,#bfba22,3,0.1888640998902947
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1620999325456912
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1423048988614873
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1298109168729461
