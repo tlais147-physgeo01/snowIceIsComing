@@ -3,11 +3,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.3415528529196835
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.2448385654302002
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2385735240104122
+'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.20718031524828018
 'Laubfall',de,Herbst,#9e3215,#802d16,2,0.1704276009296985
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.168397607243966
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1620999325456912
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1423048988614873
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.13479000495109011
+'Ernte',de,Herbst,#9e3215,#d64118,3,0.1347900049510901
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1298109168729461
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1293110604031849
 'Blüte',de,Frühling,#679e2c,#61b00c,2,0.1243958276421334
