@@ -1,237 +1,375 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,MISC,-1.11,0.0,de,43
-Weihnachten,Weihnachten,MISC,-1.11875,5.75,de,40
-Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,30
-deutschen,deutschen,MISC,,,de,10
-Deutschem Wetterdienst,Deutschem Wetterdienst,MISC,,,de,9
-Gewitter im Jahr 2024,Gewitter im Jahr 2024,MISC,,,de,8
+DWD,DWD,MISC,-1.11,0.0,de,44
+Weihnachten,Weihnachten,MISC,-1.11875,5.75,de,41
+Lesen Sie jetzt „,Lesen Sie jetzt „,MISC,,,de,34
+deutschen,deutschen,MISC,,,de,11
+Deutschem Wetterdienst,Deutschem Wetterdienst,MISC,,,de,10
 Lesen Sie jetzt „Schnee,Lesen Sie jetzt „Schnee,MISC,,,de,8
-Weniger Blitze,Weniger Blitze,MISC,,,de,7
+Gewitter im Jahr 2024,Gewitter im Jahr 2024,MISC,,,de,8
 Der Winter,Der Winter,MISC,,,de,7
+Weniger Blitze,Weniger Blitze,MISC,,,de,7
+Deutscher Wetterdienst,Deutscher Wetterdienst,MISC,,,de,6
 deutsche,deutsche,MISC,,,de,6
+Winter-Neuzugang,Winter-Neuzugang,MISC,,,de,5
 Tages,Tages,MISC,,,de,5
-Deutscher Wetterdienst,Deutscher Wetterdienst,MISC,,,de,5
 Bodenfrost,Bodenfrost,MISC,,,de,5
+Baustelle,Baustelle,MISC,,,de,5
+soziale,soziale,MISC,,,de,5
 Weiße Weihnachten,Weiße Weihnachten,MISC,,,de,4
-Vierschanzentournee,Vierschanzentournee,MISC,,,de,4
+Karlsruhe,Karlsruhe,MISC,,,de,4
+Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,4
 Fashion-Momente,Fashion-Momente,MISC,,,de,4
 Deutsche Wetterdienst,Deutsche Wetterdienst,MISC,-0.7,0.0,de,4
-Sonntagnachmittag,Sonntagnachmittag,MISC,,,de,4
-Lesen Sie jetzt „Winterwetter,Lesen Sie jetzt „Winterwetter,MISC,,,de,4
 Glatteis-Unfälle,Glatteis-Unfälle,MISC,,,de,4
-Karlsruhe,Karlsruhe,MISC,,,de,4
-Freizeit-Wintersport,Freizeit-Wintersport,MISC,,,de,4
 Die Quadrantiden,Die Quadrantiden,MISC,,,de,4
-Deutscher,Deutscher,MISC,,,de,4
 Das neue Jahr,Das neue Jahr,MISC,,,de,4
+Lesen Sie jetzt „Winterwetter,Lesen Sie jetzt „Winterwetter,MISC,,,de,4
+Deutscher,Deutscher,MISC,,,de,4
+Freizeit-Wintersport,Freizeit-Wintersport,MISC,,,de,4
+Vierschanzentournee,Vierschanzentournee,MISC,,,de,4
+Wer abends und am Morgen auf den Straßen,Wer abends und am Morgen auf den Straßen,MISC,,,de,3
+Hinrunden-Meisterschaft,Hinrunden-Meisterschaft,MISC,,,de,3
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,3
+Russische,Russische,MISC,,,de,3
+Winter-Wechsel,Winter-Wechsel,MISC,0.0,0.0,de,3
+sächsischen,sächsischen,MISC,,,de,3
+Deutschem Wetterdien,Deutschem Wetterdien,MISC,,,de,3
 Winter Classic,Winter Classic,MISC,0.0,0.0,de,3
 WM,WM,MISC,,,de,3
 Frost und Glätte,Frost und Glätte,MISC,,,de,3
-Winter-Neuzugang,Winter-Neuzugang,MISC,,,de,3
-BILD,BILD,MISC,,,de,3
-Hinrunden-Meisterschaft,Hinrunden-Meisterschaft,MISC,,,de,3
-Deutschem Wetterdien,Deutschem Wetterdien,MISC,,,de,3
+Wiener,Wiener,MISC,,,de,3
 Deutsche,Deutsche,MISC,,,de,3
-Wer abends und am Morgen auf den Straßen,Wer abends und am Morgen auf den Straßen,MISC,,,de,3
-Deutschen Tennis Bund,Deutschen Tennis Bund,MISC,,,de,3
-Launisches Wetter,Launisches Wetter,MISC,,,de,3
-Winter-Wechsel,Winter-Wechsel,MISC,0.0,0.0,de,3
-Zeit,Zeit,MISC,,,de,3
-Baustelle,Baustelle,MISC,,,de,3
+Oder-Hochwasser,Oder-Hochwasser,MISC,,,de,3
+Sturm,Sturm,MISC,-1.0,0.0,de,3
+BILD,BILD,MISC,,,de,3
+iPhone 17 Air,iPhone 17 Air,MISC,,,de,3
+Gefährliches Winterwetter,Gefährliches Winterwetter,MISC,,,de,3
+Dexter: Resurrection,Dexter: Resurrection,MISC,,,de,3
+Paramount+,Paramount+,MISC,,,de,3
 Winter-Fahrplan,Winter-Fahrplan,MISC,,,de,3
+türkischen,türkischen,MISC,,,de,3
+CGTN,CGTN,MISC,,,de,3
+Zeit,Zeit,MISC,,,de,3
 GOG,GOG,MISC,,,de,3
+Launisches Wetter,Launisches Wetter,MISC,,,de,3
+Fest,Fest,MISC,,,de,3
+Sturm Éowyn,Sturm Éowyn,MISC,,,de,3
+Deutschen Tennis Bund,Deutschen Tennis Bund,MISC,,,de,3
+Lesen Sie jetzt „Schneeschauer,Lesen Sie jetzt „Schneeschauer,MISC,,,de,2
+We…,We…,MISC,,,de,2
+CO2-Preis,CO2-Preis,MISC,,,de,2
+U19-Nationalspieler,U19-Nationalspieler,MISC,,,de,2
+europäische,europäische,MISC,,,de,2
+Lesen Sie jetzt „Spuren im Schnee,Lesen Sie jetzt „Spuren im Schnee,MISC,,,de,2
+Glatteis-Kollision,Glatteis-Kollision,MISC,,,de,2
+Di…,Di…,MISC,,,de,2
+Wechselhaftes Wetter,Wechselhaftes Wetter,MISC,,,de,2
+Fünf-Minuten-Weg,Fünf-Minuten-Weg,MISC,,,de,2
+Brasilianische,Brasilianische,MISC,,,de,2
+ukrainische,ukrainische,MISC,,,de,2
+Lesen Sie jetzt „Glättegefahr,Lesen Sie jetzt „Glättegefahr,MISC,,,de,2
+Fußball-Experte,Fußball-Experte,MISC,,,de,2
+Blitzeis,Blitzeis,MISC,0.0,0.0,de,2
+Handball-Fans,Handball-Fans,MISC,,,de,2
+Sprinterfahrer,Sprinterfahrer,MISC,,,de,2
+Grünkohl-Ernte,Grünkohl-Ernte,MISC,,,de,2
+Bevölkerungsschützern,Bevölkerungsschützern,MISC,,,de,2
+T…,T…,MISC,,,de,2
+Glatteis-Unfall,Glatteis-Unfall,MISC,0.2333333333333333,0.0,de,2
+Gebrauchtwagen-Inserat,Gebrauchtwagen-Inserat,MISC,,,de,2
+Wechselhaftes Winterwetter,Wechselhaftes Winterwetter,MISC,,,de,2
+Vorsicht,Vorsicht,MISC,0.0,0.0,de,2
+Deutschen Wetterdienst,Deutschen Wetterdienst,MISC,,,de,2
+Zeit des Frierens,Zeit des Frierens,MISC,,,de,2
+Ineos,Ineos,MISC,,,de,2
+Schneefall und frostige Temperaturen,Schneefall und frostige Temperaturen,MISC,,,de,2
+Lesen Sie jetzt „Wetterdienst,Lesen Sie jetzt „Wetterdienst,MISC,,,de,2
+Traumhafte Outfits,Traumhafte Outfits,MISC,,,de,2
+Tag,Tag,MISC,,,de,2
+White Looks,White Looks,MISC,,,de,2
+Warten auf Schnee,Warten auf Schnee,MISC,,,de,2
+Sachsen,Sachsen,MISC,0.0,0.0,de,2
+Lesen Sie jetzt „Schnee und Glatteis,Lesen Sie jetzt „Schnee und Glatteis,MISC,,,de,2
+Warenkorb,Warenkorb,MISC,,,de,2
 Schaffst du,Schaffst du,MISC,,,de,2
 Nachtfrost und Nässe,Nachtfrost und Nässe,MISC,,,de,2
-Warenkorb,Warenkorb,MISC,,,de,2
-Zendaya,Zendaya,MISC,,,de,2
-Wechselhaftes Winterwetter,Wechselhaftes Winterwetter,MISC,,,de,2
-Lesen Sie jetzt „Glättegefahr,Lesen Sie jetzt „Glättegefahr,MISC,,,de,2
-Lesen Sie jetzt „Statistik,Lesen Sie jetzt „Statistik,MISC,,,de,2
-Sprinterfahrer,Sprinterfahrer,MISC,,,de,2
-Ineos,Ineos,MISC,,,de,2
-Deutsche Wette,Deutsche Wette,MISC,,,de,2
-Gebrauchtwagen-Inserat,Gebrauchtwagen-Inserat,MISC,,,de,2
-Ausländisches,Ausländisches,MISC,,,de,2
-Deutscher Wetterdienst: Schneeschauer,Deutscher Wetterdienst: Schneeschauer,MISC,,,de,2
+Lesen Sie jetzt „Bundespolizei,Lesen Sie jetzt „Bundespolizei,MISC,,,de,2
 Nacht des bisherigen Winters,Nacht des bisherigen Winters,MISC,,,de,2
-Tag,Tag,MISC,,,de,2
-Zeit des Frierens,Zeit des Frierens,MISC,,,de,2
-Glatteis-Kollision,Glatteis-Kollision,MISC,,,de,2
-europäische,europäische,MISC,,,de,2
-CO2-Preis,CO2-Preis,MISC,,,de,2
-Lesen Sie jetzt „Schneeschauer,Lesen Sie jetzt „Schneeschauer,MISC,,,de,2
+Nacht auf Sonntag,Nacht auf Sonntag,MISC,,,de,2
 MA 48,MA 48,MISC,,,de,2
-Brasilianische,Brasilianische,MISC,,,de,2
-Handball-Fans,Handball-Fans,MISC,,,de,2
-Europa-,Europa-,MISC,,,de,2
-Vorsicht,Vorsicht,MISC,0.0,0.0,de,2
-Fußball-Experte,Fußball-Experte,MISC,,,de,2
-israelischer,israelischer,MISC,,,de,2
-Dürresommern,Dürresommern,MISC,,,de,2
-Fest,Fest,MISC,,,de,2
-Drinnen leuchtet der Baum,Drinnen leuchtet der Baum,MISC,,,de,2
-Deutschen Wetterdienst,Deutschen Wetterdienst,MISC,,,de,2
-Lesen Sie jetzt „Spuren im Schnee,Lesen Sie jetzt „Spuren im Schnee,MISC,,,de,2
+Deutscher Wetterdienst: Schneeschauer,Deutscher Wetterdienst: Schneeschauer,MISC,,,de,2
+Deutsche Wette,Deutsche Wette,MISC,,,de,2
 Ausgerechnet,Ausgerechnet,MISC,,,de,2
-Münchner,Münchner,MISC,,,de,2
-Schneefall und frostige Temperaturen,Schneefall und frostige Temperaturen,MISC,,,de,2
-Glatteis-Unfall,Glatteis-Unfall,MISC,0.2333333333333333,0.0,de,2
-Winter-Sale,Winter-Sale,MISC,,,de,2
-Fünf-Minuten-Weg,Fünf-Minuten-Weg,MISC,,,de,2
-Lesen Sie jetzt „Wetterdienst,Lesen Sie jetzt „Wetterdienst,MISC,,,de,2
-White Looks,White Looks,MISC,,,de,2
+Tag des Jahres,Tag des Jahres,MISC,,,de,2
+Ausländisches,Ausländisches,MISC,,,de,2
+Spanische,Spanische,MISC,,,de,2
+chinesische,chinesische,MISC,,,de,2
 Spiele,Spiele,MISC,,,de,2
-Traumhafte Outfits,Traumhafte Outfits,MISC,,,de,2
-Grünkohl-Ernte,Grünkohl-Ernte,MISC,,,de,2
-Lesen Sie jetzt „Schnee und Regen,Lesen Sie jetzt „Schnee und Regen,MISC,,,de,2
-Angriff auf Asylbewerber,Angriff auf Asylbewerber,MISC,,,de,2
-Warten auf Schnee,Warten auf Schnee,MISC,,,de,2
-Lesen Sie jetzt „Schnee und Glatteis,Lesen Sie jetzt „Schnee und Glatteis,MISC,,,de,2
 Krieg,Krieg,MISC,,,de,2
-Sachsen,Sachsen,MISC,0.0,0.0,de,2
-Wechselhaftes Wetter,Wechselhaftes Wetter,MISC,,,de,2
-U19-Nationalspieler,U19-Nationalspieler,MISC,,,de,2
-Lesen Sie jetzt „Winterwetter in,Lesen Sie jetzt „Winterwetter in,MISC,,,de,1
-Lesen Sie jetzt „Viele Unfälle wegen Schnee,Lesen Sie jetzt „Viele Unfälle wegen Schnee,MISC,,,de,1
-Lesen Sie jetzt „Im Wochenverlauf nasskaltes Wetter,Lesen Sie jetzt „Im Wochenverlauf nasskaltes Wetter,MISC,,,de,1
-Neuschnee und Kälte,Neuschnee und Kälte,MISC,,,de,1
-Orkanartige Böen,Orkanartige Böen,MISC,,,de,1
-Lesen Sie jetzt „Dank Schuhabdrücken,Lesen Sie jetzt „Dank Schuhabdrücken,MISC,,,de,1
-Lesen Sie jetzt „Schnee und Kälte,Lesen Sie jetzt „Schnee und Kälte,MISC,,,de,1
-Oasis,Oasis,MISC,,,de,1
-Lesen Sie jetzt „Schnee und Eis,Lesen Sie jetzt „Schnee und Eis,MISC,,,de,1
-Lesen Sie jetzt „Starker Wind,Lesen Sie jetzt „Starker Wind,MISC,,,de,1
-Lesen Sie jetzt „Milder Wochenstart,Lesen Sie jetzt „Milder Wochenstart,MISC,,,de,1
-Wettervorhersage:,Wettervorhersage:,MISC,,,de,1
-Die Wetterlage,Die Wetterlage,MISC,,,de,1
-Lesen Sie jetzt „Lkws stecken stundenlang im Schnee,Lesen Sie jetzt „Lkws stecken stundenlang im Schnee,MISC,,,de,1
-The Human Fear,The Human Fear,MISC,,,de,1
-Lesen Sie jetzt „Thais,Lesen Sie jetzt „Thais,MISC,,,de,1
-Lesen Sie jetzt „Wintereinbruch,Lesen Sie jetzt „Wintereinbruch,MISC,,,de,1
-Lesen Sie jetzt „Winter,Lesen Sie jetzt „Winter,MISC,,,de,1
-Kriegen,Kriegen,MISC,,,de,1
-Nostalgiegefahr,Nostalgiegefahr,MISC,,,de,1
-REISEZIELE,REISEZIELE,MISC,,,de,1
-Lesen Sie jetzt „Mehrere Unfälle wegen Schnee,Lesen Sie jetzt „Mehrere Unfälle wegen Schnee,MISC,,,de,1
-Das nasse Herbstwetter und Frost,Das nasse Herbstwetter und Frost,MISC,,,de,1
-Lesen Sie jetzt „Matthäus,Lesen Sie jetzt „Matthäus,MISC,,,de,1
-Rekordnationalspielers,Rekordnationalspielers,MISC,,,de,1
-Lesen Sie jetzt „Unfälle wegen Glatteis,Lesen Sie jetzt „Unfälle wegen Glatteis,MISC,,,de,1
-E-Scoot,E-Scoot,MISC,,,de,1
-Lesen Sie jetzt „Glatteis in Hessen,Lesen Sie jetzt „Glatteis in Hessen,MISC,,,de,1
-Lesen Sie jetzt „Wind,Lesen Sie jetzt „Wind,MISC,,,de,1
-Wetter-Entwicklung,Wetter-Entwicklung,MISC,,,de,1
-Lesen Sie jetzt „Aussaat,Lesen Sie jetzt „Aussaat,MISC,,,de,1
-Polize,Polize,MISC,,,de,1
-Lesen Sie jetzt „Bus,Lesen Sie jetzt „Bus,MISC,,,de,1
-Lesen Sie jetzt „Mehr,Lesen Sie jetzt „Mehr,MISC,,,de,1
-Lesen Sie jetzt „Graupel,Lesen Sie jetzt „Graupel,MISC,,,de,1
-Lesen Sie jetzt „Pegelstände steigen - Hochwasser,Lesen Sie jetzt „Pegelstände steigen - Hochwasser,MISC,,,de,1
-Hochwasser-Vorhersagezentrale,Hochwasser-Vorhersagezentrale,MISC,,,de,1
-Lesen Sie jetzt „Feuchte Witterung,Lesen Sie jetzt „Feuchte Witterung,MISC,,,de,1
-Lesen Sie jetzt „Autofahrerin,Lesen Sie jetzt „Autofahrerin,MISC,,,de,1
-Ber…,Ber…,MISC,,,de,1
-Flockenformen,Flockenformen,MISC,,,de,1
-Lesen Sie jetzt „Spritpreise auf höchstem Stand,Lesen Sie jetzt „Spritpreise auf höchstem Stand,MISC,,,de,1
-Spritpreise in Deutschland,Spritpreise in Deutschland,MISC,,,de,1
-E10,E10,MISC,,,de,1
-Schnee,Schnee,MISC,0.14285714285714285,0.0,de,1
-Lesen Sie jetzt „Naturschützer rufen zum Zählen der Wintervögel,Lesen Sie jetzt „Naturschützer rufen zum Zählen der Wintervögel,MISC,,,de,1
-ADAC mitteil,ADAC mitteil,MISC,,,de,1
-ausländisches,ausländisches,MISC,,,de,1
-Sa…,Sa…,MISC,,,de,1
-Tag des Honigs,Tag des Honigs,MISC,,,de,1
+Champions-League-Auswärtsspiel,Champions-League-Auswärtsspiel,MISC,,,de,2
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,2
+Der junge Mann,Der junge Mann,MISC,,,de,2
+russischen Angriffskrieg,russischen Angriffskrieg,MISC,,,de,2
+Europa-,Europa-,MISC,,,de,2
+Lesen Sie jetzt „Statistik,Lesen Sie jetzt „Statistik,MISC,,,de,2
+Behörden-Knatsch,Behörden-Knatsch,MISC,,,de,2
+Münchner,Münchner,MISC,,,de,2
+Live Stream,Live Stream,MISC,,,de,2
+chinesischen,chinesischen,MISC,,,de,2
+iPhone 17,iPhone 17,MISC,,,de,2
+schwedischen,schwedischen,MISC,,,de,2
+Dürresommern,Dürresommern,MISC,,,de,2
+Zendaya,Zendaya,MISC,,,de,2
+Winter-Sale,Winter-Sale,MISC,,,de,2
+Drinnen leuchtet der Baum,Drinnen leuchtet der Baum,MISC,,,de,2
+israelischer,israelischer,MISC,,,de,2
+Angriff auf Asylbewerber,Angriff auf Asylbewerber,MISC,,,de,2
+Lesen Sie jetzt „Glatteis und Nebel,Lesen Sie jetzt „Glatteis und Nebel,MISC,,,de,2
+Lesen Sie jetzt „Schnee und Regen,Lesen Sie jetzt „Schnee und Regen,MISC,,,de,2
+Wind aus Nordwest,Wind aus Nordwest,MISC,,,de,2
+Langfristig heben anaerobe,Langfristig heben anaerobe,MISC,,,de,1
+S…,S…,MISC,-0.35,0.0,de,1
+Vertrag des Offensivstars,Vertrag des Offensivstars,MISC,,,de,1
+Sturm Gr…,Sturm Gr…,MISC,,,de,1
+Der 1.,Der 1.,MISC,,,de,1
+russischen,russischen,MISC,,,de,1
+Lesen Sie jetzt „Pegel-Höchststände,Lesen Sie jetzt „Pegel-Höchststände,MISC,,,de,1
+Sion-Verteidiger,Sion-Verteidiger,MISC,,,de,1
+Mehr</li><li,Mehr</li><li,MISC,,,de,1
+Rund um den deutschen Rekordmeister,Rund um den deutschen Rekordmeister,MISC,,,de,1
+Operation Winter-Wunder,Operation Winter-Wunder,MISC,,,de,1
+Die kalte Jahreszeit,Die kalte Jahreszeit,MISC,,,de,1
+Die Vogelhochzeit,Die Vogelhochzeit,MISC,,,de,1
+Lesen Sie jetzt „Viel Schnee,Lesen Sie jetzt „Viel Schnee,MISC,,,de,1
+Jahr 2009,Jahr 2009,MISC,,,de,1
+Xiaomi Smart Pet Care Air Purifier,Xiaomi Smart Pet Care Air Purifier,MISC,,,de,1
+Lesen Sie jetzt „Hochwasser,Lesen Sie jetzt „Hochwasser,MISC,,,de,1
+Lektion von,Lektion von,MISC,,,de,1
+Die Kälte,Die Kälte,MISC,,,de,1
+Invisa-Kette,Invisa-Kette,MISC,,,de,1
+UEFA Champions League,UEFA Champions League,MISC,,,de,1
+Drittliga-Aufsteiger,Drittliga-Aufsteiger,MISC,,,de,1
+Lesen Sie jetzt „Temperaturen unter dem Gefrierpunkt,Lesen Sie jetzt „Temperaturen unter dem Gefrierpunkt,MISC,,,de,1
+iPhon,iPhon,MISC,,,de,1
+Jogging-Outfit,Jogging-Outfit,MISC,,,de,1
+Frost und Sonne,Frost und Sonne,MISC,,,de,1
+Zweitliga-Durchmarsch,Zweitliga-Durchmarsch,MISC,,,de,1
+Gefahr,Gefahr,MISC,,,de,1
+Lesen Sie jetzt „Ruhigeres,Lesen Sie jetzt „Ruhigeres,MISC,,,de,1
+Saisonwechsel,Saisonwechsel,MISC,,,de,1
 Transfer-Machtwort,Transfer-Machtwort,MISC,,,de,1
-Lesen Sie jetzt „Mehrere Glatteis-Unfälle,Lesen Sie jetzt „Mehrere Glatteis-Unfälle,MISC,,,de,1
+Reddit,Reddit,MISC,,,de,1
+The Human Fear,The Human Fear,MISC,,,de,1
+D…,D…,MISC,0.0,0.0,de,1
+im Jahr  2002.,im Jahr  2002.,MISC,,,de,1
+Notvorräte,Notvorräte,MISC,,,de,1
+Lesen Sie jetzt „Winterwetter in,Lesen Sie jetzt „Winterwetter in,MISC,,,de,1
+Schlitter-Stau-Fahrt,Schlitter-Stau-Fahrt,MISC,,,de,1
+100 Becher vom Spielfeld,100 Becher vom Spielfeld,MISC,,,de,1
+Lesen Sie jetzt „Vereinzelt Hochwasser,Lesen Sie jetzt „Vereinzelt Hochwasser,MISC,,,de,1
+Der Regen,Der Regen,MISC,,,de,1
+Lesen Sie jetzt „Dank Schuhabdrücken,Lesen Sie jetzt „Dank Schuhabdrücken,MISC,,,de,1
+Raspberry Pi,Raspberry Pi,MISC,,,de,1
+Eagles-Rams-Spiel,Eagles-Rams-Spiel,MISC,,,de,1
+Lesen Sie jetzt „Wintereinbruch,Lesen Sie jetzt „Wintereinbruch,MISC,,,de,1
+Wintersalat mit Chicorée,Wintersalat mit Chicorée,MISC,,,de,1
+Schneechaos,Schneechaos,MISC,,,de,1
+Mittwochabend Kopiere,Mittwochabend Kopiere,MISC,,,de,1
+Lesen Sie jetzt „Mehrere Unfälle wegen Schnee,Lesen Sie jetzt „Mehrere Unfälle wegen Schnee,MISC,,,de,1
+ausländisches,ausländisches,MISC,,,de,1
+Lesen Sie jetzt „Lkws stecken stundenlang im Schnee,Lesen Sie jetzt „Lkws stecken stundenlang im Schnee,MISC,,,de,1
+Kriegen,Kriegen,MISC,,,de,1
+Die Gerüchte um das,Die Gerüchte um das,MISC,,,de,1
+Lesen Sie jetzt „Regen,Lesen Sie jetzt „Regen,MISC,,,de,1
+Samtag,Samtag,MISC,,,de,1
+HSV-Trainingslager,HSV-Trainingslager,MISC,,,de,1
+Kräftiger Wind,Kräftiger Wind,MISC,,,de,1
+Sa…,Sa…,MISC,,,de,1
+Lesen Sie jetzt „Viele Unfälle wegen Schnee,Lesen Sie jetzt „Viele Unfälle wegen Schnee,MISC,,,de,1
+Unter über die Welt,Unter über die Welt,MISC,,,de,1
+Perl,Perl,MISC,,,de,1
+Lesen Sie jetzt „Sturm Éowyn,Lesen Sie jetzt „Sturm Éowyn,MISC,,,de,1
+Ach du heilige Schneeballschlacht!,Ach du heilige Schneeballschlacht!,MISC,,,de,1
+Vier wei…,Vier wei…,MISC,,,de,1
+Weltcup-Abfahrt,Weltcup-Abfahrt,MISC,,,de,1
+Lesen Sie jetzt „Weiterhin Hochwasser,Lesen Sie jetzt „Weiterhin Hochwasser,MISC,,,de,1
+Lesen Sie jetzt „Wasserstände an Rhein,Lesen Sie jetzt „Wasserstände an Rhein,MISC,,,de,1
+Neuschnee und Kälte,Neuschnee und Kälte,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Kälte,Lesen Sie jetzt „Schnee und Kälte,MISC,,,de,1
+Nostalgiegefahr,Nostalgiegefahr,MISC,,,de,1
+Oasis,Oasis,MISC,,,de,1
+Sturmtief „Bernd,Sturmtief „Bernd,MISC,,,de,1
+Lesen Sie jetzt „Teils Entwarnung bei Hochwasserlage,Lesen Sie jetzt „Teils Entwarnung bei Hochwasserlage,MISC,,,de,1
+Lesen Sie jetzt „Bayern,Lesen Sie jetzt „Bayern,MISC,,,de,1
+Sachs…,Sachs…,MISC,,,de,1
+Hunderte Unfälle,Hunderte Unfälle,MISC,,,de,1
+Sturm ohne Sturm,Sturm ohne Sturm,MISC,,,de,1
+Wer am Morgen aus dem Haus,Wer am Morgen aus dem Haus,MISC,,,de,1
+Der Regen i…,Der Regen i…,MISC,,,de,1
+Glatteis,Glatteis,MISC,0.027999999999999997,0.0,de,1
+Der Winter…,Der Winter…,MISC,,,de,1
 Videos,Videos,MISC,,,de,1
 Lesen Sie jetzt „Viele Unfälle,Lesen Sie jetzt „Viele Unfälle,MISC,,,de,1
-Sachs…,Sachs…,MISC,,,de,1
 Lesen Sie jetzt „Glätte,Lesen Sie jetzt „Glätte,MISC,,,de,1
+Der Weg zu legalem Cannabis,Der Weg zu legalem Cannabis,MISC,,,de,1
 Lesen Sie jetzt „Glatteisgefahr,Lesen Sie jetzt „Glatteisgefahr,MISC,,,de,1
+russische,russische,MISC,,,de,1
 Bayerischem,Bayerischem,MISC,,,de,1
 Lesen Sie jetzt „Frost,Lesen Sie jetzt „Frost,MISC,,,de,1
+Lesen Sie jetzt „Mehrere Glatteis-Unfälle,Lesen Sie jetzt „Mehrere Glatteis-Unfälle,MISC,,,de,1
 Lesen Sie jetzt „Viele Glatteis-Unfälle,Lesen Sie jetzt „Viele Glatteis-Unfälle,MISC,,,de,1
-Glatteis,Glatteis,MISC,0.027999999999999997,0.0,de,1
-Stürme und Gezeiten,Stürme und Gezeiten,MISC,,,de,1
+demokratische,demokratische,MISC,,,de,1
+Deutsch-Kongol,Deutsch-Kongol,MISC,,,de,1
+Nebel,Nebel,MISC,0.0,0.0,de,1
+K3284,K3284,MISC,,,de,1
 Bild“-Zeitung,Bild“-Zeitung,MISC,,,de,1
-Im Herbst legen Eichhörnchen,Im Herbst legen Eichhörnchen,MISC,,,de,1
-Mobile Starthilfekabel,Mobile Starthilfekabel,MISC,,,de,1
-Rosto,Rosto,MISC,,,de,1
-Glatteis überraschte am Morgen,Glatteis überraschte am Morgen,MISC,,,de,1
-Hochrisiko-Spiele,Hochrisiko-Spiele,MISC,,,de,1
-Der Winter…,Der Winter…,MISC,,,de,1
-Der Regen i…,Der Regen i…,MISC,,,de,1
-Video - So,Video - So,MISC,,,de,1
-Zeit:50,Zeit:50,MISC,,,de,1
-Lesen Sie jetzt „Bericht:,Lesen Sie jetzt „Bericht:,MISC,,,de,1
+Gotham City,Gotham City,MISC,,,de,1
 Lesen Sie jetzt,Lesen Sie jetzt,MISC,,,de,1
 Hunderte Verkehrsunfälle,Hunderte Verkehrsunfälle,MISC,,,de,1
 Lesen Sie jetzt „Mehrere Verkehrsunfälle wegen Glatteis in der Westpfalz,Lesen Sie jetzt „Mehrere Verkehrsunfälle wegen Glatteis in der Westpfalz,MISC,,,de,1
 Wo Autofahrer,Wo Autofahrer,MISC,,,de,1
+Alexand,Alexand,MISC,,,de,1
 Glatte Straßen,Glatte Straßen,MISC,,,de,1
+Temperaturrekorden,Temperaturrekorden,MISC,,,de,1
+Vegetat…,Vegetat…,MISC,,,de,1
 ersten Jahr,ersten Jahr,MISC,,,de,1
+Lesen Sie jetzt „Wegen Glatteis:,Lesen Sie jetzt „Wegen Glatteis:,MISC,,,de,1
+Entsc,Entsc,MISC,,,de,1
+Lesen Sie jetzt „Verteidiger Neumann,Lesen Sie jetzt „Verteidiger Neumann,MISC,,,de,1
+Rekordweltmeister Bö,Rekordweltmeister Bö,MISC,,,de,1
+Olympischen Winterspielen 2026,Olympischen Winterspielen 2026,MISC,,,de,1
+Zeit:50,Zeit:50,MISC,,,de,1
 Stern plusFür kurze,Stern plusFür kurze,MISC,,,de,1
-Wer am Morgen aus dem Haus,Wer am Morgen aus dem Haus,MISC,,,de,1
 Leitstelle,Leitstelle,MISC,,,de,1
 Glatteis-Einsätze,Glatteis-Einsätze,MISC,,,de,1
-Lesen Sie jetzt „Wegen Glatteis:,Lesen Sie jetzt „Wegen Glatteis:,MISC,,,de,1
-We…,We…,MISC,,,de,1
-K3284,K3284,MISC,,,de,1
-Blitzeis,Blitzeis,MISC,0.0,0.0,de,1
-Hunderte Unfälle,Hunderte Unfälle,MISC,,,de,1
-Short BS Pinguin,Short BS Pinguin,MISC,,,de,1
-Fa…,Fa…,MISC,,,de,1
-HSV-Trainingslager,HSV-Trainingslager,MISC,,,de,1
-Lesen Sie jetzt „Hochwasser,Lesen Sie jetzt „Hochwasser,MISC,,,de,1
-Lesen Sie jetzt „Warnung vor Glatteis,Lesen Sie jetzt „Warnung vor Glatteis,MISC,,,de,1
-Jahr 2009,Jahr 2009,MISC,,,de,1
-Gefahr,Gefahr,MISC,,,de,1
-Lesen Sie jetzt „Ruhigeres,Lesen Sie jetzt „Ruhigeres,MISC,,,de,1
-Frost und Sonne,Frost und Sonne,MISC,,,de,1
-Lesen Sie jetzt „Temperaturen unter dem Gefrierpunkt,Lesen Sie jetzt „Temperaturen unter dem Gefrierpunkt,MISC,,,de,1
-Die Kälte,Die Kälte,MISC,,,de,1
-Lesen Sie jetzt „Viel Schnee,Lesen Sie jetzt „Viel Schnee,MISC,,,de,1
-Rund um den deutschen Rekordmeister,Rund um den deutschen Rekordmeister,MISC,,,de,1
-Sturm Gr…,Sturm Gr…,MISC,,,de,1
-Der 1.,Der 1.,MISC,,,de,1
-Sion-Verteidiger,Sion-Verteidiger,MISC,,,de,1
-Die kalte Jahreszeit,Die kalte Jahreszeit,MISC,,,de,1
-Reddit,Reddit,MISC,,,de,1
-Samtag,Samtag,MISC,,,de,1
-türkischen,türkischen,MISC,,,de,1
-Langfristig heben anaerobe,Langfristig heben anaerobe,MISC,,,de,1
-Operation Winter-Wunder,Operation Winter-Wunder,MISC,,,de,1
-Early Bird-Packages,Early Bird-Packages,MISC,,,de,1
+Stürme und Gezeiten,Stürme und Gezeiten,MISC,,,de,1
+Im Herbst legen Eichhörnchen,Im Herbst legen Eichhörnchen,MISC,,,de,1
+E-Mail</li><li,E-Mail</li><li,MISC,,,de,1
+Lesen Sie jetzt „Mitten im kalten Winter,Lesen Sie jetzt „Mitten im kalten Winter,MISC,,,de,1
 Grillen in,Grillen in,MISC,,,de,1
-Early Bird“-Packages,Early Bird“-Packages,MISC,,,de,1
-Kind,Kind,MISC,,,de,1
-C,C,MISC,,,de,1
-Glatteis Vorsicht,Glatteis Vorsicht,MISC,,,de,1
-Fußball-Europameisterschaft,Fußball-Europameisterschaft,MISC,,,de,1
-Lesen Sie jetzt „Fußball-EM,Lesen Sie jetzt „Fußball-EM,MISC,,,de,1
-Fußball-EM,Fußball-EM,MISC,,,de,1
+Jahr 2012,Jahr 2012,MISC,,,de,1
 Rutschen,Rutschen,MISC,0.07500000000000001,0.0,de,1
-Lesen Sie jetzt „Bayern,Lesen Sie jetzt „Bayern,MISC,,,de,1
+Lesen Sie jetzt „Nur wenig Glatteis,Lesen Sie jetzt „Nur wenig Glatteis,MISC,,,de,1
 Kälteste Nacht des Winters,Kälteste Nacht des Winters,MISC,,,de,1
 Lesen Sie jetzt „Nach Frost und Glatteis,Lesen Sie jetzt „Nach Frost und Glatteis,MISC,,,de,1
 Bundestagswahl am 23.,Bundestagswahl am 23.,MISC,,,de,1
-soziale,soziale,MISC,,,de,1
-Lesen Sie jetzt „Mitten im kalten Winter,Lesen Sie jetzt „Mitten im kalten Winter,MISC,,,de,1
+beri…,beri…,MISC,,,de,1
+Siebenundzwanzigjährige,Siebenundzwanzigjährige,MISC,,,de,1
+Lesen Sie jetzt „Fußball-EM,Lesen Sie jetzt „Fußball-EM,MISC,,,de,1
+ICE,ICE,MISC,,,de,1
+Ein stundenlang grauer Himmel und Gewitter,Ein stundenlang grauer Himmel und Gewitter,MISC,,,de,1
+Australian Open,Australian Open,MISC,,,de,1
+Lesen Sie jetzt „Hochwasser von Rhein,Lesen Sie jetzt „Hochwasser von Rhein,MISC,,,de,1
+Lesen Sie jetzt „Bericht:,Lesen Sie jetzt „Bericht:,MISC,,,de,1
+Universal Language,Universal Language,MISC,,,de,1
 Liebe Leserinnen,Liebe Leserinnen,MISC,,,de,1
 Berliner Winter,Berliner Winter,MISC,,,de,1
-Vertrag des Offensivstars,Vertrag des Offensivstars,MISC,,,de,1
-Hallenmasters,Hallenmasters,MISC,,,de,1
-Nacht auf Sonntag,Nacht auf Sonntag,MISC,,,de,1
-bayerischen,bayerischen,MISC,,,de,1
+Fußball-EM,Fußball-EM,MISC,,,de,1
+Fußball-Europameisterschaft,Fußball-Europameisterschaft,MISC,,,de,1
+Einsatzmedaille Hochwasser,Einsatzmedaille Hochwasser,MISC,,,de,1
+Galaxy Experience Space,Galaxy Experience Space,MISC,,,de,1
+Mobile Starthilfekabel,Mobile Starthilfekabel,MISC,,,de,1
+Erstliga-Absteiger,Erstliga-Absteiger,MISC,,,de,1
+Rosto,Rosto,MISC,,,de,1
+Glatteis überraschte am Morgen,Glatteis überraschte am Morgen,MISC,,,de,1
+Hochrisiko-Spiele,Hochrisiko-Spiele,MISC,,,de,1
+Short BS Pinguin,Short BS Pinguin,MISC,,,de,1
+Video - So,Video - So,MISC,,,de,1
+füh…,füh…,MISC,,,de,1
+Fa…,Fa…,MISC,,,de,1
+C,C,MISC,,,de,1
+Early Bird-Packages,Early Bird-Packages,MISC,,,de,1
+Samsung Galaxy,Samsung Galaxy,MISC,,,de,1
+Early Bird“-Packages,Early Bird“-Packages,MISC,,,de,1
+Kind,Kind,MISC,,,de,1
+Samsung Galaxy S-Serie,Samsung Galaxy S-Serie,MISC,,,de,1
+Glatteis Vorsicht,Glatteis Vorsicht,MISC,,,de,1
+Meet &amp,Meet &amp,MISC,,,de,1
+Greet S,Greet S,MISC,,,de,1
+Tag des Honigs,Tag des Honigs,MISC,,,de,1
+Lesen Sie jetzt „Mild und stürmisch,Lesen Sie jetzt „Mild und stürmisch,MISC,,,de,1
+ADAC mitteil,ADAC mitteil,MISC,,,de,1
+WhatsApp,WhatsApp,MISC,,,de,1
+Kalter Winter,Kalter Winter,MISC,,,de,1
+ugandische,ugandische,MISC,,,de,1
+Wel…,Wel…,MISC,,,de,1
+Darts WM,Darts WM,MISC,,,de,1
+WM-Titel,WM-Titel,MISC,,,de,1
+Die Wetterkapriolen in,Die Wetterkapriolen in,MISC,,,de,1
+Wetterbilanz,Wetterbilanz,MISC,,,de,1
+Milliaden Euro,Milliaden Euro,MISC,,,de,1
+Hausboot im Winter,Hausboot im Winter,MISC,,,de,1
+Sächsische,Sächsische,MISC,,,de,1
+ZEIT am Wochenende,ZEIT am Wochenende,MISC,,,de,1
+Das neue Jahr 2025,Das neue Jahr 2025,MISC,,,de,1
+Im Jahr 2024,Im Jahr 2024,MISC,,,de,1
 Im Jahr 2023,Im Jahr 2023,MISC,,,de,1
 Mega-Transfer,Mega-Transfer,MISC,,,de,1
 Transfer-Vorstoß,Transfer-Vorstoß,MISC,,,de,1
 Frostiges Wetter,Frostiges Wetter,MISC,0.0,0.0,de,1
 Burgenländerinnen,Burgenländerinnen,MISC,,,de,1
+Lesen Sie jetzt „Frau in Brand,Lesen Sie jetzt „Frau in Brand,MISC,,,de,1
+U-Bahn,U-Bahn,MISC,,,de,1
+Tötungsdelikt in U-Bahn,Tötungsdelikt in U-Bahn,MISC,,,de,1
+israelischen,israelischen,MISC,,,de,1
+Ukrainer,Ukrainer,MISC,,,de,1
+Vox,Vox,MISC,,,de,1
+E10,E10,MISC,,,de,1
+chars,chars,MISC,,,de,1
+Ein Schiff,Ein Schiff,MISC,,,de,1
+Frachtschiff rammt Schleusentor,Frachtschiff rammt Schleusentor,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Glätte,Lesen Sie jetzt „Schnee und Glätte,MISC,,,de,1
+WM im Februar,WM im Februar,MISC,,,de,1
+Weltcup,Weltcup,MISC,,,de,1
+Ski-Star Shiffrin,Ski-Star Shiffrin,MISC,,,de,1
+ostdeutscher,ostdeutscher,MISC,,,de,1
+Simpler Trick - Beschlagene Autoscheiben,Simpler Trick - Beschlagene Autoscheiben,MISC,,,de,1
+Nachts,Nachts,MISC,,,de,1
+Lesen Sie jetzt „Kaltfront,Lesen Sie jetzt „Kaltfront,MISC,,,de,1
+Deutsche Wetterdienst Kopiere,Deutsche Wetterdienst Kopiere,MISC,,,de,1
+Javascript,Javascript,MISC,,,de,1
+Euro,Euro,MISC,,,de,1
+Lesen Sie jetzt „Nach Sonne,Lesen Sie jetzt „Nach Sonne,MISC,,,de,1
+Das Jahr beginnt in Teilen,Das Jahr beginnt in Teilen,MISC,,,de,1
+Lesen Sie jetzt „Erst stürmisch,Lesen Sie jetzt „Erst stürmisch,MISC,,,de,1
+Lesen Sie jetzt „Das neue Jahr,Lesen Sie jetzt „Das neue Jahr,MISC,,,de,1
+hessischen,hessischen,MISC,,,de,1
+Die ersten Tage des neuen Jahres,Die ersten Tage des neuen Jahres,MISC,,,de,1
+Lesen Sie jetzt „Frostiger Start,Lesen Sie jetzt „Frostiger Start,MISC,,,de,1
+DWDL…,DWDL…,MISC,,,de,1
+Browsers,Browsers,MISC,,,de,1
+Blutzeit,Blutzeit,MISC,,,de,1
 zeh…,zeh…,MISC,,,de,1
 Mehr a…,Mehr a…,MISC,,,de,1
+Gefahr der Dürre,Gefahr der Dürre,MISC,,,de,1
+Steam,Steam,MISC,,,de,1
+Tausende Spiele,Tausende Spiele,MISC,,,de,1
+Steam Winteraktion,Steam Winteraktion,MISC,,,de,1
+ZLB-Stiftungsrat,ZLB-Stiftungsrat,MISC,,,de,1
+Lesen Sie jetzt „Zentralbibliothek,Lesen Sie jetzt „Zentralbibliothek,MISC,,,de,1
+Lesen Sie jetzt „Schnee an Weihnachten,Lesen Sie jetzt „Schnee an Weihnachten,MISC,,,de,1
+Der November 2024,Der November 2024,MISC,,,de,1
+Lesen Sie jetzt „Trainer,Lesen Sie jetzt „Trainer,MISC,,,de,1
+Lesen Sie jetzt „Leise rieselt der Schnee,Lesen Sie jetzt „Leise rieselt der Schnee,MISC,,,de,1
+Lesen Sie jetzt „Übernachtungszahlen,Lesen Sie jetzt „Übernachtungszahlen,MISC,,,de,1
+Sturmstar Harry Kane,Sturmstar Harry Kane,MISC,,,de,1
+bayerischen,bayerischen,MISC,,,de,1
+Meine Leidenschaft,Meine Leidenschaft,MISC,,,de,1
+Lesen Sie jetzt „Wolken,Lesen Sie jetzt „Wolken,MISC,,,de,1
+Drohnen-Überflügen,Drohnen-Überflügen,MISC,,,de,1
+US-Basis,US-Basis,MISC,,,de,1
+Vertrag…,Vertrag…,MISC,,,de,1
+Diavolezza-Gletscherabfahrt,Diavolezza-Gletscherabfahrt,MISC,,,de,1
+Lesen Sie jetzt „Wochenende,Lesen Sie jetzt „Wochenende,MISC,,,de,1
+Lesen Sie jetzt „Temperaturen,Lesen Sie jetzt „Temperaturen,MISC,,,de,1
+Lesen Sie jetzt „Nebel,Lesen Sie jetzt „Nebel,MISC,,,de,1
+deutscher,deutscher,MISC,,,de,1
+Buffet für Spatzen und Co.,Buffet für Spatzen und Co.,MISC,,,de,1
+Lesen Sie jetzt „Winterzeit für Vögel,Lesen Sie jetzt „Winterzeit für Vögel,MISC,,,de,1
+Stuttgarter,Stuttgarter,MISC,,,de,1
+Lesen Sie jetzt „Nur wenig Schnee,Lesen Sie jetzt „Nur wenig Schnee,MISC,,,de,1
 Lesen Sie jetzt „Achtung auf dem Eis,Lesen Sie jetzt „Achtung auf dem Eis,MISC,,,de,1
-ZEIT am Wochenende,ZEIT am Wochenende,MISC,,,de,1
+Jetstreams Wetter,Jetstreams Wetter,MISC,,,de,1
 Lesen Sie jetzt „Hoher Schnee und Sturm,Lesen Sie jetzt „Hoher Schnee und Sturm,MISC,,,de,1
 Lesen Sie jetzt „Neuschnee an Heiligabend,Lesen Sie jetzt „Neuschnee an Heiligabend,MISC,,,de,1
 Lesen Sie jetzt „Jugendliche werfen Schneebälle – Räumfahrzeug,Lesen Sie jetzt „Jugendliche werfen Schneebälle – Räumfahrzeug,MISC,,,de,1
@@ -239,51 +377,11 @@ Kita-T,Kita-T,MISC,,,de,1
 Kinderbildungs-Gesetz,Kinderbildungs-Gesetz,MISC,,,de,1
 Vita des Sport-Geschäftsführers,Vita des Sport-Geschäftsführers,MISC,,,de,1
 "Lesen Sie jetzt „""Absoluter Kraftakt","Lesen Sie jetzt „""Absoluter Kraftakt",MISC,,,de,1
-Im Jahr 2024,Im Jahr 2024,MISC,,,de,1
-Hausboot im Winter,Hausboot im Winter,MISC,,,de,1
-Wetter-Chaos,Wetter-Chaos,MISC,0.0,0.0,de,1
-Javascript,Javascript,MISC,,,de,1
-Lesen Sie jetzt „Das neue Jahr,Lesen Sie jetzt „Das neue Jahr,MISC,,,de,1
-hessischen,hessischen,MISC,,,de,1
-T…,T…,MISC,,,de,1
-Die ersten Tage des neuen Jahres,Die ersten Tage des neuen Jahres,MISC,,,de,1
-Lesen Sie jetzt „Frostiger Start,Lesen Sie jetzt „Frostiger Start,MISC,,,de,1
-DWDL…,DWDL…,MISC,,,de,1
-Browsers,Browsers,MISC,,,de,1
-Vox,Vox,MISC,,,de,1
-WM-Titel,WM-Titel,MISC,,,de,1
-Das neue Jahr 2025,Das neue Jahr 2025,MISC,,,de,1
-ukrainische,ukrainische,MISC,,,de,1
-Ukrainer,Ukrainer,MISC,,,de,1
-Kalter Winter,Kalter Winter,MISC,,,de,1
-ugandische,ugandische,MISC,,,de,1
-Wel…,Wel…,MISC,,,de,1
-Darts WM,Darts WM,MISC,,,de,1
 Britische,Britische,MISC,,,de,1
 Lesen Sie jetzt „Gastgewerbe,Lesen Sie jetzt „Gastgewerbe,MISC,,,de,1
 DWD-Meteorologen,DWD-Meteorologen,MISC,,,de,1
-Drohnen-Überflügen,Drohnen-Überflügen,MISC,,,de,1
-Lesen Sie jetzt „Trainer,Lesen Sie jetzt „Trainer,MISC,,,de,1
-Lesen Sie jetzt „Leise rieselt der Schnee,Lesen Sie jetzt „Leise rieselt der Schnee,MISC,,,de,1
-Lesen Sie jetzt „Übernachtungszahlen,Lesen Sie jetzt „Übernachtungszahlen,MISC,,,de,1
-Gefahr der Dürre,Gefahr der Dürre,MISC,,,de,1
-Sturmstar Harry Kane,Sturmstar Harry Kane,MISC,,,de,1
-Meine Leidenschaft,Meine Leidenschaft,MISC,,,de,1
-Lesen Sie jetzt „Wolken,Lesen Sie jetzt „Wolken,MISC,,,de,1
-US-Basis,US-Basis,MISC,,,de,1
 Lesen Sie jetzt „Glatteis auf Bayerns Straßen,Lesen Sie jetzt „Glatteis auf Bayerns Straßen,MISC,,,de,1
-Vertrag…,Vertrag…,MISC,,,de,1
-Diavolezza-Gletscherabfahrt,Diavolezza-Gletscherabfahrt,MISC,,,de,1
-Lesen Sie jetzt „Wochenende,Lesen Sie jetzt „Wochenende,MISC,,,de,1
-Lesen Sie jetzt „Temperaturen,Lesen Sie jetzt „Temperaturen,MISC,,,de,1
-Lesen Sie jetzt „Nebel,Lesen Sie jetzt „Nebel,MISC,,,de,1
-Lesen Sie jetzt „Glatteis und Nebel,Lesen Sie jetzt „Glatteis und Nebel,MISC,,,de,1
-deutscher,deutscher,MISC,,,de,1
-Der November 2024,Der November 2024,MISC,,,de,1
-Lesen Sie jetzt „Schnee an Weihnachten,Lesen Sie jetzt „Schnee an Weihnachten,MISC,,,de,1
-Lesen Sie jetzt „Zentralbibliothek,Lesen Sie jetzt „Zentralbibliothek,MISC,,,de,1
-ZLB-Stiftungsrat,ZLB-Stiftungsrat,MISC,,,de,1
-sächsischen,sächsischen,MISC,,,de,1
+Frohes Fest,Frohes Fest,MISC,,,de,1
 Lesen Sie jetzt „Die Aussichten:,Lesen Sie jetzt „Die Aussichten:,MISC,,,de,1
 Lesen Sie jetzt „Anklage,Lesen Sie jetzt „Anklage,MISC,,,de,1
 Attacke im Sommer,Attacke im Sommer,MISC,,,de,1
@@ -291,17 +389,94 @@ Lesen Sie jetzt „Wenig Schnee,Lesen Sie jetzt „Wenig Schnee,MISC,,,de,1
 Von weißen Weihnachten,Von weißen Weihnachten,MISC,,,de,1
 Ungemütliches,Ungemütliches,MISC,,,de,1
 weiße Weihnachten,weiße Weihnachten,MISC,,,de,1
-Lesen Sie jetzt „Nur wenig Schnee,Lesen Sie jetzt „Nur wenig Schnee,MISC,,,de,1
-Stuttgarter,Stuttgarter,MISC,,,de,1
-Lesen Sie jetzt „Winterzeit für Vögel,Lesen Sie jetzt „Winterzeit für Vögel,MISC,,,de,1
-Buffet für Spatzen und Co.,Buffet für Spatzen und Co.,MISC,,,de,1
-Steam,Steam,MISC,,,de,1
-Tausende Spiele,Tausende Spiele,MISC,,,de,1
-Steam Winteraktion,Steam Winteraktion,MISC,,,de,1
-Lesen Sie jetzt „Erst stürmisch,Lesen Sie jetzt „Erst stürmisch,MISC,,,de,1
-Das Jahr beginnt in Teilen,Das Jahr beginnt in Teilen,MISC,,,de,1
-Lesen Sie jetzt „Nach Sonne,Lesen Sie jetzt „Nach Sonne,MISC,,,de,1
-Stunde der Wintervögel,Stunde der Wintervögel,MISC,,,de,1
+Mittelwert,Mittelwert,MISC,,,de,1
+Wetter im Ticker,Wetter im Ticker,MISC,,,de,1
+Wetter im Ticker - Schnee,Wetter im Ticker - Schnee,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Eis,Lesen Sie jetzt „Schnee und Eis,MISC,,,de,1
+Das nasse Herbstwetter und Frost,Das nasse Herbstwetter und Frost,MISC,,,de,1
+Lesen Sie jetzt „Im Wochenverlauf nasskaltes Wetter,Lesen Sie jetzt „Im Wochenverlauf nasskaltes Wetter,MISC,,,de,1
+Orkanartige Böen,Orkanartige Böen,MISC,,,de,1
+Lesen Sie jetzt „Starker Wind,Lesen Sie jetzt „Starker Wind,MISC,,,de,1
+Wettervorhersage:,Wettervorhersage:,MISC,,,de,1
+Regen und Schmelze,Regen und Schmelze,MISC,,,de,1
+Neues Bestattungsgesetz,Neues Bestattungsgesetz,MISC,,,de,1
+Lesen Sie jetzt „Thais,Lesen Sie jetzt „Thais,MISC,,,de,1
+Lesen Sie jetzt „Milder Wochenstart,Lesen Sie jetzt „Milder Wochenstart,MISC,,,de,1
+Lesen Sie jetzt „Winter,Lesen Sie jetzt „Winter,MISC,,,de,1
+Die Wetterlage,Die Wetterlage,MISC,,,de,1
+Lesen Sie jetzt „Fraport,Lesen Sie jetzt „Fraport,MISC,,,de,1
+Lesen Sie jetzt „Warnung vor Glatteis,Lesen Sie jetzt „Warnung vor Glatteis,MISC,,,de,1
+Wetter-Chaos,Wetter-Chaos,MISC,0.0,0.0,de,1
+Die Polizei,Die Polizei,MISC,,,de,1
+Lesen Sie jetzt „An Unfallstelle:,Lesen Sie jetzt „An Unfallstelle:,MISC,,,de,1
+Lesen Sie jetzt „Kleintransporter,Lesen Sie jetzt „Kleintransporter,MISC,,,de,1
+Berliner,Berliner,MISC,,,de,1
+Lesen Sie jetzt „Vorsicht auf Sachsens Straßen,Lesen Sie jetzt „Vorsicht auf Sachsens Straßen,MISC,,,de,1
+Die Buche,Die Buche,MISC,,,de,1
+Lesen Sie jetzt „Schwache Ernte von Bucheckern,Lesen Sie jetzt „Schwache Ernte von Bucheckern,MISC,,,de,1
+Lesen Sie jetzt „Glatteis,Lesen Sie jetzt „Glatteis,MISC,,,de,1
+REISEZIELE,REISEZIELE,MISC,,,de,1
+Schnee,Schnee,MISC,0.14285714285714285,0.0,de,1
+Flockenformen,Flockenformen,MISC,,,de,1
+Ber…,Ber…,MISC,,,de,1
+Spritpreise in Deutschland,Spritpreise in Deutschland,MISC,,,de,1
+Lesen Sie jetzt „Spritpreise auf höchstem Stand,Lesen Sie jetzt „Spritpreise auf höchstem Stand,MISC,,,de,1
+Lesen Sie jetzt „Autofahrerin,Lesen Sie jetzt „Autofahrerin,MISC,,,de,1
+Hochwasser-Vorhersagezentrale,Hochwasser-Vorhersagezentrale,MISC,,,de,1
+Lesen Sie jetzt „Pegelstände steigen - Hochwasser,Lesen Sie jetzt „Pegelstände steigen - Hochwasser,MISC,,,de,1
+Lesen Sie jetzt „Graupel,Lesen Sie jetzt „Graupel,MISC,,,de,1
+Lesen Sie jetzt „Mehr,Lesen Sie jetzt „Mehr,MISC,,,de,1
+Lesen Sie jetzt „Bus,Lesen Sie jetzt „Bus,MISC,,,de,1
+Wetter-Entwicklung,Wetter-Entwicklung,MISC,,,de,1
+Chaos im NordenOrkan-Böen,Chaos im NordenOrkan-Böen,MISC,,,de,1
+Nordsee-Fähren,Nordsee-Fähren,MISC,,,de,1
+Lesen Sie jetzt „Glatteis in Hessen,Lesen Sie jetzt „Glatteis in Hessen,MISC,,,de,1
+E-Scoot,E-Scoot,MISC,,,de,1
+Lesen Sie jetzt „Unfälle wegen Glatteis,Lesen Sie jetzt „Unfälle wegen Glatteis,MISC,,,de,1
+Rekordnationalspielers,Rekordnationalspielers,MISC,,,de,1
+Lesen Sie jetzt „Matthäus,Lesen Sie jetzt „Matthäus,MISC,,,de,1
+Lesen Sie jetzt „Naturschützer rufen zum Zählen der Wintervögel,Lesen Sie jetzt „Naturschützer rufen zum Zählen der Wintervögel,MISC,,,de,1
+Lesen Sie jetzt „Wind,Lesen Sie jetzt „Wind,MISC,,,de,1
+Lesen Sie jetzt „Aussaat,Lesen Sie jetzt „Aussaat,MISC,,,de,1
+Polize,Polize,MISC,,,de,1
+Lesen Sie jetzt „Feuchte Witterung,Lesen Sie jetzt „Feuchte Witterung,MISC,,,de,1
+Deutschen Kopiere,Deutschen Kopiere,MISC,,,de,1
+Lesen Sie jetzt „Kleineres Hochwasser im Saarland,Lesen Sie jetzt „Kleineres Hochwasser im Saarland,MISC,,,de,1
+Vorfreude auf Eishockey-Fest,Vorfreude auf Eishockey-Fest,MISC,,,de,1
+Schicksalsberg der Deutschen,Schicksalsberg der Deutschen,MISC,,,de,1
+Lesen Sie jetzt „Kurzer Wintereinbruch am Wochenende,Lesen Sie jetzt „Kurzer Wintereinbruch am Wochenende,MISC,,,de,1
+Sonntagvormittag Obacht,Sonntagvormittag Obacht,MISC,,,de,1
+Lesen Sie jetzt „Dicker Eispanzer,Lesen Sie jetzt „Dicker Eispanzer,MISC,,,de,1
+Wetter am Wochenende,Wetter am Wochenende,MISC,,,de,1
+Schoko-Einkauf,Schoko-Einkauf,MISC,,,de,1
+neuen Jahr,neuen Jahr,MISC,,,de,1
+Kakaoteurer,Kakaoteurer,MISC,,,de,1
+Schoko-Inflation,Schoko-Inflation,MISC,,,de,1
+Temperat,Temperat,MISC,,,de,1
+Das Wetter in Sachsen,Das Wetter in Sachsen,MISC,,,de,1
+Schneefällen,Schneefällen,MISC,,,de,1
+Lesen Sie jetzt „Endlich Schnee,Lesen Sie jetzt „Endlich Schnee,MISC,,,de,1
+Lesen Sie jetzt „Mix aus Schnee,Lesen Sie jetzt „Mix aus Schnee,MISC,,,de,1
+Die Retter,Die Retter,MISC,,,de,1
+Das Wetter in Deutschland,Das Wetter in Deutschland,MISC,,,de,1
+"Lesen Sie jetzt „""Vorfreude","Lesen Sie jetzt „""Vorfreude",MISC,,,de,1
+DEL Winter Game,DEL Winter Game,MISC,,,de,1
+Lesen Sie jetzt „Wintertourismus im Harz,Lesen Sie jetzt „Wintertourismus im Harz,MISC,,,de,1
+Lesen Sie jetzt „Wintereinbruch in,Lesen Sie jetzt „Wintereinbruch in,MISC,,,de,1
+N…,N…,MISC,,,de,1
+Eishockey-Fest,Eishockey-Fest,MISC,0.5,0.0,de,1
+Lesen Sie jetzt „Vorfreude,Lesen Sie jetzt „Vorfreude,MISC,,,de,1
+Me…,Me…,MISC,,,de,1
+Maza-Abgang,Maza-Abgang,MISC,0.0,0.0,de,1
+Lesen Sie jetzt „Skigebiete,Lesen Sie jetzt „Skigebiete,MISC,,,de,1
+Lesen Sie jetzt „Liftbetreiber im Schwarzwald,Lesen Sie jetzt „Liftbetreiber im Schwarzwald,MISC,,,de,1
+Lesen Sie jetzt „Schnee und Frost,Lesen Sie jetzt „Schnee und Frost,MISC,,,de,1
+Lesen Sie jetzt „Warmfront,Lesen Sie jetzt „Warmfront,MISC,,,de,1
+Deutschen Wetter,Deutschen Wetter,MISC,,,de,1
+Flac,Flac,MISC,,,de,1
+Lesen Sie jetzt „Es schneit etwas -,Lesen Sie jetzt „Es schneit etwas -,MISC,,,de,1
+Hallenmasters,Hallenmasters,MISC,,,de,1
+Budenzauber statt Urlaubsfeeling,Budenzauber statt Urlaubsfeeling,MISC,,,de,1
 Landlaufloipen,Landlaufloipen,MISC,,,de,1
 Lesen Sie jetzt „Erste Langlaufstrecken,Lesen Sie jetzt „Erste Langlaufstrecken,MISC,,,de,1
 Organisatore,Organisatore,MISC,,,de,1
@@ -309,71 +484,11 @@ DF1,DF1,MISC,,,de,1
 MagentaSport,MagentaSport,MISC,,,de,1
 Nacht zu Sonntag,Nacht zu Sonntag,MISC,,,de,1
 BirdLife,BirdLife,MISC,,,de,1
+Stunde der Wintervögel,Stunde der Wintervögel,MISC,,,de,1
 Lesen Sie jetzt „Winter im Watt - Welche Tiere der Kälte,Lesen Sie jetzt „Winter im Watt - Welche Tiere der Kälte,MISC,,,de,1
-Maza-Abgang,Maza-Abgang,MISC,0.0,0.0,de,1
 Höch,Höch,MISC,,,de,1
 Autofahrer am Sonntag,Autofahrer am Sonntag,MISC,,,de,1
 Lesen Sie jetzt „Glätte in ganz Deutschland,Lesen Sie jetzt „Glätte in ganz Deutschland,MISC,,,de,1
 Millionen-Poker,Millionen-Poker,MISC,,,de,1
 Weihnachtsmärchen,Weihnachtsmärchen,MISC,,,de,1
-Lesen Sie jetzt „Liftbetreiber im Schwarzwald,Lesen Sie jetzt „Liftbetreiber im Schwarzwald,MISC,,,de,1
-Lesen Sie jetzt „Bundespolizei,Lesen Sie jetzt „Bundespolizei,MISC,,,de,1
-Budenzauber statt Urlaubsfeeling,Budenzauber statt Urlaubsfeeling,MISC,,,de,1
-Neues Bestattungsgesetz,Neues Bestattungsgesetz,MISC,,,de,1
-Lesen Sie jetzt „Es schneit etwas -,Lesen Sie jetzt „Es schneit etwas -,MISC,,,de,1
-Flac,Flac,MISC,,,de,1
-Die Polizei,Die Polizei,MISC,,,de,1
-Lesen Sie jetzt „An Unfallstelle:,Lesen Sie jetzt „An Unfallstelle:,MISC,,,de,1
-Lesen Sie jetzt „Kleintransporter,Lesen Sie jetzt „Kleintransporter,MISC,,,de,1
-Berliner,Berliner,MISC,,,de,1
-Lesen Sie jetzt „Vorsicht auf Sachsens Straßen,Lesen Sie jetzt „Vorsicht auf Sachsens Straßen,MISC,,,de,1
-Lesen Sie jetzt „Schwache Ernte von Bucheckern,Lesen Sie jetzt „Schwache Ernte von Bucheckern,MISC,,,de,1
-Die Buche,Die Buche,MISC,,,de,1
-Lesen Sie jetzt „Glatteis,Lesen Sie jetzt „Glatteis,MISC,,,de,1
-Deutschen Kopiere,Deutschen Kopiere,MISC,,,de,1
-Lesen Sie jetzt „Fraport,Lesen Sie jetzt „Fraport,MISC,,,de,1
-Lesen Sie jetzt „Kleineres Hochwasser im Saarland,Lesen Sie jetzt „Kleineres Hochwasser im Saarland,MISC,,,de,1
-Lesen Sie jetzt „Endlich Schnee,Lesen Sie jetzt „Endlich Schnee,MISC,,,de,1
-Lesen Sie jetzt „Schnee und Frost,Lesen Sie jetzt „Schnee und Frost,MISC,,,de,1
-Lesen Sie jetzt „Warmfront,Lesen Sie jetzt „Warmfront,MISC,,,de,1
-Deutschen Wetter,Deutschen Wetter,MISC,,,de,1
-Lesen Sie jetzt „Skigebiete,Lesen Sie jetzt „Skigebiete,MISC,,,de,1
-Me…,Me…,MISC,,,de,1
-Euro,Euro,MISC,,,de,1
-Weltcup,Weltcup,MISC,,,de,1
-Wetter im Ticker,Wetter im Ticker,MISC,,,de,1
-Wetter im Ticker - Schnee,Wetter im Ticker - Schnee,MISC,,,de,1
-Mittelwert,Mittelwert,MISC,,,de,1
-Ein Schiff,Ein Schiff,MISC,,,de,1
-Frachtschiff rammt Schleusentor,Frachtschiff rammt Schleusentor,MISC,,,de,1
-Lesen Sie jetzt „Schnee und Glätte,Lesen Sie jetzt „Schnee und Glätte,MISC,,,de,1
-WM im Februar,WM im Februar,MISC,,,de,1
-Ski-Star Shiffrin,Ski-Star Shiffrin,MISC,,,de,1
-Lesen Sie jetzt „Kurzer Wintereinbruch am Wochenende,Lesen Sie jetzt „Kurzer Wintereinbruch am Wochenende,MISC,,,de,1
-Sturm,Sturm,MISC,0.0,0.0,de,1
-ostdeutscher,ostdeutscher,MISC,,,de,1
-Simpler Trick - Beschlagene Autoscheiben,Simpler Trick - Beschlagene Autoscheiben,MISC,,,de,1
-Lesen Sie jetzt „Kaltfront,Lesen Sie jetzt „Kaltfront,MISC,,,de,1
-Nachts,Nachts,MISC,,,de,1
-chars,chars,MISC,,,de,1
-Deutsche Wetterdienst Kopiere,Deutsche Wetterdienst Kopiere,MISC,,,de,1
-Vorfreude auf Eishockey-Fest,Vorfreude auf Eishockey-Fest,MISC,,,de,1
-Lesen Sie jetzt „Vorfreude,Lesen Sie jetzt „Vorfreude,MISC,,,de,1
-Eishockey-Fest,Eishockey-Fest,MISC,0.5,0.0,de,1
-Lesen Sie jetzt „Wintereinbruch in,Lesen Sie jetzt „Wintereinbruch in,MISC,,,de,1
-Schoko-Einkauf,Schoko-Einkauf,MISC,,,de,1
-neuen Jahr,neuen Jahr,MISC,,,de,1
-Kakaoteurer,Kakaoteurer,MISC,,,de,1
-Schoko-Inflation,Schoko-Inflation,MISC,,,de,1
-Wiener,Wiener,MISC,,,de,1
-Temperat,Temperat,MISC,,,de,1
-Das Wetter in Sachsen,Das Wetter in Sachsen,MISC,,,de,1
-Schicksalsberg der Deutschen,Schicksalsberg der Deutschen,MISC,,,de,1
-Schneefällen,Schneefällen,MISC,,,de,1
-Lesen Sie jetzt „Mix aus Schnee,Lesen Sie jetzt „Mix aus Schnee,MISC,,,de,1
-Die Retter,Die Retter,MISC,,,de,1
-"Lesen Sie jetzt „""Vorfreude","Lesen Sie jetzt „""Vorfreude",MISC,,,de,1
-DEL Winter Game,DEL Winter Game,MISC,,,de,1
-Lesen Sie jetzt „Wintertourismus im Harz,Lesen Sie jetzt „Wintertourismus im Harz,MISC,,,de,1
-N…,N…,MISC,,,de,1
-Lesen Sie jetzt „Verteidiger Neumann,Lesen Sie jetzt „Verteidiger Neumann,MISC,,,de,1
+Frisches,Frisches,MISC,,,de,1
