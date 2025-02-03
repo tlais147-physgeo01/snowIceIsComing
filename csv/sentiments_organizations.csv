@@ -1,198 +1,220 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.16442307692307695,0.038461538461538464,de,52
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.16517857142857142,0.03571428571428571,de,56
 DWD,DWD,ORG,-0.01333333333333333,0.03333333333333333,de,30
 Fußball-Bundesliga,Fußball-Bundesliga,ORG,0.12631578947368421,0.0,de,19
 FC Bayern,FC Bayern,ORG,0.05312499999999999,0.0,de,16
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.018750000000000003,0.0,de,16
 Borussia Mönchengladbach,Borussia Mönchengladbach,ORG,-0.15000000000000002,0.2777777777777778,de,9
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.09999999999999999,0.0,de,7
+BSH,BSH,ORG,-0.3499999999999999,0.0,de,6
+Borussia Dortmund,Borussia Dortmund,ORG,-0.16666666666666666,0.16666666666666666,de,6
+ZDF,ZDF,ORG,0.33999999999999997,0.16,de,5
 Adventswochenendes,Adventswochenendes,ORG,0.0,0.0,de,5
 lrs,lrs,ORG,-0.07999999999999999,0.2,de,5
+lsw,lsw,ORG,0.13999999999999999,0.2,de,5
 FSV Mainz 05,FSV Mainz 05,ORG,0.04666666666666666,0.0,de,5
 sn,sn,ORG,0.0,0.0,de,5
-RB Leipzig,RB Leipzig,ORG,0.325,0.0,de,4
-Borussia Dortmund,Borussia Dortmund,ORG,0.25,0.25,de,4
-Hertha BSC,Hertha BSC,ORG,0.0,0.0,de,4
-lsw,lsw,ORG,0.175,0.25,de,4
-Fraport,Fraport,ORG,-0.7,0.0,de,4
 Polizei Heilbronn,Polizei Heilbronn,ORG,-0.3791666666666666,0.3333333333333333,de,4
-NHL,NHL,ORG,0.0,0.0,de,4
 DEL,DEL,ORG,0.25,0.0,de,4
+Eagles,Eagles,ORG,0.07500000000000001,0.0,de,4
+Fraport,Fraport,ORG,-0.7,0.0,de,4
+RB Leipzig,RB Leipzig,ORG,0.325,0.0,de,4
+Apple,Apple,ORG,0.5625,0.0,de,4
 Amazon,Amazon,ORG,0.675,0.0,de,4
+Hertha BSC,Hertha BSC,ORG,0.0,0.0,de,4
+NHL,NHL,ORG,0.0,0.0,de,4
 Handball-Bundesliga,Handball-Bundesliga,ORG,-0.25,0.0,de,4
-NRW-Landwirte,NRW-Landwirte,ORG,0.3333333333333333,0.0,de,3
-Manchester City,Manchester City,ORG,0.3333333333333333,0.0,de,3
-Winter-Transfers,Winter-Transfers,ORG,0.0,0.0,de,3
-Naturkatastrophenschäden,Naturkatastrophenschäden,ORG,0.0,0.0,de,3
-FC Erzgebirge Aue,FC Erzgebirge Aue,ORG,-0.3333333333333333,0.0,de,3
-FC Heidenheim,FC Heidenheim,ORG,0.05000000000000001,0.0,de,3
-Regionalliga Südwest,Regionalliga Südwest,ORG,0.0,0.0,de,3
-HOZMOZ,HOZMOZ,ORG,0.2333333333333333,0.0,de,3
-Essen,Essen,ORG,0.0,0.0,de,3
-BSH,BSH,ORG,-0.2333333333333333,0.0,de,3
-Rot-Weiss Essen,Rot-Weiss Essen,ORG,0.0,0.6666666666666666,de,3
-FC Köln,FC Köln,ORG,0.0,0.0,de,3
-Füchse Berlin,Füchse Berlin,ORG,-0.3333333333333333,0.0,de,3
-Polizei Westpfalz,Polizei Westpfalz,ORG,0.0,0.3333333333333333,de,3
-Lok Leipzig,Lok Leipzig,ORG,0.3333333333333333,0.0,de,3
+LSZ,LSZ,ORG,0.0,0.0,de,4
+Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,3
+lhe,lhe,ORG,0.0,0.0,de,3
+lby,lby,ORG,0.0,0.0,de,3
 Partei,Partei,ORG,0.0,0.0,de,3
-XXL-Test,XXL-Test,ORG,0.0,0.0,de,3
-ZDF,ZDF,ORG,0.2333333333333333,0.26666666666666666,de,3
-Bayern München,Bayern München,ORG,-0.11666666666666665,0.5,de,3
+Lok Leipzig,Lok Leipzig,ORG,0.3333333333333333,0.0,de,3
+Rot-Weiss Essen,Rot-Weiss Essen,ORG,0.0,0.6666666666666666,de,3
+Polizei Westpfalz,Polizei Westpfalz,ORG,0.0,0.3333333333333333,de,3
 Polizeiauto,Polizeiauto,ORG,0.0,0.0,de,3
+NRW-Landwirte,NRW-Landwirte,ORG,0.3333333333333333,0.0,de,3
+Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.2333333333333333,0.0,de,3
+BVB,BVB,ORG,0.0,0.0,de,3
+Regionalliga Südwest,Regionalliga Südwest,ORG,0.0,0.0,de,3
+Naturkatastrophenschäden,Naturkatastrophenschäden,ORG,0.0,0.0,de,3
+HOZMOZ,HOZMOZ,ORG,0.2333333333333333,0.0,de,3
+FC Köln,FC Köln,ORG,0.0,0.0,de,3
+FC Erzgebirge Aue,FC Erzgebirge Aue,ORG,-0.3333333333333333,0.0,de,3
 FC Bayern München,FC Bayern München,ORG,0.0,0.0,de,3
-NWS,NWS,ORG,0.0,0.0,de,2
-lhe,lhe,ORG,0.0,0.0,de,2
-lnw,lnw,ORG,0.5,0.0,de,2
-Stiftung DOJO Cares,Stiftung DOJO Cares,ORG,-0.575,0.0,de,2
-FSV Mainz,FSV Mainz,ORG,0.4666666666666666,0.0,de,2
-SpVgg Greuther Fürth,SpVgg Greuther Fürth,ORG,0.0,0.5,de,2
-Drittligisten,Drittligisten,ORG,0.0,0.5,de,2
-lby,lby,ORG,0.35,0.0,de,2
-Deutschen W,Deutschen W,ORG,0.15000000000000002,0.0,de,2
-Bundespolizei,Bundespolizei,ORG,0.0,0.0,de,2
-Borussia,Borussia,ORG,0.35,0.0,de,2
-Sternschnuppen,Sternschnuppen,ORG,0.0,0.0,de,2
-Bundesliga,Bundesliga,ORG,-0.5,0.0,de,2
-Volkswagen,Volkswagen,ORG,0.35,0.0,de,2
-sa,sa,ORG,0.07500000000000001,0.0,de,2
-Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.35,0.0,de,2
-SPD,SPD,ORG,0.7,0.0,de,2
-Sat.1,Sat.1,ORG,0.7,0.0,de,2
-RTL,RTL,ORG,0.7,0.0,de,2
-ATERCEL,ATERCEL,ORG,1.0,0.0,de,2
-BVB,BVB,ORG,0.0,0.0,de,2
-US-Star,US-Star,ORG,0.0,0.0,de,2
-dle,dle,ORG,0.0,0.0,de,2
-Regionalliga Nordost,Regionalliga Nordost,ORG,0.0,0.0,de,2
-Bundesamt für Seeschifffahrt und Hydrographie,Bundesamt für Seeschifffahrt und Hydrographie,ORG,0.0,0.0,de,2
-Regionalliga Nord,Regionalliga Nord,ORG,0.0,0.0,de,2
-Kirche,Kirche,ORG,0.0,0.0,de,2
-SV Todesfelde,SV Todesfelde,ORG,0.0,0.0,de,2
-Munich Re,Munich Re,ORG,0.0,0.0,de,2
-Eintracht,Eintracht,ORG,0.35,0.0,de,2
+Winter-Transfers,Winter-Transfers,ORG,0.0,0.0,de,3
+XXL-Test,XXL-Test,ORG,0.0,0.0,de,3
+Bayern München,Bayern München,ORG,-0.11666666666666665,0.5,de,3
+Manchester City,Manchester City,ORG,0.3333333333333333,0.0,de,3
+Essen,Essen,ORG,0.0,0.0,de,3
+FC Heidenheim,FC Heidenheim,ORG,0.05000000000000001,0.0,de,3
+Füchse Berlin,Füchse Berlin,ORG,-0.3333333333333333,0.0,de,3
 Löwen Frankfurt,Löwen Frankfurt,ORG,0.0,0.0,de,2
+Wolverhampton Wanderers,Wolverhampton Wanderers,ORG,0.0,0.0,de,2
+Kieler Hallenmasters,Kieler Hallenmasters,ORG,0.0,0.0,de,2
+SV Todesfelde,SV Todesfelde,ORG,0.0,0.0,de,2
+Regionalliga Nord,Regionalliga Nord,ORG,0.0,0.0,de,2
+Bundespolizei,Bundespolizei,ORG,0.0,0.0,de,2
+Spielern,Spielern,ORG,0.35,0.0,de,2
+Rekord-Spitzenwerte,Rekord-Spitzenwerte,ORG,0.0,0.0,de,2
+Regionalliga Nordost,Regionalliga Nordost,ORG,0.0,0.0,de,2
+Kirche,Kirche,ORG,0.0,0.0,de,2
+E-Autos,E-Autos,ORG,0.0,0.0,de,2
+Eintracht,Eintracht,ORG,0.35,0.0,de,2
+NWS,NWS,ORG,0.0,0.0,de,2
 Eintracht Frankfurt,Eintracht Frankfurt,ORG,0.0,0.0,de,2
-Wetter-Dreier!,Wetter-Dreier!,ORG,0.0,0.0,de,2
+Bund…,Bund…,ORG,0.0,0.0,de,2
+dle,dle,ORG,0.0,0.0,de,2
+US-Star,US-Star,ORG,0.0,0.0,de,2
+Sternschnuppen,Sternschnuppen,ORG,0.0,0.0,de,2
+Philadelphia Eagles,Philadelphia Eagles,ORG,0.5,0.0,de,2
+lnw,lnw,ORG,0.5,0.0,de,2
+Los Angeles Rams,Los Angeles Rams,ORG,0.15000000000000002,0.0,de,2
+SC Sand,SC Sand,ORG,0.0,0.0,de,2
+Atalanta,Atalanta,ORG,-0.35,0.0,de,2
+rheinland-pfälzische Innenministerium,rheinland-pfälzische Innenministerium,ORG,-0.35,0.0,de,2
+Drittligisten,Drittligisten,ORG,0.0,0.5,de,2
+Zweitligisten,Zweitligisten,ORG,0.0,0.0,de,2
+Munich Re,Munich Re,ORG,0.0,0.0,de,2
+FSV Mainz,FSV Mainz,ORG,0.4666666666666666,0.0,de,2
+SPD,SPD,ORG,0.7,0.0,de,2
+Stiftung DOJO Cares,Stiftung DOJO Cares,ORG,-0.575,0.0,de,2
+Hannover 96,Hannover 96,ORG,0.0,0.0,de,2
+Österreichs Slalom-Männer,Österreichs Slalom-Männer,ORG,0.0,0.0,de,2
+Winterschuhe,Winterschuhe,ORG,0.0,0.0,de,2
+BVV Pankow,BVV Pankow,ORG,1.0,0.0,de,2
+DAS Superfood,DAS Superfood,ORG,0.0,0.0,de,2
 Nissan,Nissan,ORG,0.0,0.0,de,2
+FC Burnley,FC Burnley,ORG,0.0,0.0,de,2
+sa,sa,ORG,0.07500000000000001,0.0,de,2
 Krawall-Prozess!,Krawall-Prozess!,ORG,0.5,0.0,de,2
 Mathys Tel,Mathys Tel,ORG,-0.35,0.0,de,2
-Kieler Hallenmasters,Kieler Hallenmasters,ORG,0.0,0.0,de,2
-Wolverhampton Wanderers,Wolverhampton Wanderers,ORG,0.0,0.0,de,2
+GLOBE NEWSWIRE,GLOBE NEWSWIRE,ORG,0.85,0.0,de,2
 Rot-Weiß Oberhausen,Rot-Weiß Oberhausen,ORG,0.0,0.0,de,2
 TSV 1860 München,TSV 1860 München,ORG,0.0,0.0,de,2
-Österreichs Slalom-Männer,Österreichs Slalom-Männer,ORG,0.0,0.0,de,2
-rheinland-pfälzische Innenministerium,rheinland-pfälzische Innenministerium,ORG,-0.35,0.0,de,2
-Konservativen,Konservativen,ORG,0.0,0.0,de,2
-Leitstelle Tirol,Leitstelle Tirol,ORG,0.0,0.0,de,2
-Hallesche FC,Hallesche FC,ORG,0.0,0.0,de,2
-Assads,Assads,ORG,-1.0,0.0,de,2
-SV Sandhausen,SV Sandhausen,ORG,0.0,0.0,de,2
-Union Berlin,Union Berlin,ORG,0.0,0.0,de,2
-mv,mv,ORG,-0.35,0.0,de,2
+Rhein-Neckar Löwen,Rhein-Neckar Löwen,ORG,-0.35,0.0,de,2
+Powerbeats Pro,Powerbeats Pro,ORG,0.7749999999999999,0.0,de,2
+Wetter-Dreier!,Wetter-Dreier!,ORG,0.0,0.0,de,2
+SpVgg Greuther Fürth,SpVgg Greuther Fürth,ORG,0.0,0.5,de,2
+Deutschen W,Deutschen W,ORG,0.15000000000000002,0.0,de,2
+Bundesliga,Bundesliga,ORG,-0.5,0.0,de,2
+FC Carl Zeiss Jena,FC Carl Zeiss Jena,ORG,0.0,0.0,de,2
+Volkswagen,Volkswagen,ORG,0.35,0.0,de,2
+Borussia,Borussia,ORG,0.35,0.0,de,2
 FC Schalke 04,FC Schalke 04,ORG,1.0,0.0,de,2
 Krisenclub Heidenheim,Krisenclub Heidenheim,ORG,0.0,0.0,de,2
-Labour,Labour,ORG,0.0,0.0,de,2
+SV Sandhausen,SV Sandhausen,ORG,0.0,0.0,de,2
 Tesla,Tesla,ORG,0.35,0.0,de,2
+Leitstelle Tirol,Leitstelle Tirol,ORG,0.0,0.0,de,2
 Bundesligaklub,Bundesligaklub,ORG,0.35,0.0,de,2
-Spielern,Spielern,ORG,0.35,0.0,de,2
-Wintersport-Rückkehr,Wintersport-Rückkehr,ORG,-1.0,0.0,de,2
-E-Autos,E-Autos,ORG,0.0,0.0,de,2
-FC Carl Zeiss Jena,FC Carl Zeiss Jena,ORG,0.0,0.0,de,2
-Zweitligisten,Zweitligisten,ORG,0.0,0.0,de,2
-SC Sand,SC Sand,ORG,0.0,0.0,de,2
-Rhein-Neckar Löwen,Rhein-Neckar Löwen,ORG,-0.35,0.0,de,2
-FC Burnley,FC Burnley,ORG,0.0,0.0,de,2
-Bund…,Bund…,ORG,0.0,0.0,de,2
+Assads,Assads,ORG,-1.0,0.0,de,2
+Hallesche FC,Hallesche FC,ORG,0.0,0.0,de,2
 Elektroautos,Elektroautos,ORG,0.7,0.0,de,2
-Winterschuhe,Winterschuhe,ORG,0.0,0.0,de,2
+Konservativen,Konservativen,ORG,0.0,0.0,de,2
+Sat.1,Sat.1,ORG,0.7,0.0,de,2
+Union Berlin,Union Berlin,ORG,0.0,0.0,de,2
+RTL,RTL,ORG,0.7,0.0,de,2
 ntv.de,ntv.de,ORG,0.0,0.0,de,2
-Atalanta,Atalanta,ORG,-0.35,0.0,de,2
-ISW,ISW,ORG,0.0,0.0,de,1
-Xiaomi,Xiaomi,ORG,1.0,0.0,de,1
-O Telefonica,O Telefonica,ORG,-0.15000000000000002,0.0,de,1
-EU-Markt,EU-Markt,ORG,0.7,0.0,de,1
-SPD-Parteitag,SPD-Parteitag,ORG,0.0,0.0,de,1
-Allergiesaison,Allergiesaison,ORG,-0.85,0.0,de,1
-FCH-Neuzugang Krätzig,FCH-Neuzugang Krätzig,ORG,0.0,0.0,de,1
-Hoodie,Hoodie,ORG,1.0,0.0,de,1
-St. Martins Therme,St. Martins Therme,ORG,0.7,0.0,de,1
-Ferrari Testarossa,Ferrari Testarossa,ORG,0.0,0.0,de,1
-Energie Cottbus,Energie Cottbus,ORG,-1.0,0.0,de,1
-Dynamo,Dynamo,ORG,1.0,0.0,de,1
-FC Union,FC Union,ORG,0.0,0.0,de,1
-Dresden,Dresden,ORG,1.0,0.0,de,1
-Sturm Graz,Sturm Graz,ORG,-1.0,0.0,de,1
-Fußball-Zweitligist,Fußball-Zweitligist,ORG,0.0,0.0,de,1
-Mainz,Mainz,ORG,0.7,0.0,de,1
-FOCUS,FOCUS,ORG,0.0,0.0,de,1
-la…,la…,ORG,0.0,0.0,de,1
-O₂ Telefonica,O₂ Telefonica,ORG,-1.0,0.0,de,1
-Mainz 05,Mainz 05,ORG,0.0,0.0,de,1
-Frankfurtern,Frankfurtern,ORG,0.0,0.0,de,1
-NFL-Team,NFL-Team,ORG,1.0,0.0,de,1
-Los Angeles Rams,Los Angeles Rams,ORG,1.0,0.0,de,1
-Bayern-Abgang!,Bayern-Abgang!,ORG,0.0,0.0,de,1
-Winter-Transferfensters,Winter-Transferfensters,ORG,0.7,0.0,de,1
-Philadelphia Eagles,Philadelphia Eagles,ORG,1.0,0.0,de,1
-Diffuses Licht,Diffuses Licht,ORG,-0.7,0.0,de,1
-Eintracht-Sportchef,Eintracht-Sportchef,ORG,0.7,0.0,de,1
-Kandahar-Rennen,Kandahar-Rennen,ORG,0.0,0.0,de,1
-Glatteis-Gefahr!,Glatteis-Gefahr!,ORG,0.0,0.0,de,1
-Asfinag,Asfinag,ORG,0.0,0.0,de,1
-Frémont-Pappel,Frémont-Pappel,ORG,0.0,0.0,de,1
-Schluss!,Schluss!,ORG,0.0,0.0,de,1
-Drittliga-Konkurrent Essen,Drittliga-Konkurrent Essen,ORG,0.0,0.0,de,1
-SC Sa…,SC Sa…,ORG,0.0,0.0,de,1
-INTERVIEW,INTERVIEW,ORG,-1.0,0.0,de,1
-Drittliga-Konkurrent Rot-Weiß,Drittliga-Konkurrent Rot-Weiß,ORG,0.0,0.0,de,1
-Bochumer,Bochumer,ORG,0.0,0.0,de,1
-Shopping-Deal,Shopping-Deal,ORG,0.0,0.0,de,1
-Grüne,Grüne,ORG,0.7,0.0,de,1
-Instituts für Kriegsforschung,Instituts für Kriegsforschung,ORG,0.0,0.0,de,1
-Institut… [+1763 chars],Institut… [+1763 chars],ORG,0.0,0.0,de,1
-Winterwonderland Berlin,Winterwonderland Berlin,ORG,0.0,0.0,de,1
-Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1
-BILD,BILD,ORG,0.0,0.0,de,1
-Austria,Austria,ORG,0.0,0.0,de,1
-Västeras DK,Västeras DK,ORG,0.0,0.0,de,1
-Freien,Freien,ORG,0.9,0.0,de,1
-Granath,Granath,ORG,0.0,0.0,de,1
-FC Ingolstadts,FC Ingolstadts,ORG,0.0,0.0,de,1
-HFC,HFC,ORG,0.0,0.0,de,1
-DFB-Junior,DFB-Junior,ORG,0.0,0.0,de,1
-AUTO,AUTO,ORG,0.7,0.0,de,1
-Greuther Fürth,Greuther Fürth,ORG,0.0,0.0,de,1
-Heidenheim,Heidenheim,ORG,1.0,0.0,de,1
-Werder Bremen,Werder Bremen,ORG,1.0,0.0,de,1
-Werder Bremen n…,Werder Bremen n…,ORG,1.0,0.0,de,1
-Samsung,Samsung,ORG,0.0,0.0,de,1
-Paris...,Paris...,ORG,0.0,0.0,de,1
-Drittligist,Drittligist,ORG,0.0,0.0,de,1
-FC Erzgebirge Aue!,FC Erzgebirge Aue!,ORG,0.0,0.0,de,1
+Wintersport-Rückkehr,Wintersport-Rückkehr,ORG,-1.0,0.0,de,2
+mv,mv,ORG,-0.35,0.0,de,2
+ATERCEL,ATERCEL,ORG,1.0,0.0,de,2
+Labour,Labour,ORG,0.0,0.0,de,2
+SONNE,SONNE,ORG,1.0,0.0,de,1
+Peugeot,Peugeot,ORG,0.0,0.0,de,1
 Elektroauto,Elektroauto,ORG,0.7,0.0,de,1
 VW,VW,ORG,0.0,0.0,de,1
-OlafLeichte,OlafLeichte,ORG,0.0,0.0,de,1
-FC Ingolstadts Grönning,FC Ingolstadts Grönning,ORG,0.0,0.0,de,1
+Mainz 05,Mainz 05,ORG,0.0,0.0,de,1
+Bochumer,Bochumer,ORG,0.0,0.0,de,1
+Werder Bremen n…,Werder Bremen n…,ORG,1.0,0.0,de,1
+Polestar,Polestar,ORG,-0.7,0.0,de,1
 Voyah,Voyah,ORG,0.0,0.0,de,1
-Der FC Bayern München,Der FC Bayern München,ORG,-0.7,0.0,de,1
-Peugeot,Peugeot,ORG,0.0,0.0,de,1
 BYD,BYD,ORG,-0.7,0.0,de,1
-Birmingham City,Birmingham City,ORG,0.0,0.0,de,1
+Hoodie,Hoodie,ORG,1.0,0.0,de,1
+Mainz,Mainz,ORG,0.7,0.0,de,1
+Shopping-Deal,Shopping-Deal,ORG,0.0,0.0,de,1
+Rettungseinsat,Rettungseinsat,ORG,0.7,0.0,de,1
+AUTO,AUTO,ORG,0.7,0.0,de,1
+4-Länder-Tour,4-Länder-Tour,ORG,-0.5,0.0,de,1
+Heidenheim,Heidenheim,ORG,1.0,0.0,de,1
+Werder Bremen,Werder Bremen,ORG,1.0,0.0,de,1
+Pedalpower,Pedalpower,ORG,0.0,0.0,de,1
+Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1
+FOCUS,FOCUS,ORG,0.0,0.0,de,1
+Der FC Bayern München,Der FC Bayern München,ORG,-0.7,0.0,de,1
 DAS,DAS,ORG,0.0,0.0,de,1
-Französinnen,Französinnen,ORG,0.0,0.0,de,1
+Hannovers U 23.,Hannovers U 23.,ORG,0.0,0.0,de,1
 COMPUTER BIL,COMPUTER BIL,ORG,0.0,0.0,de,1
 the leaf,the leaf,ORG,1.0,0.0,de,1
-Polestar,Polestar,ORG,-0.7,0.0,de,1
-Paris …,Paris …,ORG,0.0,0.0,de,1
+Olympia-Kunststück,Olympia-Kunststück,ORG,0.0,0.0,de,1
+Dresden,Dresden,ORG,1.0,0.0,de,1
+FC Erzgebirge Aue!,FC Erzgebirge Aue!,ORG,0.0,0.0,de,1
+Drittligist,Drittligist,ORG,0.0,0.0,de,1
+SPONSORED,SPONSORED,ORG,0.0,0.0,de,1
+Neue Freie Presse,Neue Freie Presse,ORG,0.0,0.0,de,1
+Medizinischen Universität Wien,Medizinischen Universität Wien,ORG,0.0,0.0,de,1
+Kult-Autos,Kult-Autos,ORG,0.0,0.0,de,1
+NFL-Team,NFL-Team,ORG,1.0,0.0,de,1
+Dynamo,Dynamo,ORG,1.0,0.0,de,1
+Automobilfans,Automobilfans,ORG,1.0,0.0,de,1
+Institut… [+1763 chars],Institut… [+1763 chars],ORG,0.0,0.0,de,1
+OlafLeichte,OlafLeichte,ORG,0.0,0.0,de,1
+Energie Cottbus,Energie Cottbus,ORG,-1.0,0.0,de,1
+Sturm Graz,Sturm Graz,ORG,-1.0,0.0,de,1
+Greuther Fürth,Greuther Fürth,ORG,0.0,0.0,de,1
+Winterwonderland Berlin,Winterwonderland Berlin,ORG,0.0,0.0,de,1
+DFB-Junior,DFB-Junior,ORG,0.0,0.0,de,1
+Birmingham City,Birmingham City,ORG,0.0,0.0,de,1
+Grüne,Grüne,ORG,0.7,0.0,de,1
+Schluss!,Schluss!,ORG,0.0,0.0,de,1
+ISW,ISW,ORG,0.0,0.0,de,1
+INTERVIEW,INTERVIEW,ORG,-1.0,0.0,de,1
+Ferrari Testarossa,Ferrari Testarossa,ORG,0.0,0.0,de,1
+Allergiesaison,Allergiesaison,ORG,-0.85,0.0,de,1
+DEN Ostsee,DEN Ostsee,ORG,0.0,0.0,de,1
+Hisbollah,Hisbollah,ORG,0.7,0.0,de,1
+Release,Release,ORG,0.7,0.0,de,1
+Fußball-Zweitligist,Fußball-Zweitligist,ORG,0.0,0.0,de,1
+Instituts für Kriegsforschung,Instituts für Kriegsforschung,ORG,0.0,0.0,de,1
+Kandahar-Rennen,Kandahar-Rennen,ORG,0.0,0.0,de,1
+NÖVOG,NÖVOG,ORG,0.0,0.0,de,1
+Niederösterreichische Verkehrsorganisationsgesellschaft,Niederösterreichische Verkehrsorganisationsgesellschaft,ORG,0.0,0.0,de,1
+Entwickler,Entwickler,ORG,0.7,0.0,de,1
+Freien,Freien,ORG,0.9,0.0,de,1
+SC Sa…,SC Sa…,ORG,0.0,0.0,de,1
+FC Union,FC Union,ORG,0.0,0.0,de,1
+NFL-Playoffs,NFL-Playoffs,ORG,-0.7,0.0,de,1
+tre…,tre…,ORG,-0.7,0.0,de,1
+Austria,Austria,ORG,0.0,0.0,de,1
+BILD,BILD,ORG,0.0,0.0,de,1
+Frémont-Pappel,Frémont-Pappel,ORG,0.0,0.0,de,1
+Französinnen,Französinnen,ORG,0.0,0.0,de,1
 Blue Monday,Blue Monday,ORG,0.0,0.0,de,1
+Landtag,Landtag,ORG,1.0,0.0,de,1
+Paris …,Paris …,ORG,0.0,0.0,de,1
+Asfinag,Asfinag,ORG,0.0,0.0,de,1
+Paris...,Paris...,ORG,0.0,0.0,de,1
+Samsung,Samsung,ORG,0.0,0.0,de,1
+FC Ingolstadts Grönning,FC Ingolstadts Grönning,ORG,0.0,0.0,de,1
+FC Ingolstadts,FC Ingolstadts,ORG,0.0,0.0,de,1
+US-Südstaaten,US-Südstaaten,ORG,-0.7,0.0,de,1
+Deep Robotics,Deep Robotics,ORG,0.0,0.0,de,1
+la…,la…,ORG,0.0,0.0,de,1
+Glatteis-Gefahr!,Glatteis-Gefahr!,ORG,0.0,0.0,de,1
+Västeras DK,Västeras DK,ORG,0.0,0.0,de,1
+Granath,Granath,ORG,0.0,0.0,de,1
+SSV,SSV,ORG,0.0,0.0,de,1
+SFK,SFK,ORG,0.0,0.0,de,1
+VfV,VfV,ORG,0.0,0.0,de,1
+Spaki,Spaki,ORG,0.0,0.0,de,1
+SC Siemensstadt,SC Siemensstadt,ORG,0.0,0.0,de,1
+Galatasaray & Juventus,Galatasaray & Juventus,ORG,0.0,0.0,de,1
+HFC,HFC,ORG,0.0,0.0,de,1
+World Economic Forum,World Economic Forum,ORG,0.7,0.0,de,1
+Xiaomi,Xiaomi,ORG,1.0,0.0,de,1
+EU-Markt,EU-Markt,ORG,0.7,0.0,de,1
 Kärntner Imkerinnen,Kärntner Imkerinnen,ORG,1.0,0.0,de,1
-Deutsche W,Deutsche W,ORG,-0.7,0.0,de,1
-Schlössern Westpolens,Schlössern Westpolens,ORG,0.0,0.0,de,1
-NRW-Kitas,NRW-Kitas,ORG,0.0,0.0,de,1
-Weihnachtskirche Roms,Weihnachtskirche Roms,ORG,0.0,0.0,de,1
-Jetstreams,Jetstreams,ORG,0.0,0.0,de,1
-bb,bb,ORG,0.0,0.0,de,1
+FCH-Neuzugang Krätzig,FCH-Neuzugang Krätzig,ORG,0.0,0.0,de,1
+Woodhouse,Woodhouse,ORG,0.0,0.0,de,1
 Bundesligist,Bundesligist,ORG,0.0,0.0,de,1
 FC Union Berlin,FC Union Berlin,ORG,0.7,0.0,de,1
 Shutterstock.com,Shutterstock.com,ORG,-1.0,0.0,de,1
@@ -201,24 +223,32 @@ ManCity,ManCity,ORG,-0.7,0.0,de,1
 FC Bayern Ernst,FC Bayern Ernst,ORG,0.0,0.0,de,1
 Winter-Wahlkampf,Winter-Wahlkampf,ORG,0.0,0.0,de,1
 Winterwahl,Winterwahl,ORG,0.0,0.0,de,1
+Schlössern Westpolens,Schlössern Westpolens,ORG,0.0,0.0,de,1
 Geschunden,Geschunden,ORG,-1.0,0.0,de,1
-Notenbank,Notenbank,ORG,0.0,0.0,de,1
 LinkedIn,LinkedIn,ORG,0.7,0.0,de,1
 Schulbus,Schulbus,ORG,0.0,0.0,de,1
 Teures Hochwass,Teures Hochwass,ORG,0.0,0.0,de,1
 The Bullet,The Bullet,ORG,0.0,0.0,de,1
-Woodhouse,Woodhouse,ORG,0.0,0.0,de,1
 Bunting Army,Bunting Army,ORG,0.0,0.0,de,1
+Jetstreams,Jetstreams,ORG,0.0,0.0,de,1
 Jahresbe,Jahresbe,ORG,0.0,0.0,de,1
 Roten Kreuz,Roten Kreuz,ORG,0.0,0.0,de,1
 Blackhawks,Blackhawks,ORG,0.0,0.0,de,1
 Edmonton Oilers,Edmonton Oilers,ORG,0.0,0.0,de,1
 Utah Hockey Club,Utah Hockey Club,ORG,0.0,0.0,de,1
 Hause,Hause,ORG,0.0,0.0,de,1
-Citizen Scientists,Citizen Scientists,ORG,-0.10000000000000002,0.0,de,1
-Maeslant-Sperrwerk,Maeslant-Sperrwerk,ORG,0.0,0.0,de,1
-Sturm Graz...,Sturm Graz...,ORG,0.0,0.0,de,1
-SFV,SFV,ORG,0.0,0.0,de,1
+Reichels Blackhawks,Reichels Blackhawks,ORG,-0.7,0.0,de,1
+ARD,ARD,ORG,0.7,0.0,de,1
+Vox,Vox,ORG,0.7,0.0,de,1
+Das Erste,Das Erste,ORG,0.0,0.0,de,1
+ProSieben,ProSieben,ORG,0.7,0.0,de,1
+ei…,ei…,ORG,0.0,0.0,de,1
+ATERCEL Touchscreen-Winterhandschuhe,ATERCEL Touchscreen-Winterhandschuhe,ORG,0.0,0.0,de,1
+pr…,pr…,ORG,0.0,0.0,de,1
+bb,bb,ORG,0.0,0.0,de,1
+Weihnachtskirche Roms,Weihnachtskirche Roms,ORG,0.0,0.0,de,1
+SPD-Parteitag,SPD-Parteitag,ORG,0.0,0.0,de,1
+BSC Young Boys,BSC Young Boys,ORG,-0.7,0.0,de,1
 Handball-Bundesligist,Handball-Bundesligist,ORG,0.0,0.0,de,1
 US-Basis,US-Basis,ORG,0.0,0.0,de,1
 Rheinmetall,Rheinmetall,ORG,0.0,0.0,de,1
@@ -231,10 +261,10 @@ Verband der deutschen Games-Branche,Verband der deutschen Games-Branche,ORG,0.85
 Verband der deutschen Games-Branc,Verband der deutschen Games-Branc,ORG,0.0,0.0,de,1
 DTB,DTB,ORG,0.0,0.0,de,1
 Elite-Team,Elite-Team,ORG,0.0,0.0,de,1
+SFV,SFV,ORG,0.0,0.0,de,1
 YB-Trainer,YB-Trainer,ORG,0.0,0.0,de,1
-Bau- und Immobilienfirma Steiner AG,Bau- und Immobilienfirma Steiner AG,ORG,0.0,0.0,de,1
-BSC Young Boys,BSC Young Boys,ORG,-0.7,0.0,de,1
 YB,YB,ORG,0.0,0.0,de,1
+NRW-Kitas,NRW-Kitas,ORG,0.0,0.0,de,1
 Young Boys,Young Boys,ORG,0.0,0.0,de,1
 Zentral- und Landesbibliothek Berlin,Zentral- und Landesbibliothek Berlin,ORG,0.0,0.0,de,1
 ZLB,ZLB,ORG,0.0,0.0,de,1
@@ -245,48 +275,48 @@ Wintertransfermarkt,Wintertransfermarkt,ORG,0.0,0.0,de,1
 Touri-Hotspot,Touri-Hotspot,ORG,0.0,0.0,de,1
 Steiner AG,Steiner AG,ORG,-0.35,0.0,de,1
 Bau- und Immobilienfirma Steiner,Bau- und Immobilienfirma Steiner,ORG,0.0,0.0,de,1
-Reichels Blackhawks,Reichels Blackhawks,ORG,-0.7,0.0,de,1
-ARD,ARD,ORG,0.7,0.0,de,1
-Vox,Vox,ORG,0.7,0.0,de,1
+Bau- und Immobilienfirma Steiner AG,Bau- und Immobilienfirma Steiner AG,ORG,0.0,0.0,de,1
+Maeslant-Sperrwerk,Maeslant-Sperrwerk,ORG,0.0,0.0,de,1
+Notenbank,Notenbank,ORG,0.0,0.0,de,1
+Citizen Scientists,Citizen Scientists,ORG,-0.10000000000000002,0.0,de,1
+Bayern-Stars,Bayern-Stars,ORG,0.0,0.0,de,1
+FAZ,FAZ,ORG,0.0,0.0,de,1
+Millionen +++ Fußgänger,Millionen +++ Fußgänger,ORG,0.0,0.0,de,1
+HSV,HSV,ORG,0.0,0.0,de,1
 Deutschen Bahn,Deutschen Bahn,ORG,0.0,0.0,de,1
-Nationalspieler,Nationalspieler,ORG,0.0,0.0,de,1
-BirdLife,BirdLife,ORG,0.0,0.0,de,1
-DEL-Wintergame,DEL-Wintergame,ORG,0.0,0.0,de,1
-Deutschen Eishockey-Liga,Deutschen Eishockey-Liga,ORG,0.0,0.0,de,1
-Arsenal,Arsenal,ORG,0.0,0.0,de,1
-Wintertransfer-Fenster,Wintertransfer-Fenster,ORG,0.0,0.0,de,1
-Winterberg & Co.,Winterberg & Co.,ORG,0.0,0.0,de,1
-israelische Armee,israelische Armee,ORG,0.0,0.0,de,1
-Nationale Wetterdienst,Nationale Wetterdienst,ORG,0.0,0.0,de,1
-Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
-Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,1
-Winterwitterung,Winterwitterung,ORG,0.0,0.0,de,1
+Spitzensportler-Team,Spitzensportler-Team,ORG,0.0,0.0,de,1
 Schlichting!,Schlichting!,ORG,0.0,0.0,de,1
-Das Erste,Das Erste,ORG,0.0,0.0,de,1
 Naturschutzbund Deutschland,Naturschutzbund Deutschland,ORG,0.0,0.0,de,1
 Der Naturschutzbund Deutschland,Der Naturschutzbund Deutschland,ORG,-0.7,0.0,de,1
 Naturschutzbund Nabu,Naturschutzbund Nabu,ORG,0.0,0.0,de,1
 Sturmflut,Sturmflut,ORG,-1.0,0.0,de,1
 A7,A7,ORG,-0.7,0.0,de,1
 SPÖ,SPÖ,ORG,0.0,0.0,de,1
+Deutsche Segler,Deutsche Segler,ORG,0.0,0.0,de,1
+Schneef…,Schneef…,ORG,0.0,0.0,de,1
 Raspberry Pi Foundation,Raspberry Pi Foundation,ORG,0.0,0.0,de,1
 Dumm,Dumm,ORG,-0.15000000000000002,0.0,de,1
 E-Aut,E-Aut,ORG,0.0,0.0,de,1
-HSV,HSV,ORG,0.0,0.0,de,1
 Winter-Trainingslagers,Winter-Trainingslagers,ORG,0.0,0.0,de,1
-Selke und Dompé,Selke und Dompé,ORG,0.0,0.0,de,1
-Wolfsburg,Wolfsburg,ORG,0.0,0.0,de,1
-Polizei,Polizei,ORG,0.0,0.0,de,1
-Ungemütliches Winterwetter,Ungemütliches Winterwetter,ORG,0.0,0.0,de,1
-Deutschland,Deutschland,ORG,0.0,0.0,de,1
-ProSieben,ProSieben,ORG,0.7,0.0,de,1
-ei…,ei…,ORG,0.0,0.0,de,1
-ATERCEL Touchscreen-Winterhandschuhe,ATERCEL Touchscreen-Winterhandschuhe,ORG,0.0,0.0,de,1
-pr…,pr…,ORG,0.0,0.0,de,1
-Bayern-Stars,Bayern-Stars,ORG,0.0,0.0,de,1
-FAZ,FAZ,ORG,0.0,0.0,de,1
-Millionen +++ Fußgänger,Millionen +++ Fußgänger,ORG,0.0,0.0,de,1
 Hessen Wiesbaden,Hessen Wiesbaden,ORG,0.0,0.0,de,1
+Selke und Dompé,Selke und Dompé,ORG,0.0,0.0,de,1
+Sturm Graz...,Sturm Graz...,ORG,0.0,0.0,de,1
+Deutsche W,Deutsche W,ORG,-0.7,0.0,de,1
+St. Martins Therme,St. Martins Therme,ORG,0.7,0.0,de,1
+Green Leaf Society,Green Leaf Society,ORG,0.0,0.0,de,1
+Bayern-Abgang!,Bayern-Abgang!,ORG,0.0,0.0,de,1
+Winter-Transferfensters,Winter-Transferfensters,ORG,0.7,0.0,de,1
+Diffuses Licht,Diffuses Licht,ORG,-0.7,0.0,de,1
+Eintracht-Sportchef,Eintracht-Sportchef,ORG,0.7,0.0,de,1
+Frankfurtern,Frankfurtern,ORG,0.0,0.0,de,1
+Drittliga-Konkurrent Essen,Drittliga-Konkurrent Essen,ORG,0.0,0.0,de,1
+Drittliga-Konkurrent Rot-Weiß,Drittliga-Konkurrent Rot-Weiß,ORG,0.0,0.0,de,1
+O₂ Telefonica,O₂ Telefonica,ORG,-1.0,0.0,de,1
+O Telefonica,O Telefonica,ORG,-0.15000000000000002,0.0,de,1
+Winterwitterung,Winterwitterung,ORG,0.0,0.0,de,1
+Glatteis-Warnung,Glatteis-Warnung,ORG,0.0,0.0,de,1
+Deutschen Presse-Agentur,Deutschen Presse-Agentur,ORG,0.0,0.0,de,1
+Nationale Wetterdienst,Nationale Wetterdienst,ORG,0.0,0.0,de,1
 Eurojackpot,Eurojackpot,ORG,1.0,0.0,de,1
 Lotto Hessen,Lotto Hessen,ORG,0.0,0.0,de,1
 University of California,University of California,ORG,0.0,0.0,de,1
@@ -304,4 +334,16 @@ Deutschen Eishockey Liga,Deutschen Eishockey Liga,ORG,0.0,0.0,de,1
 Adler Mannheim,Adler Mannheim,ORG,0.0,0.0,de,1
 Eishockey-Spektakel,Eishockey-Spektakel,ORG,0.0,0.0,de,1
 Kommission zur Aufklärung der Vorwürfe des sexuellen Missbrauchs,Kommission zur Aufklärung der Vorwürfe des sexuellen Missbrauchs,ORG,0.0,0.0,de,1
-Eagles,Eagles,ORG,1.0,0.0,de,1
+Deutschland,Deutschland,ORG,0.0,0.0,de,1
+Ungemütliches Winterwetter,Ungemütliches Winterwetter,ORG,0.0,0.0,de,1
+Polizei,Polizei,ORG,0.0,0.0,de,1
+Wolfsburg,Wolfsburg,ORG,0.0,0.0,de,1
+Nationalspieler,Nationalspieler,ORG,0.0,0.0,de,1
+BirdLife,BirdLife,ORG,0.0,0.0,de,1
+DEL-Wintergame,DEL-Wintergame,ORG,0.0,0.0,de,1
+Deutschen Eishockey-Liga,Deutschen Eishockey-Liga,ORG,0.0,0.0,de,1
+Arsenal,Arsenal,ORG,0.0,0.0,de,1
+Wintertransfer-Fenster,Wintertransfer-Fenster,ORG,0.0,0.0,de,1
+Winterberg & Co.,Winterberg & Co.,ORG,0.0,0.0,de,1
+israelische Armee,israelische Armee,ORG,0.0,0.0,de,1
+Hannover 96 II,Hannover 96 II,ORG,0.0,0.0,de,1
