@@ -16,3 +16,17 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0269971706665975
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0130108225324575
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.009791694177981
+'Laubfall',de,Winter,#3288e5,#737ee4,2,0.6
+'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.6
+'Frühblüher',de,Winter,#5287e5,#638ed4,2,0.6
+'Hasel',de,Winter,#4287f5,#537ee4,2,0.55
+'Erle',de,Winter,#4287f5,#537ef4,2,0.55
+'Forsythie Blüte',de,Frühling,#679e2c,#8db354,2,0.5
+'Apfel Blüte',de,Frühling,#679e2c,#6dc344,2,0.5
+'Holunder Blüte',de,Sommer,#a89216,#97731f,2,0.5
+'Linde Blüte',de,Sommer,#a89216,#97930f,2,0.5
+'Apfelernte',de,Sommer,#a89216,#77731f,2,0.5
+'Holunderbeere',de,Herbst,#9e3215,#e63128,2,0.5
+'Eicheln',de,Herbst,#9e3215,#f64118,2,0.5
+'Eiche Laub',de,Herbst,#9e3215,#e64118,2,0.5
+'Laubfärbung',de,Herbst,#9e3215,#e63128,2,0.5
