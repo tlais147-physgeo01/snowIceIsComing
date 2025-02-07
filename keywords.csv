@@ -4,13 +4,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erle',de,Winter,#4287f5,#537ef4,2,0.5017430671428572
 'Eicheln',de,Herbst,#9e3215,#f64118,2,0.5
 'Holunderbeere',de,Herbst,#9e3215,#e63128,2,0.5
-'Holunder Blüte',de,Sommer,#a89216,#97731f,2,0.5
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,2,0.5
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,2,0.5
 'Hasel',de,Winter,#4287f5,#537ee4,2,0.48745012
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.4522753093298077
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.42500012
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.425000015
+'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.425
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.425
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.425
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2989309178267045
