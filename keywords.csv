@@ -27,6 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.0892379332016341
 'Pollen',de,Frühling,#679e2c,#61d01c,1,0.0807859734494652
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.062280265447477
+'Weinlese',de,Herbst,#9e3215,#b55035,1,0.05877298505128385
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0269971706665975
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.011059199152588874
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.009791694177981
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0110591991525888
