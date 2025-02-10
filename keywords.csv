@@ -10,9 +10,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.425000015
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.425
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.425
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.425
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.425
 'Holunderbeere',de,Herbst,#9e3215,#e63128,2,0.369764047799375
+'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.36124999999999996
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2989309178267045
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.2411804613349529
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2189385035331851
