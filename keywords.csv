@@ -24,8 +24,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1098595621823396
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1017841840171942
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1000259268521149
+'Pollen',de,Frühling,#679e2c,#61d01c,2,0.08938514909871209
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.0892379332016341
-'Pollen',de,Frühling,#679e2c,#61d01c,1,0.0807859734494652
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.062280265447477
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0587729850512838
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0269971706665975
