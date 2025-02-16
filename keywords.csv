@@ -6,13 +6,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.3844343129303365
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.3832651665
 'Holunderbeere',de,Herbst,#9e3215,#e63128,2,0.369764047799375
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.362450222
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.36140002775
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.3612499999999999
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.3612499999999999
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.3612499999999999
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.34996568606178974
+'Schnee',de,Winter,#4287f5,#638ed4,3,0.3499656860617897
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.3235932357710736
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.3092828087
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.3070624999999999
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.2610031249999999
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2189385035331851
