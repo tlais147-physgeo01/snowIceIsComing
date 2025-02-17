@@ -3,7 +3,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hasel',de,Winter,#4287f5,#537ee4,2,0.4137981856999999
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.3832651665
 'Holunderbeere',de,Herbst,#9e3215,#e63128,2,0.369764047799375
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.368475
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.36140002775
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.3612499999999999
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.3612499999999999
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.3544469337180587
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.3499656860617897
 'Glatteis',de,Winter,#4287f5,#3b4a63,3,0.3235932357710736
+'Laubfall',de,Winter,#3288e5,#737ee4,1,0.31320375
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.3092828087
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.2610031249999999
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.2610031249999999
@@ -28,5 +28,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.0892379332016341
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.062280265447477
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0587729850512838
-'Aussaat',de,Frühling,#679e2c,#7db344,1,0.041084287852669585
+'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0410842878526695
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0110591991525888
