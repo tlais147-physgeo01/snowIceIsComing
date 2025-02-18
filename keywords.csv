@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.2610031249999999
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.2610031249999999
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2189385035331851
+'Frühling',de,Frühling,#679e2c,#679e2c,3,0.2168451902287531
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.190460095296019
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.190455629680886
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1900342612104929
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1690880656051866
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1629312576955226
