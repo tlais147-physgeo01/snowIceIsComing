@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.4657213333580128
+'Frühblüher',de,Winter,#5287e5,#638ed4,2,0.4127998269906745
 'Hasel',de,Winter,#4287f5,#537ee4,2,0.3763073442735713
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.36140002775
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.3544469337180587
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1690880656051866
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1629312576955226
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1256040001277159
-'Blüte',de,Frühling,#679e2c,#61b00c,3,0.11262183503957081
+'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1126218350395708
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1017841840171942
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.0945643403702688
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.0900153728242976
