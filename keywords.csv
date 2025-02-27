@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1900342612104929
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.1896091563344234
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1885747578124999
+'Ernte',de,Herbst,#9e3215,#d64118,3,0.17980678040483059
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1690880656051866
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.1629312576955226
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1256040001277159
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1052254243290897
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1035121374965466
