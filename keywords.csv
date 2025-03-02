@@ -21,8 +21,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1758167364146151
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1669291989462268
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1602885441406249
-'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.1375476709516209
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1256040001277159
+'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.11721555030887777
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1052254243290897
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1035121374965466
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.0900153728242976
