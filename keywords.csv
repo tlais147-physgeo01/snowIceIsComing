@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1669291989462268
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.1640662723800865
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.161154874537498
-'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1602885441406249
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1509443759524228
+'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.13624526251953117
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1256040001277159
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1052254243290897
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1035121374965466
