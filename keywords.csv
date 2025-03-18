@@ -17,12 +17,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1696358218315655
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.161154874537498
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.1602885441406249
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.1389701677699217
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1349575291256254
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1256040001277159
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1244900079745679
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1216656429524535
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.1185378817946124
+'Laubfall',de,Winter,#3288e5,#737ee4,1,0.11812464260443344
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1158084731416014
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1035121374965466
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0849657628481641
