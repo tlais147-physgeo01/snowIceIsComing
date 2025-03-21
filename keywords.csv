@@ -22,9 +22,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#9e3215,#802d16,2,0.1256040001277159
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1244900079745679
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.1185378817946124
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.1181246426044334
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1158084731416014
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1035121374965466
+'Laubfall',de,Winter,#3288e5,#737ee4,1,0.10040594621376839
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0849657628481641
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0833533957659243
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0773311627235536
