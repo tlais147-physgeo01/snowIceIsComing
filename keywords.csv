@@ -5,9 +5,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,3,0.2199683448543489
 'Erle',de,Winter,#4287f5,#537ef4,3,0.2190997980674307
 'Frühblüher',de,Winter,#5287e5,#638ed4,2,0.2121959471147428
-'Hasel',de,Winter,#4287f5,#537ee4,2,0.2077991446609874
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.20770839947885367
+'Ernte',de,Herbst,#9e3215,#d64118,3,0.2077083994788536
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1998625665738483
+'Hasel',de,Winter,#4287f5,#537ee4,2,0.19976190114365747
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.190460095296019
 'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.1850031424273416
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1696358218315655
