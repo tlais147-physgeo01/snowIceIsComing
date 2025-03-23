@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.4521203949424062
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.3974795388629121
-'Winter',de,Winter,#4287f5,#315fa8,3,0.2716262980550734
+'Winter',de,Winter,#4287f5,#315fa8,3,0.249497216983176
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,3,0.2199683448543489
 'Erle',de,Winter,#4287f5,#537ef4,3,0.2190997980674307
 'Frühblüher',de,Winter,#5287e5,#638ed4,2,0.2121959471147428
@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1656653699062251
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.1605660718906249
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.1602885441406249
-'Sommer',de,Sommer,#a89216,#a89216,3,0.14921328855683066
+'Sommer',de,Sommer,#a89216,#a89216,3,0.1492132885568306
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1372816733568733
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.1362452625195311
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.1362452625195311
