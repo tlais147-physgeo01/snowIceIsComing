@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.42563127206468165
+'Frühling',de,Frühling,#679e2c,#679e2c,3,0.4256312720646816
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.3974795388629121
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2488693762538814
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,3,0.2199683448543489
@@ -12,9 +12,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.1850031424273416
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1656653699062251
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.1605660718906249
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.1602885441406249
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1492132885568306
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1372816733568733
+'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.13624526251953117
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.1362452625195311
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.1362452625195311
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1352449692873632
