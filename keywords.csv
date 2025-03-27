@@ -18,12 +18,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1372816733568733
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.1362452625195311
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.1362452625195311
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.1362452625195311
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1352449692873632
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1349575291256254
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1293004982357009
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1244900079745679
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.1185378817946124
+'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.11580847314160142
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0984372021703612
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0967504764010356
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0773311627235536
