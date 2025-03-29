@@ -12,8 +12,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.1803669450475313
 'Eiche Laub',de,Herbst,#9e3215,#e64118,2,0.1726709434209394
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1656653699062251
+'Laub',de,Herbst,#9e3215,#802d16,3,0.1535450277286383
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1492132885568306
-'Laub',de,Herbst,#9e3215,#802d16,3,0.1480781764721948
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1372816733568733
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.1366311761070311
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.1362452625195311
