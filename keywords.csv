@@ -23,7 +23,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1244900079745679
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.1185378817946124
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.1162865146909764
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.1158084731416014
+'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0984372021703612
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0984372021703612
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0967504764010356
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.0773311627235536
