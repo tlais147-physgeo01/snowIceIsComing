@@ -10,8 +10,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hasel',de,Winter,#4287f5,#537ee4,2,0.1690455242263711
 'Erle',de,Winter,#4287f5,#537ef4,2,0.1670501061751472
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1656653699062251
-'Schneeglöckchen',de,Winter,#3288e5,#638ed4,3,0.1650716800876452
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1616360881132749
+'Schneeglöckchen',de,Winter,#3288e5,#638ed4,3,0.15312591878878412
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1492132885568306
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1472400123880006
 'Eiche Laub',de,Herbst,#9e3215,#e64118,2,0.1472203469077984
@@ -29,4 +29,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0699836458879266
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0609028012587814
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0321878458833333
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.00301352698360032
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0030135269836003
