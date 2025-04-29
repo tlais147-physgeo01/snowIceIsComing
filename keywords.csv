@@ -2,8 +2,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.303288235234337
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.294205989267409
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2687643599301415
-'Sommer',de,Sommer,#a89216,#a89216,3,0.2183979409919348
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.2068549382552959
+'Sommer',de,Sommer,#a89216,#a89216,3,0.2043125884795082
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1772283141347116
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,2,0.168643857604157
 'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.1666667950432643
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0856436195966074
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0774717902355388
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0762517877420948
-'Eicheln',de,Herbst,#9e3215,#f64118,1,0.07243257481337126
+'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0724325748133712
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.0717849074497481
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0711208785680859
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.0699836458879266
