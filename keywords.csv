@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1450795954207161
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1450483357233391
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,3,0.1441986150613755
-'Erle',de,Winter,#4287f5,#537ef4,2,0.14366777003274975
+'Erle',de,Winter,#4287f5,#537ef4,2,0.1436677700327497
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1375856994957849
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1368984882934756
 'Weinlese',de,Herbst,#9e3215,#b55035,2,0.1347861290047376
@@ -29,4 +29,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0268232049027778
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0235258123119235
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0051587720255614
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0012117312218828
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.00102997153860038
