@@ -12,19 +12,19 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1439699015658508
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1375856994957849
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1368984882934756
-'Weinlese',de,Herbst,#9e3215,#b55035,2,0.1347861290047376
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.1335276564511528
 'Erle',de,Winter,#4287f5,#537ef4,1,0.1329067959200901
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1318050947657661
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.128900012120585
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1167948369510371
+'Weinlese',de,Herbst,#9e3215,#b55035,1,0.11456825465402697
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.1088342958818437
 'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1071699836238655
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1065784955610144
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.1054902961149033
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0727970766571163
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0348388672514877
-'Eicheln',de,Herbst,#9e3215,#f64118,1,0.03262336232730887
+'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0326233623273088
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0287583248124711
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0227997241673611
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0199969404651349
