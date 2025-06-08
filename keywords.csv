@@ -20,13 +20,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1145682546540269
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.1137985379834798
 'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1071699836238655
-'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.1054902961149033
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.0970096014995671
+'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.09056684169766781
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0891164590528261
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0618775151585488
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0254486093391998
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0244445760906004
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0164728007109183
-'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.00887274871812647
+'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0088727487181264
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.001653784115061
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0006325312711428
