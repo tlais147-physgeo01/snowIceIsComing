@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1344395591508666
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1318050947657661
 'Erle',de,Winter,#4287f5,#537ef4,1,0.1315983904176496
-'Hasel',de,Winter,#4287f5,#537ee4,1,0.128900012120585
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1286457359767584
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1271573008422468
+'Hasel',de,Winter,#4287f5,#537ee4,1,0.12237950601678295
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1192257314083815
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1145682546540269
 'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1071699836238655
