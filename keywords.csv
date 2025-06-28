@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Apfelernte',de,Sommer,#a89216,#77731f,2,0.1699410838942643
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1634390106900464
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1591751851287079
+'Frühling',de,Frühling,#679e2c,#679e2c,3,0.15789880767360215
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1537169563895989
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.15319499405450523
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1439699015658508
 'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1377623881391092
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1368984882934756
