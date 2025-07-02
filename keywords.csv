@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.328865660729111
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.2258003993147149
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2197297086465651
+'Schnee',de,Winter,#4287f5,#638ed4,3,0.21506527759932587
 'Sommer',de,Sommer,#a89216,#a89216,3,0.2118775450317834
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1720864816796354
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1591751851287079
@@ -21,7 +21,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0929199185652389
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0706583543141044
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.0572539168759083
-'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.05654382909508017
+'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0565438290950801
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0525958878847664
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0468473751528192
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0142566741032456
