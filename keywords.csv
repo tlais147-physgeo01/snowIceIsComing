@@ -3,10 +3,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2332131964139724
 'Sommer',de,Sommer,#a89216,#a89216,3,0.2159590814312802
 'Winter',de,Winter,#4287f5,#315fa8,3,0.2053723359859439
+'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.18678432113132715
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1720864816796354
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1591751851287079
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1484208036319939
-'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1482750013309731
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1444499513101246
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1437153960680163
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1368984882934756
@@ -29,4 +29,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0078363710273939
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0046316302855413
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0008632856442124
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.00028065748532836503
+'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0002806574853283
