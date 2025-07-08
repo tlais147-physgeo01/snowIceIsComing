@@ -19,7 +19,7 @@ jobs:
   docker-run-action:
     runs-on: ubuntu-latest
     container:
-      image: credocker/crecoding:2024.0
+      image: credocker/crecoding:2022.0
       volumes:
         - ${{ github.workspace }}:/cre/python
     steps:
