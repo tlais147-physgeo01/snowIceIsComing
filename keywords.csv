@@ -7,6 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holunder Blüte',de,Sommer,#a89216,#97731f,2,0.1746046376258662
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1668323644980603
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.1597703308127136
+'Laubfärbung',de,Herbst,#9e3215,#e63128,2,0.1549625263571982
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1484208036319939
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1437153960680163
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1368984882934756
@@ -26,7 +27,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0380005289967436
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0085989049261037
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0078431005848571
-'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.005661778067292
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0028036535442417
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0006237238779434
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0002806574853283
