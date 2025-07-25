@@ -7,12 +7,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1782039456527209
 'Niedrigwasser',de,Sommer,#a89216,#87830f,2,0.1750309424617089
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1657935393509548
-'Laubfärbung',de,Herbst,#9e3215,#e63128,2,0.1549625263571982
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1543860789305411
-'Aussaat',de,Frühling,#679e2c,#7db344,3,0.14660417532336353
+'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1466041753233635
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1419896430055093
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1408778140142124
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1368984882934756
+'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.13171816240361847
 'Holunder Blüte',de,Sommer,#a89216,#97731f,2,0.1264293784346882
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1192257314083815
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1112905917751899
