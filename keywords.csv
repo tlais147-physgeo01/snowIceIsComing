@@ -14,10 +14,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1408778140142124
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1368984882934756
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1192257314083815
-'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1121104530430756
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1112905917751899
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1091006094109935
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.1038834895137922
+'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.09544390008661426
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0914952536690621
 'Erle',de,Winter,#4287f5,#537ef4,1,0.080182050780453
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0600596011669887
