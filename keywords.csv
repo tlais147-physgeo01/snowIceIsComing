@@ -8,11 +8,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1657935393509548
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1618047380977272
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1596184867295269
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1484850572092107
 'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1466041753233635
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.144041797776727
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1408778140142124
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1302254561001374
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1263623136278291
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1192257314083815
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1112905917751899
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1091006094109935
