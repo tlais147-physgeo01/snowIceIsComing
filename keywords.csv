@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1596184867295269
 'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1466041753233635
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.144041797776727
-'Laub',de,Herbst,#9e3215,#802d16,3,0.1408778140142124
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1302254561001374
+'Laub',de,Herbst,#9e3215,#802d16,3,0.12941625768131132
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1263623136278291
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1192257314083815
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1112905917751899
