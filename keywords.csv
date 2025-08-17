@@ -6,10 +6,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.1734645159351575
 'Pollen',de,Frühling,#679e2c,#61d01c,2,0.1637499444738543
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1555209309814253
-'Winter',de,Winter,#4287f5,#315fa8,3,0.1551466603873084
 'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.1536613747904255
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1508026892340366
 'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1466041753233635
+'Winter',de,Winter,#4287f5,#315fa8,3,0.14593306042012122
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1451758932655523
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1451257302994427
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1422274163018418
@@ -22,7 +22,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0512006759919403
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.048362284730818
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.0416434826928437
-'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.03485277562269653
+'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0348527756226965
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.032300449647232
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.0284910167767171
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0044886821145818
