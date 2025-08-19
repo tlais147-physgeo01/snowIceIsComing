@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1451758932655523
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1451257302994427
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1422274163018418
+'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1406995243461065
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1247714267760258
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1112905917751899
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1075579815836547
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.1000959239425555
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.081277330073622
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0638474499605456
