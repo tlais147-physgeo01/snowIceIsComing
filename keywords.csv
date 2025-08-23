@@ -6,6 +6,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,3,0.1801049804954472
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.1734645159351575
 'Niedrigwasser',de,Sommer,#a89216,#87830f,3,0.1536613747904255
+'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1520471230089114
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1513190090307493
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1494460371340797
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1488575685720069
@@ -15,7 +16,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1428616195778037
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1422274163018418
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1406995243461065
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1112905917751899
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0864316703511721
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.081277330073622
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0638474499605456
