@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1488575685720069
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.1459699432895395
 'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1451257302994427
-'Winter',de,Winter,#4287f5,#315fa8,3,0.14264851499346665
+'Winter',de,Winter,#4287f5,#315fa8,3,0.1426485149934666
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1422274163018418
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1406995243461065
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1309661111865876
@@ -26,7 +26,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0274553822001471
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0181933667048951
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0032430728277853
-'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0012052715073075
+'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0011744957812113751
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0008771319803439
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.000820574329078
 'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0002352371584499
