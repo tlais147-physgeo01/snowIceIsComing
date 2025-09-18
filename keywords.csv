@@ -13,9 +13,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1422274163018418
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1406995243461065
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1342070748715668
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1307856706215791
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1292296982862058
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1231421222179347
+'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.11341804502834221
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0822688186167952
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0751170847984962
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.071289830121178
