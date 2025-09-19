@@ -2,9 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.2757007474016525
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.2543019034600157
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2427048235502286
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.20628958776656364
+'Schnee',de,Winter,#4287f5,#638ed4,3,0.2062895877665636
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1964053975809347
 'Weinlese',de,Herbst,#9e3215,#b55035,2,0.1915262933224528
+'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.18036494399557954
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1759079566163982
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1609802250993061
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.151757670857955
@@ -22,7 +23,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.061851218077715
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0500601755964941
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0436705895931492
-'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.0355469752889171
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0288638118098449
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0168610365936652
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0115589149151436
