@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Weinlese',de,Herbst,#9e3215,#b55035,2,0.1915262933224528
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,2,0.1803649439955795
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1609802250993061
-'Spätfrost',de,Frühling,#679e2c,#477515,1,0.16089554753570315
+'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1608955475357031
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.151757670857955
-'Aussaat',de,Frühling,#679e2c,#7db344,2,0.1459699432895395
 'Winter',de,Winter,#4287f5,#315fa8,3,0.1433929447191432
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1422274163018418
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1406995243461065
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1342070748715668
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1292296982862058
+'Aussaat',de,Frühling,#679e2c,#7db344,1,0.12407473679610857
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1231421222179347
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1134180450283422
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0822688186167952
