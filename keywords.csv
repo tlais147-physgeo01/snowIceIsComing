@@ -17,8 +17,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.1240747367961085
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1134180450283422
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.1048208188852445
-'Hasel',de,Winter,#4287f5,#537ee4,1,0.0822688186167952
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0751170847984962
+'Hasel',de,Winter,#4287f5,#537ee4,1,0.07172867582427592
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.071289830121178
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.061851218077715
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0500601755964941
@@ -28,5 +28,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.0115589149151436
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0019916521003635
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0011072008091363
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0008525270969800399
+'Laubfall',de,Winter,#3288e5,#737ee4,1,0.00085252709698
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0001467821107343
