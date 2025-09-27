@@ -16,8 +16,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1292296982862058
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.1240747367961085
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1134180450283422
+'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.09406202604423901
 'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0760105693945891
-'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0751170847984962
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0717286758242759
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.071289830121178
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0539249336687846
