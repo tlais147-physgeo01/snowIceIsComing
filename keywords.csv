@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.1866870506862505
 'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1657680970474435
 'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1616461534599018
+'Winter',de,Winter,#4287f5,#315fa8,3,0.16047528037564376
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1595944288565655
-'Winter',de,Winter,#4287f5,#315fa8,3,0.1562077854686718
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1533102173962425
 'Linde Blüte',de,Sommer,#a89216,#97930f,2,0.1515889836425125
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1510613954053476
