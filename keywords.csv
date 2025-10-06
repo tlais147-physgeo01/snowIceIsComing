@@ -11,11 +11,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Laub',de,Herbst,#9e3215,#802d16,3,0.1595944288565655
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1533102173962425
 'Spätfrost',de,Frühling,#679e2c,#477515,1,0.1510613954053476
-'Eiche Laub',de,Herbst,#9e3215,#e64118,2,0.1508299746969107
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1406995243461065
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1375231162705476
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1342070748715668
-'Linde Blüte',de,Sommer,#a89216,#97930f,2,0.12900065109613562
+'Linde Blüte',de,Sommer,#a89216,#97930f,2,0.1290006510961356
+'Eiche Laub',de,Herbst,#9e3215,#e64118,2,0.1283554934923741
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.1240747367961085
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1236948710352782
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1134180450283422
