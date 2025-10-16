@@ -14,13 +14,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1430732403329144
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.1406995243461065
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1375231162705476
-'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1342070748715668
 'Forsythie Blüte',de,Frühling,#679e2c,#8db354,2,0.1280041639291913
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.1240747367961085
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1236948710352782
+'Blüte',de,Frühling,#679e2c,#61b00c,3,0.11437703364083178
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.109102184468518
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0795571246088926
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.07948093844191421
+'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0794809384419142
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0717286758242759
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0622171316871707
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0609745510162653
