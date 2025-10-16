@@ -19,8 +19,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Aussaat',de,Frühling,#679e2c,#7db344,1,0.1240747367961085
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1236948710352782
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.109102184468518
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0933304981669579
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0795571246088926
+'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.07948093844191421
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0717286758242759
 'Glatteis',de,Winter,#4287f5,#3b4a63,1,0.0622171316871707
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0609745510162653
