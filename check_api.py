@@ -283,7 +283,7 @@ def inqRapidMicroTranslate3(results=[]):
     print(response.text)
     print(['Microsoft-Translator-3', response.status_code])     #200
     #504 : The request to the API has timed out
-    if((response.text) and (not response.status_code in [204, 500, 504])):
+    if((response.text) and (not response.status_code in [204, 500, 502, 504])):
         results.append(":white_check_mark: Microsoft-Translator-3 respone fine")
         text = response.text
         if(not isinstance(text,str)):
