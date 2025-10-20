@@ -15,10 +15,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1375231162705476
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.1331413690039649
 'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1309137447868061
-'Forsythie Blüte',de,Frühling,#679e2c,#8db354,2,0.1280041639291913
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1236948710352782
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1143770336408317
-'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.09288687179824029
+'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.10880356933981261
+'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0928868717982402
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0795571246088926
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0794809384419142
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0717286758242759
