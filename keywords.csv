@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hochwasser',de,Winter,#4287f5,#022f78,3,0.2142645274873459
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.21088405566105642
+'Ernte',de,Herbst,#9e3215,#d64118,3,0.2108840556610564
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2089751189887505
 'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1894772761601365
 'Sommer',de,Sommer,#a89216,#a89216,3,0.1773969387852609
@@ -17,7 +17,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eicheln',de,Herbst,#9e3215,#f64118,1,0.1236948710352782
 'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1143770336408317
 'Aussaat',de,Frühling,#679e2c,#7db344,2,0.1136207036533701
-'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.1088035693398126
+'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.09278306393884071
 'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0795571246088926
 'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0791038560285041
 'Hasel',de,Winter,#4287f5,#537ee4,1,0.0717286758242759
