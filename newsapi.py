@@ -127,19 +127,21 @@ def addNewsToCollection(data):
     pubDate = parser.parse(data['published'])
     fileDate = 'news_'+pubDate.strftime('%Y_%m')+'.csv'
     if(fileDate in collectedNews):
-      if(not data['url'] in collectedNews[fileDate]):
+      if(not data['hash'] in collectedNews[fileDate]):
         if(not 'archive' in data):
            data = archiveUrl(data)
-        collectedNews[fileDate][data['url']] = data
+        collectedNews[fileDate][data['hash']] = data
         return True
     return False
 
 def storeCollection():
     global collectedNews
     print("Inside store")
-    cols = ['url','valid','domain','title','description','image','published','archive','content','quote','language','keyword']
+    #cols = ['url','valid','domain','title','description','image','published','archive','content','quote','language','keyword']
+    cols = ['published','keyword','domain','language','valid','title','description','url','image','archive','content','quote']
     for dateFile in collectedNews:
         df = pd.DataFrame.from_dict(collectedNews[dateFile], orient='index', columns=cols)
+        df.index = df['url'].apply( lambda x: hashlib.sha256(x.encode()).hexdigest()[:32])   
         df = removeDuplicates(df)
         #df.to_csv(DATA_PATH / dateFile, index=True) 
         if(not os.path.exists(DATA_PATH / 'csv')):
@@ -235,10 +237,10 @@ def archiveUrl(data):
         timetravelDate = pubDate.strftime('%Y%m%d')
     timetravelUrl = 'http://timetravel.mementoweb.org/api/json/'+timetravelDate+'/'+data['url']
     try:
-        page = requests.get(timetravelUrl, timeout=30)
+        page = requests.get(timetravelUrl, timeout=60)
         if page.status_code == 200:
             content = page.content
-            #print(content)
+            print(content)
             if(content):
                 #print(content)
                 jsonData = json.loads(content)
@@ -259,7 +261,13 @@ def archiveUrl(data):
 
         ##  pip3 install aiohttp
         try:
-           loop = asyncio.get_event_loop()
+          loop = asyncio.get_running_loop()
+        except RuntimeError:
+          loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+
+        try:
+           ##loop = asyncio.get_event_loop()
            loop.run_until_complete(saveArchive(saveUrl))
         except:
            e2 = sys.exc_info()[0]
@@ -296,8 +304,9 @@ def extractData(article, language, keyWord):
     if('publishedAt' in article):    
         published = article['publishedAt']
     content = article['content']
+    hashStr = hashlib.sha256(url.encode()).hexdigest()[:32]
     data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 
-            'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord}
+            'image':image, 'content':content, 'quote':'', 'language': language, 'keyword':keyWord, 'hash':hashStr}
     return data  
 
 def checkKeywordInQuote(keyword, quote, case=True):
@@ -369,7 +378,7 @@ def filterNewAndArchive(articles, language, keyWord):
                     collectedNews[fileDate] = df.to_dict('index')
                 else:
                     collectedNews[fileDate] = {}
-            if(not data['url'] in collectedNews[fileDate]):
+            if(not data['hash'] in collectedNews[fileDate]):
                 data = archiveUrl(data)
                 newArticles.append(data)
         if((time.time() - startTime) > 60*10):
