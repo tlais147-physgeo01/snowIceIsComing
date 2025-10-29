@@ -7,9 +7,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.470415665
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.4704155
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.4474861124999991
-'Wintereinbruch',de,Causes,#434fbf,#332faf,2,0.44677151189347036
-'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.43285373
+'Wintereinbruch',de,Causes,#434fbf,#332faf,2,0.4467715118934703
 'Eisregen',de,Hazard,#477515,#679515,1,0.42599081375
+'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.39964741407142856
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.3800599984999276
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.3800599984999276
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.3800599984999276
