@@ -1,32 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Spätfrost',de,Frühling,#679e2c,#477515,2,0.230053320215809
-'Schnee',de,Winter,#4287f5,#638ed4,3,0.2089751189887505
-'Ernte',de,Herbst,#9e3215,#d64118,3,0.2067549364423859
-'Apfelernte',de,Sommer,#a89216,#77731f,1,0.2016081100711954
-'Gewitter',de,Sommer,#a89216,#c4b03b,3,0.1932819970088432
-'Herbst',de,Herbst,#9e3215,#9e3215,3,0.1751669957431309
-'Hochwasser',de,Winter,#4287f5,#022f78,3,0.1734172570840753
-'Winter',de,Winter,#4287f5,#315fa8,3,0.1621224107838462
-'Sommer',de,Sommer,#a89216,#a89216,3,0.1606631394541691
-'Laub',de,Herbst,#9e3215,#802d16,3,0.1595944288565655
-'Weinlese',de,Herbst,#9e3215,#b55035,1,0.1526633281875707
-'Eicheln',de,Herbst,#9e3215,#f64118,1,0.14950757704665313
-'Frühling',de,Frühling,#679e2c,#679e2c,3,0.1480358480404039
-'Niedrigwasser',de,Sommer,#a89216,#87830f,1,0.1430732403329144
-'Pollen',de,Frühling,#679e2c,#61d01c,3,0.1375231162705476
-'Hasel',de,Winter,#4287f5,#537ee4,2,0.1362694044506345
-'Schneeglöckchen',de,Winter,#3288e5,#638ed4,1,0.1309137447868061
-'Blüte',de,Frühling,#679e2c,#61b00c,3,0.1173761163574029
-'Aussaat',de,Frühling,#679e2c,#7db344,2,0.1106190471962736
-'Forsythie Blüte',de,Frühling,#679e2c,#8db354,1,0.0927830639388407
-'Apfel Blüte',de,Frühling,#679e2c,#6dc344,1,0.0795571246088926
-'Eiche Laub',de,Herbst,#9e3215,#e64118,1,0.0673882926242284
-'Glatteis',de,Winter,#4287f5,#3b4a63,2,0.0628566460645298
-'Erle',de,Winter,#4287f5,#537ef4,1,0.0609745510162653
-'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0575524907742829
-'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0531735953660577
-'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0286673494295495
-'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0088015664833718
-'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0069198641101001
-'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.006125953790798
-'Laubfall',de,Winter,#3288e5,#737ee4,1,0.0006900184579816
+'Schnee',de,Hazard,#477515,#477515,2,0.55343
+'Frost',de,Hazard,#577515,#477515,2,0.55343
+'Glatteis',de,Hazard,#677515,#477515,2,0.55343
+'überfrierende Nässe',de,Hazard,#479515,#477515,2,0.55343
+'Schneematsch',de,Hazard,#477515,#579515,2,0.55343
+'Eisregen',de,Hazard,#477515,#679515,2,0.55343
+'Streusalz',de,Mitigation,#a76535,#a76535,2,0.55343
+'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.55343
