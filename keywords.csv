@@ -17,3 +17,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.38
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.38
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.3506780227272727
+'Skigebiete',de,Impact,#a705a5,#a715b5,1,0.570415665
