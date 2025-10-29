@@ -10,3 +10,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.4474861124999991
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.4471265624999991
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.3800599984999276
+'Kaltfront',de,Causes,#532faf,#332faf,1,0.3800599984999276
+'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.3800599984999276
