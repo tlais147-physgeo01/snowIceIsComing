@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Spätfrost',de,Frühling,#679e2c,#477515,2,0.23005332021580904
+'Spätfrost',de,Frühling,#679e2c,#477515,2,0.230053320215809
 'Schnee',de,Winter,#4287f5,#638ed4,3,0.2089751189887505
 'Ernte',de,Herbst,#9e3215,#d64118,3,0.2067549364423859
 'Apfelernte',de,Sommer,#a89216,#77731f,1,0.2016081100711954
@@ -25,7 +25,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Erle',de,Winter,#4287f5,#537ef4,1,0.0609745510162653
 'Linde Blüte',de,Sommer,#a89216,#97930f,1,0.0575524907742829
 'Frühblüher',de,Winter,#5287e5,#638ed4,1,0.0531735953660577
-'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.0337262934465289
+'Laubfärbung',de,Herbst,#9e3215,#e63128,1,0.028667349429549564
 'Holunderbeere',de,Herbst,#9e3215,#e63128,1,0.0088015664833718
 'Laubfall',de,Herbst,#9e3215,#802d16,1,0.0069198641101001
 'Holunder Blüte',de,Sommer,#a89216,#97731f,1,0.006125953790798
