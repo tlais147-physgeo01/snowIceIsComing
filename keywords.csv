@@ -7,3 +7,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.55343
 'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.55343
 'Glatteis',de,Hazard,#677515,#477515,1,0.47041590499999997
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.4474861124999991
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.4471265624999991
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.3800599984999276
