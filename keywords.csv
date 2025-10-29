@@ -12,3 +12,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.3800599984999276
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.3800599984999276
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.3800599984999276
+'Schneefall',de,Hazard,#476515,#477515,2,0.55343
+'Wintereinbruch',de,Causes,#434fbf,#332faf,2,0.5800599984999276
