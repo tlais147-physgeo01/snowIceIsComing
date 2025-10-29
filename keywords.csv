@@ -1,9 +1,9 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,2,0.55343
 'Frost',de,Hazard,#577515,#477515,2,0.55343
-'Glatteis',de,Hazard,#677515,#477515,2,0.55343
 'überfrierende Nässe',de,Hazard,#479515,#477515,2,0.55343
 'Schneematsch',de,Hazard,#477515,#579515,2,0.55343
 'Eisregen',de,Hazard,#477515,#679515,2,0.55343
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.55343
 'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.55343
+'Glatteis',de,Hazard,#677515,#477515,1,0.47041590499999997
