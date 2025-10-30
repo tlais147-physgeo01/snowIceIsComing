@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,2,0.55343
-'Schneefall',de,Hazard,#476515,#477515,2,0.55343
 'Schneematsch',de,Hazard,#477515,#579515,2,0.5153728528571428
 'Skigebiete',de,Impact,#a705a5,#a715b5,2,0.5079857934318182
+'Schneefall',de,Hazard,#476515,#477515,2,0.5026393672727273
 'Frost',de,Hazard,#577515,#477515,2,0.4935509931818181
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.470415665
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.4704155
