@@ -1,33 +1,47 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,11
-“,“,MISC,,,de,9
-Corona-Zeit,Corona-Zeit,MISC,,,de,2
-Skisaison,Skisaison,MISC,,,de,2
-Schnee- und Wintersport-Fans,Schnee- und Wintersport-Fans,MISC,,,de,2
-glei­cher taun,glei­cher taun,MISC,,,de,2
+",MISC,,,de,13
+“,“,MISC,,,de,11
+Schweizer,Schweizer,MISC,,,de,4
+amerikanische,amerikanische,MISC,,,de,2
 Prime-Versand,Prime-Versand,MISC,,,de,2
+Internationale Investoren,Internationale Investoren,MISC,,,de,2
+Corona-Zeit,Corona-Zeit,MISC,,,de,2
+Ski-Saison,Ski-Saison,MISC,,,de,2
 Amazon,Amazon,MISC,,,de,2
-TTS Player,TTS Player,MISC,,,de,1
-Urlaubs-Express,Urlaubs-Express,MISC,,,de,1
-Straßenmeister…,Straßenmeister…,MISC,,,de,1
-P…,P…,MISC,,,de,1
-Schneefall“,Schneefall“,MISC,,,de,1
+glei­cher taun,glei­cher taun,MISC,,,de,2
+Schnee- und Wintersport-Fans,Schnee- und Wintersport-Fans,MISC,,,de,2
+Skisaison,Skisaison,MISC,,,de,2
+NZZ,NZZ,MISC,,,de,2
 Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,1
+O…,O…,MISC,,,de,1
+Wind und Regen,Wind und Regen,MISC,,,de,1
 Zahlungsabwicklung,Zahlungsabwicklung,MISC,,,de,1
+Schneefall“,Schneefall“,MISC,,,de,1
+P…,P…,MISC,,,de,1
+Straßenmeister…,Straßenmeister…,MISC,,,de,1
 Hause aus bald,Hause aus bald,MISC,,,de,1
-Schulen“,Schulen“,MISC,,,de,1
+Urlaubs-Express,Urlaubs-Express,MISC,,,de,1
 Reform“,Reform“,MISC,,,de,1
+Schulen“,Schulen“,MISC,,,de,1
+Ba…,Ba…,MISC,,,de,1
+TTS Player,TTS Player,MISC,,,de,1
 Wetter“,Wetter“,MISC,,,de,1
-Wettervorhersage“,Wettervorhersage“,MISC,,,de,1
-Wetterausblick“,Wetterausblick“,MISC,,,de,1
-mor­gen wars,mor­gen wars,MISC,,,de,1
-wars,wars,MISC,,,de,1
-ge­pos­tet.am,ge­pos­tet.am,MISC,,,de,1
-morgenspaziergang 20.10.2025,morgenspaziergang 20.10.2025,MISC,,,de,1
-Wintervorbereitungen“,Wintervorbereitungen“,MISC,,,de,1
-Gefahr von Schnee und Eisglätte,Gefahr von Schnee und Eisglätte,MISC,,,de,1
-Der Winter naht,Der Winter naht,MISC,,,de,1
+NZZ FORMAT,NZZ FORMAT,MISC,,,de,1
+Tour nieselte,Tour nieselte,MISC,,,de,1
 Winter-Vorbereitungen,Winter-Vorbereitungen,MISC,,,de,1
+Der Winter naht,Der Winter naht,MISC,,,de,1
+Gefahr von Schnee und Eisglätte,Gefahr von Schnee und Eisglätte,MISC,,,de,1
+Wintervorbereitungen“,Wintervorbereitungen“,MISC,,,de,1
+morgenspaziergang 20.10.2025,morgenspaziergang 20.10.2025,MISC,,,de,1
+ge­pos­tet.am,ge­pos­tet.am,MISC,,,de,1
+wars,wars,MISC,,,de,1
+mor­gen wars,mor­gen wars,MISC,,,de,1
+österreichischen,österreichischen,MISC,,,de,1
+a…,a…,MISC,,,de,1
+KitzSki,KitzSki,MISC,,,de,1
+Wetterausblick“,Wetterausblick“,MISC,,,de,1
+Wettervorhersage“,Wettervorhersage“,MISC,,,de,1
+DOK-FILM,DOK-FILM,MISC,,,de,1
 Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1

@@ -1,2 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
 et­was hö­her,et­was hö­her,PER,0.0,0.0,de,2
+Vail Resorts,Vail Resorts,PER,0.0,0.0,de,2
+Wu Ji,Wu Ji,PER,0.7,0.0,de,1
+Tief „Joshua,Tief „Joshua,PER,0.0,0.0,de,1
+Sturmtief Joshua,Sturmtief Joshua,PER,0.0,0.0,de,1
+Goslar Wehe,Goslar Wehe,PER,0.0,0.0,de,1
+Österreichs Skigebiete,Österreichs Skigebiete,PER,1.0,0.0,de,1

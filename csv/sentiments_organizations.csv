@@ -1,20 +1,30 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,0.225,0.25,de,6
+DWD,DWD,ORG,0.19285714285714287,0.21428571428571427,de,7
 Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.13999999999999999,0.4,de,5
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,2
 of­fen­bar,of­fen­bar,ORG,0.0,0.0,de,2
-Land,Land,ORG,0.0,0.0,de,2
 zaun­an­la­ge,zaun­an­la­ge,ORG,0.0,0.0,de,2
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,1.0,0.0,de,1
+Land,Land,ORG,0.0,0.0,de,2
+Bodenfrost,Bodenfrost,ORG,0.0,0.0,de,1
+München,München,ORG,-0.7,0.0,de,1
 Ministerium für Infrastruktur und Digitales,Ministerium für Infrastruktur und Digitales,ORG,0.0,0.0,de,1
 Auto,Auto,ORG,1.0,0.0,de,1
+"Link
+","Link
+",ORG,0.10000000000000002,0.0,de,1
+Schneefall,Schneefall,ORG,0.0,0.0,de,1
+SCHNEE!,SCHNEE!,ORG,0.0,0.0,de,1
+Deutsche Wetterd…,Deutsche Wetterd…,ORG,0.0,0.0,de,1
 Fichtelber…,Fichtelber…,ORG,0.0,0.0,de,1
+lby,lby,ORG,-0.7,0.0,de,1
+Allgäu…,Allgäu…,ORG,0.0,0.0,de,1
 Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.7,0.0,de,1
 stürmisch-nasse Wetter,stürmisch-nasse Wetter,ORG,0.0,0.0,de,1
-Bodenfrost,Bodenfrost,ORG,0.0,0.0,de,1
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,1.0,0.0,de,1
 we…,we…,ORG,0.0,0.0,de,1
 D…,D…,ORG,0.0,0.0,de,1
+Chinas,Chinas,ORG,0.0,0.0,de,1
 Inntal- und Brennerautobahn,Inntal- und Brennerautobahn,ORG,0.0,0.0,de,1
 ASFINAG,ASFINAG,ORG,0.0,0.0,de,1
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,1
 ADAC,ADAC,ORG,1.0,0.0,de,1
 Schneemasse…,Schneemasse…,ORG,-0.7,0.0,de,1
