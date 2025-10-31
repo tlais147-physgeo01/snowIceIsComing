@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#577515,#477515,2,0.4426535973863635
 'Eisregen',de,Hazard,#477515,#679515,1,0.42599081375
 'Glatteis',de,Hazard,#677515,#477515,2,0.4254825106785713
-'Streusalz',de,Mitigation,#a76535,#a76535,1,0.4015034802499999
 'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.3996474140714285
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.3800599984999276
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.3800599984999276
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.3800575781249992
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.38
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.3797562801094497
-'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.36157243146687396
+'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.3615724314668739
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.3506780227272727
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,2,0.3461330331818182
+'Streusalz',de,Mitigation,#a76535,#a76535,1,0.3429281232124999
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.3233087162812493
