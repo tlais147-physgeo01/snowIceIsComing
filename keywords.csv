@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skigebiete',de,Impact,#a705a5,#a715b5,2,0.4594658421443182
 'Schnee',de,Hazard,#477515,#477515,3,0.4433422623181817
-'Frost',de,Hazard,#577515,#477515,2,0.4426535973863635
 'Schneematsch',de,Hazard,#477515,#579515,1,0.4380671499285714
 'Eisregen',de,Hazard,#477515,#679515,1,0.42599081375
 'Glatteis',de,Hazard,#677515,#477515,2,0.4254825106785713
 'Schneefall',de,Hazard,#476515,#477515,3,0.4066347614227272
+'Frost',de,Hazard,#577515,#477515,2,0.4039364455056817
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.399853175
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.3800599984999276
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.3800575781249992
