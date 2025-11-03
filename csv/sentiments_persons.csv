@@ -1,8 +1,15 @@
 ,phrase,label,sentiment,subjectivity,language,count
+Thomas Wrede,Thomas Wrede,PER,0.0,0.0,de,4
 et­was hö­her,et­was hö­her,PER,0.0,0.0,de,2
 Vail Resorts,Vail Resorts,PER,0.0,0.0,de,2
+Nasa-Studie dokumentier,Nasa-Studie dokumentier,PER,0.0,0.0,de,1
 Wu Ji,Wu Ji,PER,0.7,0.0,de,1
+Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.0,0.0,de,1
+Joshua ungemütliches,Joshua ungemütliches,PER,-1.0,0.0,de,1
+Österreichs Rennen,Österreichs Rennen,PER,0.0,0.0,de,1
+Lucas Braathen,Lucas Braathen,PER,1.0,0.0,de,1
 Tief „Joshua,Tief „Joshua,PER,0.0,0.0,de,1
 Sturmtief Joshua,Sturmtief Joshua,PER,0.0,0.0,de,1
 Goslar Wehe,Goslar Wehe,PER,0.0,0.0,de,1
 Österreichs Skigebiete,Österreichs Skigebiete,PER,1.0,0.0,de,1
+Landtagsabgeordnete Christian Zwanziger,Landtagsabgeordnete Christian Zwanziger,PER,0.0,1.0,de,1
