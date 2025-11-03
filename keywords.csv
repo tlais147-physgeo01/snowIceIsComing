@@ -6,9 +6,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.4045257556977271
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.3800599984999276
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.3800575781249992
-'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.38
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.3797562801094497
 'Frost',de,Hazard,#577515,#477515,2,0.3755722609525567
+'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.373450045
 'Eisregen',de,Hazard,#477515,#679515,1,0.3626922516874999
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.3506780227272727
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,2,0.3461330331818182
