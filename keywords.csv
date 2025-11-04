@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,2,0.3461330331818182
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.3429281232124999
 'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.3427006019607142
-'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.33987519875
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.3233087162812493
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.3232010137249385
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.3073369717468427
+'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.2888939189375
