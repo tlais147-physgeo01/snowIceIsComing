@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.3233087162812493
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.31788258325
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.3073369717468427
-'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.2888939189375
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.2748708766661977
+'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.245559831096875
