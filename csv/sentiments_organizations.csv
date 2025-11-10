@@ -1,46 +1,58 @@
 ,phrase,label,sentiment,subjectivity,language,count
-DWD,DWD,ORG,0.031818181818181815,0.13636363636363635,de,11
-Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.34,0.2,de,10
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.0,0.0,de,3
-Autoba…,Autoba…,ORG,0.0,0.0,de,2
-zaun­an­la­ge,zaun­an­la­ge,ORG,0.0,0.0,de,2
+DWD,DWD,ORG,0.05833333333333332,0.08333333333333333,de,18
+Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.2,0.11764705882352941,de,17
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.13999999999999999,0.0,de,5
+Bergwacht,Bergwacht,ORG,0.0,0.0,de,2
+Auto,Auto,ORG,1.0,0.0,de,2
 Leica Galerie Düsseldorf,Leica Galerie Düsseldorf,ORG,0.0,0.0,de,2
-ÖW,ÖW,ORG,0.7,0.0,de,2
 Land,Land,ORG,0.0,0.0,de,2
+Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,0.15000000000000002,0.0,de,2
+Bodenfrost,Bodenfrost,ORG,0.0,0.0,de,2
+Autoba…,Autoba…,ORG,0.0,0.0,de,2
 of­fen­bar,of­fen­bar,ORG,0.0,0.0,de,2
-lhe,lhe,ORG,-0.7,0.0,de,1
-Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,1.0,0.0,de,1
-Schneemasse…,Schneemasse…,ORG,-0.7,0.0,de,1
-Allgäu…,Allgäu…,ORG,0.0,0.0,de,1
-Reg…,Reg…,ORG,-0.85,0.0,de,1
-Ministerium für Infrastruktur und Digitales,Ministerium für Infrastruktur und Digitales,ORG,0.0,0.0,de,1
+Deutsche Wetterdienst …,Deutsche Wetterdienst …,ORG,0.0,0.0,de,2
+zaun­an­la­ge,zaun­an­la­ge,ORG,0.0,0.0,de,2
+Königsberg-Hollenstein Skilifte GmbH,Königsberg-Hollenstein Skilifte GmbH,ORG,0.0,0.0,de,2
+ÖW,ÖW,ORG,0.7,0.0,de,2
 stürmisch-nasse Wetter,stürmisch-nasse Wetter,ORG,0.0,0.0,de,1
-Auto,Auto,ORG,1.0,0.0,de,1
-1.000-Meter-Marke,1.000-Meter-Marke,ORG,0.0,0.0,de,1
+SCHNEE!,SCHNEE!,ORG,0.0,0.0,de,1
+Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.7,0.0,de,1
 München,München,ORG,-0.7,0.0,de,1
 lby,lby,ORG,-0.7,0.0,de,1
 Fichtelber…,Fichtelber…,ORG,0.0,0.0,de,1
+Deutsche Wetterd…,Deutsche Wetterd…,ORG,0.0,0.0,de,1
+Schneefall,Schneefall,ORG,0.0,0.0,de,1
+Gletscherstraße talauswärts,Gletscherstraße talauswärts,ORG,1.0,0.0,de,1
+nä…,nä…,ORG,0.0,0.0,de,1
+Ski-Star,Ski-Star,ORG,0.0,0.0,de,1
+lhe,lhe,ORG,-0.7,0.0,de,1
+1.000-Meter-Marke,1.000-Meter-Marke,ORG,0.0,0.0,de,1
 "Link
 ","Link
 ",ORG,0.10000000000000002,0.0,de,1
-Deutsche Wetterd…,Deutsche Wetterd…,ORG,0.0,0.0,de,1
-SCHNEE!,SCHNEE!,ORG,0.0,0.0,de,1
-Schneefall,Schneefall,ORG,0.0,0.0,de,1
-Deutschen Wetterdiensts,Deutschen Wetterdiensts,ORG,0.7,0.0,de,1
-Bodenfrost,Bodenfrost,ORG,0.0,0.0,de,1
-Corona-Pandemie,Corona-Pandemie,ORG,0.0,0.0,de,1
-Inntal- und Brennerautobahn,Inntal- und Brennerautobahn,ORG,0.0,0.0,de,1
+Ministerium für Infrastruktur und Digitales,Ministerium für Infrastruktur und Digitales,ORG,0.0,0.0,de,1
+Schneemasse…,Schneemasse…,ORG,-0.7,0.0,de,1
+We…,We…,ORG,0.7,0.0,de,1
+IMO Car Wash,IMO Car Wash,ORG,0.7,0.0,de,1
+e…,e…,ORG,0.0,0.0,de,1
+Schmuddelwetter,Schmuddelwetter,ORG,-0.7,0.0,de,1
+Reg…,Reg…,ORG,-0.85,0.0,de,1
+Loop One Festival München,Loop One Festival München,ORG,0.0,0.0,de,1
+Allgäu…,Allgäu…,ORG,0.0,0.0,de,1
+bayeris…,bayeris…,ORG,0.0,0.0,de,1
 ADAC,ADAC,ORG,1.0,0.0,de,1
 Nasa,Nasa,ORG,0.0,0.0,de,1
 CCTV,CCTV,ORG,0.0,0.0,de,1
+GEO,GEO,ORG,1.0,0.0,de,1
 Be…,Be…,ORG,0.0,0.0,de,1
-Bergwacht,Bergwacht,ORG,0.0,0.0,de,1
+Bedingun…,Bedingun…,ORG,-0.7,0.0,de,1
 Berchtesgadener A…,Berchtesgadener A…,ORG,0.0,0.0,de,1
 ASFINAG,ASFINAG,ORG,0.0,0.0,de,1
+Inntal- und Brennerautobahn,Inntal- und Brennerautobahn,ORG,0.0,0.0,de,1
 Sonn…,Sonn…,ORG,0.0,0.0,de,1
-D…,D…,ORG,0.0,0.0,de,1
 Chinas,Chinas,ORG,0.0,0.0,de,1
 Naturgewalten,Naturgewalten,ORG,0.0,0.0,de,1
+Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,0.7,0.0,de,1
 Fr…,Fr…,ORG,0.0,0.0,de,1
 "Bayern
 ","Bayern
@@ -48,4 +60,9 @@ Fr…,Fr…,ORG,0.0,0.0,de,1
 Österreich Werbung,Österreich Werbung,ORG,0.7,0.0,de,1
 Nebel ode,Nebel ode,ORG,0.0,0.0,de,1
 Leica Galerie …,Leica Galerie …,ORG,0.0,0.0,de,1
+D…,D…,ORG,0.0,0.0,de,1
+NRW-Wetter,NRW-Wetter,ORG,0.0,0.0,de,1
 we…,we…,ORG,0.0,0.0,de,1
+Höch…,Höch…,ORG,0.0,0.0,de,1
+Corona-Pandemie,Corona-Pandemie,ORG,0.0,0.0,de,1
+di…,di…,ORG,-0.7,0.0,de,1

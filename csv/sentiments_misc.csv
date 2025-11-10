@@ -1,84 +1,128 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,24
-“,“,MISC,,,de,21
-Schweizer,Schweizer,MISC,,,de,10
-Wetter“,Wetter“,MISC,,,de,3
+",MISC,,,de,40
+“,“,MISC,1.3,1.0,de,26
+Schweizer,Schweizer,MISC,,,de,12
+Wetter“,Wetter“,MISC,,,de,7
+französische,französische,MISC,,,de,4
+Münchner,Münchner,MISC,,,de,4
+Sturm und Schnee,Sturm und Schnee,MISC,,,de,3
+französischen,französischen,MISC,,,de,3
 Gletsc…,Gletsc…,MISC,,,de,3
+Wetterbericht“,Wetterbericht“,MISC,,,de,3
+amerikanische,amerikanische,MISC,,,de,2
+Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,2
+Skisaison,Skisaison,MISC,,,de,2
+Schnee- und Wintersport-Fans,Schnee- und Wintersport-Fans,MISC,,,de,2
+Loop One Festival,Loop One Festival,MISC,,,de,2
+glei­cher taun,glei­cher taun,MISC,,,de,2
+Winterdienst-Saison,Winterdienst-Saison,MISC,,,de,2
+Prime-Versand,Prime-Versand,MISC,,,de,2
 Amazon,Amazon,MISC,,,de,2
 Ski-Saison,Ski-Saison,MISC,,,de,2
-glei­cher taun,glei­cher taun,MISC,,,de,2
-Schnee- und Wintersport-Fans,Schnee- und Wintersport-Fans,MISC,,,de,2
-Skisaison,Skisaison,MISC,,,de,2
 Corona-Zeit,Corona-Zeit,MISC,,,de,2
-Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,2
 NZZ,NZZ,MISC,,,de,2
-Wetterbericht“,Wetterbericht“,MISC,,,de,2
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,2
+Ballermann-Saison,Ballermann-Saison,MISC,,,de,2
 Internationale Investoren,Internationale Investoren,MISC,,,de,2
+Französisches,Französisches,MISC,,,de,2
+chinesischen,chinesischen,MISC,,,de,2
 Wettervorhersage“,Wettervorhersage“,MISC,,,de,2
-Winterdienst-Saison,Winterdienst-Saison,MISC,,,de,2
-amerikanische,amerikanische,MISC,,,de,2
-Prime-Versand,Prime-Versand,MISC,,,de,2
+Ba…,Ba…,MISC,,,de,1
+Schulen“,Schulen“,MISC,,,de,1
+europäischen,europäischen,MISC,,,de,1
+Deutscher,Deutscher,MISC,,,de,1
+O…,O…,MISC,,,de,1
+Grad herrs…,Grad herrs…,MISC,,,de,1
+Wochenstar…,Wochenstar…,MISC,,,de,1
 Wind und Regen,Wind und Regen,MISC,,,de,1
 Zahlungsabwicklung,Zahlungsabwicklung,MISC,,,de,1
-Ba…,Ba…,MISC,,,de,1
-Hause aus bald,Hause aus bald,MISC,,,de,1
-Schulen“,Schulen“,MISC,,,de,1
-Reform“,Reform“,MISC,,,de,1
-Winter-Vorherrschaft,Winter-Vorherrschaft,MISC,,,de,1
+Nächtlicher Frost,Nächtlicher Frost,MISC,,,de,1
+Kurier,Kurier,MISC,,,de,1
+Top Ten,Top Ten,MISC,,,de,1
 The Secret,The Secret,MISC,,,de,1
-TTS Player,TTS Player,MISC,,,de,1
-Wochenstar…,Wochenstar…,MISC,,,de,1
-Urlaubs-Express,Urlaubs-Express,MISC,,,de,1
-Winterdienst-Saiso…,Winterdienst-Saiso…,MISC,,,de,1
+Winter-Vorherrschaft,Winter-Vorherrschaft,MISC,,,de,1
+Hause aus bald,Hause aus bald,MISC,,,de,1
+Wi…,Wi…,MISC,,,de,1
+Reform“,Reform“,MISC,,,de,1
+Bewölkun…,Bewölkun…,MISC,,,de,1
 Start g,Start g,MISC,,,de,1
+b...,b...,MISC,,,de,1
+Gesamtweltcups…,Gesamtweltcups…,MISC,,,de,1
+Rabatt,Rabatt,MISC,,,de,1
 Hintergrun…,Hintergrun…,MISC,,,de,1
 zuer…,zuer…,MISC,,,de,1
 Naturfotografie im Winter,Naturfotografie im Winter,MISC,,,de,1
+Winterdienst-Saiso…,Winterdienst-Saiso…,MISC,,,de,1
+Heliko…,Heliko…,MISC,,,de,1
 Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1
+Ballermann,Ballermann,MISC,0.35,0.0,de,1
+Sonniger Start,Sonniger Start,MISC,,,de,1
+Kaltfront,Kaltfront,MISC,0.0,0.0,de,1
+mei…,mei…,MISC,,,de,1
+Kaltfront“,Kaltfront“,MISC,,,de,1
+Urlaubs-Express,Urlaubs-Express,MISC,,,de,1
 Straßenmeister…,Straßenmeister…,MISC,,,de,1
-O…,O…,MISC,,,de,1
 P…,P…,MISC,,,de,1
 Schneefall“,Schneefall“,MISC,,,de,1
-DOK-FILM,DOK-FILM,MISC,,,de,1
 Der erste Schnee,Der erste Schnee,MISC,,,de,1
 Kurzes Intermezzo,Kurzes Intermezzo,MISC,,,de,1
 Erster Schnee,Erster Schnee,MISC,,,de,1
+deutsches,deutsches,MISC,,,de,1
+TTS Player,TTS Player,MISC,,,de,1
 NZZ FORMAT,NZZ FORMAT,MISC,,,de,1
-a…,a…,MISC,,,de,1
-Joshua“,Joshua“,MISC,,,de,1
-Schnee und eisiger Sturm,Schnee und eisiger Sturm,MISC,,,de,1
-Vorja…,Vorja…,MISC,,,de,1
+Gesamtzahl der Betroffenen,Gesamtzahl der Betroffenen,MISC,,,de,1
 Winter-Vorbereitungen,Winter-Vorbereitungen,MISC,,,de,1
+Euro,Euro,MISC,,,de,1
+Skisaison 2025/26,Skisaison 2025/26,MISC,,,de,1
 Tour nieselte,Tour nieselte,MISC,,,de,1
+Deutsche Weinbauern,Deutsche Weinbauern,MISC,,,de,1
 Preisanpassungen,Preisanpassungen,MISC,,,de,1
 Todesfall überschat…,Todesfall überschat…,MISC,,,de,1
 Todesfall,Todesfall,MISC,,,de,1
-Gesamtzahl der Betroffenen,Gesamtzahl der Betroffenen,MISC,,,de,1
-Gefahr von Schnee und Eisglätte,Gefahr von Schnee und Eisglätte,MISC,,,de,1
-chinesischen,chinesischen,MISC,,,de,1
+Schneesturm“,Schneesturm“,MISC,,,de,1
+Schnee und eisiger Sturm,Schnee und eisiger Sturm,MISC,,,de,1
+CCTV,CCTV,MISC,,,de,1
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,1
+Der Winter naht,Der Winter naht,MISC,,,de,1
+stern+,stern+,MISC,,,de,1
+stern+statt,stern+statt,MISC,,,de,1
+Videos,Videos,MISC,,,de,1
+Everest-Region,Everest-Region,MISC,,,de,1
+Schneesturm auf Mount Everest,Schneesturm auf Mount Everest,MISC,,,de,1
+Dramatische Rettung,Dramatische Rettung,MISC,,,de,1
 "Wind, Regen","Wind, Regen",MISC,,,de,1
 steirischen,steirischen,MISC,,,de,1
 minus 1 Grad,minus 1 Grad,MISC,,,de,1
 Klimawandel“,Klimawandel“,MISC,,,de,1
 All zurückges…,All zurückges…,MISC,,,de,1
-Der Winter naht,Der Winter naht,MISC,,,de,1
-Wintervorbereitungen“,Wintervorbereitungen“,MISC,,,de,1
-Wetterausblick“,Wetterausblick“,MISC,,,de,1
+Vorja…,Vorja…,MISC,,,de,1
+Gefahr von Schnee und Eisglätte,Gefahr von Schnee und Eisglätte,MISC,,,de,1
+DOK-FILM,DOK-FILM,MISC,,,de,1
 mor­gen wars,mor­gen wars,MISC,,,de,1
+Kalte Front,Kalte Front,MISC,,,de,1
+Joshua“,Joshua“,MISC,,,de,1
+Sturm ,Sturm ,MISC,,,de,1
+Wetterausblick“,Wetterausblick“,MISC,,,de,1
+Erdalbedo-Effekt,Erdalbedo-Effekt,MISC,,,de,1
 Seilbahnbetreibern,Seilbahnbetreibern,MISC,,,de,1
 KitzSki,KitzSki,MISC,,,de,1
-Erdalbedo-Effekt,Erdalbedo-Effekt,MISC,,,de,1
+a…,a…,MISC,,,de,1
 österreichischen,österreichischen,MISC,,,de,1
 Wintersportsaison,Wintersportsaison,MISC,,,de,1
 Das große Skigebiet Feldberg im Hochschwarzwald,Das große Skigebiet Feldberg im Hochschwarzwald,MISC,,,de,1
 wars,wars,MISC,,,de,1
-Winter-Gäste,Winter-Gäste,MISC,,,de,1
+Wetter-Mix“,Wetter-Mix“,MISC,,,de,1
 ge­pos­tet.am,ge­pos­tet.am,MISC,,,de,1
 morgenspaziergang 20.10.2025,morgenspaziergang 20.10.2025,MISC,,,de,1
-Münchner,Münchner,MISC,,,de,1
-Loop One Festival,Loop One Festival,MISC,,,de,1
+Biathlon-Show,Biathlon-Show,MISC,,,de,1
 Gr…,Gr…,MISC,,,de,1
 Weihnachtszeit,Weihnachtszeit,MISC,,,de,1
-Sonniger Start,Sonniger Start,MISC,,,de,1
+Winter-Gäste,Winter-Gäste,MISC,,,de,1
+Wintervorbereitungen“,Wintervorbereitungen“,MISC,,,de,1
+Wechselnde bis starke,Wechselnde bis starke,MISC,,,de,1
+Graue Tage,Graue Tage,MISC,,,de,1
+nächsten Tagen,nächsten Tagen,MISC,,,de,1
+NRW-Wetter,NRW-Wetter,MISC,,,de,1
+g…,g…,MISC,,,de,1
