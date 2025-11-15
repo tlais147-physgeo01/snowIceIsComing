@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eisregen',de,Hazard,#477515,#679515,1,0.2627277200942187
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.2615708870210311
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.2505276451552756
-'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.245559831096875
+'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.20872585643234373
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.1691909907201286
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.16876917057828886
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.1687691705782888
