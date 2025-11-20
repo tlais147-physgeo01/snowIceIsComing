@@ -6,12 +6,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefall',de,Hazard,#476515,#477515,3,0.284247038121078
 'Skigebiete',de,Impacts,#a705a5,#a715b5,3,0.2838842154819657
 'Frost',de,Hazard,#577515,#477515,3,0.2790911058279563
-'Kaltfront',de,Causes,#532faf,#332faf,2,0.2775375864389952
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.2708049498361785
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.2703502107625
 'überfrierende Nässe',de,Hazard,#479515,#477515,2,0.2634837965815129
 'Eisregen',de,Hazard,#477515,#679515,1,0.2627277200942187
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.2615708870210311
+'Kaltfront',de,Causes,#532faf,#332faf,2,0.26131215392769136
 'Glatteis',de,Hazard,#677515,#477515,2,0.2570484080097511
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.2505276451552756
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.233402860166015
