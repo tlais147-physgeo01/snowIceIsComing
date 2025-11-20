@@ -1,41 +1,48 @@
-,phrase,label,sentiment,subjectivity,language,count,geonames,geotype,latitude,longitude,country,ipcc
-Marco Odermatt,Marco Odermatt,PER,0.675,0.0,de,4,,,,,,
-Thomas Wrede,Thomas Wrede,PER,0.0,0.0,de,4,,,,,,
-Schnee schippt,Schnee schippt,PER,0.0,0.0,de,3,,,,,,
-Alexander Schmid,Alexander Schmid,PER,0.2333333333333333,0.0,de,3,,,,,,
-Österreichs Skigebiete,Österreichs Skigebiete,PER,0.5,0.0,de,2,,,,,,
-Reto Knutti,Reto Knutti,PER,0.35,0.0,de,2,,,,,,
-Nina Chuba,Nina Chuba,PER,-0.5,0.0,de,2,,,,,,
-Vail Resorts,Vail Resorts,PER,0.0,0.0,de,2,,,,,,
-Kirill Serebrennikovs,Kirill Serebrennikovs,PER,1.0,0.0,de,2,,,,,,
-et­was hö­her,et­was hö­her,PER,0.0,0.0,de,2,,,,,,
-Björn Alexander,Björn Alexander,PER,-0.5,0.0,de,2,,,,,,
-Dominik Siegrist,Dominik Siegrist,PER,1.0,0.0,de,2,,,,,,
-"Sturm ""Joshua","Sturm ""Joshua",PER,-0.7,0.0,de,2,,,,,,
-Franz Julen,Franz Julen,PER,-1.0,0.0,de,1,,,,,,
-Walter Salles,Walter Salles,PER,0.0,0.0,de,1,,,,,,
-Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1,,,,,,
-Nebel bil,Nebel bil,PER,0.0,0.0,de,1,,,,,,
-Sebastian Ebel,Sebastian Ebel,PER,0.7,0.0,de,1,,,,,,
-Michel Ricou-Charles,Michel Ricou-Charles,PER,0.0,0.0,de,1,,,,,,
-Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1,,,,,,
-Lara Gut-Behrami,Lara Gut-Behrami,PER,0.0,0.0,de,1,,,,,,
-Julia Willie Hamburg,Julia Willie Hamburg,PER,0.0,1.0,de,1,,,,,,
-Landtagsabgeordnete Christian Zwanziger,Landtagsabgeordnete Christian Zwanziger,PER,0.0,1.0,de,1,,,,,,
-Gerhard Stranig,Gerhard Stranig,PER,0.0,0.0,de,1,,,,,,
-Nasa-Studie dokumentier,Nasa-Studie dokumentier,PER,0.0,0.0,de,1,,,,,,
-Marco Schwarz,Marco Schwarz,PER,0.85,0.0,de,1,,,,,,
-Wu Ji,Wu Ji,PER,0.7,0.0,de,1,,,,,,
-Goslar Wehe,Goslar Wehe,PER,0.0,0.0,de,1,,,,,,
-Sturmtief Joshua,Sturmtief Joshua,PER,0.0,0.0,de,1,,,,,,
-Tief „Joshua,Tief „Joshua,PER,0.0,0.0,de,1,,,,,,
-Lucas Braathen,Lucas Braathen,PER,1.0,0.0,de,1,,,,,,
-Österreichs Rennen,Österreichs Rennen,PER,0.0,0.0,de,1,,,,,,
-Hause schön,Hause schön,PER,0.85,0.0,de,1,,,,,,
-Sturm Joshua,Sturm Joshua,PER,0.0,0.0,de,1,,,,,,
-Josef Mengele,Josef Mengele,PER,0.0,0.0,de,1,,,,,,
-Joshua ungemütliches,Joshua ungemütliches,PER,-1.0,0.0,de,1,,,,,,
-Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.0,0.0,de,1,,,,,,
-Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1,,,,,,
-Björn Alexander erkl,Björn Alexander erkl,PER,-1.0,0.0,de,1,,,,,,
-Was besucher,Was besucher,PER,-1.0,0.0,de,1,,,,,,
+,phrase,label,sentiment,subjectivity,language,count
+Marco Odermatt,Marco Odermatt,PER,0.9,0.0,de,3.0
+Björn Alexander,Björn Alexander,PER,-0.5,0.0,de,2.0
+Helge Tuschy ,Helge Tuschy ,PER,-0.7368421052631579,0.0,de,1.9
+Wolfgang Blank,Wolfgang Blank,PER,-0.6140350877192982,0.17543859649122806,de,1.9
+Österreichs Skigebiete,Österreichs Skigebiete,PER,0.5263157894736842,0.0,de,1.9
+Alexander Schmid,Alexander Schmid,PER,0.5833333333333333,0.0,de,1.2000000000000002
+"Sturm ""Joshua","Sturm ""Joshua",PER,-1.2727272727272725,0.0,de,1.1
+Nina Chuba,Nina Chuba,PER,-0.9090909090909091,0.0,de,1.1
+Dominik Siegrist,Dominik Siegrist,PER,1.8181818181818181,0.0,de,1.1
+Reto Knutti,Reto Knutti,PER,0.6363636363636362,0.0,de,1.1
+Kirill Serebrennikovs,Kirill Serebrennikovs,PER,1.8181818181818181,0.0,de,1.1
+Lara Gut-Behrami,Lara Gut-Behrami,PER,0.0,0.0,de,1.0
+Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1.0
+Michel Ricou-Charles,Michel Ricou-Charles,PER,0.0,0.0,de,1.0
+Staunende Besucher,Staunende Besucher,PER,0.0,0.0,de,1.0
+Sebastian Ebel,Sebastian Ebel,PER,0.7,0.0,de,1.0
+Franz Julen,Franz Julen,PER,-1.0,0.0,de,1.0
+Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1.0
+Warnstufe Gelb,Warnstufe Gelb,PER,0.0,0.0,de,1.0
+Landtagsabgeordnete Christian Zwanziger,Landtagsabgeordnete Christian Zwanziger,PER,0.0,1.0,de,1.0
+Kaweh Mansoori,Kaweh Mansoori,PER,0.0,0.0,de,1.0
+Walter Salles,Walter Salles,PER,0.0,0.0,de,1.0
+Atletico Ottawa,Atletico Ottawa,PER,0.0,0.0,de,1.0
+Nebel bil,Nebel bil,PER,0.0,0.0,de,1.0
+Was besucher,Was besucher,PER,-1.0,0.0,de,1.0
+Julia Willie Hamburg,Julia Willie Hamburg,PER,0.0,1.0,de,1.0
+Nasa-Studie dokumentier,Nasa-Studie dokumentier,PER,0.0,0.0,de,1.0
+Gerhard Stranig,Gerhard Stranig,PER,0.0,0.0,de,1.0
+Schnee schippt,Schnee schippt,PER,0.0,0.0,de,1.0
+Björn Alexander erkl,Björn Alexander erkl,PER,-1.0,0.0,de,1.0
+Thomas Wrede,Thomas Wrede,PER,0.0,0.0,de,1.0
+et­was hö­her,et­was hö­her,PER,0.0,0.0,de,1.0
+Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1.0
+Sturmtief „Joshua“,Sturmtief „Joshua“,PER,0.0,0.0,de,1.0
+Joshua ungemütliches,Joshua ungemütliches,PER,-1.0,0.0,de,1.0
+Vail Resorts,Vail Resorts,PER,0.0,0.0,de,1.0
+Josef Mengele,Josef Mengele,PER,0.0,0.0,de,1.0
+Sturm Joshua,Sturm Joshua,PER,0.0,0.0,de,1.0
+Hause schön,Hause schön,PER,0.85,0.0,de,1.0
+Österreichs Rennen,Österreichs Rennen,PER,0.0,0.0,de,1.0
+Lucas Braathen,Lucas Braathen,PER,1.0,0.0,de,1.0
+Tief „Joshua,Tief „Joshua,PER,0.0,0.0,de,1.0
+Sturmtief Joshua,Sturmtief Joshua,PER,0.0,0.0,de,1.0
+Goslar Wehe,Goslar Wehe,PER,0.0,0.0,de,1.0
+Marco Schwarz,Marco Schwarz,PER,0.85,0.0,de,1.0
+Wu Ji,Wu Ji,PER,0.7,0.0,de,1.0
+Helge Tuschy,Helge Tuschy,PER,-0.7,0.0,de,1.0
