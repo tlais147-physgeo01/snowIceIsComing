@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.3466430060075251
-'Wintereinbruch',de,Causes,#434fbf,#332faf,2,0.3183055886518046
+'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.29596539080857936
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.2875201096278408
 'Schnee',de,Hazard,#477515,#477515,3,0.2864913040871848
 'Schneefall',de,Hazard,#476515,#477515,3,0.284247038121078
@@ -11,7 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'überfrierende Nässe',de,Hazard,#479515,#477515,2,0.2634837965815129
 'Eisregen',de,Hazard,#477515,#679515,1,0.2627277200942187
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.2615708870210311
-'Kaltfront',de,Causes,#532faf,#332faf,2,0.26131215392769136
+'Kaltfront',de,Causes,#532faf,#332faf,2,0.2613121539276913
 'Glatteis',de,Hazard,#677515,#477515,2,0.2570484080097511
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.2505276451552756
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.233402860166015
