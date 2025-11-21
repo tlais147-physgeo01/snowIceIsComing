@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.2613121539276913
 'Glatteis',de,Hazard,#677515,#477515,2,0.2570484080097511
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.2505276451552756
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.233402860166015
 'Schneematsch',de,Hazard,#477515,#579515,2,0.2213871001916348
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.19839243114111274
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.1687691705782888
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.1045903607634989
