@@ -2,7 +2,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.3057527107468343
 'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.2959653908085793
 'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.2946473201063964
-'Skigebiete',de,Impacts,#a705a5,#a715b5,3,0.2838842154819657
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,3,0.2820706409109374
 'Frost',de,Hazard,#577515,#477515,3,0.2790911058279563
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.2708049498361785
@@ -12,6 +11,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.2615708870210311
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.2613121539276913
 'Glatteis',de,Hazard,#677515,#477515,2,0.2570484080097511
+'Skigebiete',de,Impacts,#a705a5,#a715b5,3,0.254434691341489
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.2505276451552756
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.230247724148125
 'Schneematsch',de,Hazard,#477515,#579515,2,0.2213871001916348
