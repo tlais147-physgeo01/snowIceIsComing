@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.3180347473166273
 'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.2959653908085793
-'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.2946473201063964
 'Frost',de,Hazard,#577515,#477515,3,0.2790911058279563
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.2708049498361785
 'Schneefall',de,Hazard,#476515,#477515,3,0.2697567745197516
+'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.2645011220904369
 'überfrierende Nässe',de,Hazard,#479515,#477515,2,0.2634837965815129
 'Eisregen',de,Hazard,#477515,#679515,1,0.2627277200942187
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.2615708870210311
