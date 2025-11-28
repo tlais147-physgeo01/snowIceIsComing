@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.3383403390054742
-'Schneefall',de,Hazard,#476515,#477515,3,0.3299034758324111
 'überfrierende Nässe',de,Hazard,#479515,#477515,3,0.3240530226048184
+'Schneefall',de,Hazard,#476515,#477515,3,0.28537194445754943
 'Frost',de,Hazard,#577515,#477515,3,0.2790911058279563
 'Schnee',de,Hazard,#477515,#477515,3,0.2749669201862632
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.2645011220904369
