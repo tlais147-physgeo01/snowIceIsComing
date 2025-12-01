@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.2477403394224218
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.2461406701405077
 'Schnee',de,Hazard,#477515,#477515,3,0.2427795612492327
+'Schneematsch',de,Hazard,#477515,#579515,3,0.2354996536384561
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.230247724148125
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.2227158858385376
-'Schneematsch',de,Hazard,#477515,#579515,3,0.2182925101628895
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,2,0.2169712753702753
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.1434885464994539
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.12193572574281358
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.1219357257428135
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0657752096538836
