@@ -1,35 +1,41 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Marco Odermatt,Marco Odermatt,PER,0.9310344827586208,0.0,de,2.9
+Marco Odermatt,Marco Odermatt,PER,1.0,0.0,de,4.7
+Teile Deutschlands,Teile Deutschlands,PER,-1.0810810810810811,0.0,de,3.6999999999999997
+Vorsicht Glatteis,Vorsicht Glatteis,PER,0.0,0.0,de,3.6999999999999997
+Konstantin Wecker,Konstantin Wecker,PER,0.7499999999999999,0.0,de,2.8
 Björn Alexander,Björn Alexander,PER,-0.5,0.0,de,2.0
+Österreichs Skigebiete,Österreichs Skigebiete,PER,0.5263157894736842,0.0,de,1.9
 Wolfgang Blank,Wolfgang Blank,PER,-0.6140350877192982,0.17543859649122806,de,1.9
 Helge Tuschy ,Helge Tuschy ,PER,-0.7368421052631579,0.0,de,1.9
-Österreichs Skigebiete,Österreichs Skigebiete,PER,0.5263157894736842,0.0,de,1.9
+schneeglatter Fahrbahn,schneeglatter Fahrbahn,PER,0.0,0.0,de,1.9
+Vorsicht gebo,Vorsicht gebo,PER,0.0,0.0,de,1.9
 Herbststurm Joshua,Herbststurm Joshua,PER,-0.3684210526315789,0.0,de,1.9
+Montagfrüh Schneeglätte,Montagfrüh Schneeglätte,PER,0.0,0.0,de,1.9
 Alexander Schmid,Alexander Schmid,PER,0.5833333333333333,0.0,de,1.2000000000000002
 Nina Chuba,Nina Chuba,PER,-0.9090909090909091,0.0,de,1.1
-Dominik Siegrist,Dominik Siegrist,PER,1.8181818181818181,0.0,de,1.1
 Kirill Serebrennikovs,Kirill Serebrennikovs,PER,1.8181818181818181,0.0,de,1.1
-Reto Knutti,Reto Knutti,PER,0.6363636363636362,0.0,de,1.1
 "Sturm ""Joshua","Sturm ""Joshua",PER,-1.2727272727272725,0.0,de,1.1
-Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1.0
-Michel Ricou-Charles,Michel Ricou-Charles,PER,0.0,0.0,de,1.0
-Lara Gut-Behrami,Lara Gut-Behrami,PER,0.0,0.0,de,1.0
-Staunende Besucher,Staunende Besucher,PER,0.0,0.0,de,1.0
-Sebastian Ebel,Sebastian Ebel,PER,0.7,0.0,de,1.0
-Franz Julen,Franz Julen,PER,-1.0,0.0,de,1.0
-Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1.0
-Warnstufe Gelb,Warnstufe Gelb,PER,0.0,0.0,de,1.0
-Landtagsabgeordnete Christian Zwanziger,Landtagsabgeordnete Christian Zwanziger,PER,0.0,1.0,de,1.0
-Kaweh Mansoori,Kaweh Mansoori,PER,0.0,0.0,de,1.0
-Walter Salles,Walter Salles,PER,0.0,0.0,de,1.0
+Reto Knutti,Reto Knutti,PER,0.6363636363636362,0.0,de,1.1
+Dominik Siegrist,Dominik Siegrist,PER,1.8181818181818181,0.0,de,1.1
 Atletico Ottawa,Atletico Ottawa,PER,0.0,0.0,de,1.0
+Walter Salles,Walter Salles,PER,0.0,0.0,de,1.0
+Kaweh Mansoori,Kaweh Mansoori,PER,0.0,0.0,de,1.0
+Franz Julen,Franz Julen,PER,-1.0,0.0,de,1.0
+Warnstufe Gelb,Warnstufe Gelb,PER,0.0,0.0,de,1.0
+Nasa-Studie dokumentier,Nasa-Studie dokumentier,PER,0.0,0.0,de,1.0
+Helge Tuschy,Helge Tuschy,PER,-0.7,0.0,de,1.0
 Nebel bil,Nebel bil,PER,0.0,0.0,de,1.0
 Was besucher,Was besucher,PER,-1.0,0.0,de,1.0
-Helge Tuschy,Helge Tuschy,PER,-0.7,0.0,de,1.0
-Julia Willie Hamburg,Julia Willie Hamburg,PER,0.0,1.0,de,1.0
-Nasa-Studie dokumentier,Nasa-Studie dokumentier,PER,0.0,0.0,de,1.0
-Gerhard Stranig,Gerhard Stranig,PER,0.0,0.0,de,1.0
-Schnee schippt,Schnee schippt,PER,0.0,0.0,de,1.0
+Sachsen-Anhalts Straßenmeistereien,Sachsen-Anhalts Straßenmeistereien,PER,1.0,0.0,de,1.0
+Sachsens Skigebiete,Sachsens Skigebiete,PER,0.0,0.0,de,1.0
+Regen k,Regen k,PER,-0.7,0.0,de,1.0
+Markus Jandl,Markus Jandl,PER,-0.175,0.0,de,1.0
+Georg Friedrichs,Georg Friedrichs,PER,0.0,0.0,de,1.0
+Gerald Gröger,Gerald Gröger,PER,1.0,0.0,de,1.0
+Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1.0
+Lara Gut-Behrami,Lara Gut-Behrami,PER,0.0,0.0,de,1.0
+Sebastian Ebel,Sebastian Ebel,PER,0.7,0.0,de,1.0
+Staunende Besucher,Staunende Besucher,PER,0.0,0.0,de,1.0
 Björn Alexander erkl,Björn Alexander erkl,PER,-1.0,0.0,de,1.0
 Thomas Wrede,Thomas Wrede,PER,0.0,0.0,de,1.0
 et­was hö­her,et­was hö­her,PER,0.0,0.0,de,1.0
@@ -46,5 +52,11 @@ Sturmtief Joshua,Sturmtief Joshua,PER,0.0,0.0,de,1.0
 Tief „Joshua,Tief „Joshua,PER,0.0,0.0,de,1.0
 Goslar Wehe,Goslar Wehe,PER,0.0,0.0,de,1.0
 Marco Schwarz,Marco Schwarz,PER,0.85,0.0,de,1.0
+Schnee schippt,Schnee schippt,PER,0.0,0.0,de,1.0
+Gerhard Stranig,Gerhard Stranig,PER,0.0,0.0,de,1.0
+Landtagsabgeordnete Christian Zwanziger,Landtagsabgeordnete Christian Zwanziger,PER,0.0,1.0,de,1.0
+Julia Willie Hamburg,Julia Willie Hamburg,PER,0.0,1.0,de,1.0
 Wu Ji,Wu Ji,PER,0.7,0.0,de,1.0
-Sachsens Skigebiete,Sachsens Skigebiete,PER,0.0,0.0,de,1.0
+Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1.0
+Michel Ricou-Charles,Michel Ricou-Charles,PER,0.0,0.0,de,1.0
+Niederösterreichs Skisaison,Niederösterreichs Skisaison,PER,0.0,0.0,de,1.0
