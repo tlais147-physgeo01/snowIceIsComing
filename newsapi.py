@@ -11,6 +11,7 @@ import glob
 
 import aiohttp
 import asyncio
+import io
 import requests
 from urllib.parse import urlparse
 import json
@@ -326,10 +327,13 @@ def extractData(article, language, keyWord):
     image = None
     if('urlToImage' in article): 
         image = article['urlToImage']
-
+    if('image' in article): 
+        image = article['image']
     published = '1970-01-01T00:00:00'
     if('publishedAt' in article):    
         published = article['publishedAt']
+    if('published' in article):    
+        published = article['published']
     content = article['content']
     hashStr = hashlib.sha256(url.encode()).hexdigest()[:32]
     data = {'url':url, 'valid':0, 'domain':domain,'published':published, 'description':description, 'title':title, 
@@ -488,6 +492,53 @@ def getLatestFileAge():
     return minAge        
 
 
+ts = int(time.time())
+currentMonths = []
+for m in [0,20,40,60]:
+  ##month = datetime.utcfromtimestamp(ts-60*60*24*m).strftime('%Y_%m')  
+  month = datetime.datetime.fromtimestamp(ts-60*60*24*m).strftime('%Y_%m')
+  if month not in currentMonths:
+    currentMonths.append(month)
+
+extremeNews = {}
+
+filterExtreme = 'Snow&Ice'
+
+def inqExtremeNews():
+    foundNew = False
+    keyWord = 'veryUnusualAndNeverUsedKeyword'
+    language = 'de'
+    for currMonth in currentMonths:
+       extremesFile = "https://github.com/pg-ufr-news/extremFluesterer/blob/main/cxsv/news_"+currMonth+".csv?raw=true"
+       print(extremesFile)
+       extremesRequest = requests.get(extremesFile, headers={'Accept': 'text/plain'})
+       print(extremesRequest)   
+       if(extremesRequest.status_code == 200):
+          extremesDf=pd.read_csv(io.StringIO(extremesRequest.content.decode('utf-8')), delimiter=',', index_col='index')
+          ##extremesDf['hash'] = extremesDf.index 
+          print(extremesDf)
+          extremesDf = extremesDf[extremesDf['topic']==filterExtreme]
+          print(extremesDf)
+          extremesDict = extremesDf.to_dict('index')
+          extremesArray = list(extremesDict.values())
+          print(extremesArray)
+          checkedArticles = checkArticlesForKeywords(extremesArray, keywordsDF, keywordsNewsDF2, language, keyWord)          
+          print(checkedArticles)
+          newArticles = filterNewAndArchive(checkedArticles, language, keyWord)    
+          for data in newArticles:
+                    if (dataIsNotBlocked(data)):                    
+                        #print(str(keyWord)+': '+str(title)+' '+str(url))
+                        print(["addNewsToCollection: ",data])
+                        if(addNewsToCollection(data)):
+                            foundNew = True
+                            print(["+++added"])  
+                        else:
+                            print(["---not added"])   
+
+       
+    if(foundNew):         
+       storeCollection()
+
 def inqRandomNews():
     apiKey = os.getenv('NEWSAPI_KEY')
     if(apiKey == '1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7'): 
@@ -634,6 +685,7 @@ print(age)
 if(age>60*60*5*0):
     inqRandomNews()
 '''
+inqExtremeNews()
 inqRandomNews()
 
 #keywordsDF = keywordsDF.sort_values(by=['topic','keyword'])
