@@ -17,4 +17,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.2096706046194315
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.1434885464994539
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.1036453668813914
-'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0486326999749308
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.042387899978691176
