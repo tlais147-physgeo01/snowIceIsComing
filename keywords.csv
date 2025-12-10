@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.2074712289265167
 'Schneematsch',de,Hazard,#477515,#579515,3,0.2007757555926876
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.1893086979627569
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.10394800259585543
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.1039480025958554
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0883985918491827
-'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0375298649818874
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.03355055023460429
