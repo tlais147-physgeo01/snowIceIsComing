@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.1974306025679965
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.1893086979627569
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.1859785453179061
-'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.1599726151174671
+'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.13687681284984704
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0883985918491827
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0547395485794276
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0272930777945014
