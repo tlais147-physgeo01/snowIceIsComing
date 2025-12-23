@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skigebiete',de,Impacts,#a705a5,#a715b5,3,0.1878163389680558
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,2,0.1852364206693096
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.1517908571707585
-'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.136876812849847
+'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.11679533592236996
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0754388330718053
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.03400283885884085
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0340028388588408
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0223220089565271
