@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Schnee',de,Hazard,#477515,#477515,3,0.21794453942097625
 'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.21158111706361
 'überfrierende Nässe',de,Hazard,#479515,#477515,3,0.2067801156960452
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.2045253691872451
-'Schnee',de,Hazard,#477515,#477515,3,0.2024316041316298
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,3,0.1987239443679359
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.1974306025679965
 'Eisregen',de,Hazard,#477515,#679515,2,0.196995787032609
