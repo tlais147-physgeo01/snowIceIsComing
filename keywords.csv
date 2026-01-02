@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Schneefall',de,Hazard,#476515,#477515,3,0.2762602896430149
 'Schnee',de,Hazard,#477515,#477515,3,0.2688297909650887
+'Schneefall',de,Hazard,#476515,#477515,3,0.25613804756019903
 'Glatteis',de,Hazard,#677515,#477515,3,0.1893864491912202
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.1893086979627569
 'Skigebiete',de,Impacts,#a705a5,#a715b5,3,0.1878163389680558
