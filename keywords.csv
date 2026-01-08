@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.1517908571707585
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1435784293058336
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.1363836964335761
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.09700247303001466
-'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0724987628483253
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0970024730300146
+'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0619239784210765
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0293975148911933
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0149537207168709
