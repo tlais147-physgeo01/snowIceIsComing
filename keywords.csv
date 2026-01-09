@@ -10,11 +10,11 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.1824549652780918
 'Eisregen',de,Hazard,#477515,#679515,1,0.1674466289777176
 'Frost',de,Hazard,#577515,#477515,3,0.164142388343271
-'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.16271330348138713
+'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1627133034813871
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.1530201042377845
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.1517908571707585
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.1363836964335761
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0970024730300146
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0830521620755124
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0619239784210765
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0293975148911933
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0149537207168709
