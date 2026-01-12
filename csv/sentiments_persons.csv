@@ -1,63 +1,87 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Marco Odermatt,Marco Odermatt,PER,1.0,0.0,de,4.7
+Marco Odermatt,Marco Odermatt,PER,0.9791666666666667,0.0,de,4.8
+Laura Wontorra,Laura Wontorra,PER,-0.04347826086956523,0.14492753623188406,de,4.6
 Björn Alexander,Björn Alexander,PER,0.0,0.0,de,3.8
 Vorsicht Glatteis,Vorsicht Glatteis,PER,0.0,0.0,de,3.6999999999999997
 Teile Deutschlands,Teile Deutschlands,PER,-1.0810810810810811,0.0,de,3.6999999999999997
-Laura Wontorra,Laura Wontorra,PER,-0.05405405405405407,0.18018018018018017,de,3.6999999999999997
-Konstantin Wecker,Konstantin Wecker,PER,0.7499999999999999,0.0,de,2.8
-Smillas Gespür,Smillas Gespür,PER,0.0,0.0,de,2.8
 Sebastian Ströbel,Sebastian Ströbel,PER,-0.25,0.0,de,2.8
-Gavin Newsom,Gavin Newsom,PER,0.0,0.0,de,1.9
-Christina Biasi,Christina Biasi,PER,0.5263157894736842,0.0,de,1.9
-Wolfgang Blank,Wolfgang Blank,PER,-0.6140350877192982,0.17543859649122806,de,1.9
-Österreichs Skigebiete,Österreichs Skigebiete,PER,0.5263157894736842,0.0,de,1.9
-Herbststurm Joshua,Herbststurm Joshua,PER,-0.3684210526315789,0.0,de,1.9
-Helge Tuschy ,Helge Tuschy ,PER,-0.7368421052631579,0.0,de,1.9
-Frostiges Paradies,Frostiges Paradies,PER,0.0,0.0,de,1.9
-schneeglatter Fahrbahn,schneeglatter Fahrbahn,PER,0.0,0.0,de,1.9
+Smillas Gespür,Smillas Gespür,PER,0.0,0.0,de,2.8
+Friedrich Merz,Friedrich Merz,PER,-0.5,0.0,de,2.8
+Markus Söder,Markus Söder,PER,-0.5,0.0,de,2.8
+Konstantin Wecker,Konstantin Wecker,PER,0.7499999999999999,0.0,de,2.8
 Montagfrüh Schneeglätte,Montagfrüh Schneeglätte,PER,0.0,0.0,de,1.9
-Vorsicht gebo,Vorsicht gebo,PER,0.0,0.0,de,1.9
+Österreichs Skigebiete,Österreichs Skigebiete,PER,0.5263157894736842,0.0,de,1.9
+Adrian Leyser Sturm,Adrian Leyser Sturm,PER,-0.18421052631578946,0.0,de,1.9
+Herbststurm Joshua,Herbststurm Joshua,PER,-0.3684210526315789,0.0,de,1.9
+Räumung von Straßen,Räumung von Straßen,PER,0.0,0.0,de,1.9
+schneeglatter Fahrbahn,schneeglatter Fahrbahn,PER,0.0,0.0,de,1.9
+Laura Anninger,Laura Anninger,PER,0.0,0.5263157894736842,de,1.9
+Frostiges Paradies,Frostiges Paradies,PER,0.0,0.0,de,1.9
+Hessens Skigebiete,Hessens Skigebiete,PER,0.6710526315789473,0.0,de,1.9
+Christina Biasi,Christina Biasi,PER,0.5263157894736842,0.0,de,1.9
+Gesundheitsminister Philippi,Gesundheitsminister Philippi,PER,0.0,0.0,de,1.9
+Patrick Schnieder,Patrick Schnieder,PER,-0.7368421052631579,0.0,de,1.9
+Wolfgang Blank,Wolfgang Blank,PER,-0.6140350877192982,0.17543859649122806,de,1.9
+"Sturmtief ""Elli","Sturmtief ""Elli",PER,-0.3684210526315789,0.0,de,1.9
 Wiens Winterdienst,Wiens Winterdienst,PER,0.3684210526315789,0.0,de,1.9
+Gavin Newsom,Gavin Newsom,PER,0.0,0.0,de,1.9
+Helge Tuschy ,Helge Tuschy ,PER,-0.7368421052631579,0.0,de,1.9
+Alexander Hildebrandt,Alexander Hildebrandt,PER,-0.3684210526315789,0.0,de,1.9
+Vorsicht gebo,Vorsicht gebo,PER,0.0,0.0,de,1.9
 Alexander Schmid,Alexander Schmid,PER,0.5833333333333333,0.0,de,1.2000000000000002
-Dominik Siegrist,Dominik Siegrist,PER,1.8181818181818181,0.0,de,1.1
 Reto Knutti,Reto Knutti,PER,0.6363636363636362,0.0,de,1.1
+Nina Chuba,Nina Chuba,PER,-0.9090909090909091,0.0,de,1.1
 "Sturm ""Joshua","Sturm ""Joshua",PER,-1.2727272727272725,0.0,de,1.1
 Kirill Serebrennikovs,Kirill Serebrennikovs,PER,1.8181818181818181,0.0,de,1.1
-Nina Chuba,Nina Chuba,PER,-0.9090909090909091,0.0,de,1.1
-Markus Jandl,Markus Jandl,PER,-0.175,0.0,de,1.0
-Georg Friedrichs,Georg Friedrichs,PER,0.0,0.0,de,1.0
-Laura Anninger,Laura Anninger,PER,0.0,0.0,de,1.0
-Niederösterreichs Skisaison,Niederösterreichs Skisaison,PER,0.0,0.0,de,1.0
-Erich Egger,Erich Egger,PER,0.35,0.5,de,1.0
-Simon Guggi von Snowspace,Simon Guggi von Snowspace,PER,0.35,0.5,de,1.0
-Walter Kirmair,Walter Kirmair,PER,0.0,0.0,de,1.0
-Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,1.0
-Gerald Gröger,Gerald Gröger,PER,1.0,0.0,de,1.0
-Filippa Coster-Waldau,Filippa Coster-Waldau,PER,0.0,1.0,de,1.0
+Dominik Siegrist,Dominik Siegrist,PER,1.8181818181818181,0.0,de,1.1
+Martha Schulz,Martha Schulz,PER,0.7,0.0,de,1.0
+Peter Schatz,Peter Schatz,PER,0.0,0.0,de,1.0
+Roland Sint,Roland Sint,PER,1.0,0.0,de,1.0
+Kärntens Skigebiete,Kärntens Skigebiete,PER,0.0,0.0,de,1.0
+Wilhelm Kraml,Wilhelm Kraml,PER,0.0,0.0,de,1.0
+Thore Hansen,Thore Hansen,PER,-0.7,0.0,de,1.0
+Helmut Holzinger,Helmut Holzinger,PER,0.0,0.0,de,1.0
+Susanne Arndt,Susanne Arndt,PER,1.0,0.0,de,1.0
+Maximilian Koch,Maximilian Koch,PER,0.0,0.0,de,1.0
+Thorsten Falkes,Thorsten Falkes,PER,0.0,0.0,de,1.0
+Schnee rechnen d,Schnee rechnen d,PER,0.0,0.0,de,1.0
 Frank Thelen,Frank Thelen,PER,1.0,0.0,de,1.0
-Elyas M’Barek,Elyas M’Barek,PER,0.0,1.0,de,1.0
-Bille Augusts,Bille Augusts,PER,0.0,0.0,de,1.0
-Jacqueline Ke,Jacqueline Ke,PER,0.0,0.0,de,1.0
+Leonardo DiCaprio,Leonardo DiCaprio,PER,-1.0,0.0,de,1.0
+Nasa-Studie dokumentier,Nasa-Studie dokumentier,PER,0.0,0.0,de,1.0
 Wusstest du,Wusstest du,PER,0.0,0.8,de,1.0
+Bergretter-Star Sebastian Ströbel,Bergretter-Star Sebastian Ströbel,PER,0.0,0.0,de,1.0
+Paul Heger,Paul Heger,PER,0.0,0.0,de,1.0
+Sturmtief Elli betroffe,Sturmtief Elli betroffe,PER,0.0,0.0,de,1.0
+Schlösserland Sachsen,Schlösserland Sachsen,PER,-0.7,0.0,de,1.0
+Sturmtief „Elli“,Sturmtief „Elli“,PER,0.5,0.0,de,1.0
+"Wintersturmfront ""Elli","Wintersturmfront ""Elli",PER,-0.7,0.0,de,1.0
+Laura Wontorras Traum-Urlaub,Laura Wontorras Traum-Urlaub,PER,0.0,0.0,de,1.0
+Zalando sch,Zalando sch,PER,-0.7,0.0,de,1.0
+Sturmtief »Elli,Sturmtief »Elli,PER,-1.0,0.0,de,1.0
+Sturmtief «Elli,Sturmtief «Elli,PER,-1.0,0.0,de,1.0
+Tief „Elli“,Tief „Elli“,PER,-0.5,0.5,de,1.0
+lieben Schnee,lieben Schnee,PER,1.0,0.0,de,1.0
+Frederik Braun,Frederik Braun,PER,1.0,0.0,de,1.0
+Peter Hartm,Peter Hartm,PER,0.0,0.0,de,1.0
+Jacqueline Kernn,Jacqueline Kernn,PER,0.0,0.0,de,1.0
+Jacqueline Ke,Jacqueline Ke,PER,0.0,0.0,de,1.0
+Karl Fussi,Karl Fussi,PER,0.7,0.0,de,1.0
+Berlin  ,Berlin  ,PER,1.0,0.0,de,1.0
+Robert Steiger,Robert Steiger,PER,0.0,0.0,de,1.0
+Nicolas Féraud,Nicolas Féraud,PER,-0.7,0.0,de,1.0
+Frostiges Wetter,Frostiges Wetter,PER,0.0,0.0,de,1.0
 Schneereichster Wintersturm,Schneereichster Wintersturm,PER,0.0,0.0,de,1.0
 Boris Bregar,Boris Bregar,PER,0.0,0.0,de,1.0
-Paul Heger,Paul Heger,PER,0.0,0.0,de,1.0
-Bergretter-Star Sebastian Ströbel,Bergretter-Star Sebastian Ströbel,PER,0.0,0.0,de,1.0
-Thorsten Falkes,Thorsten Falkes,PER,0.0,0.0,de,1.0
-Susanne Arndt,Susanne Arndt,PER,1.0,0.0,de,1.0
-Peter Schatz,Peter Schatz,PER,0.0,0.0,de,1.0
-Martha Schulz,Martha Schulz,PER,0.7,0.0,de,1.0
-Helmut Holzinger,Helmut Holzinger,PER,0.0,0.0,de,1.0
-Maximilian Koch,Maximilian Koch,PER,0.0,0.0,de,1.0
-Schnee rechnen d,Schnee rechnen d,PER,0.0,0.0,de,1.0
-Leonardo DiCaprio,Leonardo DiCaprio,PER,-1.0,0.0,de,1.0
 Harry Scherz,Harry Scherz,PER,1.0,0.0,de,1.0
-Nicolas Féraud,Nicolas Féraud,PER,-0.7,0.0,de,1.0
+Niederösterreichs Skisaison,Niederösterreichs Skisaison,PER,0.0,0.0,de,1.0
 Peter Høegs,Peter Høegs,PER,0.0,0.0,de,1.0
-Regen k,Regen k,PER,-0.7,0.0,de,1.0
-Nasa-Studie dokumentier,Nasa-Studie dokumentier,PER,0.0,0.0,de,1.0
-Klimatologe Karsten Brandt,Klimatologe Karsten Brandt,PER,0.0,0.0,de,1.0
+Sebastian Ebel,Sebastian Ebel,PER,0.7,0.0,de,1.0
+Michel Ricou-Charles,Michel Ricou-Charles,PER,0.0,0.0,de,1.0
+Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1.0
+Lara Gut-Behrami,Lara Gut-Behrami,PER,0.0,0.0,de,1.0
+Julia Willie Hamburg,Julia Willie Hamburg,PER,0.0,1.0,de,1.0
 Landtagsabgeordnete Christian Zwanziger,Landtagsabgeordnete Christian Zwanziger,PER,0.0,1.0,de,1.0
+Gerhard Stranig,Gerhard Stranig,PER,0.0,0.0,de,1.0
 Schnee schippt,Schnee schippt,PER,0.0,0.0,de,1.0
 Marco Schwarz,Marco Schwarz,PER,0.85,0.0,de,1.0
 Goslar Wehe,Goslar Wehe,PER,0.0,0.0,de,1.0
@@ -75,13 +99,25 @@ Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1.0
 et­was hö­her,et­was hö­her,PER,0.0,0.0,de,1.0
 Thomas Wrede,Thomas Wrede,PER,0.0,0.0,de,1.0
 Björn Alexander erkl,Björn Alexander erkl,PER,-1.0,0.0,de,1.0
-Gerhard Stranig,Gerhard Stranig,PER,0.0,0.0,de,1.0
-Julia Willie Hamburg,Julia Willie Hamburg,PER,0.0,1.0,de,1.0
+Staunende Besucher,Staunende Besucher,PER,0.0,0.0,de,1.0
+Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1.0
+Bille Augusts,Bille Augusts,PER,0.0,0.0,de,1.0
+Warnstufe Gelb,Warnstufe Gelb,PER,0.0,0.0,de,1.0
+Elyas M’Barek,Elyas M’Barek,PER,0.0,1.0,de,1.0
+Filippa Coster-Waldau,Filippa Coster-Waldau,PER,0.0,1.0,de,1.0
+Wetter Bayern,Wetter Bayern,PER,0.0,0.0,de,1.0
+Walter Kirmair,Walter Kirmair,PER,0.0,0.0,de,1.0
+Simon Guggi von Snowspace,Simon Guggi von Snowspace,PER,0.35,0.5,de,1.0
+Erich Egger,Erich Egger,PER,0.35,0.5,de,1.0
+Wu Ji,Wu Ji,PER,0.7,0.0,de,1.0
+Gerald Gröger,Gerald Gröger,PER,1.0,0.0,de,1.0
+Georg Friedrichs,Georg Friedrichs,PER,0.0,0.0,de,1.0
+Markus Jandl,Markus Jandl,PER,-0.175,0.0,de,1.0
+Regen k,Regen k,PER,-0.7,0.0,de,1.0
+Klimatologe Karsten Brandt,Klimatologe Karsten Brandt,PER,0.0,0.0,de,1.0
 Reinhard Klier,Reinhard Klier,PER,1.0,0.0,de,1.0
-Lara Gut-Behrami,Lara Gut-Behrami,PER,0.0,0.0,de,1.0
 Sachsens Skigebiete,Sachsens Skigebiete,PER,0.0,0.0,de,1.0
 Sachsen-Anhalts Straßenmeistereien,Sachsen-Anhalts Straßenmeistereien,PER,1.0,0.0,de,1.0
-Wu Ji,Wu Ji,PER,0.7,0.0,de,1.0
 Schnee bede,Schnee bede,PER,0.0,0.0,de,1.0
 Helge Tuschy,Helge Tuschy,PER,-0.7,0.0,de,1.0
 Was besucher,Was besucher,PER,-1.0,0.0,de,1.0
@@ -90,10 +126,4 @@ Atletico Ottawa,Atletico Ottawa,PER,0.0,0.0,de,1.0
 Walter Salles,Walter Salles,PER,0.0,0.0,de,1.0
 Kaweh Mansoori,Kaweh Mansoori,PER,0.0,0.0,de,1.0
 Franz Julen,Franz Julen,PER,-1.0,0.0,de,1.0
-Warnstufe Gelb,Warnstufe Gelb,PER,0.0,0.0,de,1.0
-Vanessa Mai,Vanessa Mai,PER,0.0,0.0,de,1.0
-Sebastian Ebel,Sebastian Ebel,PER,0.7,0.0,de,1.0
-Staunende Besucher,Staunende Besucher,PER,0.0,0.0,de,1.0
-Michel Ricou-Charles,Michel Ricou-Charles,PER,0.0,0.0,de,1.0
-Christophe Jacrot,Christophe Jacrot,PER,0.7,0.0,de,1.0
-Jacqueline Kernn,Jacqueline Kernn,PER,0.0,0.0,de,1.0
+Teile Hessens,Teile Hessens,PER,0.0,0.0,de,1.0
