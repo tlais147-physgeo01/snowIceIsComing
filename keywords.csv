@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#577515,#477515,3,0.1608464714554167
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.1530201042377845
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.1517908571707585
+'Eistage',de,Hazard,#c32c4f,#d32f2f,2,0.14694447276418554
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.1363836964335761
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0830521620755124
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.052935411657915
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0249878876575143
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0149537207168709
