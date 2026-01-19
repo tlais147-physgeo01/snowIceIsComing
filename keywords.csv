@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.3634587218713276
 'Glatteis',de,Hazard,#677515,#477515,3,0.3235487219887447
-'Schneefall',de,Hazard,#476515,#477515,3,0.3050333684982551
+'Schneefall',de,Hazard,#476515,#477515,3,0.30106318004169863
 'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.251834942736882
 'Eisregen',de,Hazard,#477515,#679515,3,0.2250076573583326
 'Skigebiete',de,Impacts,#a705a5,#a715b5,3,0.2219684811551208
@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.1530201042377845
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.1517908571707585
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.1051407793965325
-'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.03289487327191698
+'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0328948732719169
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0277108126093402
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0153456865076708
