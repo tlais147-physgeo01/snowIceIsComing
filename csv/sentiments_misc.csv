@@ -1,671 +1,643 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Link
 ","Link
-",MISC,,,de,256.2000000000011
-“,“,MISC,0.013333333333333332,0.38333333333333336,de,200.6000000000008
-Wetter“,Wetter“,MISC,,,de,94.50000000000011
+",MISC,,,de,291.30000000000024
+“,“,MISC,-0.030303030303030307,0.5007974481658694,de,263.60000000000093
+Wetter“,Wetter“,MISC,,,de,106.20000000000019
 Weihnachten,Weihnachten,MISC,-0.5833333333333334,1.891891891891892,de,91.0000000000001
+Winterwetter“,Winterwetter“,MISC,,,de,25.29999999999999
+Deutscher,Deutscher,MISC,,,de,19.099999999999998
 Erster Schnee,Erster Schnee,MISC,,,de,17.200000000000003
-Deutscher,Deutscher,MISC,,,de,15.500000000000004
+Deutsche,Deutsche,MISC,,,de,17.200000000000003
 Wettervorhersage“,Wettervorhersage“,MISC,,,de,15.500000000000004
 Berliner,Berliner,MISC,,,de,15.400000000000004
-Winterwetter“,Winterwetter“,MISC,,,de,13.600000000000003
+Eis und Schnee,Eis und Schnee,MISC,,,de,14.500000000000004
 Weiße Weihnachten,Weiße Weihnachten,MISC,-0.7368421052631579,0.5263157894736842,de,13.600000000000003
-Deutsche,Deutsche,MISC,,,de,13.600000000000003
+Verkehr“,Verkehr“,MISC,,,de,13.600000000000003
+Schnee und Eis,Schnee und Eis,MISC,,,de,12.700000000000003
 französischen,französischen,MISC,,,de,12.000000000000002
-Verkehr“,Verkehr“,MISC,,,de,10.900000000000002
 Glatteis“,Glatteis“,MISC,,,de,10.900000000000002
-Schnee und Eis,Schnee und Eis,MISC,,,de,10.000000000000002
-Eis und Schnee,Eis und Schnee,MISC,,,de,10.000000000000002
 Deutschem,Deutschem,MISC,,,de,9.200000000000001
+Hamburger,Hamburger,MISC,,,de,9.100000000000001
 Deutschen,Deutschen,MISC,,,de,8.200000000000001
-Hamburger,Hamburger,MISC,,,de,8.200000000000001
+S…,S…,MISC,,,de,8.200000000000001
 Schweizer,Schweizer,MISC,,,de,7.9
-S…,S…,MISC,,,de,7.300000000000001
+Wetterbericht“,Wetterbericht“,MISC,,,de,7.600000000000001
+Zeit,Zeit,MISC,,,de,7.400000000000001
 Wintereinbruch“,Wintereinbruch“,MISC,,,de,7.300000000000001
+stern+statt,stern+statt,MISC,,,de,7.300000000000001
+stern+,stern+,MISC,,,de,7.300000000000001
+Capital</li><li>4,Capital</li><li>4,MISC,,,de,7.300000000000001
 Wintersport“,Wintersport“,MISC,,,de,7.300000000000001
-Sachsen,Sachsen,MISC,-0.02288329519450803,0.0,de,6.4
-Wetterbericht“,Wetterbericht“,MISC,,,de,5.800000000000001
-Zeit,Zeit,MISC,,,de,5.6000000000000005
+Sachsen,Sachsen,MISC,-0.019646365422396877,0.0,de,6.4
+…,…,MISC,0.03376436781609198,0.02155172413793105,de,5.5
 Schwerin,Schwerin,MISC,-0.6140350877192982,0.17543859649122806,de,5.5
 Wetterprognose“,Wetterprognose“,MISC,,,de,5.5
+Sturm und Schnee,Sturm und Schnee,MISC,,,de,4.8
+N…,N…,MISC,,,de,4.6
+Der Schnee,Der Schnee,MISC,,,de,4.6
+Chancen auf Schnee,Chancen auf Schnee,MISC,,,de,4.6
+’s,’s,MISC,0.15789473684210528,0.0,de,4.6
+Schneefall“,Schneefall“,MISC,,,de,4.6
+DWD-Prognose,DWD-Prognose,MISC,,,de,4.6
+MV“,MV“,MISC,,,de,4.6
 Minusgraden,Minusgraden,MISC,,,de,4.6
 Leise rieselt der Schnee,Leise rieselt der Schnee,MISC,,,de,4.6
-Chancen auf Schnee,Chancen auf Schnee,MISC,,,de,4.6
-…,…,MISC,0.03466076696165194,0.022123893805309748,de,4.6
-DWD-Prognose,DWD-Prognose,MISC,,,de,4.6
-Der Schnee,Der Schnee,MISC,,,de,4.6
-Münchner,Münchner,MISC,,,de,4.0
 französische,französische,MISC,,,de,4.0
-Sturm und Schnee,Sturm und Schnee,MISC,,,de,3.9
+Freistaat,Freistaat,MISC,-0.06862745098039214,0.0,de,3.6999999999999997
 Wochenende des Jahres,Wochenende des Jahres,MISC,,,de,3.6999999999999997
-stern+statt,stern+statt,MISC,,,de,3.6999999999999997
-russischen,russischen,MISC,,,de,3.6999999999999997
-’s,’s,MISC,0.15789473684210528,0.0,de,3.6999999999999997
-steirischen,steirischen,MISC,,,de,3.6999999999999997
-Winterurlaub,Winterurlaub,MISC,0.7,2.0,de,3.6999999999999997
 "Schnee, Eis","Schnee, Eis",MISC,,,de,3.6999999999999997
-stern+,stern+,MISC,,,de,3.6999999999999997
-Capital</li><li>4,Capital</li><li>4,MISC,,,de,3.6999999999999997
-Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,3.6999999999999997
-Das neue Jahr,Das neue Jahr,MISC,,,de,3.6999999999999997
+Glatteis,Glatteis,MISC,0.008317025440313078,0.0,de,3.6999999999999997
+Tages,Tages,MISC,,,de,3.6999999999999997
 baden-württembergischen,baden-württembergischen,MISC,,,de,3.6999999999999997
-MV“,MV“,MISC,,,de,3.6999999999999997
-N…,N…,MISC,,,de,3.6999999999999997
-Glatteis-Gefahr,Glatteis-Gefahr,MISC,-0.0769230769230769,0.0,de,3.6999999999999997
+Das neue Jahr,Das neue Jahr,MISC,,,de,3.6999999999999997
+Glatteis-Gefahr,Glatteis-Gefahr,MISC,-0.06999999999999998,0.0,de,3.6999999999999997
+steirischen,steirischen,MISC,,,de,3.6999999999999997
+russischen,russischen,MISC,,,de,3.6999999999999997
+Wetter in Bayern“,Wetter in Bayern“,MISC,,,de,3.6999999999999997
+Winterurlaub,Winterurlaub,MISC,0.7,2.0,de,3.6999999999999997
 Skisaison,Skisaison,MISC,2.7,2.0,de,3.0
 deutschen,deutschen,MISC,,,de,3.0
-ePaper,ePaper,MISC,,,de,2.8
-Tages,Tages,MISC,,,de,2.8
-Jetstream,Jetstream,MISC,,,de,2.8
-Tag in,Tag in,MISC,,,de,2.8
-Minusgrade und Schnee,Minusgrade und Schnee,MISC,,,de,2.8
-Hauptreisezeit,Hauptreisezeit,MISC,,,de,2.8
-Wetterausblick“,Wetterausblick“,MISC,,,de,2.8
-Video,Video,MISC,,,de,2.8
-Schnee“,Schnee“,MISC,0.0,1.0,de,2.8
-Schneefall und Minusgraden,Schneefall und Minusgraden,MISC,,,de,2.8
-Freistaat,Freistaat,MISC,-0.05511811023622046,0.0,de,2.8
+Münchner,Münchner,MISC,,,de,3.0
 Frühstart in den Schnee,Frühstart in den Schnee,MISC,,,de,2.8
-Wochenmitte,Wochenmitte,MISC,-0.11864406779661013,0.0,de,2.8
-Einsatz bei Schnee und Eis,Einsatz bei Schnee und Eis,MISC,,,de,2.8
-Dieses Jahr,Dieses Jahr,MISC,,,de,2.8
-Kommunen,Kommunen,MISC,0.0,0.0,de,2.8
+BSW,BSW,MISC,,,de,2.8
 Der erste Schnee,Der erste Schnee,MISC,,,de,2.8
-Schneefall“,Schneefall“,MISC,,,de,2.8
+Kommunen,Kommunen,MISC,0.0,0.0,de,2.8
+Deutsch…,Deutsch…,MISC,0.0,0.0,de,2.8
+Schneefall und Minusgraden,Schneefall und Minusgraden,MISC,,,de,2.8
+Hauptreisezeit,Hauptreisezeit,MISC,,,de,2.8
+Dauerfrost und Schnee,Dauerfrost und Schnee,MISC,,,de,2.8
+spanische,spanische,MISC,,,de,2.8
+a…,a…,MISC,,,de,2.8
+Schnee und Eis“,Schnee und Eis“,MISC,,,de,2.8
+Schnee-Wochenende,Schnee-Wochenende,MISC,,,de,2.8
+Winter in Norddeutschland,Winter in Norddeutschland,MISC,,,de,2.8
+ePaper,ePaper,MISC,,,de,2.8
+EU-Recht,EU-Recht,MISC,,,de,2.8
+Wetterausblick“,Wetterausblick“,MISC,,,de,2.8
+Dieses Jahr,Dieses Jahr,MISC,,,de,2.8
+Schnee“,Schnee“,MISC,0.0,1.0,de,2.8
+Wochenmitte,Wochenmitte,MISC,-0.11864406779661013,0.0,de,2.8
+europäischen,europäischen,MISC,,,de,2.8
 Glatteis-Gefahr“,Glatteis-Gefahr“,MISC,,,de,2.8
 Ukraine-Friedensmission,Ukraine-Friedensmission,MISC,,,de,2.8
 Frühlingshafte Temperaturen,Frühlingshafte Temperaturen,MISC,,,de,2.8
-EU-Recht,EU-Recht,MISC,,,de,2.8
-spanische,spanische,MISC,,,de,2.8
-europäischen,europäischen,MISC,,,de,2.8
+Minusgrade und Schnee,Minusgrade und Schnee,MISC,,,de,2.8
+Autofahrten,Autofahrten,MISC,,,de,2.8
+Jetstream,Jetstream,MISC,,,de,2.8
+Einsatz bei Schnee und Eis,Einsatz bei Schnee und Eis,MISC,,,de,2.8
 Jahr für Jahr auf weiße Weihnachten…,Jahr für Jahr auf weiße Weihnachten…,MISC,,,de,2.8
-Schnee-Wochenende,Schnee-Wochenende,MISC,,,de,2.8
+Tag in,Tag in,MISC,,,de,2.8
 Ukrainer,Ukrainer,MISC,,,de,2.8
-BSW,BSW,MISC,,,de,2.8
-Anschluss,Anschluss,MISC,,,de,2.0
-chinesischen,chinesischen,MISC,,,de,2.0
-D…,D…,MISC,0.30000000000000004,0.0,de,2.0
+russische,russische,MISC,,,de,2.8
+Video,Video,MISC,,,de,2.8
+winterliches,winterliches,MISC,,,de,2.8
 Graue Tage,Graue Tage,MISC,,,de,2.0
-Loop One Festival,Loop One Festival,MISC,,,de,2.0
 Wetteraussichten“,Wetteraussichten“,MISC,,,de,2.0
-Kriegsbeginn,Kriegsbeginn,MISC,,,de,2.0
-Französisches,Französisches,MISC,,,de,2.0
 Top Ten,Top Ten,MISC,,,de,2.0
-Grauer Himmel,Grauer Himmel,MISC,,,de,1.9
-Streusalz,Streusalz,MISC,0.0,0.0,de,1.9
-digital,digital,MISC,,,de,1.9
-Winterdienst“,Winterdienst“,MISC,,,de,1.9
-Temp…,Temp…,MISC,,,de,1.9
-Sieben Jahre nach dem Unglück auf der Sihlhochstrasse,Sieben Jahre nach dem Unglück auf der Sihlhochstrasse,MISC,,,de,1.9
-Zürcher,Zürcher,MISC,,,de,1.9
-Nebelschwaden,Nebelschwaden,MISC,,,de,1.9
-Oberjoch/Hall in Tirol,Oberjoch/Hall in Tirol,MISC,,,de,1.9
-T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,1.9
-Un…,Un…,MISC,,,de,1.9
-BFV,BFV,MISC,,,de,1.9
-Ski…,Ski…,MISC,,,de,1.9
-Dauerfrost und Schnee,Dauerfrost und Schnee,MISC,,,de,1.9
-Wetterlage,Wetterlage,MISC,,,de,1.9
-Wasserkuppe ins neue Jahr,Wasserkuppe ins neue Jahr,MISC,,,de,1.9
-Das kalte und winterliche Wetter,Das kalte und winterliche Wetter,MISC,,,de,1.9
-Die Spende,Die Spende,MISC,,,de,1.9
-Gunda“,Gunda“,MISC,,,de,1.9
-Glatteis,Glatteis,MISC,0.0058445353594389045,0.0,de,1.9
+Kriegsbeginn,Kriegsbeginn,MISC,,,de,2.0
+Anschluss,Anschluss,MISC,,,de,2.0
+D…,D…,MISC,0.30000000000000004,0.0,de,2.0
+chinesischen,chinesischen,MISC,,,de,2.0
+Französisches,Französisches,MISC,,,de,2.0
 Laufschuhe,Laufschuhe,MISC,,,de,1.9
-Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1.9
-Bundesliga-Absage,Bundesliga-Absage,MISC,,,de,1.9
-Männern,Männern,MISC,,,de,1.9
-Nächtlicher Frost,Nächtlicher Frost,MISC,,,de,1.9
-Bundesliga-Partie,Bundesliga-Partie,MISC,,,de,1.9
-BILD fragte be…,BILD fragte be…,MISC,,,de,1.9
-g…,g…,MISC,,,de,1.9
-deutsche,deutsche,MISC,,,de,1.9
-Wetter-Extreme,Wetter-Extreme,MISC,,,de,1.9
-Instagram,Instagram,MISC,,,de,1.9
-W…,W…,MISC,,,de,1.9
-Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,1.9
-Milder vierter Advent,Milder vierter Advent,MISC,,,de,1.9
-Warnstufe Gelb für die Insel,Warnstufe Gelb für die Insel,MISC,,,de,1.9
-Freitagnachmittag bei Schwarzenberg,Freitagnachmittag bei Schwarzenberg,MISC,,,de,1.9
-Skigebieten,Skigebieten,MISC,0.0,0.0,de,1.9
-Wetter-Experten,Wetter-Experten,MISC,,,de,1.9
-de…,de…,MISC,,,de,1.9
-"Eiswelt""-Ausstellung","Eiswelt""-Ausstellung",MISC,,,de,1.9
-brandenburgische,brandenburgische,MISC,,,de,1.9
-Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,MISC,,,de,1.9
-Das Jahr fängt,Das Jahr fängt,MISC,,,de,1.9
-De…,De…,MISC,,,de,1.9
+Ski…,Ski…,MISC,,,de,1.9
+Viel Schnee,Viel Schnee,MISC,,,de,1.9
 Weihnachtsmärkten,Weihnachtsmärkten,MISC,,,de,1.9
-Das winterliche Wetter,Das winterliche Wetter,MISC,,,de,1.9
-Schnee und Regen,Schnee und Regen,MISC,,,de,1.9
-Warmes Winterwetter,Warmes Winterwetter,MISC,,,de,1.9
+Winterdienst“,Winterdienst“,MISC,,,de,1.9
+Milder Tagesbeginn,Milder Tagesbeginn,MISC,,,de,1.9
+Nächtlicher Frost,Nächtlicher Frost,MISC,,,de,1.9
+Männern,Männern,MISC,,,de,1.9
+Der Frost,Der Frost,MISC,,,de,1.9
+g…,g…,MISC,,,de,1.9
+T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,1.9
+Temp…,Temp…,MISC,,,de,1.9
+"Eiswelt""-Ausstellung","Eiswelt""-Ausstellung",MISC,,,de,1.9
+Freitagnachmittag bei Schwarzenberg,Freitagnachmittag bei Schwarzenberg,MISC,,,de,1.9
+Un…,Un…,MISC,,,de,1.9
+Zürcher,Zürcher,MISC,,,de,1.9
+Warnstufe Gelb für die Insel,Warnstufe Gelb für die Insel,MISC,,,de,1.9
+Sieben Jahre nach dem Unglück auf der Sihlhochstrasse,Sieben Jahre nach dem Unglück auf der Sihlhochstrasse,MISC,,,de,1.9
+BFV,BFV,MISC,,,de,1.9
+Wetterkarten,Wetterkarten,MISC,,,de,1.9
+W…,W…,MISC,,,de,1.9
+Sturmtief,Sturmtief,MISC,,,de,1.9
+Instagram,Instagram,MISC,,,de,1.9
+deutsche,deutsche,MISC,,,de,1.9
+Skigebieten,Skigebieten,MISC,0.0,0.0,de,1.9
+Das kalte und winterliche Wetter,Das kalte und winterliche Wetter,MISC,,,de,1.9
+digital,digital,MISC,,,de,1.9
+finnischen,finnischen,MISC,,,de,1.9
+Alm,Alm,MISC,,,de,1.9
+Olympischen Spiele,Olympischen Spiele,MISC,,,de,1.9
+Frostiges Wetter,Frostiges Wetter,MISC,,,de,1.9
+Lichterketten,Lichterketten,MISC,,,de,1.9
 Sonne und eisige Temperaturen,Sonne und eisige Temperaturen,MISC,,,de,1.9
 Der fette Winterbums,Der fette Winterbums,MISC,,,de,1.9
-le…,le…,MISC,,,de,1.9
-Mild-Düse,Mild-Düse,MISC,,,de,1.9
-winterliches,winterliches,MISC,,,de,1.9
-Jahr 2010,Jahr 2010,MISC,,,de,1.9
-steirische,steirische,MISC,,,de,1.9
-Autofahrten,Autofahrten,MISC,,,de,1.9
+De…,De…,MISC,,,de,1.9
 Eis“,Eis“,MISC,,,de,1.9
-Die 9,Die 9,MISC,,,de,1.9
-Kaltfront“,Kaltfront“,MISC,,,de,1.9
-Wetter-Vorhersage,Wetter-Vorhersage,MISC,0.0,0.0,de,1.9
-Olympischen Spiele,Olympischen Spiele,MISC,,,de,1.9
-Saison,Saison,MISC,,,de,1.9
-Tatort,Tatort,MISC,,,de,1.9
-G…,G…,MISC,,,de,1.9
-Rechtsbeistand,Rechtsbeistand,MISC,,,de,1.9
-Kalter Wochenstart,Kalter Wochenstart,MISC,,,de,1.9
-Fatbiking,Fatbiking,MISC,,,de,1.9
-finnischen,finnischen,MISC,,,de,1.9
-glatt</li><li,glatt</li><li,MISC,,,de,1.9
-Glätte-Alarm,Glätte-Alarm,MISC,0.0,0.0,de,1.9
-Autofahren,Autofahren,MISC,,,de,1.9
-Lichterketten,Lichterketten,MISC,,,de,1.9
-Schnee und Eisglätte,Schnee und Eisglätte,MISC,,,de,1.9
-Viel Schnee,Viel Schnee,MISC,,,de,1.9
-Wetterkarten,Wetterkarten,MISC,,,de,1.9
-Schnee und Eis“,Schnee und Eis“,MISC,,,de,1.9
-Alm,Alm,MISC,,,de,1.9
+Mild-Düse,Mild-Düse,MISC,,,de,1.9
+le…,le…,MISC,,,de,1.9
+Warmes Winterwetter,Warmes Winterwetter,MISC,,,de,1.9
+Jahr 2010,Jahr 2010,MISC,,,de,1.9
+Alle Jahre wieder,Alle Jahre wieder,MISC,,,de,1.9
+Organisatoren,Organisatoren,MISC,,,de,1.9
+Russischer,Russischer,MISC,,,de,1.9
+Oberjoch/Hall in Tirol,Oberjoch/Hall in Tirol,MISC,,,de,1.9
 Axamer Lizum,Axamer Lizum,MISC,,,de,1.9
+Tatort,Tatort,MISC,,,de,1.9
+Die 9,Die 9,MISC,,,de,1.9
+G…,G…,MISC,,,de,1.9
+Grauer Himmel,Grauer Himmel,MISC,,,de,1.9
+Nebelschwaden,Nebelschwaden,MISC,,,de,1.9
+Milder Wochenstart,Milder Wochenstart,MISC,,,de,1.9
+Streusalz,Streusalz,MISC,0.0,0.0,de,1.9
+de…,de…,MISC,,,de,1.9
+Wetter-Experten,Wetter-Experten,MISC,,,de,1.9
+BILD fragte be…,BILD fragte be…,MISC,,,de,1.9
+Chancen dieses Jahr,Chancen dieses Jahr,MISC,,,de,1.9
+Die Spende,Die Spende,MISC,,,de,1.9
+Milder vierter Advent,Milder vierter Advent,MISC,,,de,1.9
+Fatbiking,Fatbiking,MISC,,,de,1.9
+Kalter Wochenstart,Kalter Wochenstart,MISC,,,de,1.9
+Rechtsbeistand,Rechtsbeistand,MISC,,,de,1.9
+Saison,Saison,MISC,,,de,1.9
 Wintersaison,Wintersaison,MISC,0.0,0.0,de,1.9
 Lech Bergbahnen“,Lech Bergbahnen“,MISC,,,de,1.9
-Milder Wochenstart,Milder Wochenstart,MISC,,,de,1.9
+Deu…,Deu…,MISC,0.0,0.0,de,1.9
 Woch…,Woch…,MISC,,,de,1.9
 Wochenstart“,Wochenstart“,MISC,,,de,1.9
-Chancen dieses Jahr,Chancen dieses Jahr,MISC,,,de,1.9
-Russischer,Russischer,MISC,,,de,1.9
-Hause,Hause,MISC,-0.7,0.0,de,1.9
+Hause,Hause,MISC,-0.3684210526315789,0.0,de,1.9
+Wasserkuppe ins neue Jahr,Wasserkuppe ins neue Jahr,MISC,,,de,1.9
+Das Jahr fängt,Das Jahr fängt,MISC,,,de,1.9
+ersten Tagen des Jahres,ersten Tagen des Jahres,MISC,,,de,1.9
+Winterdie…,Winterdie…,MISC,,,de,1.9
 Tagesv…,Tagesv…,MISC,,,de,1.9
+Nacht z…,Nacht z…,MISC,,,de,1.9
+Winter“,Winter“,MISC,,,de,1.9
+Schnee und Eisglätte,Schnee und Eisglätte,MISC,,,de,1.9
 ORF-Wetterredaktion,ORF-Wetterredaktion,MISC,,,de,1.9
-Winte…,Winte…,MISC,,,de,1.9
-Tag des Jahres,Tag des Jahres,MISC,,,de,1.9
-Frostiges Wetter,Frostiges Wetter,MISC,,,de,1.9
 Eisregen und Schnee,Eisregen und Schnee,MISC,,,de,1.9
-Alle Jahre wieder,Alle Jahre wieder,MISC,,,de,1.9
-Der Frost,Der Frost,MISC,,,de,1.9
+Autofahren,Autofahren,MISC,,,de,1.9
+Glätte-Alarm,Glätte-Alarm,MISC,0.0,0.0,de,1.9
+Pinguin-Gang,Pinguin-Gang,MISC,,,de,1.9
+glatt</li><li,glatt</li><li,MISC,,,de,1.9
+Schnee und Regen,Schnee und Regen,MISC,,,de,1.9
+Der Winter,Der Winter,MISC,,,de,1.9
 Wintereinbruch des Jahres,Wintereinbruch des Jahres,MISC,,,de,1.9
-Kaltfront,Kaltfront,MISC,-0.18666666666666662,0.0,de,1.9
-Heim-Sieg,Heim-Sieg,MISC,,,de,1.9
-O…,O…,MISC,,,de,1.9
-Weihnachtszeit,Weihnachtszeit,MISC,,,de,1.9
-deutsches,deutsches,MISC,,,de,1.9
-Deutsch…,Deutsch…,MISC,0.0,0.0,de,1.9
-Schneesturm“,Schneesturm“,MISC,,,de,1.9
+Tag des Jahres,Tag des Jahres,MISC,,,de,1.9
+steirische,steirische,MISC,,,de,1.9
+Das winterliche Wetter,Das winterliche Wetter,MISC,,,de,1.9
+Wetter-Vorhersage,Wetter-Vorhersage,MISC,0.0,0.0,de,1.9
+Winte…,Winte…,MISC,,,de,1.9
+Wetterlage,Wetterlage,MISC,,,de,1.9
+Regierungsklausur,Regierungsklausur,MISC,,,de,1.9
+Wetter-Extreme,Wetter-Extreme,MISC,,,de,1.9
 Euro,Euro,MISC,,,de,1.9
+Schneesturm“,Schneesturm“,MISC,,,de,1.9
+Gunda“,Gunda“,MISC,,,de,1.9
+Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,MISC,,,de,1.9
 Ski-Weltcup,Ski-Weltcup,MISC,,,de,1.9
-a…,a…,MISC,,,de,1.9
+Videos,Videos,MISC,,,de,1.9
+brandenburgische,brandenburgische,MISC,,,de,1.9
+Heim-Sieg,Heim-Sieg,MISC,,,de,1.9
+deutsches,deutsches,MISC,,,de,1.9
+O…,O…,MISC,,,de,1.9
 Amazon,Amazon,MISC,,,de,1.9
+Mit­ar­bei­te­r,Mit­ar­bei­te­r,MISC,,,de,1.9
+Ukraine-Krieg,Ukraine-Krieg,MISC,,,de,1.9
+Unwetterwarnung“,Unwetterwarnung“,MISC,,,de,1.9
+Kaltfront,Kaltfront,MISC,-0.18666666666666662,0.0,de,1.9
+Weihnachtszeit,Weihnachtszeit,MISC,,,de,1.9
+Bundesliga-Absage,Bundesliga-Absage,MISC,,,de,1.9
+Kaltfront“,Kaltfront“,MISC,,,de,1.9
+Glatteis-Warnungen,Glatteis-Warnungen,MISC,,,de,1.9
+Gr…,Gr…,MISC,,,de,1.9
+V…,V…,MISC,,,de,1.9
+CDU-Umweltsenatorin,CDU-Umweltsenatorin,MISC,,,de,1.9
+Bundesliga-Partie,Bundesliga-Partie,MISC,,,de,1.9
 Novembe…,Novembe…,MISC,,,de,1.3000000000000003
-ungemütliches,ungemütliches,MISC,,,de,1.2000000000000002
 Milder Herbst – Sonne und Wolken,Milder Herbst – Sonne und Wolken,MISC,,,de,1.2000000000000002
 Joshua“,Joshua“,MISC,,,de,1.2000000000000002
-Der Herbst,Der Herbst,MISC,,,de,1.1
+ungemütliches,ungemütliches,MISC,,,de,1.2000000000000002
 Olympischen Winterspiele,Olympischen Winterspiele,MISC,,,de,1.1
-Starker Wind,Starker Wind,MISC,,,de,1.1
-Nebel auf der Straße,Nebel auf der Straße,MISC,,,de,1.1
-Domains,Domains,MISC,,,de,1.1
 Ballermann-Saison,Ballermann-Saison,MISC,,,de,1.1
-Englisch,Englisch,MISC,,,de,1.1
-GEO,GEO,MISC,,,de,1.1
-Urlaubs-Express,Urlaubs-Express,MISC,,,de,1.1
-TUI-Chef,TUI-Chef,MISC,,,de,1.1
-ChatGPT,ChatGPT,MISC,,,de,1.1
-Das Verschwinden des Josef Mengele,Das Verschwinden des Josef Mengele,MISC,,,de,1.1
-Ski-Weltverband FIS,Ski-Weltverband FIS,MISC,,,de,1.1
-Schulen“,Schulen“,MISC,,,de,1.1
-DEFA-Klassikers,DEFA-Klassikers,MISC,,,de,1.1
-Freundliches Wetter,Freundliches Wetter,MISC,,,de,1.1
-Sonne und Wolken,Sonne und Wolken,MISC,,,de,1.1
+Nebel auf der Straße,Nebel auf der Straße,MISC,,,de,1.1
 stern,stern,MISC,,,de,1.1
-Das Jahr versinkt zum Ausklang,Das Jahr versinkt zum Ausklang,MISC,,,de,1.0
-Autobahn 1,Autobahn 1,MISC,0.0,0.0,de,1.0
-Rett…,Rett…,MISC,,,de,1.0
-DDR-Weihnachtsfilms,DDR-Weihnachtsfilms,MISC,,,de,1.0
-letzten Tagen des Jahres,letzten Tagen des Jahres,MISC,,,de,1.0
-Silizium-Schnee,Silizium-Schnee,MISC,,,de,1.0
-Rettung“,Rettung“,MISC,,,de,1.0
-Ne…,Ne…,MISC,,,de,1.0
-Schneeregens,Schneeregens,MISC,,,de,1.0
-Alice,Alice,MISC,,,de,1.0
-Hauptreisezeit des Jahres,Hauptreisezeit des Jahres,MISC,,,de,1.0
-Wintertourismus“,Wintertourismus“,MISC,,,de,1.0
-Sonntag des Jahres,Sonntag des Jahres,MISC,,,de,1.0
-Wir haben freundliches,Wir haben freundliches,MISC,,,de,1.0
-Vorja…,Vorja…,MISC,,,de,1.0
-Sonntag be…,Sonntag be…,MISC,,,de,1.0
-Charité-Ärzte,Charité-Ärzte,MISC,,,de,1.0
-Tag,Tag,MISC,0.0,0.0,de,1.0
-Te…,Te…,MISC,,,de,1.0
-BER“,BER“,MISC,,,de,1.0
-Glatteis-Alarm,Glatteis-Alarm,MISC,0.0,0.0,de,1.0
-Sauerland“,Sauerland“,MISC,,,de,1.0
-Samstagmittag,Samstagmittag,MISC,,,de,1.0
-Hause blei…,Hause blei…,MISC,,,de,1.0
-Sonniger Start,Sonniger Start,MISC,,,de,1.0
-Sonntag se,Sonntag se,MISC,,,de,1.0
-Der Wochenbeginn,Der Wochenbeginn,MISC,,,de,1.0
+Sonne und Wolken,Sonne und Wolken,MISC,,,de,1.1
+Urlaubs-Express,Urlaubs-Express,MISC,,,de,1.1
+DEFA-Klassikers,DEFA-Klassikers,MISC,,,de,1.1
+Schulen“,Schulen“,MISC,,,de,1.1
+Starker Wind,Starker Wind,MISC,,,de,1.1
+Domains,Domains,MISC,,,de,1.1
+Das Verschwinden des Josef Mengele,Das Verschwinden des Josef Mengele,MISC,,,de,1.1
+Der Herbst,Der Herbst,MISC,,,de,1.1
+GEO,GEO,MISC,,,de,1.1
+Freundliches Wetter,Freundliches Wetter,MISC,,,de,1.1
+ChatGPT,ChatGPT,MISC,,,de,1.1
+TUI-Chef,TUI-Chef,MISC,,,de,1.1
+Englisch,Englisch,MISC,,,de,1.1
+Ski-Weltverband FIS,Ski-Weltverband FIS,MISC,,,de,1.1
+Sie Ihr Haus auf Frostschäden,Sie Ihr Haus auf Frostschäden,MISC,,,de,1.0
+slowenische,slowenische,MISC,,,de,1.0
+Gefahr von Glatteis,Gefahr von Glatteis,MISC,,,de,1.0
+Freistaat“,Freistaat“,MISC,,,de,1.0
+Das Heim gut auf Schnee,Das Heim gut auf Schnee,MISC,,,de,1.0
+Lange Zeit,Lange Zeit,MISC,,,de,1.0
+TTS-Player,TTS-Player,MISC,0.0,0.0,de,1.0
+GLOBE,GLOBE,MISC,,,de,1.0
+Frost und Schnee,Frost und Schnee,MISC,,,de,1.0
+Mährobotern,Mährobotern,MISC,,,de,1.0
+Tag vor Silvester,Tag vor Silvester,MISC,,,de,1.0
+Das Jahr,Das Jahr,MISC,,,de,1.0
 neuen Jahr,neuen Jahr,MISC,,,de,1.0
-Winter-Vorbereitungen,Winter-Vorbereitungen,MISC,,,de,1.0
-Drei Haselnüss,Drei Haselnüss,MISC,,,de,1.0
-i…,i…,MISC,,,de,1.0
+Der Wunschsong,Der Wunschsong,MISC,,,de,1.0
+Neujahrsnacht,Neujahrsnacht,MISC,,,de,1.0
+Schnee von Morgen“,Schnee von Morgen“,MISC,,,de,1.0
+Mann aus Schnee,Mann aus Schnee,MISC,,,de,1.0
+McDonald’s Filiale,McDonald’s Filiale,MISC,,,de,1.0
+"Schmidt/dpa
+","Schmidt/dpa
+",MISC,,,de,1.0
+Glätte-Wochenende,Glätte-Wochenende,MISC,,,de,1.0
+Winterpanik,Winterpanik,MISC,,,de,1.0
+Sonnenstrahlen des Jahres,Sonnenstrahlen des Jahres,MISC,,,de,1.0
+Grünen Weihnachten,Grünen Weihnachten,MISC,,,de,1.0
+Stephansplatz von Eis,Stephansplatz von Eis,MISC,,,de,1.0
+Grüne Weihnachten,Grüne Weihnachten,MISC,,,de,1.0
+Schmuddelwetter“,Schmuddelwetter“,MISC,,,de,1.0
+Neb…,Neb…,MISC,,,de,1.0
+Glatteisgefahr,Glatteisgefahr,MISC,-0.06999999999999998,0.0,de,1.0
+Virtual Snow,Virtual Snow,MISC,,,de,1.0
+Mac-Bildschirm,Mac-Bildschirm,MISC,,,de,1.0
+Oberwiesenthal Und Schuss,Oberwiesenthal Und Schuss,MISC,,,de,1.0
+Der Winter packt alles,Der Winter packt alles,MISC,,,de,1.0
+30.12.2025,30.12.2025,MISC,,,de,1.0
+Grad i…,Grad i…,MISC,,,de,1.0
+Yarbo M …,Yarbo M …,MISC,,,de,1.0
 Tag des Jahres“,Tag des Jahres“,MISC,,,de,1.0
+Temperaturen er,Temperaturen er,MISC,,,de,1.0
+"Sturm, Schnee","Sturm, Schnee",MISC,,,de,1.0
+Olympia-Gegner,Olympia-Gegner,MISC,,,de,1.0
+Was hinter der Wetter-Aufregung,Was hinter der Wetter-Aufregung,MISC,,,de,1.0
+Fahrrad im Schnee,Fahrrad im Schnee,MISC,,,de,1.0
+Volle Pi…,Volle Pi…,MISC,,,de,1.0
+Die Wüste,Die Wüste,MISC,,,de,1.0
+Energie“,Energie“,MISC,,,de,1.0
+Kamele blöd,Kamele blöd,MISC,,,de,1.0
+Frost in Hochlagen“,Frost in Hochlagen“,MISC,,,de,1.0
+Was Mieter,Was Mieter,MISC,,,de,1.0
+Langschläfer,Langschläfer,MISC,,,de,1.0
+Sport bei Schnee und Eis,Sport bei Schnee und Eis,MISC,,,de,1.0
+Tauwet…,Tauwet…,MISC,,,de,1.0
+Ein Wintereinbruch in den Niederlanden,Ein Wintereinbruch in den Niederlanden,MISC,,,de,1.0
+Die Aufstiegshilfen,Die Aufstiegshilfen,MISC,,,de,1.0
+Deutschland k…,Deutschland k…,MISC,,,de,1.0
+02.01.2026,02.01.2026,MISC,,,de,1.0
+Sofa Mitleid,Sofa Mitleid,MISC,,,de,1.0
+Regional g,Regional g,MISC,,,de,1.0
+Portals V…,Portals V…,MISC,,,de,1.0
 Jahr 2025,Jahr 2025,MISC,,,de,1.0
+i…,i…,MISC,,,de,1.0
 Der letzte Tag des Jahres,Der letzte Tag des Jahres,MISC,,,de,1.0
 niederösterreichischen,niederösterreichischen,MISC,,,de,1.0
+Glätte-Gefahr,Glätte-Gefahr,MISC,,,de,1.0
+Chance auf weiße Weihnachten,Chance auf weiße Weihnachten,MISC,,,de,1.0
+Feiertagen,Feiertagen,MISC,0.0,0.5263157894736842,de,1.0
 Manch a…,Manch a…,MISC,,,de,1.0
 Bu…,Bu…,MISC,,,de,1.0
 Nordh…,Nordh…,MISC,,,de,1.0
 Frostige Temperaturen“,Frostige Temperaturen“,MISC,,,de,1.0
+KameraOne21.12.2025,KameraOne21.12.2025,MISC,,,de,1.0
 Einschränkungen,Einschränkungen,MISC,0.0,0.0,de,1.0
 Genügend Schnee“,Genügend Schnee“,MISC,,,de,1.0
 Nonstop News02.01.2026,Nonstop News02.01.2026,MISC,,,de,1.0
-Ein Adventskalender,Ein Adventskalender,MISC,,,de,1.0
-"Sturm, Schnee","Sturm, Schnee",MISC,,,de,1.0
-Das Jahr,Das Jahr,MISC,,,de,1.0
-Tag vor Silvester,Tag vor Silvester,MISC,,,de,1.0
-Frost und Schnee,Frost und Schnee,MISC,,,de,1.0
-Virtual Snow,Virtual Snow,MISC,,,de,1.0
+Skifah…,Skifah…,MISC,,,de,1.0
 Gl…,Gl…,MISC,0.0,0.0,de,1.0
-Temperaturen er,Temperaturen er,MISC,,,de,1.0
-Glätte-Wochenende,Glätte-Wochenende,MISC,,,de,1.0
-Sonnenstrahlen des Jahres,Sonnenstrahlen des Jahres,MISC,,,de,1.0
-Grünen Weihnachten,Grünen Weihnachten,MISC,,,de,1.0
-Gute Wetteraussichten“,Gute Wetteraussichten“,MISC,,,de,1.0
-Grüne Weihnachten,Grüne Weihnachten,MISC,,,de,1.0
-Mac-Bildschirm,Mac-Bildschirm,MISC,,,de,1.0
-GLOBE,GLOBE,MISC,,,de,1.0
-Oberwiesenthal Und Schuss,Oberwiesenthal Und Schuss,MISC,,,de,1.0
-Der Winter packt alles,Der Winter packt alles,MISC,,,de,1.0
-30.12.2025,30.12.2025,MISC,,,de,1.0
-Neb…,Neb…,MISC,,,de,1.0
-Schnee von Morgen“,Schnee von Morgen“,MISC,,,de,1.0
-Neujahrsnacht,Neujahrsnacht,MISC,,,de,1.0
-slowenische,slowenische,MISC,,,de,1.0
-Sonne und Schnee,Sonne und Schnee,MISC,,,de,1.0
+Eisregen-Banane,Eisregen-Banane,MISC,,,de,1.0
+Wetter-Glaskugel,Wetter-Glaskugel,MISC,,,de,1.0
 Gefährlicher Weihnachtssturm“,Gefährlicher Weihnachtssturm“,MISC,,,de,1.0
-Eisige Winde sorgen,Eisige Winde sorgen,MISC,,,de,1.0
-Nur Hauch von Schnee,Nur Hauch von Schnee,MISC,,,de,1.0
-T…,T…,MISC,0.0,0.0,de,1.0
-Luftverkehr“,Luftverkehr“,MISC,,,de,1.0
-Die neue Loischkopfbahn,Die neue Loischkopfbahn,MISC,,,de,1.0
-Wintersport-Saison,Wintersport-Saison,MISC,,,de,1.0
-D… IbizaHEUTE,D… IbizaHEUTE,MISC,,,de,1.0
-deutschsprachige,deutschsprachige,MISC,,,de,1.0
-Plusgraden,Plusgraden,MISC,,,de,1.0
-Weißer Heiligabend,Weißer Heiligabend,MISC,,,de,1.0
-Die Wüste,Die Wüste,MISC,,,de,1.0
-imageBROKER,imageBROKER,MISC,,,de,1.0
-di…,di…,MISC,0.5,0.5,de,1.0
-Die Bergbahnbetreiber sind das Herz der lokalen Wirtschaft“,Die Bergbahnbetreiber sind das Herz der lokalen Wirtschaft“,MISC,,,de,1.0
-Der Winter naht,Der Winter naht,MISC,,,de,1.0
-Drei Tage,Drei Tage,MISC,,,de,1.0
-KI Sys…,KI Sys…,MISC,,,de,1.0
-Frost in Hochlagen“,Frost in Hochlagen“,MISC,,,de,1.0
-Gefahr von Schnee und Eisglätte,Gefahr von Schnee und Eisglätte,MISC,,,de,1.0
-Trüb,Trüb,MISC,,,de,1.0
-picture alliance/dpa/Jens K…,picture alliance/dpa/Jens K…,MISC,,,de,1.0
-Wochenende“,Wochenende“,MISC,,,de,1.0
-tagesschau,tagesschau,MISC,,,de,1.0
-Cyber-Angriffe,Cyber-Angriffe,MISC,,,de,1.0
-Looks du dieses Jahr auf der Piste,Looks du dieses Jahr auf der Piste,MISC,,,de,1.0
-Abo verspr…,Abo verspr…,MISC,,,de,1.0
-Weihnachtslieder,Weihnachtslieder,MISC,,,de,1.0
-Nebel und grauer Himmel,Nebel und grauer Himmel,MISC,,,de,1.0
-Advent der Winter,Advent der Winter,MISC,,,de,1.0
-NRW-Wetter,NRW-Wetter,MISC,,,de,1.0
-Wetter-Mix“,Wetter-Mix“,MISC,,,de,1.0
-BILD,BILD,MISC,,,de,1.0
-DWD-Wettermeldung“,DWD-Wettermeldung“,MISC,,,de,1.0
-Temper…,Temper…,MISC,,,de,1.0
-DHL-Zusteller,DHL-Zusteller,MISC,,,de,1.0
-sozialen,sozialen,MISC,,,de,1.0
-DHL-Lieferanten,DHL-Lieferanten,MISC,,,de,1.0
-Kamele blöd,Kamele blöd,MISC,,,de,1.0
-KameraOne21.12.2025,KameraOne21.12.2025,MISC,,,de,1.0
-Heiligabend,Heiligabend,MISC,1.0,0.0,de,1.0
-Die Wahrscheinlichkeit für Schnee,Die Wahrscheinlichkeit für Schnee,MISC,,,de,1.0
-Liftbetreiber,Liftbetreiber,MISC,,,de,1.0
-Drinnen leuchtet der Christbaum,Drinnen leuchtet der Christbaum,MISC,,,de,1.0
-Grau und Nieselregen,Grau und Nieselregen,MISC,,,de,1.0
-Organisatoren,Organisatoren,MISC,,,de,1.0
-ntv-Meteoro…,ntv-Meteoro…,MISC,,,de,1.0
-Erste-Hilfe-Maßnahmen,Erste-Hilfe-Maßnahmen,MISC,,,de,1.0
-Kältestes Weihnachten,Kältestes Weihnachten,MISC,0.0,1.0,de,1.0
-Der Winter,Der Winter,MISC,,,de,1.0
-Feiertagen,Feiertagen,MISC,0.0,0.5263157894736842,de,1.0
 Weihnachtstag,Weihnachtstag,MISC,,,de,1.0
+Schnee-Apokalypse,Schnee-Apokalypse,MISC,,,de,1.0
 Weißes Silvester,Weißes Silvester,MISC,,,de,1.0
 Meine Arktis“,Meine Arktis“,MISC,,,de,1.0
 Bergretter“,Bergretter“,MISC,,,de,1.0
 Eisbären-Begegnung,Eisbären-Begegnung,MISC,,,de,1.0
-Wetter-Glaskugel,Wetter-Glaskugel,MISC,,,de,1.0
+Rentiere kraulen,Rentiere kraulen,MISC,,,de,1.0
+V8,V8,MISC,,,de,1.0
 Wende,Wende,MISC,,,de,1.0
-hessischen,hessischen,MISC,,,de,1.0
+Heiligabend,Heiligabend,MISC,1.0,0.0,de,1.0
+Weihnachtsfeiertag,Weihnachtsfeiertag,MISC,,,de,1.0
+Tote un…,Tote un…,MISC,,,de,1.0
+Deutsche Wetterd…,Deutsche Wetterd…,MISC,,,de,1.0
+Bergstra…,Bergstra…,MISC,,,de,1.0
+Eisige Winde sorgen,Eisige Winde sorgen,MISC,,,de,1.0
+Die Wahrscheinlichkeit für Schnee,Die Wahrscheinlichkeit für Schnee,MISC,,,de,1.0
+Grund,Grund,MISC,,,de,1.0
+Eisige Temperaturen und Schneemassen,Eisige Temperaturen und Schneemassen,MISC,,,de,1.0
+Kältestes Weihnachten,Kältestes Weihnachten,MISC,0.0,1.0,de,1.0
 Winterspaß“,Winterspaß“,MISC,,,de,1.0
+hessischen,hessischen,MISC,,,de,1.0
+Liftbetreiber,Liftbetreiber,MISC,,,de,1.0
+Drinnen leuchtet der Christbaum,Drinnen leuchtet der Christbaum,MISC,,,de,1.0
+Die Notschlafstelle des Eggerheims,Die Notschlafstelle des Eggerheims,MISC,,,de,1.0
 Tatort-Geschichte,Tatort-Geschichte,MISC,,,de,1.0
 Tatort“,Tatort“,MISC,,,de,1.0
-Chance auf weiße Weihnachten,Chance auf weiße Weihnachten,MISC,,,de,1.0
-Der Wunschsong,Der Wunschsong,MISC,,,de,1.0
-Lange Zeit,Lange Zeit,MISC,,,de,1.0
-McDonald’s Filiale,McDonald’s Filiale,MISC,,,de,1.0
-McDonald’s-Filiale,McDonald’s-Filiale,MISC,,,de,1.0
-Ski-Thru“,Ski-Thru“,MISC,,,de,1.0
-schwedischen,schwedischen,MISC,,,de,1.0
-Winteranfang,Winteranfang,MISC,,,de,1.0
-Sichtbarkeits-Gewinner & -Verlierer,Sichtbarkeits-Gewinner & -Verlierer,MISC,,,de,1.0
-IndexWatch Q3 2025,IndexWatch Q3 2025,MISC,,,de,1.0
-Weihnachtsfeiertag,Weihnachtsfeiertag,MISC,,,de,1.0
-Rentiere kraulen,Rentiere kraulen,MISC,,,de,1.0
-We are walking on water!,We are walking on water!,MISC,,,de,1.0
-Ein guter Tag“ &,Ein guter Tag“ &,MISC,,,de,1.0
+"Kinder rodeln, Erwachsene","Kinder rodeln, Erwachsene",MISC,,,de,1.0
 Schwarzer Schnee“,Schwarzer Schnee“,MISC,,,de,1.0
-02.01.2026,02.01.2026,MISC,,,de,1.0
-Glatteis-Unfälle,Glatteis-Unfälle,MISC,0.0,1.0,de,1.0
-Fahrrad im Schnee,Fahrrad im Schnee,MISC,,,de,1.0
-Glatteisgefahr“,Glatteisgefahr“,MISC,,,de,1.0
-Reisende mü…,Reisende mü…,MISC,,,de,1.0
-d…,d…,MISC,0.0,0.0,de,1.0
-Der Wintereinbruch,Der Wintereinbruch,MISC,,,de,1.0
-ukrainische,ukrainische,MISC,,,de,1.0
-Bahnstrecken“,Bahnstrecken“,MISC,,,de,1.0
-Winterquartier in MV“,Winterquartier in MV“,MISC,,,de,1.0
-Unwettergefahr“,Unwettergefahr“,MISC,,,de,1.0
-Auf Winterwochenende,Auf Winterwochenende,MISC,,,de,1.0
-"Schneefall
-","Schneefall
-",MISC,,,de,1.0
-Glatteis-Warnung“,Glatteis-Warnung“,MISC,,,de,1.0
-Amtliche Warnung,Amtliche Warnung,MISC,,,de,1.0
-Videos,Videos,MISC,,,de,1.0
-Glatteis-Chaos,Glatteis-Chaos,MISC,,,de,1.0
-Everest-Region,Everest-Region,MISC,,,de,1.0
-Bild-Zeitung,Bild-Zeitung,MISC,,,de,1.0
-Mein Ärger - Gefährliches Glatteis,Mein Ärger - Gefährliches Glatteis,MISC,,,de,1.0
-Schnee und starker Wind,Schnee und starker Wind,MISC,,,de,1.0
-Januar-Bilanz,Januar-Bilanz,MISC,,,de,1.0
+Winteralltag,Winteralltag,MISC,,,de,1.0
+Samstag vorsicht,Samstag vorsicht,MISC,,,de,1.0
+ntv-Meteoro…,ntv-Meteoro…,MISC,,,de,1.0
+Ein guter Tag“ &,Ein guter Tag“ &,MISC,,,de,1.0
+We are walking on water!,We are walking on water!,MISC,,,de,1.0
+Erste-Hilfe-Maßnahmen,Erste-Hilfe-Maßnahmen,MISC,,,de,1.0
+Wer macht im Winter,Wer macht im Winter,MISC,,,de,1.0
+Gute Wetteraussichten“,Gute Wetteraussichten“,MISC,,,de,1.0
+McDonald’s-Filiale,McDonald’s-Filiale,MISC,,,de,1.0
+Die Felder,Die Felder,MISC,,,de,1.0
+Sonntag be…,Sonntag be…,MISC,,,de,1.0
+Hauptreisezeit des Jahres,Hauptreisezeit des Jahres,MISC,,,de,1.0
+Sonntag des Jahres,Sonntag des Jahres,MISC,,,de,1.0
+Ski-Thru“,Ski-Thru“,MISC,,,de,1.0
+Ne…,Ne…,MISC,,,de,1.0
+Silizium-Schnee,Silizium-Schnee,MISC,,,de,1.0
+letzten Tagen des Jahres,letzten Tagen des Jahres,MISC,,,de,1.0
+Das Jahr versinkt zum Ausklang,Das Jahr versinkt zum Ausklang,MISC,,,de,1.0
+Sonne und Schnee,Sonne und Schnee,MISC,,,de,1.0
+Schneeregens,Schneeregens,MISC,,,de,1.0
+Böden,Böden,MISC,,,de,1.0
+Hause blei…,Hause blei…,MISC,,,de,1.0
+Spaziergängern,Spaziergängern,MISC,,,de,1.0
+Sauerland“,Sauerland“,MISC,,,de,1.0
+Sonntag se,Sonntag se,MISC,,,de,1.0
+Der Wochenbeginn,Der Wochenbeginn,MISC,,,de,1.0
+Charité-Ärzte,Charité-Ärzte,MISC,,,de,1.0
+schwedischen,schwedischen,MISC,,,de,1.0
+GradUSA,GradUSA,MISC,,,de,1.0
+RWE-Chef,RWE-Chef,MISC,,,de,1.0
+Deutsche Wette,Deutsche Wette,MISC,,,de,1.0
+Der Samstag,Der Samstag,MISC,,,de,1.0
+Heckmotor-Allrad,Heckmotor-Allrad,MISC,,,de,1.0
+Autobahn 1,Autobahn 1,MISC,0.0,0.0,de,1.0
+Rettung“,Rettung“,MISC,,,de,1.0
+Rett…,Rett…,MISC,,,de,1.0
+Wir haben freundliches,Wir haben freundliches,MISC,,,de,1.0
+Härtetest,Härtetest,MISC,,,de,1.0
+Der Schlepplift,Der Schlepplift,MISC,,,de,1.0
+Samstagmittag,Samstagmittag,MISC,,,de,1.0
+Glatteis-Alarm,Glatteis-Alarm,MISC,0.0,0.0,de,1.0
+Mittag herrsch,Mittag herrsch,MISC,,,de,1.0
+Winteranfang,Winteranfang,MISC,,,de,1.0
+BER“,BER“,MISC,,,de,1.0
+Te…,Te…,MISC,,,de,1.0
+Wetter: Stürmische Böen,Wetter: Stürmische Böen,MISC,,,de,1.0
+Winter: Schnee,Winter: Schnee,MISC,,,de,1.0
+Schneeberge,Schneeberge,MISC,-0.35714285714285715,0.0,de,1.0
+Was uns der Schnee,Was uns der Schnee,MISC,,,de,1.0
+Moia-Busse,Moia-Busse,MISC,0.0,0.0,de,1.0
+Wegerisiko,Wegerisiko,MISC,,,de,1.0
+Zweif…,Zweif…,MISC,,,de,1.0
+Alle reden vom Wetter,Alle reden vom Wetter,MISC,,,de,1.0
 Glatteisgefahr a…,Glatteisgefahr a…,MISC,,,de,1.0
-Meteorologen-Streit,Meteorologen-Streit,MISC,,,de,1.0
+bayerischem,bayerischem,MISC,,,de,1.0
+Die Beseitigung von Schnee und Eis auf den Gehwegen,Die Beseitigung von Schnee und Eis auf den Gehwegen,MISC,,,de,1.0
+Winterwe…,Winterwe…,MISC,,,de,1.0
+Winterwetter-Warnstufen,Winterwetter-Warnstufen,MISC,,,de,1.0
+Schwerer Schnee“,Schwerer Schnee“,MISC,,,de,1.0
+Mein Ärger - Gefährliches Glatteis,Mein Ärger - Gefährliches Glatteis,MISC,,,de,1.0
 "Deutsche 
 Lebensrettungsgesellschaft","Deutsche 
 Lebensrettungsgesellschaft",MISC,,,de,1.0
-Gesamtzahl der Betroffenen,Gesamtzahl der Betroffenen,MISC,,,de,1.0
-Sturmtief,Sturmtief,MISC,,,de,1.0
-Winter in Norddeutschland,Winter in Norddeutschland,MISC,,,de,1.0
+Bild-Zeitung,Bild-Zeitung,MISC,,,de,1.0
+Glatteis-Chaos,Glatteis-Chaos,MISC,,,de,1.0
 Hanses…,Hanses…,MISC,,,de,1.0
 Russische,Russische,MISC,,,de,1.0
+Amtliche Warnung,Amtliche Warnung,MISC,,,de,1.0
+Glatte Straßen,Glatte Straßen,MISC,,,de,1.0
+verletz…,verletz…,MISC,,,de,1.0
+Mitt…,Mitt…,MISC,,,de,1.0
+Dauerfo…,Dauerfo…,MISC,,,de,1.0
+Die Schulen in Mecklenburg-Vorpommern,Die Schulen in Mecklenburg-Vorpommern,MISC,,,de,1.0
+Fußball-Spiele,Fußball-Spiele,MISC,,,de,1.0
+Amateuren,Amateuren,MISC,,,de,1.0
+Wintertag,Wintertag,MISC,,,de,1.0
+Warnung vor gefährlichem Glatteis,Warnung vor gefährlichem Glatteis,MISC,,,de,1.0
+"Eisige Temperaturen, Schnee und Wind","Eisige Temperaturen, Schnee und Wind",MISC,,,de,1.0
+Gefrierender Regen“,Gefrierender Regen“,MISC,,,de,1.0
+Schnee und Regen“,Schnee und Regen“,MISC,,,de,1.0
+Der Präsenzunterricht an Hamburgs,Der Präsenzunterricht an Hamburgs,MISC,,,de,1.0
+Gefahr be,Gefahr be,MISC,,,de,1.0
+Tag im Einsatz,Tag im Einsatz,MISC,,,de,1.0
+Vorrang“,Vorrang“,MISC,,,de,1.0
+We... +++Hiobsbotschaft,We... +++Hiobsbotschaft,MISC,,,de,1.0
+Re…,Re…,MISC,,,de,1.0
+Schneemann“,Schneemann“,MISC,,,de,1.0
+Streit im Schnee,Streit im Schnee,MISC,,,de,1.0
+Es ist mit,Es ist mit,MISC,,,de,1.0
 Grenze,Grenze,MISC,,,de,1.0
-Mahnungen …,Mahnungen …,MISC,,,de,1.0
-Krankenhäuser“,Krankenhäuser“,MISC,,,de,1.0
-Elli“,Elli“,MISC,,,de,1.0
-Basketball-Spiel,Basketball-Spiel,MISC,,,de,1.0
-Das Sturmtief «Elli,Das Sturmtief «Elli,MISC,,,de,1.0
+Der Winterdienst,Der Winterdienst,MISC,,,de,1.0
+Fahr…,Fahr…,MISC,,,de,1.0
+Bahnstrecken“,Bahnstrecken“,MISC,,,de,1.0
+Zweitliga-Tabellenführer,Zweitliga-Tabellenführer,MISC,,,de,1.0
 Autobahnpolizeiinspektio…,Autobahnpolizeiinspektio…,MISC,,,de,1.0
 09.01.2026,09.01.2026,MISC,,,de,1.0
 Millerntorstadion,Millerntorstadion,MISC,,,de,1.0
+Osnabrück“,Osnabrück“,MISC,,,de,1.0
 Bundesliga-Spiel,Bundesliga-Spiel,MISC,,,de,1.0
-Die Beseitigung von Schnee und Eis auf den Gehwegen,Die Beseitigung von Schnee und Eis auf den Gehwegen,MISC,,,de,1.0
-Schneesturm auf Mount Everest,Schneesturm auf Mount Everest,MISC,,,de,1.0
-Volle Pi…,Volle Pi…,MISC,,,de,1.0
-Pannenhilfe“,Pannenhilfe“,MISC,,,de,1.0
-V…,V…,MISC,,,de,1.0
-Schnee und Glatteis,Schnee und Glatteis,MISC,,,de,1.0
-Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,MISC,,,de,1.0
-Glatteis-Warnungen,Glatteis-Warnungen,MISC,,,de,1.0
-tü…,tü…,MISC,,,de,1.0
-L…,L…,MISC,0.0,0.0,de,1.0
-Nieder…,Nieder…,MISC,,,de,1.0
-Schneeberge,Schneeberge,MISC,-0.5263157894736842,0.0,de,1.0
-Wetter-Geschehen,Wetter-Geschehen,MISC,,,de,1.0
-Gletsc…,Gletsc…,MISC,,,de,1.0
-Klimawandel“,Klimawandel“,MISC,,,de,1.0
-Was hinter der Wetter-Aufregung,Was hinter der Wetter-Aufregung,MISC,,,de,1.0
-Olympia-Gegner,Olympia-Gegner,MISC,,,de,1.0
-Sofa Mitleid,Sofa Mitleid,MISC,,,de,1.0
-Mann aus Schnee,Mann aus Schnee,MISC,,,de,1.0
-All zurückges…,All zurückges…,MISC,,,de,1.0
-DWD-Meteorologin Sab…,DWD-Meteorologin Sab…,MISC,,,de,1.0
-Die gefährliche Situation,Die gefährliche Situation,MISC,,,de,1.0
-Was uns der Schnee,Was uns der Schnee,MISC,,,de,1.0
-Die Schulen in Mecklenburg-Vorpommern,Die Schulen in Mecklenburg-Vorpommern,MISC,,,de,1.0
-verletz…,verletz…,MISC,,,de,1.0
-Dauerfo…,Dauerfo…,MISC,,,de,1.0
-Es ist mit,Es ist mit,MISC,,,de,1.0
-Der Präsenzunterricht an Hamburgs,Der Präsenzunterricht an Hamburgs,MISC,,,de,1.0
-Warnung vor gefährlichem Glatteis,Warnung vor gefährlichem Glatteis,MISC,,,de,1.0
-Dramatische Rettung,Dramatische Rettung,MISC,,,de,1.0
-Bildungsministerium,Bildungsministerium,MISC,,,de,1.0
-Fu…,Fu…,MISC,,,de,1.0
-minus 1 Grad,minus 1 Grad,MISC,,,de,1.0
-stern-Newsblog,stern-Newsblog,MISC,,,de,1.0
-Glatte Straßen und Schnee,Glatte Straßen und Schnee,MISC,,,de,1.0
-Winterwet…,Winterwet…,MISC,,,de,1.0
-Glätte-Warnung,Glätte-Warnung,MISC,,,de,1.0
-Distanzunterricht,Distanzunterricht,MISC,0.0,0.0,de,1.0
-Tödlicher Unfall“,Tödlicher Unfall“,MISC,,,de,1.0
-"Wind, Regen","Wind, Regen",MISC,,,de,1.0
-Winterwetter-Warnstufen,Winterwetter-Warnstufen,MISC,,,de,1.0
-Winterwe…,Winterwe…,MISC,,,de,1.0
-bayerischem,bayerischem,MISC,,,de,1.0
-Preisanpassungen,Preisanpassungen,MISC,,,de,1.0
-Versunken im Schnee - Zweitligist,Versunken im Schnee - Zweitligist,MISC,,,de,1.0
+Kinder und Jugendliche,Kinder und Jugendliche,MISC,,,de,1.0
+Krankenhäuser“,Krankenhäuser“,MISC,,,de,1.0
+Schneefall in Hamburg“,Schneefall in Hamburg“,MISC,,,de,1.0
+Schalke schlägt Osnabrück,Schalke schlägt Osnabrück,MISC,,,de,1.0
+ukrainische,ukrainische,MISC,,,de,1.0
+Der Wintereinbruch,Der Wintereinbruch,MISC,,,de,1.0
+d…,d…,MISC,0.0,0.0,de,1.0
+Schneefall in Bayern“,Schneefall in Bayern“,MISC,,,de,1.0
+Januar-Bilanz,Januar-Bilanz,MISC,,,de,1.0
+mitt…,mitt…,MISC,,,de,1.0
+Schnee und starker Wind,Schnee und starker Wind,MISC,,,de,1.0
+Das ist beim Spaziergang,Das ist beim Spaziergang,MISC,,,de,1.0
+Schöne Winterwälder,Schöne Winterwälder,MISC,,,de,1.0
+Wechselhaftes Winterwetter“,Wechselhaftes Winterwetter“,MISC,,,de,1.0
+Winterquartier in MV“,Winterquartier in MV“,MISC,,,de,1.0
+Thüringens Aut…,Thüringens Aut…,MISC,,,de,1.0
+Glatteis-Warnung“,Glatteis-Warnung“,MISC,,,de,1.0
+Auf Winterwochenende,Auf Winterwochenende,MISC,,,de,1.0
+Spr…,Spr…,MISC,,,de,1.0
+Ministeriums,Ministeriums,MISC,,,de,1.0
+Glatteisgefahr“,Glatteisgefahr“,MISC,,,de,1.0
+Unwettergefahr“,Unwettergefahr“,MISC,,,de,1.0
+Meteorologen-Streit,Meteorologen-Streit,MISC,,,de,1.0
+Sachsen“,Sachsen“,MISC,,,de,1.0
+Mahnungen …,Mahnungen …,MISC,,,de,1.0
+Starker Schneefall“,Starker Schneefall“,MISC,,,de,1.0
+Elli“,Elli“,MISC,,,de,1.0
+Eisige Nacht,Eisige Nacht,MISC,,,de,1.0
+Alpiner Weltcup“,Alpiner Weltcup“,MISC,,,de,1.0
+Basketball-Spiel,Basketball-Spiel,MISC,,,de,1.0
+Das Sturmtief «Elli,Das Sturmtief «Elli,MISC,,,de,1.0
+Alpiner Weltcup,Alpiner Weltcup,MISC,,,de,1.0
+Meteorologen,Meteorologen,MISC,0.0,0.0,de,1.0
+Wir haben Schnee…,Wir haben Schnee…,MISC,,,de,1.0
+Buntes“,Buntes“,MISC,,,de,1.0
+Unterstützu…,Unterstützu…,MISC,,,de,1.0
 Winter-Trainingslager,Winter-Trainingslager,MISC,,,de,1.0
 Der Schnee-Penis von Grießbach,Der Schnee-Penis von Grießbach,MISC,,,de,1.0
 Hause vor dem Kamin,Hause vor dem Kamin,MISC,,,de,1.0
 Meteorologen e,Meteorologen e,MISC,,,de,1.0
+Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,MISC,,,de,1.0
 04.01.2026,04.01.2026,MISC,,,de,1.0
 Der Wintereinbruch in Thüringen,Der Wintereinbruch in Thüringen,MISC,,,de,1.0
+Zwei Zentimeter Glatteis,Zwei Zentimeter Glatteis,MISC,,,de,1.0
 s…,s…,MISC,,,de,1.0
-Unfa…,Unfa…,MISC,,,de,1.0
+Schnee und Glatteis,Schnee und Glatteis,MISC,,,de,1.0
 Hessische,Hessische,MISC,,,de,1.0
 Verkehrskontrolle auf Raststätte +++ Liveblog,Verkehrskontrolle auf Raststätte +++ Liveblog,MISC,,,de,1.0
 Winter in unseren Mittelgebirgen,Winter in unseren Mittelgebirgen,MISC,,,de,1.0
 Haustür,Haustür,MISC,0.7,0.0,de,1.0
+Streusalz-Verbot“,Streusalz-Verbot“,MISC,,,de,1.0
+Winterwetter in NRW“,Winterwetter in NRW“,MISC,,,de,1.0
+Ein 34-jähriger Mann,Ein 34-jähriger Mann,MISC,,,de,1.0
+Versunken im Schnee - Zweitligist,Versunken im Schnee - Zweitligist,MISC,,,de,1.0
+Unfa…,Unfa…,MISC,,,de,1.0
+Winterwetters“,Winterwetters“,MISC,,,de,1.0
+Glätteunfälle,Glätteunfälle,MISC,0.0,0.0,de,1.0
+ORF-Meteorolo…,ORF-Meteorolo…,MISC,,,de,1.0
+Glatteis-Unfälle,Glatteis-Unfälle,MISC,0.0,1.0,de,1.0
+A6,A6,MISC,0.7,0.0,de,1.0
+Gassigehen,Gassigehen,MISC,,,de,1.0
+Mildere Witterung,Mildere Witterung,MISC,,,de,1.0
+Die Teams,Die Teams,MISC,,,de,1.0
+Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,1.0
+Polare Kaltluft,Polare Kaltluft,MISC,,,de,1.0
+kleinräumiges,kleinräumiges,MISC,,,de,1.0
+Ein Sturmtief,Ein Sturmtief,MISC,,,de,1.0
+Reisende mü…,Reisende mü…,MISC,,,de,1.0
+E…,E…,MISC,,,de,1.0
+Streusalz“,Streusalz“,MISC,,,de,1.0
+Pannenhilfe“,Pannenhilfe“,MISC,,,de,1.0
+Nieder…,Nieder…,MISC,,,de,1.0
+L…,L…,MISC,0.0,0.0,de,1.0
+tü…,tü…,MISC,,,de,1.0
 Pulverschnee,Pulverschnee,MISC,,,de,1.0
 Minus 16 Grad,Minus 16 Grad,MISC,,,de,1.0
+Streusalz-Verbot,Streusalz-Verbot,MISC,,,de,1.0
 Nachmittag l…,Nachmittag l…,MISC,,,de,1.0
-Unterstützu…,Unterstützu…,MISC,,,de,1.0
-Glätteunfälle,Glätteunfälle,MISC,0.0,0.0,de,1.0
-Alle reden vom Wetter,Alle reden vom Wetter,MISC,,,de,1.0
-Monat la…,Monat la…,MISC,,,de,1.0
-Was Mieter,Was Mieter,MISC,,,de,1.0
-Langschläfer,Langschläfer,MISC,,,de,1.0
-Ein Wintereinbruch in den Niederlanden,Ein Wintereinbruch in den Niederlanden,MISC,,,de,1.0
-Die Aufstiegshilfen,Die Aufstiegshilfen,MISC,,,de,1.0
-RWE-Chef,RWE-Chef,MISC,,,de,1.0
-Aschenbrödel“,Aschenbrödel“,MISC,,,de,1.0
-Fahr…,Fahr…,MISC,,,de,1.0
-A6,A6,MISC,0.7,0.0,de,1.0
-Deutsche Weinbauern,Deutsche Weinbauern,MISC,,,de,1.0
-Die Teams,Die Teams,MISC,,,de,1.0
-Polare Kaltluft,Polare Kaltluft,MISC,,,de,1.0
-Skisaison 2025/26,Skisaison 2025/26,MISC,,,de,1.0
-Ein Sturmtief,Ein Sturmtief,MISC,,,de,1.0
-kleinräumiges,kleinräumiges,MISC,,,de,1.0
-Winterdie…,Winterdie…,MISC,,,de,1.0
-Tour nieselte,Tour nieselte,MISC,,,de,1.0
-Nachmittag leichte…,Nachmittag leichte…,MISC,,,de,1.0
-Spre…,Spre…,MISC,,,de,1.0
-Potsdamer Winterdienst,Potsdamer Winterdienst,MISC,,,de,1.0
-Schnee und Regen“,Schnee und Regen“,MISC,,,de,1.0
-Meteorologen,Meteorologen,MISC,0.0,0.0,de,1.0
-Fußball-Spiele,Fußball-Spiele,MISC,,,de,1.0
-Amateuren,Amateuren,MISC,,,de,1.0
-Wintertag,Wintertag,MISC,,,de,1.0
-Schnee und eisiger Sturm,Schnee und eisiger Sturm,MISC,,,de,1.0
-"Eisige Temperaturen, Schnee und Wind","Eisige Temperaturen, Schnee und Wind",MISC,,,de,1.0
-Gefrierender Regen“,Gefrierender Regen“,MISC,,,de,1.0
-Gefahr be,Gefahr be,MISC,,,de,1.0
-Potsdamerinnen,Potsdamerinnen,MISC,,,de,1.0
-Vorrang“,Vorrang“,MISC,,,de,1.0
-CCTV,CCTV,MISC,,,de,1.0
-We... +++Hiobsbotschaft,We... +++Hiobsbotschaft,MISC,,,de,1.0
-Re…,Re…,MISC,,,de,1.0
-Glatte Straßen,Glatte Straßen,MISC,,,de,1.0
-Wegerisiko,Wegerisiko,MISC,,,de,1.0
-Zweif…,Zweif…,MISC,,,de,1.0
-Wir haben Schnee…,Wir haben Schnee…,MISC,,,de,1.0
-Buntes“,Buntes“,MISC,,,de,1.0
-So viel Schnee,So viel Schnee,MISC,,,de,1.0
-Winterwetter in Deutschland“,Winterwetter in Deutschland“,MISC,,,de,1.0
-Kurzentschlossene,Kurzentschlossene,MISC,,,de,1.0
-Todesfall überschat…,Todesfall überschat…,MISC,,,de,1.0
-Dauerfrost und Schnee – Glättegefahr,Dauerfrost und Schnee – Glättegefahr,MISC,,,de,1.0
-Todesfall,Todesfall,MISC,,,de,1.0
-Winterlich“,Winterlich“,MISC,,,de,1.0
-Dauerfrost und Glatteis,Dauerfrost und Glatteis,MISC,,,de,1.0
-minus 7 Grad,minus 7 Grad,MISC,,,de,1.0
-Winter“,Winter“,MISC,,,de,1.0
-Beginn des Jahres,Beginn des Jahres,MISC,,,de,1.0
+Winterwet…,Winterwet…,MISC,,,de,1.0
+nächsten Zeit,nächsten Zeit,MISC,,,de,1.0
+stichprobenarti…,stichprobenarti…,MISC,,,de,1.0
 Smartes TP-Link-Heizkörperthermostat,Smartes TP-Link-Heizkörperthermostat,MISC,,,de,1.0
+Glatte Straßen und Schnee,Glatte Straßen und Schnee,MISC,,,de,1.0
 HHLA,HHLA,MISC,,,de,1.0
 Mülltonnen,Mülltonnen,MISC,,,de,1.0
 Nordwestens  abe…,Nordwestens  abe…,MISC,,,de,1.0
 Schöner Schnee,Schöner Schnee,MISC,,,de,1.0
 Schneebä…,Schneebä…,MISC,,,de,1.0
-nächsten Tagen,nächsten Tagen,MISC,,,de,1.0
-Das schmutzige Geheimnis der Skipisten,Das schmutzige Geheimnis der Skipisten,MISC,,,de,1.0
-Minus 30 Grad,Minus 30 Grad,MISC,,,de,1.0
-hessische,hessische,MISC,,,de,1.0
-winterlich-kalten,winterlich-kalten,MISC,,,de,1.0
-Hamburg/Kiel/Schwerin,Hamburg/Kiel/Schwerin,MISC,,,de,1.0
-Winterwetter in Bayern,Winterwetter in Bayern,MISC,,,de,1.0
-Grad herrs…,Grad herrs…,MISC,,,de,1.0
-Countdown für Österreichs Skisaison,Countdown für Österreichs Skisaison,MISC,,,de,1.0
-Ein Schulbus,Ein Schulbus,MISC,,,de,1.0
-Wintersportgebiete“,Wintersportgebiete“,MISC,,,de,1.0
-Salz ist…,Salz ist…,MISC,,,de,1.0
-Wiener,Wiener,MISC,,,de,1.0
-Wochenstar…,Wochenstar…,MISC,,,de,1.0
-Weihnachtskomödie made in Aus…,Weihnachtskomödie made in Aus…,MISC,,,de,1.0
-Minusgrade in der Nacht“,Minusgrade in der Nacht“,MISC,,,de,1.0
-Zahlungsabwicklung,Zahlungsabwicklung,MISC,,,de,1.0
-minus 10 Grad,minus 10 Grad,MISC,,,de,1.0
-Prime-Versand,Prime-Versand,MISC,,,de,1.0
-Sole i…,Sole i…,MISC,,,de,1.0
-Das Wetter in Berlin,Das Wetter in Berlin,MISC,,,de,1.0
-Wochenmitte“,Wochenmitte“,MISC,,,de,1.0
-Wintersport-Arena Sa…,Wintersport-Arena Sa…,MISC,,,de,1.0
-Gesamtweltcups…,Gesamtweltcups…,MISC,,,de,1.0
+stern-Newsblog,stern-Newsblog,MISC,,,de,1.0
+Fu…,Fu…,MISC,,,de,1.0
+Winterwetter in Deutschland“,Winterwetter in Deutschland“,MISC,,,de,1.0
+Strafen bei verschmutzten Autokennzeichen,Strafen bei verschmutzten Autokennzeichen,MISC,,,de,1.0
+Die verunreinigten Kennzeichen,Die verunreinigten Kennzeichen,MISC,,,de,1.0
+Bildungsministerium,Bildungsministerium,MISC,,,de,1.0
+So viel Schnee,So viel Schnee,MISC,,,de,1.0
+Glätte-Warnung,Glätte-Warnung,MISC,,,de,1.0
+Distanzunterricht,Distanzunterricht,MISC,0.0,0.0,de,1.0
+Beginn des Jahres,Beginn des Jahres,MISC,,,de,1.0
+Hamburger Senat,Hamburger Senat,MISC,,,de,1.0
+DWD-Meteorologin Sab…,DWD-Meteorologin Sab…,MISC,,,de,1.0
+Nachmittag leichte…,Nachmittag leichte…,MISC,,,de,1.0
+Spre…,Spre…,MISC,,,de,1.0
+Potsdamer Winterdienst,Potsdamer Winterdienst,MISC,,,de,1.0
+Potsdamerinnen,Potsdamerinnen,MISC,,,de,1.0
+Kurzentschlossene,Kurzentschlossene,MISC,,,de,1.0
+Bürger,Bürger,MISC,,,de,1.0
+Wetter-Geschehen,Wetter-Geschehen,MISC,,,de,1.0
+minus 7 Grad,minus 7 Grad,MISC,,,de,1.0
+schön der Schnee,schön der Schnee,MISC,,,de,1.0
+Die gefährliche Situation,Die gefährliche Situation,MISC,,,de,1.0
+Dauerfrost und Schnee – Glättegefahr,Dauerfrost und Schnee – Glättegefahr,MISC,,,de,1.0
+Winterlich“,Winterlich“,MISC,,,de,1.0
+Fliegern“,Fliegern“,MISC,,,de,1.0
+Dauerfrost und Glatteis,Dauerfrost und Glatteis,MISC,,,de,1.0
+Tödlicher Unfall“,Tödlicher Unfall“,MISC,,,de,1.0
+Drei Tage,Drei Tage,MISC,,,de,1.0
+TTS Player,TTS Player,MISC,,,de,1.0
+Die Bergbahnbetreiber sind das Herz der lokalen Wirtschaft“,Die Bergbahnbetreiber sind das Herz der lokalen Wirtschaft“,MISC,,,de,1.0
+Actionspi…,Actionspi…,MISC,,,de,1.0
+Start g,Start g,MISC,,,de,1.0
+Wintergemüse“,Wintergemüse“,MISC,,,de,1.0
+Grünkohl,Grünkohl,MISC,,,de,1.0
+Die Grünkohlernte,Die Grünkohlernte,MISC,,,de,1.0
+Winterdienst-Saison,Winterdienst-Saison,MISC,,,de,1.0
+Winterdienst-Saiso…,Winterdienst-Saiso…,MISC,,,de,1.0
+Sonniger Start,Sonniger Start,MISC,,,de,1.0
+mei…,mei…,MISC,,,de,1.0
+Bewölkun…,Bewölkun…,MISC,,,de,1.0
+Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1.0
+Einbruch der Dunkelheit am Mittwochabend,Einbruch der Dunkelheit am Mittwochabend,MISC,,,de,1.0
+Wintergemüses,Wintergemüses,MISC,,,de,1.0
+Die erste Novemberwoche,Die erste Novemberwoche,MISC,,,de,1.0
+Hundertjährige Kalender,Hundertjährige Kalender,MISC,,,de,1.0
+Wandsbeker Winterzauber“,Wandsbeker Winterzauber“,MISC,,,de,1.0
+Kurier,Kurier,MISC,,,de,1.0
+Wi…,Wi…,MISC,,,de,1.0
+Sonne am Tag,Sonne am Tag,MISC,0.0,0.0,de,1.0
+Prognose“,Prognose“,MISC,,,de,1.0
+Deutschem…,Deutschem…,MISC,,,de,1.0
+b...,b...,MISC,,,de,1.0
+Rabatt,Rabatt,MISC,,,de,1.0
+Bergwacht,Bergwacht,MISC,,,de,1.0
+Berchtesgadener Land,Berchtesgadener Land,MISC,0.0,0.0,de,1.0
+P…,P…,MISC,,,de,1.0
+Straßenmeister…,Straßenmeister…,MISC,,,de,1.0
+Schnee- und Wintersport-Fans,Schnee- und Wintersport-Fans,MISC,,,de,1.0
+Partyschlager“,Partyschlager“,MISC,,,de,1.0
+Ballermann,Ballermann,MISC,1.4,0.0,de,1.0
+Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1.0
+Kölner,Kölner,MISC,,,de,1.0
+Anbieters Train4you Realität,Anbieters Train4you Realität,MISC,,,de,1.0
+UEX,UEX,MISC,,,de,1.0
+Dicke Brühe,Dicke Brühe,MISC,,,de,1.0
+Heliko…,Heliko…,MISC,,,de,1.0
+Agrar“,Agrar“,MISC,,,de,1.0
+Niedersachsen,Niedersachsen,MISC,-0.005700325732899029,0.008143322475570041,de,1.0
+Naturfotografie im Winter,Naturfotografie im Winter,MISC,,,de,1.0
+zuer…,zuer…,MISC,,,de,1.0
+Hintergrun…,Hintergrun…,MISC,,,de,1.0
+Resident Evil,Resident Evil,MISC,,,de,1.0
+Silent Hill,Silent Hill,MISC,,,de,1.0
+Survival-Horror à la Resident Evil,Survival-Horror à la Resident Evil,MISC,,,de,1.0
+zwis…,zwis…,MISC,,,de,1.0
+Schlagerstar Vanessa Mai,Schlagerstar Vanessa Mai,MISC,,,de,1.0
+di…,di…,MISC,0.5,0.5,de,1.0
+thüringischen,thüringischen,MISC,,,de,1.0
+Bayerische,Bayerische,MISC,,,de,1.0
+bayerischen,bayerischen,MISC,,,de,1.0
+Skigebiete“,Skigebiete“,MISC,,,de,1.0
+SCHNEE,SCHNEE,MISC,,,de,1.0
+Wochenbeginn“,Wochenbeginn“,MISC,,,de,1.0
+Eis un,Eis un,MISC,,,de,1.0
 Wetter in Nordrhein-Westfalen“,Wetter in Nordrhein-Westfalen“,MISC,,,de,1.0
 Nasskaltes Wetter zum Wochenstart und Schnee,Nasskaltes Wetter zum Wochenstart und Schnee,MISC,,,de,1.0
-Kärntner,Kärntner,MISC,0.0,0.0,de,1.0
 Garantierter Schnee,Garantierter Schnee,MISC,,,de,1.0
-thüringischen,thüringischen,MISC,,,de,1.0
 Schn…,Schn…,MISC,,,de,1.0
+Pr…,Pr…,MISC,,,de,1.0
 e…,e…,MISC,,,de,1.0
 Weather Story17.11.20…,Weather Story17.11.20…,MISC,,,de,1.0
 Anflug,Anflug,MISC,,,de,1.0
 Tari…,Tari…,MISC,,,de,1.0
 Der SNOW-vember,Der SNOW-vember,MISC,,,de,1.0
-Weltcup-Saison,Weltcup-Saison,MISC,,,de,1.0
-Schwarz glänzt,Schwarz glänzt,MISC,,,de,1.0
 Das kalte und winterliche Wet…,Das kalte und winterliche Wet…,MISC,,,de,1.0
 Steirische,Steirische,MISC,,,de,1.0
-Ganz schön weiß - Schneefälle,Ganz schön weiß - Schneefälle,MISC,,,de,1.0
-Ski-Saison,Ski-Saison,MISC,1.0526315789473684,0.0,de,1.0
-ersten Schnee,ersten Schnee,MISC,,,de,1.0
-Eisige Temperaturen und Glatteis,Eisige Temperaturen und Glatteis,MISC,,,de,1.0
-Corona-Zeit,Corona-Zeit,MISC,,,de,1.0
-Minusgrade und Schneeflocken,Minusgrade und Schneeflocken,MISC,,,de,1.0
-Zugspitz-Gipfel,Zugspitz-Gipfel,MISC,,,de,1.0
-Gletscherskigebiete,Gletscherskigebiete,MISC,,,de,1.0
-Skiopening…,Skiopening…,MISC,,,de,1.0
-Deu…,Deu…,MISC,0.0,0.0,de,1.0
-vo…,vo…,MISC,,,de,1.0
-Reform“,Reform“,MISC,,,de,1.0
-minus 10 Grad“,minus 10 Grad“,MISC,,,de,1.0
-Das Wetter,Das Wetter,MISC,,,de,1.0
-Rh…,Rh…,MISC,,,de,1.0
-Montagfrüh Schneeglätte“,Montagfrüh Schneeglätte“,MISC,,,de,1.0
-Winterwetter im Herbst,Winterwetter im Herbst,MISC,,,de,1.0
-Neuer Schnee,Neuer Schnee,MISC,,,de,1.0
-Chancen auf …,Chancen auf …,MISC,,,de,1.0
-Ba…,Ba…,MISC,,,de,1.0
-Hause aus bald,Hause aus bald,MISC,,,de,1.0
-Behör…,Behör…,MISC,,,de,1.0
-Karpfenzucht“,Karpfenzucht“,MISC,,,de,1.0
-Festliches Abfischen,Festliches Abfischen,MISC,,,de,1.0
-Minus 10 Grad,Minus 10 Grad,MISC,,,de,1.0
-Erbeskopf“,Erbeskopf“,MISC,,,de,1.0
-Silvretta Montafon,Silvretta Montafon,MISC,,,de,1.0
-Dauerfrost,Dauerfrost,MISC,0.0,0.0,de,1.0
-The Secret,The Secret,MISC,,,de,1.0
-Auf Schnee folgt Sonne,Auf Schnee folgt Sonne,MISC,,,de,1.0
-Sonne“,Sonne“,MISC,,,de,1.0
-Winter-Vorherrschaft,Winter-Vorherrschaft,MISC,,,de,1.0
-Wetter AM Wochenende,Wetter AM Wochenende,MISC,,,de,1.0
-Liegenbleiben wird der Schnee,Liegenbleiben wird der Schnee,MISC,,,de,1.0
-Winterdienst-Fahrzeug,Winterdienst-Fahrzeug,MISC,,,de,1.0
-IMAGO/Rene,IMAGO/Rene,MISC,,,de,1.0
-November-Sommer,November-Sommer,MISC,0.0,1.0,de,1.0
-Kommune“,Kommune“,MISC,,,de,1.0
-Saison“,Saison“,MISC,,,de,1.0
-Eis un,Eis un,MISC,,,de,1.0
-Wochenbeginn“,Wochenbeginn“,MISC,,,de,1.0
-SCHNEE,SCHNEE,MISC,,,de,1.0
-Silent Hill,Silent Hill,MISC,,,de,1.0
-Sonne am Tag,Sonne am Tag,MISC,0.0,0.0,de,1.0
-Prognose“,Prognose“,MISC,,,de,1.0
-Deutschem…,Deutschem…,MISC,,,de,1.0
-Berchtesgadener Land,Berchtesgadener Land,MISC,0.0,0.0,de,1.0
-zwis…,zwis…,MISC,,,de,1.0
-Survival-Horror à la Resident Evil,Survival-Horror à la Resident Evil,MISC,,,de,1.0
-Einbruch der Dunkelheit am Mittwochabend,Einbruch der Dunkelheit am Mittwochabend,MISC,,,de,1.0
-Resident Evil,Resident Evil,MISC,,,de,1.0
-Skigebiete“,Skigebiete“,MISC,,,de,1.0
-Schlagerstar Vanessa Mai,Schlagerstar Vanessa Mai,MISC,,,de,1.0
-Pr…,Pr…,MISC,,,de,1.0
-Hintergrun…,Hintergrun…,MISC,,,de,1.0
-zuer…,zuer…,MISC,,,de,1.0
+Wintersport-Arena Sa…,Wintersport-Arena Sa…,MISC,,,de,1.0
+Wochenmitte“,Wochenmitte“,MISC,,,de,1.0
+Sommergruß,Sommergruß,MISC,,,de,1.0
+Wochenbeginn,Wochenbeginn,MISC,,,de,1.0
+Polar-Express,Polar-Express,MISC,,,de,1.0
+Alpen-Gemeinde,Alpen-Gemeinde,MISC,,,de,1.0
 Anzeige*Winter is coming,Anzeige*Winter is coming,MISC,,,de,1.0
 Lidl.de,Lidl.de,MISC,,,de,1.0
 Discountfans,Discountfans,MISC,,,de,1.0
-Bergwacht,Bergwacht,MISC,,,de,1.0
-Wi…,Wi…,MISC,,,de,1.0
-Kurier,Kurier,MISC,,,de,1.0
-Wandsbeker Winterzauber“,Wandsbeker Winterzauber“,MISC,,,de,1.0
-mei…,mei…,MISC,,,de,1.0
-Winterdienst-Saiso…,Winterdienst-Saiso…,MISC,,,de,1.0
-Bewölkun…,Bewölkun…,MISC,,,de,1.0
-Actionspi…,Actionspi…,MISC,,,de,1.0
-Herbst bringt Sonne,Herbst bringt Sonne,MISC,,,de,1.0
-Wintergemüses,Wintergemüses,MISC,,,de,1.0
-Winterdienst-Saison,Winterdienst-Saison,MISC,,,de,1.0
-Die erste Novemberwoche,Die erste Novemberwoche,MISC,,,de,1.0
-Die Grünkohlernte,Die Grünkohlernte,MISC,,,de,1.0
-Grünkohl,Grünkohl,MISC,,,de,1.0
-Wintergemüse“,Wintergemüse“,MISC,,,de,1.0
-Start g,Start g,MISC,,,de,1.0
-b...,b...,MISC,,,de,1.0
-Rabatt,Rabatt,MISC,,,de,1.0
-Hundertjährige Kalender,Hundertjährige Kalender,MISC,,,de,1.0
-Naturfotografie im Winter,Naturfotografie im Winter,MISC,,,de,1.0
 Der perfekte Tag,Der perfekte Tag,MISC,,,de,1.0
-Niedersachsen,Niedersachsen,MISC,-0.006151142355008793,0.008787346221441134,de,1.0
-Die Straßenmeistereien des Landes,Die Straßenmeistereien des Landes,MISC,,,de,1.0
-Flix mi…,Flix mi…,MISC,,,de,1.0
-Ballermann,Ballermann,MISC,1.4,0.0,de,1.0
-Frost-Einbruch,Frost-Einbruch,MISC,,,de,1.0
-Partyschlager“,Partyschlager“,MISC,,,de,1.0
-Alpen-Gemeinde,Alpen-Gemeinde,MISC,,,de,1.0
-Polar-Express,Polar-Express,MISC,,,de,1.0
-Wochenbeginn,Wochenbeginn,MISC,,,de,1.0
-Sommergruß,Sommergruß,MISC,,,de,1.0
-Schnee- und Wintersport-Fans,Schnee- und Wintersport-Fans,MISC,,,de,1.0
-Bayerische,Bayerische,MISC,,,de,1.0
-bayerischen,bayerischen,MISC,,,de,1.0
-Straßenmeister…,Straßenmeister…,MISC,,,de,1.0
-P…,P…,MISC,,,de,1.0
-Kurzes Intermezzo,Kurzes Intermezzo,MISC,,,de,1.0
-Alpin-Auftakt,Alpin-Auftakt,MISC,,,de,1.0
-US-amerikanische,US-amerikanische,MISC,,,de,1.0
-Weiße Einfahrt,Weiße Einfahrt,MISC,,,de,1.0
-Agrar“,Agrar“,MISC,,,de,1.0
-Canadian Premier League,Canadian Premier League,MISC,,,de,1.0
-Heliko…,Heliko…,MISC,,,de,1.0
 Winterdienst-Saison“,Winterdienst-Saison“,MISC,,,de,1.0
 "Viennale 2024
 
@@ -693,28 +665,117 @@ Winterdienst-Saison“,Winterdienst-Saison“,MISC,,,de,1.0
 Die Leerstelle,Die Leerstelle,MISC,,,de,1.0
 I’m Still Here“&nbsp;wiegt,I’m Still Here“&nbsp;wiegt,MISC,,,de,1.0
 Straßenverkehr“,Straßenverkehr“,MISC,,,de,1.0
-Dicke Brühe,Dicke Brühe,MISC,,,de,1.0
-UEX,UEX,MISC,,,de,1.0
 minus 8 Grad,minus 8 Grad,MISC,,,de,1.0
 Eiskunst“,Eiskunst“,MISC,,,de,1.0
 minus 8 Grad“,minus 8 Grad“,MISC,,,de,1.0
-Anbieters Train4you Realität,Anbieters Train4you Realität,MISC,,,de,1.0
 Luxus für Reiche,Luxus für Reiche,MISC,,,de,1.0
-Kölner,Kölner,MISC,,,de,1.0
 Hesse…,Hesse…,MISC,0.0,0.0,de,1.0
-Probefahrt,Probefahrt,MISC,,,de,1.0
+Canadian Premier League,Canadian Premier League,MISC,,,de,1.0
+Die Straßenmeistereien des Landes,Die Straßenmeistereien des Landes,MISC,,,de,1.0
+US-amerikanische,US-amerikanische,MISC,,,de,1.0
+Flix mi…,Flix mi…,MISC,,,de,1.0
+Frost-Einbruch,Frost-Einbruch,MISC,,,de,1.0
+Kurzes Intermezzo,Kurzes Intermezzo,MISC,,,de,1.0
+Alpin-Auftakt,Alpin-Auftakt,MISC,,,de,1.0
+Kärntner,Kärntner,MISC,0.0,0.0,de,1.0
+Trüb,Trüb,MISC,,,de,1.0
+Vorja…,Vorja…,MISC,,,de,1.0
+Alice,Alice,MISC,,,de,1.0
+DDR-Weihnachtsfilms,DDR-Weihnachtsfilms,MISC,,,de,1.0
+Grau und Nieselregen,Grau und Nieselregen,MISC,,,de,1.0
+IndexWatch Q3 2025,IndexWatch Q3 2025,MISC,,,de,1.0
+Sichtbarkeits-Gewinner & -Verlierer,Sichtbarkeits-Gewinner & -Verlierer,MISC,,,de,1.0
+KI Sys…,KI Sys…,MISC,,,de,1.0
+Der Winter naht,Der Winter naht,MISC,,,de,1.0
+Gefahr von Schnee und Eisglätte,Gefahr von Schnee und Eisglätte,MISC,,,de,1.0
+Wochenende“,Wochenende“,MISC,,,de,1.0
+Weltcup-Saison,Weltcup-Saison,MISC,,,de,1.0
+Temper…,Temper…,MISC,,,de,1.0
+Wetter-Mix“,Wetter-Mix“,MISC,,,de,1.0
+NRW-Wetter,NRW-Wetter,MISC,,,de,1.0
+nächsten Tagen,nächsten Tagen,MISC,,,de,1.0
+Am Wochenende,Am Wochenende,MISC,,,de,1.0
+Wechselnde bis starke,Wechselnde bis starke,MISC,,,de,1.0
+Wechselnde bis starke …,Wechselnde bis starke …,MISC,,,de,1.0
+Wolken“,Wolken“,MISC,,,de,1.0
+Wintervorbereitungen“,Wintervorbereitungen“,MISC,,,de,1.0
+Tag,Tag,MISC,0.0,0.0,de,1.0
+Wintertourismus“,Wintertourismus“,MISC,,,de,1.0
+Winter-Vorbereitungen,Winter-Vorbereitungen,MISC,,,de,1.0
+Drei Haselnüss,Drei Haselnüss,MISC,,,de,1.0
+All zurückges…,All zurückges…,MISC,,,de,1.0
+Klimawandel“,Klimawandel“,MISC,,,de,1.0
+Gletsc…,Gletsc…,MISC,,,de,1.0
+minus 1 Grad,minus 1 Grad,MISC,,,de,1.0
+"Wind, Regen","Wind, Regen",MISC,,,de,1.0
+Dramatische Rettung,Dramatische Rettung,MISC,,,de,1.0
+Schneesturm auf Mount Everest,Schneesturm auf Mount Everest,MISC,,,de,1.0
+Everest-Region,Everest-Region,MISC,,,de,1.0
+Gesamtzahl der Betroffenen,Gesamtzahl der Betroffenen,MISC,,,de,1.0
+CCTV,CCTV,MISC,,,de,1.0
+Schnee und eisiger Sturm,Schnee und eisiger Sturm,MISC,,,de,1.0
+Todesfall,Todesfall,MISC,,,de,1.0
+Todesfall überschat…,Todesfall überschat…,MISC,,,de,1.0
+Preisanpassungen,Preisanpassungen,MISC,,,de,1.0
+Deutsche Weinbauern,Deutsche Weinbauern,MISC,,,de,1.0
+Tour nieselte,Tour nieselte,MISC,,,de,1.0
+Skisaison 2025/26,Skisaison 2025/26,MISC,,,de,1.0
+Aschenbrödel“,Aschenbrödel“,MISC,,,de,1.0
+Ein Adventskalender,Ein Adventskalender,MISC,,,de,1.0
+GARDENA,GARDENA,MISC,,,de,1.0
+Winter-Gäste,Winter-Gäste,MISC,,,de,1.0
+Loop One Festival,Loop One Festival,MISC,,,de,1.0
+NZZ FORMAT,NZZ FORMAT,MISC,,,de,1.0
+Internationale Investoren,Internationale Investoren,MISC,,,de,1.0
+NZZ,NZZ,MISC,,,de,1.0
+besond…,besond…,MISC,0.0,0.0,de,1.0
 Wind und Regen,Wind und Regen,MISC,,,de,1.0
-dpa,dpa,MISC,,,de,1.0
-Steam,Steam,MISC,,,de,1.0
-Wetter Bayern“,Wetter Bayern“,MISC,,,de,1.0
-glei­cher taun,glei­cher taun,MISC,,,de,1.0
+Ba…,Ba…,MISC,,,de,1.0
+Reform“,Reform“,MISC,,,de,1.0
+Corona-Zeit,Corona-Zeit,MISC,,,de,1.0
+Hause aus bald,Hause aus bald,MISC,,,de,1.0
+Karpfenzucht“,Karpfenzucht“,MISC,,,de,1.0
+Festliches Abfischen,Festliches Abfischen,MISC,,,de,1.0
+Winter-Vorherrschaft,Winter-Vorherrschaft,MISC,,,de,1.0
+The Secret,The Secret,MISC,,,de,1.0
+Ski-Saison,Ski-Saison,MISC,1.0526315789473684,0.0,de,1.0
+Prime-Versand,Prime-Versand,MISC,,,de,1.0
+Zahlungsabwicklung,Zahlungsabwicklung,MISC,,,de,1.0
+Wochenstar…,Wochenstar…,MISC,,,de,1.0
+Grad herrs…,Grad herrs…,MISC,,,de,1.0
+Gesamtweltcups…,Gesamtweltcups…,MISC,,,de,1.0
+Schwarz glänzt,Schwarz glänzt,MISC,,,de,1.0
+amerikanische,amerikanische,MISC,,,de,1.0
+DOK-FILM,DOK-FILM,MISC,,,de,1.0
+Biathlon-Show,Biathlon-Show,MISC,,,de,1.0
+Der Wind und,Der Wind und,MISC,,,de,1.0
+morgenspaziergang 20.10.2025,morgenspaziergang 20.10.2025,MISC,,,de,1.0
+ge­pos­tet.am,ge­pos­tet.am,MISC,,,de,1.0
 wars,wars,MISC,,,de,1.0
-Serien-Remake,Serien-Remake,MISC,,,de,1.0
-Black Mirror“,Black Mirror“,MISC,,,de,1.0
+glei­cher taun,glei­cher taun,MISC,,,de,1.0
+mor­gen wars,mor­gen wars,MISC,,,de,1.0
+Das große Skigebiet Feldberg im Hochschwarzwald,Das große Skigebiet Feldberg im Hochschwarzwald,MISC,,,de,1.0
+Wintersportsaison,Wintersportsaison,MISC,0.0,0.0,de,1.0
+Der goldene Herbst,Der goldene Herbst,MISC,,,de,1.0
+österreichischen,österreichischen,MISC,,,de,1.0
+KitzSki,KitzSki,MISC,,,de,1.0
+Oller Oktober,Oller Oktober,MISC,,,de,1.0
+Bomben-Zyklon,Bomben-Zyklon,MISC,,,de,1.0
+Seilbahnbetreibern,Seilbahnbetreibern,MISC,,,de,1.0
+Tagen st…,Tagen st…,MISC,,,de,1.0
+Sturm ,Sturm ,MISC,,,de,1.0
+Skigebiete …,Skigebiete …,MISC,,,de,1.0
+näc…,näc…,MISC,,,de,1.0
+Kalte Front,Kalte Front,MISC,,,de,1.0
+Der Wind,Der Wind,MISC,,,de,1.0
+Das Wetter in Berlin,Das Wetter in Berlin,MISC,,,de,1.0
+winterlich-kalten,winterlich-kalten,MISC,,,de,1.0
+Hamburg/Kiel/Schwerin,Hamburg/Kiel/Schwerin,MISC,,,de,1.0
+hochtourigen Zeit,hochtourigen Zeit,MISC,,,de,1.0
 Bayern-Wetter“,Bayern-Wetter“,MISC,,,de,1.0
 Special,Special,MISC,,,de,1.0
+Steam,Steam,MISC,,,de,1.0
 Spiele,Spiele,MISC,,,de,1.0
-Jeep,Jeep,MISC,,,de,1.0
 The Last Caretaker,The Last Caretaker,MISC,,,de,1.0
 Welt da d…,Welt da d…,MISC,,,de,1.0
 Vier Berge Ski Super Connection,Vier Berge Ski Super Connection,MISC,,,de,1.0
@@ -722,140 +783,144 @@ Vier Berge Ski Super Connection,Vier Berge Ski Super Connection,MISC,,,de,1.0
 Legend Schneeschild","LadaNiva
 Legend Schneeschild",MISC,,,de,1.0
 Jahr 2040,Jahr 2040,MISC,,,de,1.0
-hochtourigen Zeit,hochtourigen Zeit,MISC,,,de,1.0
 US-Investoren,US-Investoren,MISC,,,de,1.0
-RLP,RLP,MISC,,,de,1.0
-mor­gen wars,mor­gen wars,MISC,,,de,1.0
-geh…,geh…,MISC,,,de,1.0
-Milde Meeresluft,Milde Meeresluft,MISC,,,de,1.0
+Semmering,Semmering,MISC,0.0,0.0,de,1.0
+ägyptische,ägyptische,MISC,,,de,1.0
+Jeep,Jeep,MISC,,,de,1.0
+Jedes Jahr das gleiche,Jedes Jahr das gleiche,MISC,,,de,1.0
+niederösterreichische,niederösterreichische,MISC,,,de,1.0
+Erfurt/Offenbach,Erfurt/Offenbach,MISC,,,de,1.0
+Der Donnerstag,Der Donnerstag,MISC,,,de,1.0
+Winterdienst-Standorten,Winterdienst-Standorten,MISC,,,de,1.0
+BVG,BVG,MISC,0.0,0.0,de,1.0
+Was Sie über den Winterdienst in Berlin,Was Sie über den Winterdienst in Berlin,MISC,,,de,1.0
+Black Mirror“,Black Mirror“,MISC,,,de,1.0
+Serien-Remake,Serien-Remake,MISC,,,de,1.0
+Erdalbedo-Effekt,Erdalbedo-Effekt,MISC,,,de,1.0
+Wetter Bayern“,Wetter Bayern“,MISC,,,de,1.0
+Sofa,Sofa,MISC,,,de,1.0
+️ Ein Podcast,️ Ein Podcast,MISC,,,de,1.0
+Preischeck,Preischeck,MISC,,,de,1.0
+Woc…,Woc…,MISC,,,de,1.0
+Wetter-Bilanz“,Wetter-Bilanz“,MISC,,,de,1.0
 Rekorde“,Rekorde“,MISC,,,de,1.0
 Glatteisrisiko,Glatteisrisiko,MISC,0.0,0.0,de,1.0
 Advent in Bayern,Advent in Bayern,MISC,,,de,1.0
-österreichischen,österreichischen,MISC,,,de,1.0
 Nacht auf Samstag - Glatteis-Alarm,Nacht auf Samstag - Glatteis-Alarm,MISC,,,de,1.0
 Bödele,Bödele,MISC,1.0,0.0,de,1.0
 Mildes Wetter zum Advent,Mildes Wetter zum Advent,MISC,,,de,1.0
-Der goldene Herbst,Der goldene Herbst,MISC,,,de,1.0
 Minusgraden auf,Minusgraden auf,MISC,,,de,1.0
-Wintersportsaison,Wintersportsaison,MISC,0.0,0.0,de,1.0
-Das große Skigebiet Feldberg im Hochschwarzwald,Das große Skigebiet Feldberg im Hochschwarzwald,MISC,,,de,1.0
 Kein Glühwein-Wetter,Kein Glühwein-Wetter,MISC,,,de,1.0
 Ersten Advent,Ersten Advent,MISC,,,de,1.0
 Milde Temperaturen und Regen,Milde Temperaturen und Regen,MISC,,,de,1.0
 Advent in Deutschland,Advent in Deutschland,MISC,,,de,1.0
-ägyptische,ägyptische,MISC,,,de,1.0
-Jedes Jahr das gleiche,Jedes Jahr das gleiche,MISC,,,de,1.0
-Os…,Os…,MISC,,,de,1.0
-"WALTER WILLE
-","WALTER WILLE
-",MISC,,,de,1.0
+Milde Meeresluft,Milde Meeresluft,MISC,,,de,1.0
+geh…,geh…,MISC,,,de,1.0
+RLP,RLP,MISC,,,de,1.0
+Wetterdienst,Wetterdienst,MISC,,,de,1.0
+Nikolaustag,Nikolaustag,MISC,,,de,1.0
+Nikolaustag“,Nikolaustag“,MISC,,,de,1.0
+Looks du dieses Jahr auf der Piste,Looks du dieses Jahr auf der Piste,MISC,,,de,1.0
+Weihnachtslieder,Weihnachtslieder,MISC,,,de,1.0
+Nebel und grauer Himmel,Nebel und grauer Himmel,MISC,,,de,1.0
+Advent der Winter,Advent der Winter,MISC,,,de,1.0
+BILD,BILD,MISC,,,de,1.0
+DWD-Wettermeldung“,DWD-Wettermeldung“,MISC,,,de,1.0
+DHL-Zusteller,DHL-Zusteller,MISC,,,de,1.0
+sozialen,sozialen,MISC,,,de,1.0
+DHL-Lieferanten,DHL-Lieferanten,MISC,,,de,1.0
+picture alliance/dpa/Jens K…,picture alliance/dpa/Jens K…,MISC,,,de,1.0
+T…,T…,MISC,0.0,0.0,de,1.0
+Luftverkehr“,Luftverkehr“,MISC,,,de,1.0
+Die neue Loischkopfbahn,Die neue Loischkopfbahn,MISC,,,de,1.0
+Wintersport-Saison,Wintersport-Saison,MISC,,,de,1.0
+D… IbizaHEUTE,D… IbizaHEUTE,MISC,,,de,1.0
+deutschsprachige,deutschsprachige,MISC,,,de,1.0
+Plusgraden,Plusgraden,MISC,,,de,1.0
+Nur Hauch von Schnee,Nur Hauch von Schnee,MISC,,,de,1.0
+Weißer Heiligabend,Weißer Heiligabend,MISC,,,de,1.0
+imageBROKER,imageBROKER,MISC,,,de,1.0
+Abo verspr…,Abo verspr…,MISC,,,de,1.0
+Cyber-Angriffe,Cyber-Angriffe,MISC,,,de,1.0
+Nikolaus-Wochenende,Nikolaus-Wochenende,MISC,,,de,1.0
+tagesschau,tagesschau,MISC,,,de,1.0
+Gutes Jahr für Nordmanntannen,Gutes Jahr für Nordmanntannen,MISC,,,de,1.0
+Herbst in Kärnten,Herbst in Kärnten,MISC,,,de,1.0
+Ein Bericht des Ministeriums für Land- und Forstwirtschaft,Ein Bericht des Ministeriums für Land- und Forstwirtschaft,MISC,,,de,1.0
+Titanic,Titanic,MISC,,,de,1.0
 "Instagram
 ","Instagram
 ",MISC,,,de,1.0
 Weihnachtsmarkt,Weihnachtsmarkt,MISC,0.0,0.0,de,1.0
-Wintervorbereitungen“,Wintervorbereitungen“,MISC,,,de,1.0
 Warmes Winterwetter“,Warmes Winterwetter“,MISC,,,de,1.0
 italienischen,italienischen,MISC,,,de,1.0
 norditalienischen,norditalienischen,MISC,,,de,1.0
-Wolken“,Wolken“,MISC,,,de,1.0
-Wechselnde bis starke …,Wechselnde bis starke …,MISC,,,de,1.0
-ge­pos­tet.am,ge­pos­tet.am,MISC,,,de,1.0
-Wechselnde bis starke,Wechselnde bis starke,MISC,,,de,1.0
-nuklearbetriebener,nuklearbetriebener,MISC,,,de,1.0
-russischer,russischer,MISC,,,de,1.0
+Das schmutzige Geheimnis der Skipisten,Das schmutzige Geheimnis der Skipisten,MISC,,,de,1.0
+"WALTER WILLE
+","WALTER WILLE
+",MISC,,,de,1.0
 LNG-Tanker,LNG-Tanker,MISC,,,de,1.0
 Buran,Buran,MISC,,,de,1.0
 Barentsobserver,Barentsobserver,MISC,,,de,1.0
-Am Wochenende,Am Wochenende,MISC,,,de,1.0
-Titanic,Titanic,MISC,,,de,1.0
-GARDENA,GARDENA,MISC,,,de,1.0
-Ein Bericht des Ministeriums für Land- und Forstwirtschaft,Ein Bericht des Ministeriums für Land- und Forstwirtschaft,MISC,,,de,1.0
-Herbst in Kärnten,Herbst in Kärnten,MISC,,,de,1.0
-niederösterreichische,niederösterreichische,MISC,,,de,1.0
-Erfurt/Offenbach,Erfurt/Offenbach,MISC,,,de,1.0
-Der Donnerstag,Der Donnerstag,MISC,,,de,1.0
-morgenspaziergang 20.10.2025,morgenspaziergang 20.10.2025,MISC,,,de,1.0
-Winterdienst-Standorten,Winterdienst-Standorten,MISC,,,de,1.0
-BVG,BVG,MISC,0.0,0.0,de,1.0
-Biathlon-Show,Biathlon-Show,MISC,,,de,1.0
-Gr…,Gr…,MISC,,,de,1.0
-Was Sie über den Winterdienst in Berlin,Was Sie über den Winterdienst in Berlin,MISC,,,de,1.0
-Winter-Gäste,Winter-Gäste,MISC,,,de,1.0
-Wetterdienst,Wetterdienst,MISC,,,de,1.0
-Nikolaustag,Nikolaustag,MISC,,,de,1.0
-Nikolaustag“,Nikolaustag“,MISC,,,de,1.0
-Nikolaus-Wochenende,Nikolaus-Wochenende,MISC,,,de,1.0
-Gutes Jahr für Nordmanntannen,Gutes Jahr für Nordmanntannen,MISC,,,de,1.0
-Wetter-Bilanz“,Wetter-Bilanz“,MISC,,,de,1.0
-Woc…,Woc…,MISC,,,de,1.0
-Preischeck,Preischeck,MISC,,,de,1.0
-NZZ FORMAT,NZZ FORMAT,MISC,,,de,1.0
-Internationale Investoren,Internationale Investoren,MISC,,,de,1.0
-Unfall in Bayern,Unfall in Bayern,MISC,,,de,1.0
-Drei Tote,Drei Tote,MISC,,,de,1.0
-Erkenntnissen d…,Erkenntnissen d…,MISC,,,de,1.0
-amerikanische,amerikanische,MISC,,,de,1.0
-sächsischen,sächsischen,MISC,,,de,1.0
-Autobahnpolizei,Autobahnpolizei,MISC,,,de,1.0
-DOK-FILM,DOK-FILM,MISC,,,de,1.0
-️ Ein Podcast,️ Ein Podcast,MISC,,,de,1.0
-Eisregen und Schnee“,Eisregen und Schnee“,MISC,,,de,1.0
-Vier Tote bei Unfällen,Vier Tote bei Unfällen,MISC,,,de,1.0
-Großes Trümmerfeld“,Großes Trümmerfeld“,MISC,,,de,1.0
-Der Wind und,Der Wind und,MISC,,,de,1.0
-Und die Gefahr,Und die Gefahr,MISC,,,de,1.0
-Am Morgen,Am Morgen,MISC,,,de,1.0
-Der Wind,Der Wind,MISC,,,de,1.0
-Berufsverkehr“,Berufsverkehr“,MISC,,,de,1.0
-NZZ,NZZ,MISC,,,de,1.0
-nan,nan,MISC,,,de,1.0
-Chaos auf,Chaos auf,MISC,,,de,1.0
+nuklearbetriebener,nuklearbetriebener,MISC,,,de,1.0
+russischer,russischer,MISC,,,de,1.0
+dpa,dpa,MISC,,,de,1.0
+Minus 30 Grad,Minus 30 Grad,MISC,,,de,1.0
+Monat la…,Monat la…,MISC,,,de,1.0
+Tag über fros…,Tag über fros…,MISC,,,de,1.0
+Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1.0
+Winterwetter in Bayern,Winterwetter in Bayern,MISC,,,de,1.0
+Das Wetter,Das Wetter,MISC,,,de,1.0
+Kommune“,Kommune“,MISC,,,de,1.0
+Saison“,Saison“,MISC,,,de,1.0
+Behör…,Behör…,MISC,,,de,1.0
+Minusgrade und Schneeflocken,Minusgrade und Schneeflocken,MISC,,,de,1.0
+Zugspitz-Gipfel,Zugspitz-Gipfel,MISC,,,de,1.0
+Gletscherskigebiete,Gletscherskigebiete,MISC,,,de,1.0
+Skiopening…,Skiopening…,MISC,,,de,1.0
+vo…,vo…,MISC,,,de,1.0
+Eisige Temperaturen und Glatteis,Eisige Temperaturen und Glatteis,MISC,,,de,1.0
+Rh…,Rh…,MISC,0.0,0.0,de,1.0
+Regen“,Regen“,MISC,,,de,1.0
+Montagfrüh Schneeglätte“,Montagfrüh Schneeglätte“,MISC,,,de,1.0
+Winterwetter im Herbst,Winterwetter im Herbst,MISC,,,de,1.0
+Neuer Schnee,Neuer Schnee,MISC,,,de,1.0
+Chancen auf …,Chancen auf …,MISC,,,de,1.0
+Probefahrt,Probefahrt,MISC,,,de,1.0
+ersten Schnee,ersten Schnee,MISC,,,de,1.0
+Os…,Os…,MISC,,,de,1.0
 Mann rutscht am Gleis,Mann rutscht am Gleis,MISC,,,de,1.0
 Tragischer Unfall in Leer,Tragischer Unfall in Leer,MISC,,,de,1.0
+November-Sommer,November-Sommer,MISC,0.0,1.0,de,1.0
+IMAGO/Rene,IMAGO/Rene,MISC,,,de,1.0
+Winterdienst-Fahrzeug,Winterdienst-Fahrzeug,MISC,,,de,1.0
+Liegenbleiben wird der Schnee,Liegenbleiben wird der Schnee,MISC,,,de,1.0
+Countdown für Österreichs Skisaison,Countdown für Österreichs Skisaison,MISC,,,de,1.0
+Ein Schulbus,Ein Schulbus,MISC,,,de,1.0
+Wintersportgebiete“,Wintersportgebiete“,MISC,,,de,1.0
+hessische,hessische,MISC,,,de,1.0
+Salz ist…,Salz ist…,MISC,,,de,1.0
+Weihnachtskomödie made in Aus…,Weihnachtskomödie made in Aus…,MISC,,,de,1.0
+Minusgrade in der Nacht“,Minusgrade in der Nacht“,MISC,,,de,1.0
+minus 10 Grad,minus 10 Grad,MISC,,,de,1.0
+Sole i…,Sole i…,MISC,,,de,1.0
+Ganz schön weiß - Schneefälle,Ganz schön weiß - Schneefälle,MISC,,,de,1.0
+Wiener,Wiener,MISC,,,de,1.0
+minus 10 Grad“,minus 10 Grad“,MISC,,,de,1.0
+Minus 10 Grad,Minus 10 Grad,MISC,,,de,1.0
+Erbeskopf“,Erbeskopf“,MISC,,,de,1.0
+Silvretta Montafon,Silvretta Montafon,MISC,,,de,1.0
+Dauerfrost,Dauerfrost,MISC,0.0,0.0,de,1.0
+Auf Schnee folgt Sonne,Auf Schnee folgt Sonne,MISC,,,de,1.0
+Sonne“,Sonne“,MISC,,,de,1.0
+Wetter AM Wochenende,Wetter AM Wochenende,MISC,,,de,1.0
 Saarl…,Saarl…,MISC,,,de,1.0
-besond…,besond…,MISC,0.0,0.0,de,1.0
 Winterliches Wetter: Schnee und Eis,Winterliches Wetter: Schnee und Eis,MISC,,,de,1.0
 Verkehrsbehinderungen“,Verkehrsbehinderungen“,MISC,,,de,1.0
-Tempo 60,Tempo 60,MISC,,,de,1.0
-Deutsche Ba…,Deutsche Ba…,MISC,,,de,1.0
-Zu Schnee und Eis,Zu Schnee und Eis,MISC,,,de,1.0
-Teil Chaos,Teil Chaos,MISC,,,de,1.0
-Nacht z…,Nacht z…,MISC,,,de,1.0
-Erster Schnee“,Erster Schnee“,MISC,,,de,1.0
-Allein i…,Allein i…,MISC,,,de,1.0
-Polizeidienststellen,Polizeidienststellen,MISC,0.0,0.0,de,1.0
-"Unfällen
-","Unfällen
-",MISC,,,de,1.0
-Kalte Front,Kalte Front,MISC,,,de,1.0
-Pinguin-Gang,Pinguin-Gang,MISC,,,de,1.0
-sein</li><li,sein</li><li,MISC,,,de,1.0
-Schnee,Schnee,MISC,-0.014970059880239531,0.0,de,1.0
-Tagen st…,Tagen st…,MISC,,,de,1.0
-Fünf-Minuten-Weg,Fünf-Minuten-Weg,MISC,-0.7,0.0,de,1.0
-russisches,russisches,MISC,,,de,1.0
-Berliner Senat,Berliner Senat,MISC,,,de,1.0
-Winter Bayern“,Winter Bayern“,MISC,,,de,1.0
-Winterliche Tage,Winterliche Tage,MISC,,,de,1.0
-Regen“,Regen“,MISC,,,de,1.0
-Dienstagnachmittag,Dienstagnachmittag,MISC,,,de,1.0
-Semmering,Semmering,MISC,0.0,0.0,de,1.0
-Seilbahnbetreibern,Seilbahnbetreibern,MISC,,,de,1.0
-Bomben-Zyklon,Bomben-Zyklon,MISC,,,de,1.0
-Oller Oktober,Oller Oktober,MISC,,,de,1.0
-KitzSki,KitzSki,MISC,,,de,1.0
-Tag über fros…,Tag über fros…,MISC,,,de,1.0
-Sofa,Sofa,MISC,,,de,1.0
-Plöckenpass-Öffnung,Plöckenpass-Öffnung,MISC,,,de,1.0
-Italien-Tief,Italien-Tief,MISC,,,de,1.0
 aufpassen</li><li,aufpassen</li><li,MISC,,,de,1.0
-Baden-Württ…,Baden-Württ…,MISC,,,de,1.0
-näc…,näc…,MISC,,,de,1.0
-So früh wie nie,So früh wie nie,MISC,,,de,1.0
 Montagnachmittag,Montagnachmittag,MISC,0.0,1.0,de,1.0
 Der erste Schnee des Winters,Der erste Schnee des Winters,MISC,,,de,1.0
 Verl…,Verl…,MISC,,,de,1.0
-Skigebiete …,Skigebiete …,MISC,,,de,1.0
 Vorsicht bei Glatteis,Vorsicht bei Glatteis,MISC,,,de,1.0
 Schnee und Blitzeis,Schnee und Blitzeis,MISC,,,de,1.0
 Krankenh…,Krankenh…,MISC,,,de,1.0
@@ -863,6 +928,38 @@ Wetter,Wetter,MISC,,,de,1.0
 Bis wann der Schnee,Bis wann der Schnee,MISC,,,de,1.0
 Wetter - Vier Tote,Wetter - Vier Tote,MISC,,,de,1.0
 Glätte-Unfällen,Glätte-Unfällen,MISC,,,de,1.0
-Sturm ,Sturm ,MISC,,,de,1.0
-Erdalbedo-Effekt,Erdalbedo-Effekt,MISC,,,de,1.0
-TTS Player,TTS Player,MISC,,,de,1.0
+Baden-Württ…,Baden-Württ…,MISC,,,de,1.0
+Italien-Tief,Italien-Tief,MISC,,,de,1.0
+Schnee,Schnee,MISC,-0.013513513513513514,0.0,de,1.0
+Plöckenpass-Öffnung,Plöckenpass-Öffnung,MISC,,,de,1.0
+Fünf-Minuten-Weg,Fünf-Minuten-Weg,MISC,-0.7,0.0,de,1.0
+russisches,russisches,MISC,,,de,1.0
+Berliner Senat,Berliner Senat,MISC,,,de,1.0
+Winter Bayern“,Winter Bayern“,MISC,,,de,1.0
+Winterliche Tage,Winterliche Tage,MISC,,,de,1.0
+So früh wie nie,So früh wie nie,MISC,,,de,1.0
+sein</li><li,sein</li><li,MISC,,,de,1.0
+Tempo 60,Tempo 60,MISC,,,de,1.0
+Am Morgen,Am Morgen,MISC,,,de,1.0
+Deutsche Ba…,Deutsche Ba…,MISC,,,de,1.0
+Zu Schnee und Eis,Zu Schnee und Eis,MISC,,,de,1.0
+Teil Chaos,Teil Chaos,MISC,,,de,1.0
+Erster Schnee“,Erster Schnee“,MISC,,,de,1.0
+Allein i…,Allein i…,MISC,,,de,1.0
+Polizeidienststellen,Polizeidienststellen,MISC,0.0,0.0,de,1.0
+"Unfällen
+","Unfällen
+",MISC,,,de,1.0
+Chaos auf,Chaos auf,MISC,,,de,1.0
+nan,nan,MISC,,,de,1.0
+Berufsverkehr“,Berufsverkehr“,MISC,,,de,1.0
+Unfall in Bayern,Unfall in Bayern,MISC,,,de,1.0
+Drei Tote,Drei Tote,MISC,,,de,1.0
+Erkenntnissen d…,Erkenntnissen d…,MISC,,,de,1.0
+sächsischen,sächsischen,MISC,,,de,1.0
+Autobahnpolizei,Autobahnpolizei,MISC,,,de,1.0
+Eisregen und Schnee“,Eisregen und Schnee“,MISC,,,de,1.0
+Vier Tote bei Unfällen,Vier Tote bei Unfällen,MISC,,,de,1.0
+Großes Trümmerfeld“,Großes Trümmerfeld“,MISC,,,de,1.0
+Und die Gefahr,Und die Gefahr,MISC,,,de,1.0
+Trüber Nebel und Temperaturen,Trüber Nebel und Temperaturen,MISC,,,de,1.0
