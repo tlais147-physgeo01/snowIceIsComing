@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,3,0.2156015316920244
 'Frost',de,Hazard,#577515,#477515,3,0.2084527838552849
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.1932930252604184
-'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.1876733784698476
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.1824549652780918
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.1759286995112077
+'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1595228216993705
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.092261385443324
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0445054466372819
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0304670564910969
