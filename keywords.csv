@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.1824549652780918
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.1759286995112077
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1595228216993705
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.092261385443324
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.12042232762682539
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0445054466372819
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0270971180174323
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0157083306587012
