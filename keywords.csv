@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Glatteis',de,Hazard,#677515,#477515,3,0.3169106363988812
 'Schnee',de,Hazard,#477515,#477515,3,0.3040930103908884
 'Eisregen',de,Hazard,#477515,#679515,3,0.3032564851251537
+'Glatteis',de,Hazard,#677515,#477515,3,0.28661037321177624
 'Schneematsch',de,Hazard,#477515,#579515,3,0.2850042897701362
 'Schneefall',de,Hazard,#476515,#477515,3,0.2775040513440768
 'überfrierende Nässe',de,Hazard,#479515,#477515,3,0.2690025256818106
