@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.3040930103908884
 'Eisregen',de,Hazard,#477515,#679515,3,0.3032564851251537
-'Glatteis',de,Hazard,#677515,#477515,3,0.28661037321177624
+'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.28875921321230535
+'Glatteis',de,Hazard,#677515,#477515,3,0.2866103732117762
 'Schneematsch',de,Hazard,#477515,#579515,3,0.2850042897701362
 'Schneefall',de,Hazard,#476515,#477515,3,0.2775040513440768
 'überfrierende Nässe',de,Hazard,#479515,#477515,3,0.2690025256818106
-'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.266511201105386
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,2,0.2329812551595224
 'Skigebiete',de,Impacts,#a705a5,#a715b5,3,0.2257272865483678
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,3,0.2156015316920244
