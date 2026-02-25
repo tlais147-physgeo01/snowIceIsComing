@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.1759286995112077
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1595228216993705
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.155087155486378
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.1038591284828015
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.08978040921038127
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0445054466372819
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0242326703148174
-'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.01395214105989602
+'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.013952141059896
