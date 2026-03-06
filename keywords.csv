@@ -11,9 +11,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.2037941111487749
 'Frost',de,Hazard,#577515,#477515,3,0.2029495609945342
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.198034156885594
+'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.189635922535374
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.1826328023469726
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.1759286995112077
-'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1595228216993705
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.077513467828824
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.041284004545666
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0217978897675947
