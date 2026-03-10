@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.1826328023469726
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,2,0.1095783113024555
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.077513467828824
-'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.03429065453424368
-'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0117905929157748
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0342906545342436
+'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.01122212397840858
