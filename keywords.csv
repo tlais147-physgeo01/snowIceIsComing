@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.2789978587390069
+'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.2588247549281558
 'Winterdienst',de,Mitigation,#b76555,#a76535,3,0.2470154647494864
 'Glatteis',de,Hazard,#677515,#477515,3,0.2427216257870378
-'Schnee',de,Hazard,#477515,#477515,3,0.23813117234074233
+'Schnee',de,Hazard,#477515,#477515,3,0.2381311723407423
 'Schneematsch',de,Hazard,#477515,#579515,3,0.2250114005158562
 'Schneefall',de,Hazard,#476515,#477515,3,0.2217400546512563
 'Streusalz',de,Mitigation,#a76535,#a76535,2,0.2173645086111332
