@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.1381257659368745
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.097537870414965
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0642456983244001
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.03112905970701897
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.026459700750966063
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0183635138519571
