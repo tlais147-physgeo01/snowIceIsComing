@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.1794361996355558
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.176623806280641
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.1754383205979381
-'Streusalz',de,Mitigation,#a76535,#a76535,1,0.1381257659368745
+'Streusalz',de,Mitigation,#a76535,#a76535,1,0.14378068545810804
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0829071898527202
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0642456983244001
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.026459700750966
