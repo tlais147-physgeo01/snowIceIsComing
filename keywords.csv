@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.23825030007119274
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.2324711756395365
 'Schnee',de,Hazard,#477515,#477515,3,0.1968459019219482
 'Glatteis',de,Hazard,#677515,#477515,2,0.1964737405580555
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,3,0.1929808950756157
 'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.1921303246090901
 'Schneematsch',de,Hazard,#477515,#579515,2,0.1912602904384777
-'Wintereinbruch',de,Causes,#434fbf,#332faf,3,0.189780131099799
 'Frost',de,Hazard,#577515,#477515,3,0.1897379241180813
 'Eisregen',de,Hazard,#477515,#679515,2,0.1840409430105951
 'Schneefall',de,Hazard,#476515,#477515,3,0.1828815808854238
