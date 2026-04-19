@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.1754383205979381
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.1661087766333711
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.1244638076393917
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.07047111137481217
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0704711113748121
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0642456983244001
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.026459700750966
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0224907456383211
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0162090467741635
