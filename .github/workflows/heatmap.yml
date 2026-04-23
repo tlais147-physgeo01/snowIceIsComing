@@ -10,7 +10,7 @@ on:
 #    weekly #m h d/m m d/w 
 #    - cron:  '30 1 * * 1'
 #    daily #m h d/m m d/w 
-    - cron:  '10 2 * * *'
+    - cron:  '05 2 * * *'
    
 jobs:
   docker-run-action:
