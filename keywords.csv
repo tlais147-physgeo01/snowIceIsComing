@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.176623806280641
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.1754383205979381
 'Frost',de,Hazard,#577515,#477515,3,0.1744164786821873
-'Schneefall',de,Hazard,#476515,#477515,3,0.1685829769344284
 'Glatteis',de,Hazard,#677515,#477515,1,0.1670030244743471
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.1661087766333711
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.1633108959177265
+'Schneefall',de,Hazard,#476515,#477515,3,0.1564290435760823
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.1244638076393917
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0909813361107448
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0704711113748121
