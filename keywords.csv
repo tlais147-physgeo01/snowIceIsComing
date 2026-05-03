@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#577515,#477515,3,0.1532117018798592
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.1504727075082473
 'Eisregen',de,Hazard,#477515,#679515,1,0.1483335083251549
-'Kaltfront',de,Causes,#532faf,#332faf,1,0.14675859089459856
+'Kaltfront',de,Causes,#532faf,#332faf,1,0.1467585908945985
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1456273892680606
-'Schneefall',de,Hazard,#476515,#477515,3,0.1379206142369662
 'Schneematsch',de,Hazard,#477515,#579515,1,0.1318662320948781
+'Schneefall',de,Hazard,#476515,#477515,3,0.12627413619233036
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0951981282694604
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0824487467491039
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0509153779683016
