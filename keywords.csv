@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1251334158778515
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0951981282694604
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0824487467491039
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0432780712730563
-'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.01104799020018305
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.03678636058209785
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.011047990200183
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.007210017750007
