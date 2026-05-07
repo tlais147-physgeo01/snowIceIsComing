@@ -7,14 +7,14 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#577515,#477515,3,0.1532117018798592
 'Wintereinbruch',de,Causes,#434fbf,#332faf,2,0.1490226417271331
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.1467585908945985
-'Glatteis',de,Hazard,#677515,#477515,1,0.144652840803195
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.1279018013820101
 'Eisregen',de,Hazard,#477515,#679515,1,0.1263835120763816
 'Schneefall',de,Hazard,#476515,#477515,3,0.1262741361923303
+'Glatteis',de,Hazard,#677515,#477515,2,0.12610522968271573
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1251334158778515
 'Schneematsch',de,Hazard,#477515,#579515,1,0.1123863272806463
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0951981282694604
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0824487467491039
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.03126840649478313
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0312684064947831
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.011047990200183
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.007210017750007
