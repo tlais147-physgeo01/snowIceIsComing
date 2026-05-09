@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.161661591515087
-'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.16031458862543962
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.1576927601383654
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.1575462123512232
+'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.14940064351344184
 'Wintereinbruch',de,Causes,#434fbf,#332faf,2,0.1490226417271331
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.1467585908945985
 'Frost',de,Hazard,#577515,#477515,3,0.1433685447796985
