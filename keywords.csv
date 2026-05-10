@@ -8,10 +8,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Frost',de,Hazard,#577515,#477515,3,0.1433685447796985
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.1404644265300675
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.1279018013820101
-'Eisregen',de,Hazard,#477515,#679515,1,0.1263835120763816
 'Schneefall',de,Hazard,#476515,#477515,3,0.1262741361923303
 'Glatteis',de,Hazard,#677515,#477515,2,0.1261052296827157
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.1251334158778515
+'Eisregen',de,Hazard,#477515,#679515,1,0.10757600026492437
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,2,0.1016032833081668
 'Schneematsch',de,Hazard,#477515,#579515,1,0.0958284081885493
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0951981282694604
