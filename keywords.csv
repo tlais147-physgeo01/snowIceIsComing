@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneematsch',de,Hazard,#477515,#579515,1,0.0958284081885493
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0831686340290413
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0192027101386085
-'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.00954080667015555
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.004427852150723
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0095408066701555
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.00376367432811455
