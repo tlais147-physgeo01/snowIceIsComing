@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0987824854534919
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0831686340290413
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0748207755691872
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.01387395807514462
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.01179286436387291
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0037636743281145
