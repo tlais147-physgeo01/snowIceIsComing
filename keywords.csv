@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.16221426376193
-'Frost',de,Hazard,#577515,#477515,3,0.1433685447796985
+'Frost',de,Hazard,#577515,#477515,3,0.1309105021536528
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.1284951772604087
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.1276025421884616
 'Schneefall',de,Hazard,#476515,#477515,3,0.1262741361923303
@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0987824854534919
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0831686340290413
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0748207755691872
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.010023934709291965
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0100239347092919
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0037636743281145
