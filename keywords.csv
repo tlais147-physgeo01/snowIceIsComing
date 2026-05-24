@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefall',de,Hazard,#476515,#477515,2,0.1073334507634807
 'Schneematsch',de,Hazard,#477515,#579515,1,0.0995292669602669
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0987824854534919
-'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.09609890903366558
+'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.0960989090336655
 'Eisregen',de,Hazard,#477515,#679515,1,0.0914396002251856
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,2,0.0840885018449407
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0831686340290413
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0640477042338091
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0072422928274633
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0031991231788973
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.002719254702062705
