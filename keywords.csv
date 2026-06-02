@@ -1,7 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.1194256363555741
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.1076821854057274
-'Frost',de,Hazard,#577515,#477515,3,0.1042252084783508
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.1029335710942796
 'Schneematsch',de,Hazard,#477515,#579515,1,0.1026749969162268
 'Schnee',de,Hazard,#477515,#477515,3,0.096786217905399
@@ -9,7 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Hazard,#677515,#477515,2,0.096001517445762
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.0946030086268978
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.0944880708206452
-'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.09240905149850223
+'Frost',de,Hazard,#577515,#477515,3,0.09354495220659818
+'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0924090514985022
 'Schneefall',de,Hazard,#476515,#477515,2,0.0913839431489586
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0857652926354681
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0831686340290413
