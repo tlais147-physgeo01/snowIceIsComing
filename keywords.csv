@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.0946030086268978
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.0944880708206452
 'Frost',de,Hazard,#577515,#477515,3,0.0935449522065981
-'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.09272997759486828
+'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.0927299775948682
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0924090514985022
 'Schneefall',de,Hazard,#476515,#477515,2,0.0913839431489586
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0857652926354681
@@ -17,4 +17,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,2,0.0743255115681995
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0403410221250879
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0044476730826658
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0016699622939041
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.001419467949818485
