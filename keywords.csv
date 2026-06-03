@@ -11,10 +11,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.0927299775948682
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0924090514985022
 'Schneefall',de,Hazard,#476515,#477515,2,0.0913839431489586
-'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0857652926354681
+'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.08682339101287516
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0831686340290413
 'Eisregen',de,Hazard,#477515,#679515,1,0.0777236601914077
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,2,0.0743255115681995
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0403410221250879
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0044476730826658
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0012065477573456398
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0012065477573456
