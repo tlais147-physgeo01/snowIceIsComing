@@ -1,8 +1,8 @@
 ,phrase,label,sentiment,subjectivity,language,count
 "Sturmtief ""Elli","Sturmtief ""Elli",PER,-0.19178082191780818,0.0,de,7.300000000000001
 Kai Wegner,Kai Wegner,PER,0.07534246575342464,0.136986301369863,de,7.300000000000001
-Marco Odermatt,Marco Odermatt,PER,0.9791666666666667,0.0,de,4.8
 Björn Alexander,Björn Alexander,PER,0.0,0.0,de,4.7
+Marco Odermatt,Marco Odermatt,PER,1.0,0.0,de,4.7
 Alarmstufe Rot,Alarmstufe Rot,PER,0.7608695652173914,0.0,de,4.6
 Jan Hofer,Jan Hofer,PER,-0.5217391304347826,0.0,de,4.6
 Laura Wontorra,Laura Wontorra,PER,-0.04347826086956523,0.14492753623188406,de,4.6
@@ -253,8 +253,8 @@ Joachim Büü,Joachim Büü,PER,0.0,0.0,de,1.0
 Eiscafés Dolce,Eiscafés Dolce,PER,0.0,1.0,de,1.0
 "Wintersturm ""Elli","Wintersturm ""Elli",PER,-1.0,0.0,de,1.0
 Gunnar Schupelius,Gunnar Schupelius,PER,0.0,0.0,de,1.0
-Verkehrsminister Schnieder,Verkehrsminister Schnieder,PER,-0.7,0.0,de,1.0
 Winterausfall Fehleranalyse,Winterausfall Fehleranalyse,PER,0.0,0.0,de,1.0
+Verkehrsminister Schnieder,Verkehrsminister Schnieder,PER,-0.7,0.0,de,1.0
 Liveblog zu Schnee und Eis,Liveblog zu Schnee und Eis,PER,-1.0,0.0,de,1.0
 Senatorin Ute Bonde,Senatorin Ute Bonde,PER,0.0,0.0,de,1.0
 Mulmige Erinner,Mulmige Erinner,PER,-1.0,0.0,de,1.0
