@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneematsch',de,Hazard,#477515,#579515,1,0.1156434375584594
-'Schneefall',de,Hazard,#476515,#477515,2,0.11179701703875891
+'Schneefall',de,Hazard,#476515,#477515,2,0.10404669448294507
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.0895865417521644
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0868233910128751
 'Frost',de,Hazard,#577515,#477515,3,0.0844659543756083
