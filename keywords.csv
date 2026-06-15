@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneematsch',de,Hazard,#477515,#579515,1,0.0984469369246904
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,3,0.0895865417521644
-'Schneefall',de,Hazard,#476515,#477515,1,0.08844017031050325
+'Schneefall',de,Hazard,#476515,#477515,1,0.0884401703105032
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0868233910128751
 'Frost',de,Hazard,#577515,#477515,3,0.0844659543756083
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,2,0.0834625343079246
@@ -17,4 +17,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.055357967858024
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0297014439853759
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0027314272318921
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0010255655937437
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.000871730754682145
