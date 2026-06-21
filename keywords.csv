@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kaltfront',de,Causes,#532faf,#332faf,2,0.09098872178136498
+'Kaltfront',de,Causes,#532faf,#332faf,2,0.0909887217813649
 'Glatteis',de,Hazard,#677515,#477515,2,0.0849343703772903
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0775873183893668
 'Frost',de,Hazard,#577515,#477515,3,0.076748086219267
@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0526261117717656
 'Eisregen',de,Hazard,#477515,#679515,1,0.0477320428150482
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0253962423875695
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0027314272318921
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0023217131471082847
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0006298254702577
