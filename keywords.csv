@@ -1,11 +1,11 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
+'Kaltfront',de,Causes,#532faf,#332faf,2,0.09098872178136498
 'Glatteis',de,Hazard,#677515,#477515,2,0.0849343703772903
-'Kaltfront',de,Causes,#532faf,#332faf,1,0.0815050598497342
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0775873183893668
 'Frost',de,Hazard,#577515,#477515,3,0.076748086219267
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0759000923609438
 'Schnee',de,Hazard,#477515,#477515,3,0.0721866516586531
-'Schneematsch',de,Hazard,#477515,#579515,1,0.07196049517808878
+'Schneematsch',de,Hazard,#477515,#579515,1,0.0719604951780887
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0717434439246851
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0709433941617359
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.0692789437631843
