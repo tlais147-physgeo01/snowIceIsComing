@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Winterdienst',de,Mitigation,#b76555,#a76535,2,0.07302400497830738
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0717434439246851
 'Schnee',de,Hazard,#477515,#477515,3,0.0704034930007642
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0663992656309617
 'Frost',de,Hazard,#577515,#477515,3,0.0633792807846097
 'Glatteis',de,Hazard,#677515,#477515,2,0.0621280668829532
+'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.062070719231561204
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0619520500374755
 'Schneematsch',de,Hazard,#477515,#579515,1,0.0616164659013753
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.0606872821987066
