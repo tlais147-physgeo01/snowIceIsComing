@@ -9,10 +9,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneematsch',de,Hazard,#477515,#579515,1,0.052974056016169
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.0528040675850085
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.052249087174381
-'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0502459718046987
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0488060526683697
 'Eisregen',de,Hazard,#477515,#679515,1,0.0477320428150482
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0462323450060007
+'Streusalz',de,Mitigation,#a76535,#a76535,1,0.04435924103399389
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0419913221917645
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0410023870729713
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0132569972528261
