@@ -56,8 +56,8 @@ Wetter-Vorhersage“,Wetter-Vorhersage“,MISC,,,de,6.4
 DWD-Vorhersage,DWD-Vorhersage,MISC,,,de,6.4
 Der Schnee,Der Schnee,MISC,,,de,6.4
 Der Winter,Der Winter,MISC,,,de,6.4
-Schnee“,Schnee“,MISC,0.0,1.0,de,6.4
 Ostermontag,Ostermontag,MISC,,,de,6.4
+Schnee“,Schnee“,MISC,0.0,1.0,de,6.4
 Skisaison,Skisaison,MISC,2.7,2.0,de,5.7
 TTS-Player,TTS-Player,MISC,0.18421052631578946,0.2631578947368421,de,5.5
 CDU-,CDU-,MISC,,,de,5.5
@@ -68,12 +68,12 @@ MV“,MV“,MISC,,,de,5.5
 russischen,russischen,MISC,,,de,5.5
 italienischen,italienischen,MISC,,,de,5.5
 Olympischen Winterspiele,Olympischen Winterspiele,MISC,,,de,4.7
-Gehwege,Gehwege,MISC,,,de,4.6
-Minusgraden,Minusgraden,MISC,,,de,4.6
+Leise rieselt der Schnee,Leise rieselt der Schnee,MISC,,,de,4.6
 sächsischen,sächsischen,MISC,,,de,4.6
 Chancen auf Schnee,Chancen auf Schnee,MISC,,,de,4.6
 Wetterausblick“,Wetterausblick“,MISC,,,de,4.6
-Leise rieselt der Schnee,Leise rieselt der Schnee,MISC,,,de,4.6
+Gehwege,Gehwege,MISC,,,de,4.6
+Minusgraden,Minusgraden,MISC,,,de,4.6
 Null Grad,Null Grad,MISC,,,de,4.6
 Das winterliche Wetter,Das winterliche Wetter,MISC,,,de,4.6
 Kaltfront,Kaltfront,MISC,-0.11475409836065571,0.0,de,4.6
@@ -83,10 +83,10 @@ spanische,spanische,MISC,,,de,3.6999999999999997
 d…,d…,MISC,0.0,0.0,de,3.6999999999999997
 Das Wetter,Das Wetter,MISC,,,de,3.6999999999999997
 Dauerfrost und Schnee,Dauerfrost und Schnee,MISC,,,de,3.6999999999999997
-Das neue Jahr,Das neue Jahr,MISC,,,de,3.6999999999999997
 Wetterlage,Wetterlage,MISC,-0.5263157894736842,0.0,de,3.6999999999999997
-Glatteis-Gefahr,Glatteis-Gefahr,MISC,-0.0514705882352941,0.0,de,3.6999999999999997
 ePaper,ePaper,MISC,,,de,3.6999999999999997
+Glatteis-Gefahr,Glatteis-Gefahr,MISC,-0.0514705882352941,0.0,de,3.6999999999999997
+Das neue Jahr,Das neue Jahr,MISC,,,de,3.6999999999999997
 Der Deutsche Wetterdienst,Der Deutsche Wetterdienst,MISC,,,de,3.6999999999999997
 Dieses Jahr,Dieses Jahr,MISC,,,de,3.6999999999999997
 T-Shirt-Wetter,T-Shirt-Wetter,MISC,,,de,3.6999999999999997
@@ -183,15 +183,15 @@ Euro,Euro,MISC,,,de,2.8
 O…,O…,MISC,,,de,2.8
 a…,a…,MISC,,,de,2.8
 russische,russische,MISC,,,de,2.8
+Kühles Wochenende,Kühles Wochenende,MISC,,,de,2.8
 Ukrainer,Ukrainer,MISC,,,de,2.8
 Deutsch…,Deutsch…,MISC,0.0,0.0,de,2.8
-Kühles Wochenende,Kühles Wochenende,MISC,,,de,2.8
 Der erste Schnee,Der erste Schnee,MISC,,,de,2.8
 Schnee und Sturm,Schnee und Sturm,MISC,,,de,2.8
 Top Ten,Top Ten,MISC,,,de,2.0
 Graue Tage,Graue Tage,MISC,,,de,2.0
-D…,D…,MISC,0.10714285714285716,0.0,de,2.0
 chinesischen,chinesischen,MISC,,,de,2.0
+D…,D…,MISC,0.10714285714285716,0.0,de,2.0
 Anschluss,Anschluss,MISC,,,de,2.0
 Französisches,Französisches,MISC,,,de,2.0
 Kriegsbeginn,Kriegsbeginn,MISC,,,de,2.0
@@ -203,9 +203,9 @@ Spiele,Spiele,MISC,,,de,1.9
 Ni…,Ni…,MISC,,,de,1.9
 Rhein-Main-Liveblog,Rhein-Main-Liveblog,MISC,-0.2173913043478261,0.0,de,1.9
 Der Mann sei gestürzt,Der Mann sei gestürzt,MISC,,,de,1.9
-Bayern-Wetter“,Bayern-Wetter“,MISC,,,de,1.9
 Intersport Slowenien,Intersport Slowenien,MISC,,,de,1.9
 Tag des Jahres,Tag des Jahres,MISC,,,de,1.9
+Bayern-Wetter“,Bayern-Wetter“,MISC,,,de,1.9
 Fatbiking,Fatbiking,MISC,,,de,1.9
 niederösterreichischen,niederösterreichischen,MISC,,,de,1.9
 INTERVIEW,INTERVIEW,MISC,,,de,1.9
@@ -239,7 +239,7 @@ Eis“,Eis“,MISC,,,de,1.9
 Biker,Biker,MISC,,,de,1.9
 Minustemperaturen,Minustemperaturen,MISC,,,de,1.9
 Axamer Lizum,Axamer Lizum,MISC,,,de,1.9
-Gefahr für Leib,Gefahr für Leib,MISC,,,de,1.9
+Winte…,Winte…,MISC,,,de,1.9
 CDU-Politiker,CDU-Politiker,MISC,,,de,1.9
 CDU-Umweltsenatorin,CDU-Umweltsenatorin,MISC,,,de,1.9
 Tagesv…,Tagesv…,MISC,,,de,1.9
@@ -250,8 +250,8 @@ Das Jahr fängt,Das Jahr fängt,MISC,,,de,1.9
 Winterwetter in Berlin“,Winterwetter in Berlin“,MISC,,,de,1.9
 nan,nan,MISC,,,de,1.9
 Wintereinbruch des Jahres,Wintereinbruch des Jahres,MISC,,,de,1.9
-Winte…,Winte…,MISC,,,de,1.9
-Winterbilanz in Österreich,Winterbilanz in Österreich,MISC,,,de,1.9
+Gefahr für Leib,Gefahr für Leib,MISC,,,de,1.9
+Verkehrsbehinderungen“,Verkehrsbehinderungen“,MISC,,,de,1.9
 Eisiges Wetter“,Eisiges Wetter“,MISC,,,de,1.9
 Wasserkuppe ins neue Jahr,Wasserkuppe ins neue Jahr,MISC,,,de,1.9
 Vorfrühling,Vorfrühling,MISC,,,de,1.9
@@ -263,7 +263,7 @@ Pinguin-Gang,Pinguin-Gang,MISC,,,de,1.9
 Weihnachtszeit,Weihnachtszeit,MISC,,,de,1.9
 Autofahren,Autofahren,MISC,,,de,1.9
 Streusalz-Vorstoß,Streusalz-Vorstoß,MISC,,,de,1.9
-Verkehrsbehinderungen“,Verkehrsbehinderungen“,MISC,,,de,1.9
+Winterbilanz in Österreich,Winterbilanz in Österreich,MISC,,,de,1.9
 Wintersaison,Wintersaison,MISC,0.0,0.0,de,1.9
 Launisches Wetter,Launisches Wetter,MISC,,,de,1.9
 Reichlich Schnee,Reichlich Schnee,MISC,,,de,1.9
@@ -274,8 +274,8 @@ Buslinien,Buslinien,MISC,,,de,1.9
 Glatteis-Warnungen,Glatteis-Warnungen,MISC,,,de,1.9
 GeoSphere,GeoSphere,MISC,,,de,1.9
 Woc…,Woc…,MISC,,,de,1.9
-Mit­ar­bei­te­r,Mit­ar­bei­te­r,MISC,,,de,1.9
 vo…,vo…,MISC,,,de,1.9
+Mit­ar­bei­te­r,Mit­ar­bei­te­r,MISC,,,de,1.9
 Frostpeitsche,Frostpeitsche,MISC,,,de,1.9
 Winterdie…,Winterdie…,MISC,,,de,1.9
 Dragon's Dogma 2,Dragon's Dogma 2,MISC,,,de,1.9
@@ -377,8 +377,8 @@ P…,P…,MISC,,,de,1.9
 Skigebieten,Skigebieten,MISC,0.0,0.0,de,1.9
 Milder Tagesbeginn,Milder Tagesbeginn,MISC,,,de,1.9
 Osnabrück“,Osnabrück“,MISC,,,de,1.9
-Deutsche Wetterd…,Deutsche Wetterd…,MISC,,,de,1.9
 Eis und Schnee“,Eis und Schnee“,MISC,,,de,1.9
+Deutsche Wetterd…,Deutsche Wetterd…,MISC,,,de,1.9
 Nebelschwaden,Nebelschwaden,MISC,,,de,1.9
 Ski-Weltcup,Ski-Weltcup,MISC,,,de,1.9
 Grauer Himmel,Grauer Himmel,MISC,,,de,1.9
@@ -485,8 +485,8 @@ Winter in MV,Winter in MV,MISC,,,de,1.0
 GradUSA,GradUSA,MISC,,,de,1.0
 Das Heim gut auf Schnee,Das Heim gut auf Schnee,MISC,,,de,1.0
 live“,live“,MISC,,,de,1.0
-Sie Ihr Haus auf Frostschäden,Sie Ihr Haus auf Frostschäden,MISC,,,de,1.0
 BILD05.02.2026,BILD05.02.2026,MISC,,,de,1.0
+Sie Ihr Haus auf Frostschäden,Sie Ihr Haus auf Frostschäden,MISC,,,de,1.0
 Pend…,Pend…,MISC,,,de,1.0
 Regione…,Regione…,MISC,,,de,1.0
 "Schmidt/dpa
@@ -511,9 +511,9 @@ Volles Programm von Sonne bis Neuschnee,Volles Programm von Sonne bis Neuschnee,
 Tag zu Tag,Tag zu Tag,MISC,,,de,1.0
 BVG-Fahrgäste,BVG-Fahrgäste,MISC,,,de,1.0
 Wettermix“,Wettermix“,MISC,,,de,1.0
-Glätteunfällen,Glätteunfällen,MISC,-0.15454545454545454,0.0,de,1.0
-Winteralltag,Winteralltag,MISC,,,de,1.0
 Krankenhausgesellschaft,Krankenhausgesellschaft,MISC,,,de,1.0
+Winteralltag,Winteralltag,MISC,,,de,1.0
+Glätteunfällen,Glätteunfällen,MISC,-0.15454545454545454,0.0,de,1.0
 Taumittel,Taumittel,MISC,0.0,0.0,de,1.0
 Ung…,Ung…,MISC,,,de,1.0
 "Kinder rodeln, Erwachsene","Kinder rodeln, Erwachsene",MISC,,,de,1.0
@@ -549,7 +549,7 @@ Schnee-Apokalypse,Schnee-Apokalypse,MISC,,,de,1.0
 Winterdienstes von Hessen Mobil,Winterdienstes von Hessen Mobil,MISC,,,de,1.0
 Böden,Böden,MISC,1.0,0.0,de,1.0
 Grund,Grund,MISC,,,de,1.0
-Ein schwerer Wintersturm,Ein schwerer Wintersturm,MISC,,,de,1.0
+Bombenzyklon trifft USA“,Bombenzyklon trifft USA“,MISC,,,de,1.0
 vie…,vie…,MISC,,,de,1.0
 Wa…,Wa…,MISC,0.0,0.0,de,1.0
 Winter in Hessen,Winter in Hessen,MISC,,,de,1.0
@@ -577,13 +577,13 @@ Landkreisen,Landkreisen,MISC,0.0,0.0,de,1.0
 ",MISC,,,de,1.0
 Die Notschlafstelle des Eggerheims,Die Notschlafstelle des Eggerheims,MISC,,,de,1.0
 jedem Jahr Winter,jedem Jahr Winter,MISC,,,de,1.0
-Bombenzyklon trifft USA“,Bombenzyklon trifft USA“,MISC,,,de,1.0
+Ein schwerer Wintersturm,Ein schwerer Wintersturm,MISC,,,de,1.0
 Glatteis-Unfall,Glatteis-Unfall,MISC,0.0,0.0,de,1.0
 Am vierten Tag nach dem Eisregen,Am vierten Tag nach dem Eisregen,MISC,,,de,1.0
-Mercedes-Benz eCit…,Mercedes-Benz eCit…,MISC,,,de,1.0
+Regen und Schnee“,Regen und Schnee“,MISC,,,de,1.0
 Winterpanik,Winterpanik,MISC,,,de,1.0
 Stephansplatz von Eis,Stephansplatz von Eis,MISC,,,de,1.0
-Regen und Schnee“,Regen und Schnee“,MISC,,,de,1.0
+Mercedes-Benz eCit…,Mercedes-Benz eCit…,MISC,,,de,1.0
 Warnstreiktag,Warnstreiktag,MISC,0.0,0.0,de,1.0
 Hohensch…,Hohensch…,MISC,,,de,1.0
 Papenburg“,Papenburg“,MISC,,,de,1.0
@@ -1320,8 +1320,8 @@ Winterwet…,Winterwet…,MISC,,,de,1.0
 Glatte Straßen und Schnee,Glatte Straßen und Schnee,MISC,,,de,1.0
 stern-Newsblog,stern-Newsblog,MISC,,,de,1.0
 Fu…,Fu…,MISC,,,de,1.0
-Bildungsministerium,Bildungsministerium,MISC,,,de,1.0
 Die Schulen in Mecklenburg-Vorpommern,Die Schulen in Mecklenburg-Vorpommern,MISC,,,de,1.0
+Bildungsministerium,Bildungsministerium,MISC,,,de,1.0
 Warnung vor gefährlichem Glatteis,Warnung vor gefährlichem Glatteis,MISC,,,de,1.0
 Schnee und Glatteis,Schnee und Glatteis,MISC,,,de,1.0
 Wegen Glatteis-Warnung,Wegen Glatteis-Warnung,MISC,,,de,1.0
@@ -1428,11 +1428,11 @@ Cyber-Angriffe,Cyber-Angriffe,MISC,,,de,1.0
 tagesschau,tagesschau,MISC,,,de,1.0
 Monat la…,Monat la…,MISC,,,de,1.0
 Minus 30 Grad,Minus 30 Grad,MISC,,,de,1.0
+russischer,russischer,MISC,,,de,1.0
+nuklearbetriebener,nuklearbetriebener,MISC,,,de,1.0
 Barentsobserver,Barentsobserver,MISC,,,de,1.0
 Buran,Buran,MISC,,,de,1.0
 LNG-Tanker,LNG-Tanker,MISC,,,de,1.0
-russischer,russischer,MISC,,,de,1.0
-nuklearbetriebener,nuklearbetriebener,MISC,,,de,1.0
 "WALTER WILLE
 ","WALTER WILLE
 ",MISC,,,de,1.0
@@ -1474,7 +1474,7 @@ Nordh…,Nordh…,MISC,,,de,1.0
 Bu…,Bu…,MISC,,,de,1.0
 Manch a…,Manch a…,MISC,,,de,1.0
 Der letzte Tag des Jahres,Der letzte Tag des Jahres,MISC,,,de,1.0
-Jahr 2025,Jahr 2025,MISC,,,de,1.0
+i…,i…,MISC,0.0,0.0,de,1.0
 Ein Wintereinbruch in den Niederlanden,Ein Wintereinbruch in den Niederlanden,MISC,,,de,1.0
 RWE-Chef,RWE-Chef,MISC,,,de,1.0
 Rett…,Rett…,MISC,,,de,1.0
@@ -1488,14 +1488,14 @@ Winter-Trainingslager,Winter-Trainingslager,MISC,,,de,1.0
 Versunken im Schnee - Zweitligist,Versunken im Schnee - Zweitligist,MISC,,,de,1.0
 Unterstützu…,Unterstützu…,MISC,,,de,1.0
 Unfa…,Unfa…,MISC,,,de,1.0
-kleinräumiges,kleinräumiges,MISC,,,de,1.0
 Ein Sturmtief,Ein Sturmtief,MISC,,,de,1.0
+kleinräumiges,kleinräumiges,MISC,,,de,1.0
 Polare Kaltluft,Polare Kaltluft,MISC,,,de,1.0
 Die Teams,Die Teams,MISC,,,de,1.0
 A6,A6,MISC,0.15217391304347827,0.0,de,1.0
 Glatteis-Unfälle,Glatteis-Unfälle,MISC,0.0,0.5263157894736842,de,1.0
+Jahr 2025,Jahr 2025,MISC,,,de,1.0
 Tag des Jahres“,Tag des Jahres“,MISC,,,de,1.0
-i…,i…,MISC,0.0,0.0,de,1.0
 neuen Jahr,neuen Jahr,MISC,,,de,1.0
 Das Jahr,Das Jahr,MISC,,,de,1.0
 Sonntag se,Sonntag se,MISC,,,de,1.0

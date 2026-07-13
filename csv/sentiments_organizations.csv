@@ -166,9 +166,9 @@ Gewerkschaft,Gewerkschaft,ORG,0.0,0.5263157894736842,de,1.9
 Leipzig,Leipzig,ORG,-0.5263157894736842,0.0,de,1.9
 Berl…,Berl…,ORG,0.0,0.5263157894736842,de,1.9
 Ta…,Ta…,ORG,0.3684210526315789,0.0,de,1.9
-FCC,FCC,ORG,0.0,0.0,de,1.9
 Meister Bayern München,Meister Bayern München,ORG,-1.0526315789473684,0.0,de,1.9
 FC Carl Zeiss Jena,FC Carl Zeiss Jena,ORG,-1.0526315789473684,0.0,de,1.9
+FCC,FCC,ORG,0.0,0.0,de,1.9
 CSU,CSU,ORG,0.12280701754385964,0.0,de,1.9
 Winterwetters,Winterwetters,ORG,0.0,0.0,de,1.9
 Ei…,Ei…,ORG,0.0,0.0,de,1.9
@@ -210,18 +210,17 @@ Senat,Senat,ORG,0.0,0.0,de,1.9
 italienischen Bergwacht,italienischen Bergwacht,ORG,0.0,0.0,de,1.9
 Autoba…,Autoba…,ORG,0.3684210526315789,0.0,de,1.9
 Alpin-Auftakt,Alpin-Auftakt,ORG,0.0,0.0,de,1.9
-ORF,ORF,ORG,0.0,0.0,de,1.9
-aufpa…,aufpa…,ORG,-0.12280701754385964,0.0,de,1.9
+ho…,ho…,ORG,0.0,0.0,de,1.9
 HHLA,HHLA,ORG,-0.12280701754385964,0.0,de,1.9
 BRP,BRP,ORG,0.0,0.0,de,1.9
 Nasa,Nasa,ORG,0.0,0.0,de,1.9
 Bibber-Keule,Bibber-Keule,ORG,0.0,0.0,de,1.9
 Ski-Dominators,Ski-Dominators,ORG,0.0,0.0,de,1.9
-Deuts…,Deuts…,ORG,0.0,0.0,de,1.9
 Fotostand,Fotostand,ORG,-0.3684210526315789,0.0,de,1.9
+Deuts…,Deuts…,ORG,0.0,0.0,de,1.9
 Instituts für Schnee- und Lawinenforschung,Instituts für Schnee- und Lawinenforschung,ORG,0.0,0.0,de,1.9
+ORF,ORF,ORG,0.0,0.0,de,1.9
 di…,di…,ORG,-0.3684210526315789,0.0,de,1.9
-Top Ten,Top Ten,ORG,1.0526315789473684,0.0,de,1.9
 sch…,sch…,ORG,0.0,0.0,de,1.9
 Auto,Auto,ORG,1.4210526315789476,0.0,de,1.9
 d…,d…,ORG,0.0,0.0,de,1.9
@@ -231,32 +230,33 @@ EU-Kommission,EU-Kommission,ORG,-0.5263157894736842,0.0,de,1.9
 F…,F…,ORG,0.0,0.0,de,1.9
 Kommune,Kommune,ORG,0.0,0.0,de,1.9
 Dresdner Winterdienst,Dresdner Winterdienst,ORG,0.0,0.0,de,1.9
-ho…,ho…,ORG,0.0,0.0,de,1.9
+aufpa…,aufpa…,ORG,-0.12280701754385964,0.0,de,1.9
 dpo,dpo,ORG,0.5263157894736842,0.0,de,1.9
 EU-Diskriminierungsverbot,EU-Diskriminierungsverbot,ORG,0.0,0.5263157894736842,de,1.9
 "Spritpreispaket
 +++","Spritpreispaket
 +++",ORG,0.0,0.0,de,1.9
+Top Ten,Top Ten,ORG,1.0526315789473684,0.0,de,1.9
 SWR,SWR,ORG,0.3684210526315789,0.0,de,1.9
 minde…,minde…,ORG,0.0,0.0,de,1.9
 los!,los!,ORG,0.0,0.0,de,1.9
 Liveticker Hessen & Frankfurt,Liveticker Hessen & Frankfurt,ORG,-0.769230769230769,0.0,de,1.3000000000000003
 ARC Raiders,ARC Raiders,ORG,1.4166666666666665,0.0,de,1.2000000000000002
 GARDENA,GARDENA,ORG,0.4999999999999999,0.0,de,1.1
-SEO,SEO,ORG,0.7499999999999999,0.22727272727272727,de,1.1
-+++ Mann,+++ Mann,ORG,-0.303030303030303,0.0,de,1.1
-TUI,TUI,ORG,0.0,0.0,de,1.1
-Waldbrunn-Hausen +++ Jugendlicher,Waldbrunn-Hausen +++ Jugendlicher,ORG,0.7727272727272726,0.0,de,1.1
 RTL,RTL,ORG,0.9090909090909091,0.0,de,1.1
-Landesbe…,Landesbe…,ORG,0.0,0.0,de,1.0
++++ Mann,+++ Mann,ORG,-0.303030303030303,0.0,de,1.1
+Waldbrunn-Hausen +++ Jugendlicher,Waldbrunn-Hausen +++ Jugendlicher,ORG,0.7727272727272726,0.0,de,1.1
+TUI,TUI,ORG,0.0,0.0,de,1.1
+SEO,SEO,ORG,0.7499999999999999,0.22727272727272727,de,1.1
+Tennessee…,Tennessee…,ORG,0.0,0.0,de,1.0
 WELT-Reporter …,WELT-Reporter …,ORG,0.0,0.0,de,1.0
+Landesbe…,Landesbe…,ORG,0.0,0.0,de,1.0
 Stiftung Preußischer Schlösser und Gärten Berlin-Brandenburg,Stiftung Preußischer Schlösser und Gärten Berlin-Brandenburg,ORG,0.0,0.0,de,1.0
 LBV,LBV,ORG,-0.175,0.0,de,1.0
-MeteoSchweiz,MeteoSchweiz,ORG,0.0,0.0,de,1.0
 Glä…,Glä…,ORG,0.0,0.0,de,1.0
 Straßenbau und Verkehr,Straßenbau und Verkehr,ORG,-0.175,0.0,de,1.0
-Tennessee…,Tennessee…,ORG,0.0,0.0,de,1.0
-Union Cycliste Internationale,Union Cycliste Internationale,ORG,0.0,0.0,de,1.0
+MeteoSchweiz,MeteoSchweiz,ORG,0.0,0.0,de,1.0
+sogenannt…,sogenannt…,ORG,0.0,0.0,de,1.0
 US-Südstaaten,US-Südstaaten,ORG,0.0,0.0,de,1.0
 Vorpommer…,Vorpommer…,ORG,0.0,0.0,de,1.0
 Orkanb…,Orkanb…,ORG,0.0,0.0,de,1.0
@@ -270,14 +270,15 @@ Flugh…,Flugh…,ORG,-0.7,0.0,de,1.0
 Sipa USA,Sipa USA,ORG,0.0,0.0,de,1.0
 Mangelware Spikes,Mangelware Spikes,ORG,0.0,0.0,de,1.0
 ÖW,ÖW,ORG,1.4,0.0,de,1.0
-Cyberkriminelle,Cyberkriminelle,ORG,0.35,0.0,de,1.0
+Son…,Son…,ORG,0.0,0.0,de,1.0
 ei,ei,ORG,0.0,0.0,de,1.0
 Hauseinstürze!,Hauseinstürze!,ORG,0.0,0.0,de,1.0
 bal…,bal…,ORG,0.0,0.0,de,1.0
 IOC,IOC,ORG,0.0,0.0,de,1.0
-UCI,UCI,ORG,0.0,0.0,de,1.0
+Union Cycliste Internationale,Union Cycliste Internationale,ORG,0.0,0.0,de,1.0
 un…,un…,ORG,0.0,0.0,de,1.0
 ICE-Ausfälle,ICE-Ausfälle,ORG,0.7,0.0,de,1.0
+UCI,UCI,ORG,0.0,0.0,de,1.0
 F.A.Z.,F.A.Z.,ORG,0.0,0.0,de,1.0
 Spezialkräften …,Spezialkräften …,ORG,0.0,0.0,de,1.0
 ICE-Sprinter,ICE-Sprinter,ORG,0.0,0.0,de,1.0
@@ -291,18 +292,17 @@ Urlaubs-Saison,Urlaubs-Saison,ORG,0.0,0.0,de,1.0
 Pendler Geduld,Pendler Geduld,ORG,0.0,0.0,de,1.0
 ESWE,ESWE,ORG,0.0,0.0,de,1.0
 Kälte-Rekord!,Kälte-Rekord!,ORG,0.0,0.0,de,1.0
-Son…,Son…,ORG,0.0,0.0,de,1.0
 Sprüh…,Sprüh…,ORG,0.0,0.0,de,1.0
 Blue Sky,Blue Sky,ORG,0.0,0.0,de,1.0
 Reuters03.02.2026,Reuters03.02.2026,ORG,0.0,0.0,de,1.0
 Dachsteingletscher…,Dachsteingletscher…,ORG,0.0,0.0,de,1.0
 Meteored,Meteored,ORG,0.0,0.0,de,1.0
-sogenannt…,sogenannt…,ORG,0.0,0.0,de,1.0
+Cyberkriminelle,Cyberkriminelle,ORG,0.35,0.0,de,1.0
 erwa…,erwa…,ORG,0.0,0.0,de,1.0
 Eisregen!,Eisregen!,ORG,0.0,0.0,de,1.0
 Stöcken un…,Stöcken un…,ORG,0.0,0.0,de,1.0
 Verkehrsverbund Stuttgart,Verkehrsverbund Stuttgart,ORG,0.0,0.0,de,1.0
-Mittagsglut,Mittagsglut,ORG,0.5,0.0,de,1.0
+kom…,kom…,ORG,0.0,0.0,de,1.0
 NRW-Wetter,NRW-Wetter,ORG,0.0,0.0,de,1.0
 Leica Galerie …,Leica Galerie …,ORG,0.0,0.0,de,1.0
 Hessens +++ Mann,Hessens +++ Mann,ORG,0.0,0.0,de,1.0
@@ -317,9 +317,9 @@ Leica Galerie Düsseldorf,Leica Galerie Düsseldorf,ORG,0.0,0.0,de,1.0
 lni,lni,ORG,0.0,0.0,de,1.0
 Sachsen-Anhalt ,Sachsen-Anhalt ,ORG,0.7,0.0,de,1.0
 picture alliance/dpa/NEWS5,picture alliance/dpa/NEWS5,ORG,-0.7,0.0,de,1.0
-kom…,kom…,ORG,0.0,0.0,de,1.0
 RNV,RNV,ORG,0.0,0.0,de,1.0
 Rhein-Neckar-Verkehr,Rhein-Neckar-Verkehr,ORG,0.0,0.0,de,1.0
+Mittagsglut,Mittagsglut,ORG,0.5,0.0,de,1.0
 Fernsehen für Abkühlung,Fernsehen für Abkühlung,ORG,0.7,0.0,de,1.0
 ukrainische Militär,ukrainische Militär,ORG,0.0,0.0,de,1.0
 Sommerglut mach…,Sommerglut mach…,ORG,0.0,0.0,de,1.0
@@ -470,7 +470,7 @@ Obs…,Obs…,ORG,0.0,0.0,de,1.0
 Nilgans,Nilgans,ORG,0.0,0.0,de,1.0
 Split…,Split…,ORG,0.0,0.0,de,1.0
 Österreich Werbung,Österreich Werbung,ORG,0.7,0.0,de,1.0
-Deutsche Wetterdienst für Hambur…,Deutsche Wetterdienst für Hambur…,ORG,0.0,0.0,de,1.0
+Pr…,Pr…,ORG,0.0,0.0,de,1.0
 demnac…,demnac…,ORG,0.0,0.0,de,1.0
 Trump,Trump,ORG,0.0,0.0,de,1.0
 76-Jä…,76-Jä…,ORG,0.0,0.0,de,1.0
@@ -487,7 +487,7 @@ GASTKOMMENTAR,GASTKOMMENTAR,ORG,0.7,0.0,de,1.0
 Bodennähe …,Bodennähe …,ORG,0.0,0.0,de,1.0
 New …,New …,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdienst für Hamburg und Schleswig-Holstein,Deutsche Wetterdienst für Hamburg und Schleswig-Holstein,ORG,0.0,0.0,de,1.0
-Naturgewalten,Naturgewalten,ORG,0.0,0.0,de,1.0
+Deutsche Wetterdienst für Hambur…,Deutsche Wetterdienst für Hambur…,ORG,0.0,0.0,de,1.0
 Glättegefahr!,Glättegefahr!,ORG,0.0,0.0,de,1.0
 Die Bahn,Die Bahn,ORG,0.0,0.0,de,1.0
 SRF,SRF,ORG,0.0,0.0,de,1.0
@@ -506,11 +506,11 @@ Verkehrsbetriebe WVV,Verkehrsbetriebe WVV,ORG,0.0,0.0,de,1.0
 Sonne …,Sonne …,ORG,0.0,0.0,de,1.0
 Deutsche Wetterdienst für Hessen,Deutsche Wetterdienst für Hessen,ORG,-0.7,0.0,de,1.0
 Deutschem W…,Deutschem W…,ORG,-0.7,0.0,de,1.0
-Chinas,Chinas,ORG,0.0,0.0,de,1.0
+Naturgewalten,Naturgewalten,ORG,0.0,0.0,de,1.0
 Südwe…,Südwe…,ORG,0.0,0.0,de,1.0
+Chinas,Chinas,ORG,0.0,0.0,de,1.0
 Wochenlang Frost,Wochenlang Frost,ORG,0.35,0.0,de,1.0
 hessischen…,hessischen…,ORG,0.0,0.0,de,1.0
-Pr…,Pr…,ORG,0.0,0.0,de,1.0
 L…,L…,ORG,0.0,0.0,de,1.0
 Rhä…,Rhä…,ORG,0.7,0.0,de,1.0
 XXL-Schneemann,XXL-Schneemann,ORG,0.7,0.0,de,1.0
