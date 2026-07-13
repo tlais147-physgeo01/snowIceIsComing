@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.0797382595041391
-'Schneefall',de,Hazard,#476515,#477515,1,0.0616563198097112
-'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.060196013537928965
+'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.0601960135379289
+'Schneefall',de,Hazard,#476515,#477515,2,0.05615824683825452
 'Schneematsch',de,Hazard,#477515,#579515,1,0.052974056016169
 'Kaltfront',de,Causes,#532faf,#332faf,1,0.0528040675850085
 'Frost',de,Hazard,#577515,#477515,3,0.0516613315118483
