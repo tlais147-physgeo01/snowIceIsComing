@@ -11,8 +11,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0475043176793204
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0462323450060007
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.0456118440982238
-'Schneematsch',de,Hazard,#477515,#579515,1,0.045177962613743655
-'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0443592410339938
+'Schneematsch',de,Hazard,#477515,#579515,1,0.0451779626137436
+'Streusalz',de,Mitigation,#a76535,#a76535,1,0.03920550487889473
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0365927138629998
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0251805909611884
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0081414534378916
