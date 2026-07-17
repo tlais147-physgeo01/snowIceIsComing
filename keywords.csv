@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Hazard,#677515,#477515,2,0.0431797897494935
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0392055048788947
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0365927138629998
-'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.021403502317010138
+'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0214035023170101
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0081414534378916
-'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0003885230089536
+'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.00033024455761056
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0001716214730733
