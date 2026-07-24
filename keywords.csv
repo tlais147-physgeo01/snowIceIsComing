@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Kaltfront',de,Causes,#532faf,#332faf,2,0.0854086008301686
+'Kaltfront',de,Causes,#532faf,#332faf,2,0.0816166307056433
 'Schnee',de,Hazard,#477515,#477515,3,0.0686667845225248
-'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.05711972386096666
+'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.0571197238609666
 'Frost',de,Hazard,#577515,#477515,3,0.056749778701943
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,1,0.0529739830767614
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0504709955480824
