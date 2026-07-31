@@ -13,7 +13,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0420852047681142
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0392974932551005
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0392055048788947
-'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0312538217835498
+'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.02671576351601733
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0154640304240397
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0036124061418638
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,0.0001058688386993
