@@ -9,12 +9,12 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefall',de,Hazard,#476515,#477515,2,0.0495799303003162
 'Schneematsch',de,Hazard,#477515,#579515,1,0.0451779626137436
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0420852047681142
-'Eisregen',de,Hazard,#477515,#679515,1,0.040872266392790964
+'Eisregen',de,Hazard,#477515,#679515,1,0.0408722663927909
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0392974932551005
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0392055048788947
 'Glatteis',de,Hazard,#677515,#477515,2,0.0383529862870694
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0267157635160173
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0111727619813686
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0032205602205842
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.00020503291212430419
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,6.50167005662076e-05
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,6.472695544035787e-05
