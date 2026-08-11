@@ -8,13 +8,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0491367484161604
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.0477874503022569
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0420852047681142
-'Eisregen',de,Hazard,#477515,#679515,1,0.0408722663927909
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0392974932551005
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0392055048788947
 'Glatteis',de,Hazard,#677515,#477515,2,0.0383529862870694
+'Eisregen',de,Hazard,#477515,#679515,1,0.03489144143387227
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0346033942872989
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0267157635160173
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0094968476841633
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0023637401329661
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.00042566402900976006
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0004256640290097
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,5.526419548127646e-05
