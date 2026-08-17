@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Skigebiete',de,Impacts,#a705a5,#a715b5,2,0.0925035351726423
 'Schnee',de,Hazard,#477515,#477515,3,0.0856477693715012
-'Schnee Klimawandel',de,Causes,#334faf,#332faf,3,0.06887737050545248
+'Schnee Klimawandel',de,Causes,#334faf,#332faf,3,0.0688773705054524
 'Schneematsch',de,Hazard,#477515,#579515,1,0.0659926994453904
 'Schneefall',de,Hazard,#476515,#477515,2,0.0495799303003162
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.0477874503022569
@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0267157635160173
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0094968476841633
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0018375454966577
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0005118294246582
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.00058507001095947
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,3.9928381235222246e-05
