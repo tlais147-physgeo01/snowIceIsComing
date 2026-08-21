@@ -1,10 +1,10 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schnee',de,Hazard,#477515,#477515,3,0.0818467480566851
-'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.07862836489674596
+'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.0786283648967459
 'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.0585467249296345
-'Schneefall',de,Hazard,#476515,#477515,2,0.0495799303003162
 'Schneematsch',de,Hazard,#477515,#579515,1,0.0485123085992945
 'Frost',de,Hazard,#577515,#477515,3,0.045311393701031
+'Schneefall',de,Hazard,#476515,#477515,2,0.04304352575526877
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0429663561537363
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.0424200077569183
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0392055048788947
