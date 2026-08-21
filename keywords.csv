@@ -13,8 +13,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0346033942872989
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0334028692668354
 'Eisregen',de,Hazard,#477515,#679515,1,0.0254865941859726
-'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0227083989886147
+'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.019302139140322496
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0094968476841633
-'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.001514396215634835
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0015143962156348
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0006473245093154
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,3.9928381235222246e-05
