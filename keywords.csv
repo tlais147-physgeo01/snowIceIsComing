@@ -9,9 +9,9 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Glatteis',de,Hazard,#677515,#477515,2,0.0383529862870694
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0375715077306758
 'Schneefall',de,Hazard,#476515,#477515,2,0.0371875518919784
-'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.036522499052897
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0346033942872989
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0334028692668354
+'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.03209422919496245
 'Eisregen',de,Hazard,#477515,#679515,1,0.0254865941859726
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0193021391403224
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0094968476841633
