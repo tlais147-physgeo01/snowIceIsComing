@@ -4,7 +4,7 @@ Deutsche Wetterdienst,Deutsche Wetterdienst,ORG,-0.16133966244725764,0.047468354
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-0.1197318007662834,0.03448275862068963,de,87.00000000000007
 Deutschen Wetterdienst,Deutschen Wetterdienst,ORG,-0.13791554357592103,0.05166217430368377,de,37.09999999999997
 TTS-Player,TTS-Player,ORG,-0.08378378378378384,0.08108108108108114,de,36.99999999999997
-Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.036764705882352956,0.06535947712418305,de,30.59999999999998
+Deutschem Wetterdienst,Deutschem Wetterdienst,ORG,0.03676470588235295,0.06535947712418305,de,30.59999999999998
 CDU,CDU,ORG,0.026808510638297877,0.10042553191489365,de,23.499999999999993
 Bodenfrost,Bodenfrost,ORG,-0.12061403508771933,0.021929824561403514,de,22.799999999999994
 lby,lby,ORG,-0.16446402349486056,0.02936857562408224,de,22.699999999999992
@@ -216,7 +216,7 @@ BRP,BRP,ORG,0.0,0.0,de,1.9
 Stu…,Stu…,ORG,0.0,0.0,de,1.9
 Streusalz essen,Streusalz essen,ORG,0.0,0.0,de,1.9
 Eis,Eis,ORG,0.0,0.0,de,1.9
-Tau,Tau,ORG,0.0,0.0,de,1.9
+FC Carl Zeiss Jena,FC Carl Zeiss Jena,ORG,-1.0526315789473684,0.0,de,1.9
 ORF,ORF,ORG,0.0,0.0,de,1.9
 Partei,Partei,ORG,0.0,0.5263157894736842,de,1.9
 Instituts für Schnee- und Lawinenforschung,Instituts für Schnee- und Lawinenforschung,ORG,0.0,0.0,de,1.9
@@ -229,17 +229,17 @@ Bibber-Keule,Bibber-Keule,ORG,0.0,0.0,de,1.9
 NRW,NRW,ORG,-0.43859649122807015,0.0,de,1.9
 Feiertagen frostig-kalt,Feiertagen frostig-kalt,ORG,0.6052631578947368,0.0,de,1.9
 US-Flughäfen,US-Flughäfen,ORG,-0.15789473684210528,0.0,de,1.9
-FCC,FCC,ORG,0.0,0.0,de,1.9
+Meister Bayern München,Meister Bayern München,ORG,-1.0526315789473684,0.0,de,1.9
 sch…,sch…,ORG,0.0,0.0,de,1.9
 Jahresbeginn Ausnahmesituation,Jahresbeginn Ausnahmesituation,ORG,0.0,0.5263157894736842,de,1.9
 Deutsche Wetterdi…,Deutsche Wetterdi…,ORG,0.0,0.0,de,1.9
 Hessen Frankfurt,Hessen Frankfurt,ORG,0.4473684210526316,0.0,de,1.9
-Meister Bayern München,Meister Bayern München,ORG,-1.0526315789473684,0.0,de,1.9
-FC Carl Zeiss Jena,FC Carl Zeiss Jena,ORG,-1.0526315789473684,0.0,de,1.9
-Bahn-Führung,Bahn-Führung,ORG,-0.7368421052631579,0.0,de,1.9
+FCC,FCC,ORG,0.0,0.0,de,1.9
+Tau,Tau,ORG,0.0,0.0,de,1.9
+s…,s…,ORG,0.0,0.0,de,1.9
 schaf…,schaf…,ORG,0.0,0.0,de,1.9
 los!,los!,ORG,0.0,0.0,de,1.9
-s…,s…,ORG,0.0,0.0,de,1.9
+Bahn-Führung,Bahn-Führung,ORG,-0.7368421052631579,0.0,de,1.9
 EU-Diskriminierungsverbot,EU-Diskriminierungsverbot,ORG,0.0,0.5263157894736842,de,1.9
 Geosphere Austria,Geosphere Austria,ORG,0.0,0.0,de,1.9
 CSU,CSU,ORG,0.12280701754385964,0.0,de,1.9
@@ -560,8 +560,8 @@ Alarmstufe Frost!,Alarmstufe Frost!,ORG,0.0,0.0,de,1.0
 Alarmstufe Frost,Alarmstufe Frost,ORG,0.0,0.0,de,1.0
 Deutsc…,Deutsc…,ORG,0.0,0.0,de,1.0
 weiterlesenDer,weiterlesenDer,ORG,0.0,0.0,de,1.0
-gestählte Waden,gestählte Waden,ORG,1.0,0.0,de,1.0
 bes…,bes…,ORG,-0.7,0.0,de,1.0
+gestählte Waden,gestählte Waden,ORG,1.0,0.0,de,1.0
 BIL…,BIL…,ORG,0.0,0.0,de,1.0
 Spor…,Spor…,ORG,0.0,0.0,de,1.0
 Tiefstwe…,Tiefstwe…,ORG,0.0,0.0,de,1.0
@@ -805,8 +805,8 @@ Bay…,Bay…,ORG,-0.7,0.0,de,1.0
 Minu…,Minu…,ORG,0.0,0.0,de,1.0
 KLM,KLM,ORG,0.0,0.0,de,1.0
 re…,re…,ORG,0.0,0.0,de,1.0
-Deutschen Wette…,Deutschen Wette…,ORG,0.0,0.0,de,1.0
 erwar…,erwar…,ORG,0.0,0.0,de,1.0
+Deutschen Wette…,Deutschen Wette…,ORG,0.0,0.0,de,1.0
 ZUMAPRESS.com,ZUMAPRESS.com,ORG,0.7,0.0,de,1.0
 Schneeverwehungen +++ Drogenfund,Schneeverwehungen +++ Drogenfund,ORG,1.0,0.0,de,1.0
 Arbeiterunterkunft +++ Hessische Skigebiete,Arbeiterunterkunft +++ Hessische Skigebiete,ORG,1.0,0.0,de,1.0
