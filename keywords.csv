@@ -10,7 +10,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0363613086168562
 'Bodenfrost',de,Hazard,#b32a1f,#d32f2f,1,0.0334028692668354
 'Schneefall',de,Hazard,#476515,#477515,1,0.0316098391081816
-'Schneematsch',de,Hazard,#477515,#579515,1,0.0313779050310416
+'Schneematsch',de,Hazard,#477515,#579515,1,0.027571309276385358
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0226444874541873
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.0193021391403224
 'Eisregen',de,Hazard,#477515,#679515,1,0.0186915920493651
