@@ -2,10 +2,10 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Streusalz',de,Mitigation,#a76535,#a76535,1,0.1130862678774384
 'Schnee',de,Hazard,#477515,#477515,3,0.0850022469017421
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.075147646071687
-'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.04551587843249921
-'Glatteis',de,Hazard,#677515,#477515,1,0.0440217133006407
+'Schnee Klimawandel',de,Causes,#334faf,#332faf,2,0.0455158784324992
 'Kaltfront',de,Causes,#532faf,#332faf,2,0.0424200077569183
 'Frost',de,Hazard,#577515,#477515,3,0.0417710511989948
+'Glatteis',de,Hazard,#677515,#477515,1,0.03921863630554459
 'Winterdienst',de,Mitigation,#b76555,#a76535,1,0.0375715077306758
 'Wintereinbruch',de,Causes,#434fbf,#332faf,1,0.0327072923243277
 'Schneefall',de,Hazard,#476515,#477515,1,0.0316098391081816
