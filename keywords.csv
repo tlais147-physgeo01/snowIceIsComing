@@ -16,5 +16,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0110531446251373
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0080723205315388
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0008081529811143
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.00056604389066326
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.00048113730706371996
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,2.452101712608086e-05
