@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0982235376958226
+'Streusalz',de,Mitigation,#a76535,#a76535,1,0.0858902470414492
 'Schnee',de,Hazard,#477515,#477515,3,0.0850022469017421
 'Skigebiete',de,Impacts,#a705a5,#a715b5,1,0.075147646071687
 'Frost',de,Hazard,#577515,#477515,3,0.0403085285191455
@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eisregen',de,Hazard,#477515,#679515,1,0.0137822030056662
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0095451879313667
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0080723205315388
-'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.00049630694952675
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0004963069495267
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0004089667110041
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,2.452101712608086e-05
