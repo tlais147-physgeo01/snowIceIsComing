@@ -14,7 +14,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Schneefallgrenze',de,Hazard,#a32a3f,#d32f2f,1,0.016856863269274
 'Eisregen',de,Hazard,#477515,#679515,1,0.0137822030056662
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0080723205315388
-'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.006097837125850455
+'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0060978371258504
 'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.0004963069495267
-'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0002511566813952
+'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.00021348317918592002
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,1.2800124196171244e-05
