@@ -15,6 +15,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Eisregen',de,Hazard,#477515,#679515,1,0.0137822030056662
 'überfrierende Nässe',de,Hazard,#479515,#477515,1,0.0080723205315388
 'Spätfrost',de,Hazard,#c32a2f,#d32f2f,1,0.0037448342249127
-'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.00050859677103296
+'Frosttage',de,Hazard,#d32a3f,#d32f2f,1,0.000582322255377965
 'Eistage',de,Hazard,#c32c4f,#d32f2f,1,0.0002134831791859
 'Schneedeckentage',de,Hazard,#b32b3f,#d32f2f,1,7.860876271973664e-06
